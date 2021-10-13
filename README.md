@@ -1,2 +1,3 @@
 # chrisglein.github.io
-Static GitHub pages
+
+github-dashboard is sourced from [react-native-github-dashboard](https://github.com/chrisglein/react-native-github-dashboard)
