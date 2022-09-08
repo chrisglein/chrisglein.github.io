@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/games/static/css/main.4ca28c2d.chunk.css",
+    "main.js": "/games/static/js/main.33a4d39a.chunk.js",
+    "main.js.map": "/games/static/js/main.33a4d39a.chunk.js.map",
+    "runtime~main.js": "/games/static/js/runtime~main.ccf7e7e0.js",
+    "runtime~main.js.map": "/games/static/js/runtime~main.ccf7e7e0.js.map",
+    "static/js/2.b36b40af.chunk.js": "/games/static/js/2.b36b40af.chunk.js",
+    "static/js/2.b36b40af.chunk.js.map": "/games/static/js/2.b36b40af.chunk.js.map",
+    "index.html": "/games/index.html",
+    "precache-manifest.796bcfc0b0483f22b3cc1634f0a150fd.js": "/games/precache-manifest.796bcfc0b0483f22b3cc1634f0a150fd.js",
+    "service-worker.js": "/games/service-worker.js",
+    "static/css/main.4ca28c2d.chunk.css.map": "/games/static/css/main.4ca28c2d.chunk.css.map",
+    "static/media/index_Deeper.jpg": "/games/static/media/index_Deeper.24f2a7f2.jpg",
+    "static/media/index_DegreesOfDarkness.jpg": "/games/static/media/index_DegreesOfDarkness.ec65e402.jpg",
+    "static/media/index_DragonFamily.jpg": "/games/static/media/index_DragonFamily.b99e6a83.jpg",
+    "static/media/index_FridgeFeast.jpg": "/games/static/media/index_FridgeFeast.cf92c612.jpg",
+    "static/media/index_Heist.jpg": "/games/static/media/index_Heist.5ae18e2d.jpg",
+    "static/media/index_HeroesBeware.jpg": "/games/static/media/index_HeroesBeware.82b7abb9.jpg",
+    "static/media/index_PixelPusher.jpg": "/games/static/media/index_PixelPusher.20a741b4.jpg",
+    "static/media/index_PodRacer.jpg": "/games/static/media/index_PodRacer.ffb10f79.jpg",
+    "static/media/index_RumRunner.jpg": "/games/static/media/index_RumRunner.175a6bc0.jpg",
+    "static/media/index_Slither.jpg": "/games/static/media/index_Slither.c836b397.jpg",
+    "static/media/index_Undiscovered.jpg": "/games/static/media/index_Undiscovered.d3d9b14e.jpg"
+  }
+}
