@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "01faceba15c089a2e515a3a1c58b9c53",
+    "revision": "ed52758740a671616ac68e9c45eec46f",
     "url": "/games/index.html"
   },
   {
-    "revision": "d310cb04d79183e58151",
-    "url": "/games/static/css/main.f10034fb.chunk.css"
+    "revision": "7c39890c38d47c4f3032",
+    "url": "/games/static/css/main.ee3966a0.chunk.css"
   },
   {
-    "revision": "e390c54192b20c53e804",
-    "url": "/games/static/js/2.b36b40af.chunk.js"
+    "revision": "c4361055fc9e088f699f",
+    "url": "/games/static/js/2.f13fc5d5.chunk.js"
   },
   {
-    "revision": "d310cb04d79183e58151",
-    "url": "/games/static/js/main.f664e34b.chunk.js"
+    "revision": "7c39890c38d47c4f3032",
+    "url": "/games/static/js/main.7b8b12e3.chunk.js"
   },
   {
     "revision": "bd248bff26a526f6018b",
     "url": "/games/static/js/runtime~main.ccf7e7e0.js"
   },
   {
-    "revision": "24f2a7f24bd570e6cc24e94e35c4ebf4",
-    "url": "/games/static/media/index_Deeper.24f2a7f2.jpg"
+    "revision": "1118e20b343b4d5e381a427fc123fc14",
+    "url": "/games/static/media/index_ArkShip.1118e20b.jpg"
   },
   {
-    "revision": "ec65e402ded8b194b14b7d453a43938f",
-    "url": "/games/static/media/index_DegreesOfDarkness.ec65e402.jpg"
+    "revision": "08d8b2ceaef508986af9e80e97806459",
+    "url": "/games/static/media/index_Deeper.08d8b2ce.jpg"
+  },
+  {
+    "revision": "c2a9b531eee8dbc8d905216ddaa635cb",
+    "url": "/games/static/media/index_DegreesOfDarkness.c2a9b531.jpg"
   },
   {
     "revision": "b99e6a83fdb71ce976d51e38065671f4",
@@ -60,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/games/static/media/index_Slither.c836b397.jpg"
   },
   {
-    "revision": "d3d9b14e07a6b9103726d3f6050acb0e",
-    "url": "/games/static/media/index_Undiscovered.d3d9b14e.jpg"
+    "revision": "4a7ab0750b2bbce4ec765eab2b1a7105",
+    "url": "/games/static/media/index_Undiscovered.4a7ab075.jpg"
   }
 ]);
