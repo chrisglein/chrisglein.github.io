@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img.card {
+  clip-path: inset(5px round 0.5em);
+}
