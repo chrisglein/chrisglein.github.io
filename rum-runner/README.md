@@ -345,7 +345,7 @@ As that there are no more crew on that "Longboat", it is no longer considered pa
 <table class="noBorder">
 <tr>
 <td style="vertical-align: middle;">There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's "Light Rum". The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the "Sloop", and keeps the "Light Rum" card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.</td>
-<td width="150px"><image src="rulebook/rum_example1.png" width="150px" height="250px"/></td>
+<td width="150px"><image class="card" src="rulebook/rum_example1.png" width="150px" height="250px"/></td>
 </tr>
 </table>
 
