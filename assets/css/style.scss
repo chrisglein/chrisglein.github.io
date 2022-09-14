@@ -15,6 +15,10 @@ table img {
   -webkit-box-shadow: initial
 }
 
+table.noBorder {
+  border: initial;
+}
+
 table.noBorder td {
   border: initial;
 }
