@@ -243,7 +243,7 @@ When all face-up hazards have been resolved and the raid was not stopped the rai
 <tr><th colspan="2">Example</th></tr>
 <tr>
 <td width="250px"><img class="card" src="rulebook/hazard.png" width="250px" height="150px"/></td>
-<td>This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.</td>
+<td style="vertical-align: middle;">This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.</td>
 </tr>
 </table>
 
@@ -267,7 +267,7 @@ Then trash the card (unless prevented by the raid effect text).
 <tr><th colspan="2">Example</th></tr>
 <tr>
 <td width="150px"><img class="card" src="rulebook/investment.png" width="150px" height="250px"/></td>
-<td>The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.</td>
+<td style="vertical-align: middle;">The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.</td>
 </tr>
 </table>
 
@@ -327,7 +327,7 @@ The crown reviews the raiding party of 2 ships, noting they can muster 2 navigat
 <table>
 <tr>
 <td width="250px"><img class="card" src="rulebook/hazard_example1.png" width="250px" height="150px"/></td>
-<td>Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, "Privateers". This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing "Peg-Leg Paul" to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).</td>
+<td style="vertical-align: middle;">Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, "Privateers". This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing "Peg-Leg Paul" to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).</td>
 </tr>
 </table>
 
@@ -337,14 +337,14 @@ As that there are no more crew on that "Longboat", it is no longer considered pa
 <table>
 <tr>
 <td width="250px"><img class="card" src="rulebook/hazard_example2.png" width="250px" height="150px"/></td>
-<td>The raiding party now moves onto "Port Taxes". As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.</td>
+<td style="vertical-align: middle;">The raiding party now moves onto "Port Taxes". As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.</td>
 </tr>
 </table>
 
 
 <table>
 <tr>
-<td>There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's "Light Rum". The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the "Sloop", and keeps the "Light Rum" card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.</td>
+<td style="vertical-align: middle;">There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's "Light Rum". The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the "Sloop", and keeps the "Light Rum" card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.</td>
 <td width="150px"><image src="rulebook/rum_example1.png" width="150px" height="250px"/></td>
 </tr>
 </table>
