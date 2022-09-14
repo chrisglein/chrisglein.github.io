@@ -45,7 +45,7 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 
 # TERMS & ICONOGRAPHY
 <table>
-<tr><td>Icon</td><td>Meaning</td><td width="20px"></td><td>Icon</td><td>Card Type</td></tr>
+<tr><th>Icon</th><th>Meaning</th><th width="20px"></th><th>Icon</th><th>Card Type</th></tr>
 <tr><td>👑</td><td>Crown</td><td></td><td>📜</td><td>Event card</td></tr>
 <tr><td>💀</td><td>Pirate</td><td></td><td>🍾</td><td>Investment card</td></tr>
 <tr><td>🟡</td><td>Coin</td><td></td><td>🌊</td><td>Hazard card</td></tr>
@@ -87,7 +87,7 @@ At the start the crown's turn they may flip any face-down investment cards that 
 - The text at the bottom of an investment card is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
 
 <table>
-<tr><td colspan="2">Example</td></tr>
+<tr><th colspan="2">Example</th></tr>
 <tr>
 <td width="150px"><img class="card" src="rulebook/rum.png" width="150px" height="250px"/></td>
 <td>This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.</td>
@@ -98,7 +98,7 @@ At the start the crown's turn they may flip any face-down investment cards that 
 At the start of the pirate's turn they remove 1 🟡 from each ship ⚓ in play (returning the 🟡 to the bank).
 
 <table>
-<tr><td colspan="2">Example</td></tr>
+<tr><th colspan="2">Example</th></tr>
 <tr>
 <td width="250px"><img class="card" src="rulebook/ship.png" width="250px" height="150px"/></td>
 <td>If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return to the bank, leaving 2 🟡 still on the ship.</td>
@@ -240,7 +240,7 @@ If the raid has not been stopped this process continues with the next face-up ha
 When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
 
 <table>
-<tr><td colspan="2">Example</td></tr>
+<tr><th colspan="2">Example</th></tr>
 <tr>
 <td width="250px"><img class="card" src="rulebook/hazard.png" width="250px" height="150px"/></td>
 <td>This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.</td>
@@ -264,7 +264,7 @@ Then trash the card (unless prevented by the raid effect text).
 - Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as raid effects on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
 
 <table>
-<tr><td colspan="2">Example</td></tr>
+<tr><th colspan="2">Example</th></tr>
 <tr>
 <td width="150px"><img class="card" src="rulebook/investment.png" width="150px" height="250px"/></td>
 <td>The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.</td>
@@ -277,7 +277,7 @@ After a raid has ended, whether successful or not, execute the game text of all 
 - Any other effects that trigger off a successful raid (such as that of "Treasure Map") happen after all crew effects.
 
 <table>
-<tr><td>Crew effect</td><td>Event effect</td></tr>
+<tr><th>Crew effect</th><th>Event effect</th></tr>
 <tr>
 <td width="150px"><img class="card" src="rulebook/crew.png" width="150px" height="250px"/></td>
 <td width="150px"><img class="card" src="rulebook/eventPirate.png" width="150px" height="250px"/></td>

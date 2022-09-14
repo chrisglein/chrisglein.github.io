@@ -4,5 +4,13 @@
 @import "{{ site.theme }}";
 
 img.card {
-  clip-path: inset(5px round 0.5em);
+  clip-path: inset(10px round 0.5em);
+  max-width: 250px;
+  max-height: 250px;
+}
+
+table img {
+  border: initial;
+  box-shadow: initial;
+  -webkit-box-shadow: initial
 }
