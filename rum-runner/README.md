@@ -8,11 +8,11 @@ The *Pirate* player will assemble ships and crew. These will hopefully raid thei
 # COMPONENTS
 <table class="noBorder">
 <tr><td width="150px"><img class="card" src="rulebook/crownCard.png"/></td><td width="150px"><img class="card" src="rulebook/crownRules.png"/></td><td width="150px"><img class="card" src="rulebook/startingHazard.png"/></td><td width="150px"><img class="card" src="rulebook/island.png"/></td></tr>
-<tr><td width="170px">38 crown cards:<br>- 13 investments 🍾<br>- 11 hazards 🌊<br>- 3 events 📜</td><td width="170px">1 crown rules summary</td><td width="170px">4 starting hazards 🌊</td><td width="170px">4 islands 🏝️</td></tr>
+<tr><td class="componentDescription">38 crown cards:<br>- 13 investments 🍾<br>- 11 hazards 🌊<br>- 3 events 📜</td><td class="componentDescription">1 crown rules summary</td><td class="componentDescription">4 starting hazards 🌊</td><td class="componentDescription">4 islands 🏝️</td></tr>
 <tr><td><img class="card" src="rulebook/pirateCard.png"/></td><td><img class="card" src="rulebook/pirateRules.png"/></td><td><img class="card" src="rulebook/startingShip.png"/></td><td></td></tr>
-<tr><td>25 pirate cards:<br>- 6 ships ⚓<br>- 11 crew 🪝<br>- 5 events 📜</td><td>1 pirate rules summary</td><td>2 starting ships ⚓</td><td></td></tr>
+<tr><td class="componentDescription">25 pirate cards:<br>- 6 ships ⚓<br>- 11 crew 🪝<br>- 5 events 📜</td><td class="componentDescription">1 pirate rules summary</td><td class="componentDescription">2 starting ships ⚓</td><td></td></tr>
 <tr><td><img class="card" src="rulebook/pirateDecklist.png"/></td><td><img class="card" src="rulebook/actionCard.png"/></td><td><img src="rulebook/gold.png" width="50px" height="50px"/> </td><td></td></tr>
-<tr><td>2 decklist cards</td><td>3 action cards</td><td>40 coins 🟡</td><td></td></tr>
+<tr><td class="componentDescription">2 decklist cards</td><td class="componentDescription">3 action cards</td><td class="componentDescription">40 coins 🟡</td><td></td></tr>
 </table>
 
 # SETUP

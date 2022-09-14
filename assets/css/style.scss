@@ -24,3 +24,9 @@ table.noBorder td {
   border: initial;
   padding: 0px;
 }
+
+table.noBorder .componentDescription {
+  min-width: 170px;
+  margin-bottom: 20px;
+  vertical-align: top;
+}
