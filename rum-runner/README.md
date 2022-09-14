@@ -7,11 +7,11 @@ The *Pirate* player will assemble ships and crew. These will hopefully raid thei
 
 # COMPONENTS
 <table>
-<tr><td width="150px"><img src="rulebook/crownCard.png"/></td><td width="150px"><img src="rulebook/crownRules.png"/></td><td width="150px"><img src="rulebook/startingHazard.png"/></td><td width="150px"><img src="rulebook/island.png"/></td></tr>
+<tr><td width="150px"><img class="card" src="rulebook/crownCard.png"/></td><td width="150px"><img class="card" src="rulebook/crownRules.png"/></td><td width="150px"><img class="card" src="rulebook/startingHazard.png"/></td><td width="150px"><img class="card" src="rulebook/island.png"/></td></tr>
 <tr><td>38 crown cards:<br>- 13 investments 🍾<br>- 11 hazards 🌊<br>- 3 events 📜</td><td>1 crown rules summary</td><td>4 starting hazards 🌊</td><td>4 islands 🏝️</td></tr>
-<tr><td><img src="rulebook/pirateCard.png"/></td><td><img src="rulebook/pirateRules.png"/></td><td><img src="rulebook/startingShip.png"/></td><td></td></tr>
+<tr><td><img class="card" src="rulebook/pirateCard.png"/></td><td><img class="card" src="rulebook/pirateRules.png"/></td><td><img class="card" src="rulebook/startingShip.png"/></td><td></td></tr>
 <tr><td>25 pirate cards:<br>- 6 ships ⚓<br>- 11 crew 🪝<br>- 5 events 📜</td><td>1 pirate rules summary</td><td>2 starting ships ⚓</td><td></td></tr>
-<tr><td><img src="rulebook/pirateDecklist.png"/></td><td><img src="rulebook/actionCard.png"/></td><td><img src="rulebook/gold.png" width="50px" height="50px"/> </td><td></td></tr>
+<tr><td><img class="card" src="rulebook/pirateDecklist.png"/></td><td><img class="card" src="rulebook/actionCard.png"/></td><td><img src="rulebook/gold.png" width="50px" height="50px"/> </td><td></td></tr>
 <tr><td>2 decklist cards</td><td>3 action cards</td><td>40 coins 🟡</td><td></td></tr>
 </table>
 
@@ -88,7 +88,7 @@ At the start the crown's turn they may flip any face-down investment cards that 
 <table>
 <tr><td colspan="2">Example</td></tr>
 <tr>
-<td width="150px"><img src="rulebook/rum.png" width="150px" height="250px"/></td>
+<td width="150px"><img class="card" src="rulebook/rum.png" width="150px" height="250px"/></td>
 <td>This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.</td>
 </tr>
 </table>
@@ -99,7 +99,7 @@ At the start of the pirate's turn they remove 1 🟡 from each ship ⚓ in play 
 <table>
 <tr><td colspan="2">Example</td></tr>
 <tr>
-<td width="250px"><img src="rulebook/ship.png" width="250px" height="150px"/></td>
+<td width="250px"><img class="card" src="rulebook/ship.png" width="250px" height="150px"/></td>
 <td>If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return to the bank, leaving 2 🟡 still on the ship.</td>
 </tr>
 </table>
@@ -241,7 +241,7 @@ When all face-up hazards have been resolved and the raid was not stopped the rai
 <table>
 <tr><td colspan="2">Example</td></tr>
 <tr>
-<td width="250px"><img src="rulebook/hazard.png" width="250px" height="150px"/></td>
+<td width="250px"><img class="card" src="rulebook/hazard.png" width="250px" height="150px"/></td>
 <td>This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.</td>
 </tr>
 </table>
@@ -265,7 +265,7 @@ Then trash the card (unless prevented by the raid effect text).
 <table>
 <tr><td colspan="2">Example</td></tr>
 <tr>
-<td width="150px"><img src="rulebook/investment.png" width="150px" height="250px"/></td>
+<td width="150px"><img class="card" src="rulebook/investment.png" width="150px" height="250px"/></td>
 <td>The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.</td>
 </tr>
 </table>
@@ -278,8 +278,8 @@ After a raid has ended, whether successful or not, execute the game text of all 
 <table>
 <tr><td>Crew effect</td><td>Event effect</td></tr>
 <tr>
-<td width="150px"><img src="rulebook/crew.png" width="150px" height="250px"/></td>
-<td width="150px"><img src="rulebook/eventPirate.png" width="150px" height="250px"/></td>
+<td width="150px"><img class="card" src="rulebook/crew.png" width="150px" height="250px"/></td>
+<td width="150px"><img class="card" src="rulebook/eventPirate.png" width="150px" height="250px"/></td>
 </tr>
 </table>
 
@@ -325,7 +325,7 @@ The crown reviews the raiding party of 2 ships, noting they can muster 2 navigat
 
 <table>
 <tr>
-<td width="250px"><img src="rulebook/hazard_example1.png" width="250px" height="150px"/></td>
+<td width="250px"><img class="card" src="rulebook/hazard_example1.png" width="250px" height="150px"/></td>
 <td>Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, "Privateers". This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing "Peg-Leg Paul" to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).</td>
 </tr>
 </table>
@@ -335,7 +335,7 @@ As that there are no more crew on that "Longboat", it is no longer considered pa
 
 <table>
 <tr>
-<td width="250px"><img src="rulebook/hazard_example2.png" width="250px" height="150px"/></td>
+<td width="250px"><img class="card" src="rulebook/hazard_example2.png" width="250px" height="150px"/></td>
 <td>The raiding party now moves onto "Port Taxes". As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.</td>
 </tr>
 </table>
