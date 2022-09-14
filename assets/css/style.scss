@@ -14,3 +14,7 @@ table img {
   box-shadow: initial;
   -webkit-box-shadow: initial
 }
+
+table.noBorder td {
+  border: initial;
+}
