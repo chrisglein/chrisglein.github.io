@@ -5,7 +5,7 @@ plugins:
 defaults:
   -
     scope:
-      path: "rum-runner"
+      path: "rum-runner/*"
     values:
       title: "Rum Runner"
       description: "Rulebook"
