@@ -44,14 +44,15 @@ The two players play differently.
 There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards.
 
 # TERMS & ICONOGRAPHY
-| Icon | Meaning | | Icon | Card Type |
-| --- | --- | --- | --- | --- |
-| 👑 | Crown | | 📜 | Event card |
-| 💀 | Pirate | | 🍾 | Investment card |
-| 🟡 | Coin | | 🌊 | Hazard card |
-| 🧭 | Navigation skill | | 🏝️ | Island card |
-| ⚔ | Combat skill | | ⚓ | Ship card |
-| ⭐ | Victory point | | 🪝 | Crew card |
+<table>
+<tr><td>Icon</td><td>Meaning</td><td width="20px"></td><td>Icon</td><td>Card Type</td></tr>
+<tr><td>👑</td><td>Crown</td><td></td><td>📜</td><td>Event card</td></tr>
+<tr><td>💀</td><td>Pirate</td><td></td><td>🍾</td><td>Investment card</td></tr>
+<tr><td>🟡</td><td>Coin</td><td></td><td>🌊</td><td>Hazard card</td></tr>
+<tr><td>🧭</td><td>Navigation skill</td><td></td><td>🏝️</td><td>Island card</td></tr>
+<tr><td>⚔</td><td>Combat skill</td><td></td><td>⚓</td><td>Ship card</td></tr>
+<tr><td>⭐</td><td>Victory point</td><td></td><td>🪝</td><td>Crew card</td></tr>
+</table>
 
 ### "Add" versus "Pay"
 Some game text will ask you to +1🟡. When "adding" 🟡 to cards in this way, those come from the bank.
