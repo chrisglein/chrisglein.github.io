@@ -1,9 +1,8 @@
 ---
-title: Rum Runner
+title: RUM RUNNER
 description: Rulebook
-permalink: /rum-runner/rules/
 ---
-# RUM RUNNER
+# SUMMARY
 It's the Age of Sail! The Crown is distilling rum on colonized islands for enormous profit. Meanwhile pirates intend to sail in, steal that rum, and drink it all. These two factions (*Crown* 👑 and *Pirate* 💀) play their conflict out over a two player asymmetric card game. Each player has a deck, a hand of cards, coins, and a menu of 3 actions to choose from each turn. But what each does from there varies substantially.
 
 The *Crown* player will work in secret, laying traps and pushing for an economic victory. They score rum by founding it on an island and investing coins into it over time. They protect that investment by placing hazards in front of the island face-down. When the Pirate player tries to raid that island the Crown can decide to spend their coin to raise those hazards against the Pirate, stopping them or making them pay a terrible price. The Crown may alternatively place traps or economic investments on their islands, luring the Pirate to certain doom or increasing the momentum of the Crown's victory. If the Crown manages to hold out and score four points of rum, they win the game.
