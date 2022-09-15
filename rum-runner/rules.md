@@ -95,7 +95,7 @@ At the start the crown's turn they may flip any face-down investment cards that 
 <tr>
 <td style="min-height: 250px;">
 <img class="card" src="rulebook/rum.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
-This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.</td>
+This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.
 </td>
 </tr>
 </table>
