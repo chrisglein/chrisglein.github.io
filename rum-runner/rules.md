@@ -107,7 +107,7 @@ At the start of the pirate's turn they remove 1 🟡 from each ship ⚓ in play 
 <tr><th colspan="2">Example</th></tr>
 <tr>
 <td style="min-height: 150px;">
-<img class="card" src="rulebook/ship.png" width="250px" height="150px" style="float: left; margin-right: 0px;"/>
+<img class="card" src="rulebook/ship.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
 If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return to the bank, leaving 2 🟡 still on the ship.
 </td>
 </tr>
@@ -276,8 +276,9 @@ Then trash the card (unless prevented by the raid effect text).
 <table>
 <tr><th colspan="2">Example</th></tr>
 <tr>
-<td width="150px"><img class="card" src="rulebook/investment.png" width="150px" height="250px"/></td>
-<td style="vertical-align: middle;">The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.</td>
+<td style="min-height: 250px;"><img class="card" src="rulebook/investment.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
+The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.
+</td>
 </tr>
 </table>
 
