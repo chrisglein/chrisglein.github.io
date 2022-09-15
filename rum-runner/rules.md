@@ -58,14 +58,14 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
 </table>
 
-### "Add" versus "Pay"
-Some game text will ask you to +1🟡. When "adding" 🟡 to cards in this way, those come from the bank.
+### Coins: "Add", "Pay", and "Remove"
+Some game text will ask you to +1🟡 a card. To **add** 🟡 to cards in this way, take coins from the bank and place them on top of the card.
 
-Other text will ask you to pay 🟡. When "paying" 🟡 those must come from your personal supply. 
+Other text will ask you to **pay** 🟡. To pay 🟡, those coins must come from your personal supply. 
 
-If you are asked to "remove" 🟡 those must always be returned to the bank. 
+If you are asked to **remove** 🟡 those coins are removed from the card and returned to the bank. 
 
-### "Trash" and "Discard"
+### Cards: "Trash" and "Discard"
 To **trash** a card place it in the owner's face-up discard pile. If there were any 🟡 on it, those are returned to the bank.
 
 To **discard** a card take a card of your hand and place it in your face-up discard pile.
