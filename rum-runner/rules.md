@@ -93,8 +93,10 @@ At the start the crown's turn they may flip any face-down investment cards that 
 <table>
 <tr><th colspan="2">Example</th></tr>
 <tr>
-<td width="150px"><img class="card" src="rulebook/rum.png" width="150px" height="250px"/></td>
-<td style="vertical-align: middle;">This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.</td>
+<td style="min-height: 250px;">
+<img class="card" src="rulebook/rum.png" width="150px" height="250px" style="float: left; margin-right: 20px;"/>
+This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.</td>
+</td>
 </tr>
 </table>
 
@@ -104,8 +106,10 @@ At the start of the pirate's turn they remove 1 🟡 from each ship ⚓ in play 
 <table>
 <tr><th colspan="2">Example</th></tr>
 <tr>
-<td width="250px"><img class="card" src="rulebook/ship.png" width="250px" height="150px"/></td>
-<td style="vertical-align: middle;">If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return to the bank, leaving 2 🟡 still on the ship.</td>
+<td style="min-height: 150px;">
+<img class="card" src="rulebook/ship.png" width="250px" height="150px" style="float: left; margin-right: 20px;"/>
+If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return to the bank, leaving 2 🟡 still on the ship.
+</td>
 </tr>
 </table>
 
@@ -246,8 +250,10 @@ When all face-up hazards have been resolved and the raid was not stopped the rai
 <table>
 <tr><th colspan="2">Example</th></tr>
 <tr>
-<td width="250px"><img class="card" src="rulebook/hazard.png" width="250px" height="150px"/></td>
-<td style="vertical-align: middle;">This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.</td>
+<td style="min-height: 150px;">
+<img class="card" src="rulebook/hazard.png" width="250px" height="150px" style="float: left; margin-right: 20px;"/>
+This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.
+</td>
 </tr>
 </table>
 
@@ -328,23 +334,23 @@ The investment face-down on "Privateer Point" is "Light Rum", and has 2 on it �
 
 The crown reviews the raiding party of 2 ships, noting they can muster 2 navigation 🧭 (from the "Sloop" and from "Cuthroat Carlie") and 1 combat ⚔️ (from "Doug Doubloon"). They decide to raise the "Privateers" hazard, spending its 1 🟡 cost to the bank and flipping the card face-up. They pay 2 additional 🟡 from their supply and place them on the now face-up hazard. The crown could also raise "Reef" at this point, but they decide not to (known that this raiding party could bypass it).
 
-<div style="min-height: 150px;">
+<p style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example1.png" width="250px" height="150px" style="float: left; margin-right: 20px;"/>
 Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, "Privateers". This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing "Peg-Leg Paul" to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).
-</div>
+</p>
 
 As that there are no more crew on that "Longboat", it is no longer considered part of the raiding party, leaving the "Sloop" to continue on alone. The next hazard would be the "Reef", but it's face-down so it's skipped.
 
 
-<div style="min-height: 150px;">
+<p style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example2.png" width="250px" height="150px" style="float: left; margin-right: 20px;"/>
 The raiding party now moves onto "Port Taxes". As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.
-</div>
+</p>
 
-<div style="min-height: 250px;">
+<p style="min-height: 250px;">
 <img class="card" src="rulebook/rum_example1.png" width="150px" height="250px" style="float: right; margin-left: 20px;"/>
 There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's "Light Rum". The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the "Sloop", and keeps the "Light Rum" card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.
-</div>
+</p>
 
 Finally, the pirate triggers their crew 🪝 effects. They choose to resolve "Doug Doubloon"'s effect first, drawing 1 card. Secondly, they resolve "Cutthroat Carlie"'s ability and move 1 🟡 from the "Brigantine" to the "Longboat".
 
