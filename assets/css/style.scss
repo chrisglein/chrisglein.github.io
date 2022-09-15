@@ -40,7 +40,10 @@ table.components td.componentDescription {
     max-width: 100px;
   }
   table.components td.componentDescription {
-      background-color: lightgray;
       min-width: initial;
+      max-width: 120px;
+  }
+  table.components img.card {
+    max-width: 80px;
   }
 }
