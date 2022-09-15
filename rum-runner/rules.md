@@ -3,7 +3,7 @@ title: RUM RUNNER
 description: Rulebook
 ---
 # SUMMARY
-It's the Age of Sail! The Crown is distilling rum on colonized islands for enormous profit. Meanwhile pirates intend to sail in, steal that rum, and drink it all. These two factions (*Crown* 👑 and *Pirate* 💀) play their conflict out over a two player asymmetric card game. Each player has a deck, a hand of cards, coins, and a menu of 3 actions to choose from each turn. But what each does from there varies substantially.
+It's the Age of Sail! The Crown is distilling rum on colonized islands for enormous profit. Meanwhile pirates intend to sail in, steal that rum, and drink it all. These two factions (*Crown* 👑 and *Pirate* ☠️) play their conflict out over a two player asymmetric card game. Each player has a deck, a hand of cards, coins, and a menu of 3 actions to choose from each turn. But what each does from there varies substantially.
 
 The *Crown* player will work in secret, laying traps and pushing for an economic victory. They score rum by founding it on an island and investing coins into it over time. They protect that investment by placing hazards in front of the island face-down. When the Pirate player tries to raid that island the Crown can decide to spend their coin to raise those hazards against the Pirate, stopping them or making them pay a terrible price. The Crown may alternatively place traps or economic investments on their islands, luring the Pirate to certain doom or increasing the momentum of the Crown's victory. If the Crown manages to hold out and score four points of rum, they win the game.
 
@@ -21,7 +21,7 @@ The *Pirate* player will assemble ships and crew. These will hopefully raid thei
 
 # SETUP
 1. Place the coins 🟡 somewhere in reach of both players. This is the bank.
-1. Determine who will play the **crown** 👑 and who will play the **pirate** 💀. To assign randomly you can flip a coin or randomly assign the rules reminder cards.
+1. Determine who will play the **crown** 👑 and who will play the **pirate** ☠️. To assign randomly you can flip a coin or randomly assign the rules reminder cards.
 
 ## CROWN 👑
 1. Take the 4 island 🏝️ cards (including *Home Port*) and play them in front of you in a row.
@@ -30,8 +30,8 @@ The *Pirate* player will assemble ships and crew. These will hopefully raid thei
 1. Take 5 🟡 to start your personal supply.
 1. Draw a hand of 5 cards from your deck.
 
-## PIRATE 💀
-1. Find the 2 starting ship cards ⚓ (they will have a 💀 icon on them) and play them front of you.
+## PIRATE ☠️
+1. Find the 2 starting ship cards ⚓ (they will have a ☠️ icon on them) and play them front of you.
 1. Shuffle the pirate cards into a face-down deck. Leave room near the deck for a face-up discard pile.
 1. Take 5 🟡 to start your personal supply.
 1. Draw a hand of 5 cards from your deck.
@@ -43,7 +43,7 @@ Both players want **rum**. The crown wins if they **fund** 4 points ⭐ worth of
 
 The two players play differently.
 - The crown 👑 will primarily play cards face-down as information hidden from the pirate. The crown will start **investments** (including rum) across their various islands and raise **hazards** to defend them.
-- The pirate 💀 will play their cards face-up. They will buy **ships** and hire **crew** that together will raid the crown's islands in hopes of finding rum.
+- The pirate ☠️ will play their cards face-up. They will buy **ships** and hire **crew** that together will raid the crown's islands in hopes of finding rum.
 
 There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards.
 
@@ -51,7 +51,7 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <table class="splitTable">
 <tr><th>Icon</th><th>Meaning</th><th class="splitColumn" width="20px"></th><th>Icon</th><th>Card Type</th></tr>
 <tr><td>👑</td><td>Crown</td><td class="splitColumn"></td><td>📜</td><td>Event card</td></tr>
-<tr><td>💀</td><td>Pirate</td><td class="splitColumn"></td><td>🍾</td><td>Investment card</td></tr>
+<tr><td>☠️</td><td>Pirate</td><td class="splitColumn"></td><td>🍾</td><td>Investment card</td></tr>
 <tr><td>🟡</td><td>Coin</td><td class="splitColumn"></td><td>🌊</td><td>Hazard card</td></tr>
 <tr><td>🧭</td><td>Navigation skill</td><td class="splitColumn"></td><td>🏝️</td><td>Island card</td></tr>
 <tr><td>⚔</td><td>Combat skill</td><td class="splitColumn"></td><td>⚓</td><td>Ship card</td></tr>
@@ -76,7 +76,7 @@ Each player alternates taking turns, with the crown always taking the first turn
 The turn phases are as follows:
 - Upkeep
   - (👑) Reveal funded investments
-  - (💀) Ready ships
+  - (☠️) Ready ships
 - Take 3 actions
 - End of turn
 
@@ -100,7 +100,7 @@ This investment requires 3 🟡 on it to be funded. When revealed as funded it w
 </tr>
 </table>
 
-### (💀) Ready ships
+### (☠️) Ready ships
 At the start of the pirate's turn they remove 1 🟡 from each ship ⚓ in play (returning the 🟡 to the bank).
 
 <table>
@@ -116,7 +116,7 @@ If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return 
 ## ACTIONS
 The rest of your turn (whether crown or pirate) functions largely the same. You will take 3 **actions**. Some of the available actions are shared, while some are only for the crown and some are only for the pirate.
 
-| Crown (👑) | Pirate (💀) | Action |
+| Crown (👑) | Pirate (☠️) | Action |
 | --- | --- | --- |
 | ✔ | ✔ | Gain coins 🟡 |
 | ✔ | ✔ | Draw |
@@ -133,7 +133,7 @@ You make take the same action type multiple times, and you make take actions in 
 
 | Example | |
 | --- | --- |
-| On their turn the 💀 player chooses these 3 actions:<br>1. Draw<br>2. Gain coins 🟡<br>3. Raid | On their turn the 👑 player chooses these 3 actions:<br>1. Gain coins 🟡<br>2. Invest<br>3. Gain coins 🟡 |
+| On their turn the ☠️ player chooses these 3 actions:<br>1. Draw<br>2. Gain coins 🟡<br>3. Raid | On their turn the 👑 player chooses these 3 actions:<br>1. Gain coins 🟡<br>2. Invest<br>3. Gain coins 🟡 |
 
 ### Gain coins
 Take 2 🟡 from the bank and add it to your supply.
@@ -168,10 +168,10 @@ Pay any number of 🟡 from your supply. Add a single 🟡 to the same number of
 - This means that for each investment action you can place 🟡 on as many cards as you like, but a maximum of one 🟡 per card.
 - You may only place 🟡 on your own cards.
 
-### (💀) Play a ship
+### (☠️) Play a ship
 Play a ship ⚓ card from your hand in front of you. You must pay its 🟡 cost (shown in the top left) from your supply to the bank.
 
-### (💀) Play crew
+### (☠️) Play crew
 Play any number of crew 🪝 cards from your hand into available slots on ships ⚓ in play. For each crew card you play must pay its 🟡 cost (shown in the top left) from your supply to the bank.
 - Each ship has a fixed number of crew slots. You may not add a pirate to a ship if all of its slots are filled.
 
@@ -180,7 +180,7 @@ You may also rearrange your crew 🪝 in play between crew slots on ships ⚓ in
 - You may take this action to rearrange crew even if you play no new crew.
 - You may rearrange or recall crew before playing new crew (e.g. to open up a slot on a ship).
 
-### (💀) Raid
+### (☠️) Raid
 The details of how a raid works are covered below in "The Raid" section.
 
 ## END OF TURN
@@ -195,7 +195,7 @@ If you have more than 5 cards in your hand, discard 1 card from your hand into y
 ### When your deck runs out
 (👑) When the crown's deck runs out, that's it. They must make do with the cards in their hand and already in play. However *Home Port* is now available for playing investments, just like other islands.
 
-(💀) When the pirate's deck runs out, nothing happens until they need to draw more cards. As soon as the pirate needs to draw 1 or more cards then they flip their discard pile face-down, shuffle it, and form a new draw deck. After doing so they remove the top 5 cards of their deck from the game (return to the game box). Then (if any cards remain), they resume drawing cards.
+(☠️) When the pirate's deck runs out, nothing happens until they need to draw more cards. As soon as the pirate needs to draw 1 or more cards then they flip their discard pile face-down, shuffle it, and form a new draw deck. After doing so they remove the top 5 cards of their deck from the game (return to the game box). Then (if any cards remain), they resume drawing cards.
 - Both players may look at the cards that were removed from the game.
 - If there were fewer than 5 cards, remove as many as there were available.
 
@@ -205,17 +205,17 @@ At the center of the game is the act of the pirate raiding the crown's islands. 
 Generally, a raid is started by the pirate taking an action to do so, although there are event cards that will also start a raid as part of their action (e.g. "Treasure Map").
 
 The steps to resolve a raid are as follows:
-1. (💀) Choose a target island
-1. (💀) Form the raiding party
+1. (☠️) Choose a target island
+1. (☠️) Form the raiding party
 1. (👑) Raise hazards
-1. (💀) Face hazards
-1. (💀) Raid the island
-1. (💀) Trigger crew effects
+1. (☠️) Face hazards
+1. (☠️) Raid the island
+1. (☠️) Trigger crew effects
 
-## 1. (💀) CHOOSE A TARGET ISLAND
+## 1. (☠️) CHOOSE A TARGET ISLAND
 The pirate chooses and announces one of the crown's islands as the target for the raid.
 
-## 2. (💀) FORM THE RAIDING PARTY
+## 2. (☠️) FORM THE RAIDING PARTY
 The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate may not choose a ship that has any 🟡 on it, or a ship that has no crew 🪝 slotted into it. For each ship chosen the pirate must then place a 🟡 from their supply on the chosen ship.
 - The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
 
@@ -224,7 +224,7 @@ The crown can then raise any number of face-down hazards 🌊 that have been pla
 
 Immediately after flipping a card face-up the crown may add any additional 🟡 from their supply to the face-up hazard. The number of 🟡 on a hazard will generally affect how many uses that hazard has.
 
-## 4. (💀) FACE HAZARDS
+## 4. (☠️) FACE HAZARDS
 The pirate then encounters the face-up hazards 🌊 (if any) one at a time, starting with the furthest away from the island that is being raided.
 
 Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill any of these costs. If they can pay one, they must. If they cannot pay any then the pirates have failed the hazard and the raid will be unsuccessful.
@@ -257,7 +257,7 @@ This hazard may be overcome by either discarding 2 cards or by trashing a crew �
 </tr>
 </table>
 
-## 5. (💀) RAIDING THE ISLAND
+## 5. (☠️) RAIDING THE ISLAND
 If the raid was stopped, this step is skipped.
 
 - When raiding the *Home Port* island, the pirate will raid the top card of the crown’s deck. If *Home Port* has no cards on it then instead the pirate will raid a card chosen randomly from the crown’s hand. If there are no cards in the crown's hand then no card is raided (but the raid is still considered successful).
@@ -282,7 +282,7 @@ The raid text at the bottom of this card requires that the pirate pay 🟡 equal
 </tr>
 </table>
 
-## 6. (💀) TRIGGER CREW EFFECTS
+## 6. (☠️) TRIGGER CREW EFFECTS
 After a raid has ended, whether successful or not, execute the game text of all crew in the raiding party. If there are multiple crew the effects may be resolved in the order of the pirate's choosing.
 
 - Any other effects that trigger off a successful raid (such as that of "Treasure Map") happen after all crew effects.
@@ -361,7 +361,7 @@ Finally, the pirate triggers their crew 🪝 effects. They choose to resolve "Do
 
 # TIPS
 
-## Pirate (💀)
+## Pirate (☠️)
 - You aren't going to know what you're up against until it's too late. Thus is the pirate's life. You will often have to go with your gut rather than wait for perfect information.
 - Rum can't score unless there are 🟡 on it. And the higher point values require many 🟡. Knowing this will help you gauge whether you need to "all in" now, or whether you can afford to wait a turn.
 - It can be useful to have multiple ships for different purposes. One big powerful ship can generally only raid once per turn, so keep around something cheap and disposable to probe for information.
