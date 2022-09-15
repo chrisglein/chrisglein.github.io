@@ -1,7 +1,6 @@
 ---
-name: "Rum Runner"
-title: "Rum Runner"
-description: "Rulebook"
+title: Rum Runner
+description: Rulebook
 ---
 # RUM RUNNER
 It's the Age of Sail! The Crown is distilling rum on colonized islands for enormous profit. Meanwhile pirates intend to sail in, steal that rum, and drink it all. These two factions (*Crown* 👑 and *Pirate* 💀) play their conflict out over a two player asymmetric card game. Each player has a deck, a hand of cards, coins, and a menu of 3 actions to choose from each turn. But what each does from there varies substantially.
