@@ -30,3 +30,10 @@ table.noBorder .componentDescription {
   padding-bottom: 20px;
   vertical-align: top;
 }
+
+@media (max-width: 480px) {
+  table.noBorder .componentDescription {
+      background-color: lightgray;
+      min-width: initial;
+  }
+}
