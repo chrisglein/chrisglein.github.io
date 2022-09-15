@@ -25,6 +25,11 @@ table.noBorder td {
   padding: 0px;
 }
 
+table.components {
+  width: 100%;
+  table-layout: fixed;
+}
+
 table.components td {
   max-width: 150px;
 }
@@ -44,6 +49,6 @@ table.components td.componentDescription {
       max-width: 120px;
   }
   table.components img.card {
-    max-width: 80px;
+    max-width: unset;
   }
 }
