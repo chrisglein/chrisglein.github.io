@@ -52,7 +52,7 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <tr><th>Icon</th><th>Meaning</th><th class="splitColumn" width="20px"></th><th>Icon</th><th>Card Type</th></tr>
 <tr><td>👑</td><td>Crown</td><td class="splitColumn"></td><td>📜</td><td>Event card</td></tr>
 <tr><td>💀</td><td>Pirate</td><td class="splitColumn"></td><td>🍾</td><td>Investment card</td></tr>
-<tr><td>🟡</td><td>Coin</td><td></td class="splitColumn"><td>🌊</td><td>Hazard card</td></tr>
+<tr><td>🟡</td><td>Coin</td><td class="splitColumn"></td><td>🌊</td><td>Hazard card</td></tr>
 <tr><td>🧭</td><td>Navigation skill</td><td class="splitColumn"></td><td>🏝️</td><td>Island card</td></tr>
 <tr><td>⚔</td><td>Combat skill</td><td class="splitColumn"></td><td>⚓</td><td>Ship card</td></tr>
 <tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
