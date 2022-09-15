@@ -48,7 +48,7 @@ The two players play differently.
 There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards.
 
 # TERMS & ICONOGRAPHY
-<table id="iconography">
+<table class="iconography">
 <tr><th>Icon</th><th>Meaning</th><th width="20px"></th><th>Icon</th><th>Card Type</th></tr>
 <tr><td>👑</td><td>Crown</td><td></td><td>📜</td><td>Event card</td></tr>
 <tr><td>💀</td><td>Pirate</td><td></td><td>🍾</td><td>Investment card</td></tr>

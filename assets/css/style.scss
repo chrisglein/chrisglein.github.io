@@ -44,16 +44,16 @@ table.components td.componentDescription {
   vertical-align: top;
 }
 
-table#iconography {
+table.iconography {
   border: none;
 }
 
-table#iconography th:nth-child(3) {
+table.iconography th:nth-child(3) {
   border-left: 1px solid #373737;
   border-right: 1px solid #373737;
 }
 
-table#iconography td:nth-child(3) {
+table.iconography td:nth-child(3) {
   border: none;
 }
 
