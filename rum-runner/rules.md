@@ -1,4 +1,5 @@
 ---
+name: "Rum Runner"
 title: "Rum Runner"
 description: "Rulebook"
 ---
