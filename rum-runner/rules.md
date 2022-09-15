@@ -10,8 +10,8 @@ The *Crown* player will work in secret, laying traps and pushing for an economic
 The *Pirate* player will assemble ships and crew. These will hopefully raid their way to where the rum is with a combination of deduction and perseverance. But regardless they will trigger and combo together unique crew's abilities to gain an advantage. If the Pirate finds four bottles of rum (quality doesn't matter), they win the game.
 
 # COMPONENTS
-<table class="noBorder">
-<tr><td width="150px"><img class="card" src="rulebook/crownCard.png"/></td><td width="150px"><img class="card" src="rulebook/crownRules.png"/></td><td width="150px"><img class="card" src="rulebook/startingHazard.png"/></td><td width="150px"><img class="card" src="rulebook/island.png"/></td></tr>
+<table class="noBorder components">
+<tr><td><img class="card" src="rulebook/crownCard.png"/></td><td><img class="card" src="rulebook/crownRules.png"/></td><td><img class="card" src="rulebook/startingHazard.png"/></td><td><img class="card" src="rulebook/island.png"/></td></tr>
 <tr><td class="componentDescription">38 crown cards:<br>- 13 investments 🍾<br>- 11 hazards 🌊<br>- 3 events 📜</td><td class="componentDescription">1 crown rules summary</td><td class="componentDescription">4 starting hazards 🌊</td><td class="componentDescription">4 islands 🏝️</td></tr>
 <tr><td><img class="card" src="rulebook/pirateCard.png"/></td><td><img class="card" src="rulebook/pirateRules.png"/></td><td><img class="card" src="rulebook/startingShip.png"/></td><td></td></tr>
 <tr><td class="componentDescription">25 pirate cards:<br>- 6 ships ⚓<br>- 11 crew 🪝<br>- 5 events 📜</td><td class="componentDescription">1 pirate rules summary</td><td class="componentDescription">2 starting ships ⚓</td><td></td></tr>

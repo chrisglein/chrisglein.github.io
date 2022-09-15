@@ -25,14 +25,21 @@ table.noBorder td {
   padding: 0px;
 }
 
-table.noBorder .componentDescription {
+table.components td {
+  max-width: 150px;
+}
+
+table.components td.componentDescription {
   min-width: 170px;
   padding-bottom: 20px;
   vertical-align: top;
 }
 
 @media (max-width: 480px) {
-  table.noBorder .componentDescription {
+  table.components td {
+    max-width: 100px;
+  }
+  table.components td.componentDescription {
       background-color: lightgray;
       min-width: initial;
   }
