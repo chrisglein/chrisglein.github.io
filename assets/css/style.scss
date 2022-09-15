@@ -44,23 +44,23 @@ table.components td.componentDescription {
   vertical-align: top;
 }
 
-table.iconography {
+table.splitTable {
   border: none;
 }
 
-table.iconography th:nth-child(3) {
+table.splitTable th.splitColumn {
   background: none;
 }
-table.iconography th:nth-child(1),
-table.iconography th:nth-child(3) {
+table.splitTable th:first-child,
+table.splitTable th.splitColumn {
   border-left: 1px solid #373737;
 }
-table.iconography th:nth-child(3),
-table.iconography th:nth-child(5) {
+table.splitTable th.splitTable,
+table.splitTable th.splitColumn {
   border-right: 1px solid #373737;
 }
 
-table.iconography td:nth-child(3) {
+table.splitTable td.splitColumn {
   border: none;
 }
 

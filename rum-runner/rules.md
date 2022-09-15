@@ -48,14 +48,14 @@ The two players play differently.
 There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards.
 
 # TERMS & ICONOGRAPHY
-<table class="iconography">
-<tr><th>Icon</th><th>Meaning</th><th width="20px"></th><th>Icon</th><th>Card Type</th></tr>
-<tr><td>👑</td><td>Crown</td><td></td><td>📜</td><td>Event card</td></tr>
-<tr><td>💀</td><td>Pirate</td><td></td><td>🍾</td><td>Investment card</td></tr>
-<tr><td>🟡</td><td>Coin</td><td></td><td>🌊</td><td>Hazard card</td></tr>
-<tr><td>🧭</td><td>Navigation skill</td><td></td><td>🏝️</td><td>Island card</td></tr>
-<tr><td>⚔</td><td>Combat skill</td><td></td><td>⚓</td><td>Ship card</td></tr>
-<tr><td>⭐</td><td>Victory point</td><td></td><td>🪝</td><td>Crew card</td></tr>
+<table class="splitTable">
+<tr><th>Icon</th><th>Meaning</th><th class="splitColumn" width="20px"></th><th>Icon</th><th>Card Type</th></tr>
+<tr><td>👑</td><td>Crown</td><td class="splitColumn"></td><td>📜</td><td>Event card</td></tr>
+<tr><td>💀</td><td>Pirate</td><td class="splitColumn"></td><td>🍾</td><td>Investment card</td></tr>
+<tr><td>🟡</td><td>Coin</td><td></td class="splitColumn"><td>🌊</td><td>Hazard card</td></tr>
+<tr><td>🧭</td><td>Navigation skill</td><td class="splitColumn"></td><td>🏝️</td><td>Island card</td></tr>
+<tr><td>⚔</td><td>Combat skill</td><td class="splitColumn"></td><td>⚓</td><td>Ship card</td></tr>
+<tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
 </table>
 
 ### "Add" versus "Pay"
