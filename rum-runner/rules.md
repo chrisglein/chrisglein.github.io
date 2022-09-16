@@ -329,7 +329,7 @@ Now the crown has decisions to make. They have 1 face-up hazard and 2 face-down 
 
 The investment face-down on _Privateer Point_ is _Light Rum_, and has 2 on it 🟡.
 
-| What the pirate sees | What the crown knows is there |
+| ☠️ What the pirate sees | 👑 What the crown knows is there |
 | --- | --- |
 | <img src="rulebook/hazardWhatPirateSees.png" max-width="300px"/> | <img src="rulebook/hazardWhatCrownKnows.png" max-width="300px"/> |
 
