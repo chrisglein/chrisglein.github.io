@@ -175,7 +175,7 @@ Play a ship ⚓ card from your hand in front of you. You must pay its 🟡 cost 
 Play any number of crew 🪝 cards from your hand into available slots on ships ⚓ in play. For each crew card you play must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank.
 - Each ship has a fixed number of crew slots. You may not add a crew to a ship if all of its slots are filled.
 
-You may also rearrange your crew 🪝 in play between crew slots on ships ⚓ in play. You may also recall any crew cards in play to your hand as part of this action.
+When you take this action you may also rearrange crew 🪝 in play between crew slots on ships ⚓ in play, and you may recall any crew in play to your hand.
 - You may move crew even if their source or destination ship has 🟡 on it.
 - You may take this action to rearrange crew even if you play no new crew.
 - You may rearrange or recall crew before playing new crew (e.g. to open up a slot on a ship).
