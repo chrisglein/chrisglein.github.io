@@ -88,7 +88,7 @@ At the start the crown's turn they may flip any face-down investment cards that 
 - The coins remain on the investment after it is flipped face-up.
 - The crown may choose to not flip an investment, even if has funded.
 - The investment card will have game text that executes when the card is flipped face-up. It will indicate if it only triggers once or every turn.
-- The text at the bottom of an investment card is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
+- The text at the bottom of an investment card (white text on a black background) is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
 
 <table>
 <tr><th colspan="2">Example</th></tr>
