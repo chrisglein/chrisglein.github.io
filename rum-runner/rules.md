@@ -218,7 +218,7 @@ The pirate then encounters the face-up hazards 🌊 (if any) one at a time, star
 Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill any of these costs. If they can pay one, they must. If they cannot pay any then the pirates have failed the hazard and the raid will be unsuccessful.
 
 Some details on hazard costs:
-- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is being encountered in the same raid then those costs will need to be met by different members of the raiding party. 
+- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is encountered in the same raid then those costs will need to be met by different members of the raiding party. 
 - Only members of the raiding party can be affected by the hazard. You may not pay hazard costs with other ships or crew (unless specified otherwise by the cards in play).
 - Hazard costs are read from the pirate's perspective, and any choices are made by the pirate. For example, if the pirate player is asked to trash crew, the pirate player would choose which crew.
 
