@@ -254,7 +254,7 @@ If the raid was stopped, this step is skipped.
 ### Raiding a card
 When raiding a card reveal it to both players.
 
-If the card has a "raid" effect listed at the bottom of the card, resolve it. This may prevent or add a cost or side effect to raiding the card.
+If the card has a "raid" effect listed at the bottom of the card, resolve it. This may add a cost or side effect to raiding the card.
 
 Then trash the card (unless prevented by the raid effect text).
 
