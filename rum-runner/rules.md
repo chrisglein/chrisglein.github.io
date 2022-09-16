@@ -47,7 +47,7 @@ The two players play differently.
 
 There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards.
 
-# TERMS & ICONOGRAPHY
+# ICONOGRAPHY
 <table class="splitTable">
 <tr><th>Icon</th><th>Meaning</th><th class="splitColumn" width="20px"></th><th>Icon</th><th>Card Type</th></tr>
 <tr><td>👑</td><td>Crown</td><td class="splitColumn"></td><td>📜</td><td>Event card</td></tr>
@@ -57,18 +57,6 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <tr><td>⚔</td><td>Combat skill</td><td class="splitColumn"></td><td>⚓</td><td>Ship card</td></tr>
 <tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
 </table>
-
-### Coins: "Add", "Pay", and "Remove"
-Some game text will ask you to +1🟡 a card. To **add** 🟡 to cards in this way, take coins from the bank and place them on top of the card.
-
-Other text will ask you to **pay** 🟡. To pay 🟡, those coins must come from your personal supply. 
-
-If you are asked to **remove** 🟡 those coins are removed from the card and returned to the bank. 
-
-### Cards: "Trash" and "Discard"
-To **trash** a card place it in the owner's face-up discard pile. If there were any 🟡 on it, those are returned to the bank.
-
-To **discard** a card take a card of your hand and place it in your face-up discard pile.
 
 # TURN
 Each player alternates taking turns, with the crown always taking the first turn.
@@ -298,7 +286,19 @@ After a raid has ended, whether successful or not, execute the game text of all 
 # END GAME
 The game ends as soon as the crown scores 4 points of rum or the pirate steals 4 rum cards. Whoever hit 4 (or more) points first wins.
 
-# CLARIFICATIONS
+# TERMS & CLARIFICATIONS
+
+### Coins: "Add", "Pay", and "Remove"
+Some game text will ask you to +1🟡 a card. To **add** 🟡 to cards in this way, take coins from the bank and place them on top of the card.
+
+Other text will ask you to **pay** 🟡. To pay 🟡, those coins must come from your personal supply. 
+
+If you are asked to **remove** 🟡 those coins are removed from the card and returned to the bank. 
+
+### Cards: "Trash" and "Discard"
+To **trash** a card place it in the owner's face-up discard pile. If there were any 🟡 on it, those are returned to the bank.
+
+To **discard** a card take a card of your hand and place it in your face-up discard pile.
 
 ### Face-down cards
 The crown player may look at their face-down cards at any point. They do not need to memorize what they have placed down (or what started the game face-down, in their starting hazards).
