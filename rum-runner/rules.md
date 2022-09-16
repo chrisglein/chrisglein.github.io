@@ -226,6 +226,8 @@ The steps to resolve a raid are as follows:
 1. ☠️ Raid the island
 1. ☠️ Trigger crew effects
 
+For a detailed example, see "Example of a Raid" below.
+
 ## 1. ☠️ CHOOSE A TARGET ISLAND
 The pirate chooses and announces one of the crown's islands as the target for the raid.
 
@@ -244,25 +246,13 @@ Immediately after flipping a card face-up the crown may add any additional 🟡 
 ## 4. ☠️ FACE HAZARDS
 The pirate then encounters the face-up hazards 🌊 (if any) one at a time, starting with the furthest away from the island that is being raided.
 
-Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill any of these costs. If they can pay one, they must. If they cannot pay any then the pirates have failed the hazard and the raid will be unsuccessful.
+Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill each of these costs. If they could pay multiple, then they choose one to pay. If they cannot pay _any_ of the hazard's costs then the raid will be unsuccessful.
 
 Some details on hazard costs:
-- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is encountered in the same raid then those costs will need to be met by different members of the raiding party. 
-- Only members of the raiding party can be affected by the hazard. You may not pay hazard costs with other ships or crew (unless specified otherwise by the cards in play).
+- If they pirate can pay one of a hazard's costs then they must, _even if they don't want to_. 
 - Hazard costs are read from the pirate's perspective, and any choices are made by the pirate. For example, if the pirate player is asked to trash crew, the pirate player would choose which crew.
-
-After a hazard has been evaluated (either successfully or unsuccessfully) check if the hazard has any 🟡 on it.
-- If it has one or more 🟡, return one of its 🟡 to the bank.
-- If it has no 🟡, trash the hazard card.
-
-The hazard is now resolved.
-- If the pirate was unable to pay any of the hazard's costs then the raid is stopped (and is **unsuccessful**).
-- If one of the ships in the raiding party no longer has any crew then that ship is no longer part of the raiding party.
-- If there are no ships in the raiding party then the raid is stopped (and is **unsuccessful**).
-
-If the raid has not been stopped this process continues with the next face-up hazard closest to the island, then the next, until no more remain.
-
-When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
+- Only members of the raiding party can be affected by the hazard. You may not pay hazard costs with other ships or crew (unless specified otherwise by the cards in play).
+- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is encountered in the same raid then those costs will need to be met by different members of the raiding party. 
 
 <table>
 <tr><th colspan="2">Example 1</th></tr>
@@ -283,6 +273,19 @@ This hazard may be overcome by either discarding 2 cards or by trashing a crew �
 </td>
 </tr>
 </table>
+
+After a hazard has been evaluated (either successfully or unsuccessfully) check if the hazard has any 🟡 on it.
+- If it has one or more 🟡, return one of its 🟡 to the bank.
+- If it has no 🟡, trash the hazard card.
+
+The hazard is now resolved.
+- If the pirate was unable to pay one of the hazard's costs then the raid is stopped (and is **unsuccessful**).
+- If one of the ships in the raiding party no longer has any crew then that ship is no longer part of the raiding party.
+- If there are no ships in the raiding party then the raid is stopped (and is **unsuccessful**).
+
+If the raid has not been stopped this process continues with the next face-up hazard closest to the island, then the next, until no more remain.
+
+When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
 
 ## 5. ☠️ RAIDING THE ISLAND
 If the raid was stopped, this step is skipped.
