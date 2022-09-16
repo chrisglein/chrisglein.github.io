@@ -86,7 +86,7 @@ The two players start their turn differently.
 ### 👑 Reveal funded investments
 At the start the crown's turn they may flip any face-down investment cards that are **funded** to their face-up side. An investment is funded if it has 🟡 on it greater than or equal to the investment's price (shown in the top left of the investment card).
 - The coins remain on the investment after it is flipped face-up.
-- The crown may choose to not flip an investment, even if has reached its price.
+- The crown may choose to not flip an investment, even if has funded.
 - The investment card will have game text that executes when the card is flipped face-up. It will indicate if it only triggers once or every turn.
 - The text at the bottom of an investment card is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
 
