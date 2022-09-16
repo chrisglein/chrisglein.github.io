@@ -21,7 +21,7 @@ It's the Age of Sail! The **crown** is distilling rum on colonized islands for e
 
 # SETUP
 1. Place the coins 🟡 somewhere in reach of both players. This is the bank.
-1. Determine who will play the **crown** 👑 and who will play the **pirate** ☠️. To assign randomly you can flip a coin or randomly assign the rules reminder cards.
+1. Determine who will play the **crown** 👑 and who will play the **pirate** ☠️. To assign roles randomly you can flip a coin, or you can shuffle the 2 rules reminder cards and hand 1 to each player.
 
 ## CROWN 👑
 1. Take the 4 island 🏝️ cards (including _Home Port_) and place them in front of you in a row.
