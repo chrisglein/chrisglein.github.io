@@ -290,8 +290,10 @@ When all face-up hazards have been resolved and the raid was not stopped the rai
 ## 5. ☠️ RAIDING THE ISLAND
 If the raid was stopped, this step is skipped.
 
-- When raiding the _Home Port_ island, the pirate will raid the top card of the crown’s deck. If _Home Port_ has no cards on it then instead the pirate will raid a card chosen randomly from the crown’s hand. If there are no cards in the crown's hand then no card is raided (but the raid is still considered successful).
-- When raiding any other island, the pirate raids the investment (face-up or face-down) on that island. If there is no investment on the island then no card is raided (but the raid is still considered successful).
+- If there is a single card on the island, raid that card.
+- If there are multiple cards in a deck on the island (e.g. _Home Port_), then raid the top card of that deck.
+- If there are no cards on the island, and it is _Home Port_, and the crown has 1 more cards in their hand, then raid a card chosen randomly from the crown’s hand.
+- Otherwise, no card is raided (but the raid is still considered successful).
 
 ### Raiding a card
 When raiding a card reveal it to both players.
