@@ -84,7 +84,7 @@ The turn phases are as follows:
 The two players start their turn differently.
 
 ### 👑 Reveal funded investments
-At the start the crown's turn they may flip any face-down investment cards that are **funded** to their face-up side. An investment is funded if it has 🟡 on it greater than or equal to the investment's price (shown in the top left of the investment card).
+At the start the crown's turn they may flip any face-down investment cards that are **funded** to their face-up side. An investment is funded if it has 🟡 on it greater than or equal to the investment's price (shown in the top left of the card).
 - The coins remain on the investment after it is flipped face-up.
 - The crown may choose to not flip an investment, even if has funded.
 - The investment card will have game text that executes when the card is flipped face-up. It will indicate if it only triggers once or every turn.
@@ -143,7 +143,7 @@ Draw cards from your deck until you have 5 cards in your hand.
 - If your deck is out of cards you may be able to replenish your deck. See "When your deck runs out" below.
 
 ### Play an event
-Play an event 📜 card from your hand into your discard pile face-up. You must pay its 🟡 cost (shown in the top left) from your supply to the bank. Execute the text on the card.
+Play an event 📜 card from your hand into your discard pile face-up. You must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank. Execute the text on the card.
 
 ### 👑 Play investments
 Play any number of investment 🍾 cards from your hand face-down on available islands in play.
@@ -169,10 +169,10 @@ Pay any number of 🟡 from your supply. Add a single 🟡 to the same number of
 - You may only place 🟡 on your own cards.
 
 ### ☠️ Play a ship
-Play a ship ⚓ card from your hand in front of you. You must pay its 🟡 cost (shown in the top left) from your supply to the bank.
+Play a ship ⚓ card from your hand in front of you. You must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank.
 
 ### ☠️ Play crew
-Play any number of crew 🪝 cards from your hand into available slots on ships ⚓ in play. For each crew card you play must pay its 🟡 cost (shown in the top left) from your supply to the bank.
+Play any number of crew 🪝 cards from your hand into available slots on ships ⚓ in play. For each crew card you play must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank.
 - Each ship has a fixed number of crew slots. You may not add a pirate to a ship if all of its slots are filled.
 
 You may also rearrange your crew 🪝 in play between crew slots on ships ⚓ in play. You may also recall any crew cards in play to your hand as part of this action.
@@ -220,7 +220,7 @@ The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate 
 - The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
 
 ## 3. 👑 RAISE HAZARDS
-The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left) from their supply to the bank to flip that hazard face-up. If there were any 🟡 on the face-down hazard card those may be used for payment or left on the card after it is flipped face-up. If the crown opts to not raise an individual hazard that card remains face-down. Likewise any hazards that were already face-up remain face-up.
+The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left of the card) from their supply to the bank to flip that hazard face-up. If there were any 🟡 on the face-down hazard card those may be used for payment or left on the card after it is flipped face-up. If the crown opts to not raise an individual hazard that card remains face-down. Likewise any hazards that were already face-up remain face-up.
 
 Immediately after flipping a card face-up the crown may add any additional 🟡 from their supply to the face-up hazard. The number of 🟡 on a hazard will generally affect how many uses that hazard has.
 
