@@ -288,7 +288,7 @@ If the raid has not been stopped this process continues with the next face-up ha
 When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
 
 ## 5. ☠️ RAIDING THE ISLAND
-If the raid was stopped, this step is skipped.
+If the raid was unsuccessful, this step is skipped.
 
 - If there is a single card on the island, raid that card.
 - If there are multiple cards in a deck on the island (e.g. _Home Port_), then raid the top card of that deck.
@@ -319,7 +319,8 @@ The raid text at the bottom of this card requires that the pirate pay 🟡 equal
 ## 6. ☠️ TRIGGER CREW EFFECTS
 After a raid has ended, whether successful or not, execute the game text of all crew in the raiding party. If there are multiple crew the effects may be resolved in the order of the pirate's choosing.
 
-- Any other effects that trigger off a successful raid (such as that of _Treasure Map_) happen after all crew effects.
+- Some crew effects will specify that they only trigger if the raid is successful or not.
+- Any other effects that trigger off a completed raid (such as that of _Treasure Map_) happen after all crew effects.
 
 <table>
 <tr><th>Crew effect</th><th>Event effect</th></tr>
