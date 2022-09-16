@@ -24,7 +24,7 @@ It's the Age of Sail! The **crown** is distilling rum on colonized islands for e
 1. Determine who will play the **crown** 👑 and who will play the **pirate** ☠️. To assign randomly you can flip a coin or randomly assign the rules reminder cards.
 
 ## CROWN 👑
-1. Take the 4 island 🏝️ cards (including _Home Port_) and play them in front of you in a row.
+1. Take the 4 island 🏝️ cards (including _Home Port_) and place them in front of you in a row.
 1. Find the 4 starting hazard 🌊 cards (they will have a 👑 icon on them), shuffle them, then place one face-down in front of each island (between the island cards and the pirate player). You may look at these cards after they are all placed.
 1. Shuffle the crown cards into a face-down deck and place it on the _Home Port_ island. It may be convenient to place the _Home Port_ island either to the far right or far left, depending on your handedness. Leave room near the island for a face-up discard pile.
 1. Take 5 🟡 to start your personal supply.
