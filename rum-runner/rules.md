@@ -24,9 +24,9 @@ The *Pirate* player will assemble ships and crew. These will hopefully raid thei
 1. Determine who will play the **crown** 👑 and who will play the **pirate** ☠️. To assign randomly you can flip a coin or randomly assign the rules reminder cards.
 
 ## CROWN 👑
-1. Take the 4 island 🏝️ cards (including *Home Port*) and play them in front of you in a row.
+1. Take the 4 island 🏝️ cards (including _Home Port_) and play them in front of you in a row.
 1. Find the 4 starting hazard 🌊 cards (they will have a 👑 icon on them), shuffle them, then place one face-down in front of each island (between the island cards and the pirate player). You may look at these cards after they are all placed.
-1. Shuffle the crown cards into a face-down deck and place it on the *Home Port* island. It may be convenient to place the *Home Port* island either to the far right or far left, depending on your handedness. Leave room near the island for a face-up discard pile.
+1. Shuffle the crown cards into a face-down deck and place it on the _Home Port_ island. It may be convenient to place the _Home Port_ island either to the far right or far left, depending on your handedness. Leave room near the island for a face-up discard pile.
 1. Take 5 🟡 to start your personal supply.
 1. Draw a hand of 5 cards from your deck.
 
@@ -202,7 +202,7 @@ If you have more than 5 cards in your hand, discard 1 card from your hand into y
 # THE RAID
 At the center of the game is the act of the pirate raiding the crown's islands. If the pirate does not raid, the crown will eventually win.
 
-Generally, a raid is started by the pirate taking an action to do so, although there are event cards that will also start a raid as part of their action (e.g. "Treasure Map").
+Generally, a raid is started by the pirate taking an action to do so, although there are event cards that will also start a raid as part of their action (e.g. _Treasure Map_).
 
 The steps to resolve a raid are as follows:
 1. (☠️) Choose a target island
@@ -230,7 +230,7 @@ The pirate then encounters the face-up hazards 🌊 (if any) one at a time, star
 Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill any of these costs. If they can pay one, they must. If they cannot pay any then the pirates have failed the hazard and the raid will be unsuccessful.
 
 Some details on hazard costs:
-- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their "Sloop") and one of its crew ("Stinky Pete"). Each ship or crew skill icon can only be used once per raid, so if a second hazard is being encountered in the same raid then those costs will need to be met by different members of the raiding party. 
+- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is being encountered in the same raid then those costs will need to be met by different members of the raiding party. 
 - Only members of the raiding party can be affected by the hazard. You may not pay hazard costs with other ships or crew (unless specified otherwise by the cards in play).
 - Hazard costs are read from the pirate's perspective, and any choices are made by the pirate. For example, if the pirate player is asked to trash crew, the pirate player would choose which crew.
 
@@ -260,7 +260,7 @@ This hazard may be overcome by either discarding 2 cards or by trashing a crew �
 ## 5. (☠️) RAIDING THE ISLAND
 If the raid was stopped, this step is skipped.
 
-- When raiding the *Home Port* island, the pirate will raid the top card of the crown’s deck. If *Home Port* has no cards on it then instead the pirate will raid a card chosen randomly from the crown’s hand. If there are no cards in the crown's hand then no card is raided (but the raid is still considered successful).
+- When raiding the _Home Port_ island, the pirate will raid the top card of the crown’s deck. If _Home Port_ has no cards on it then instead the pirate will raid a card chosen randomly from the crown’s hand. If there are no cards in the crown's hand then no card is raided (but the raid is still considered successful).
 - When raiding any other island, the pirate raids the investment (face-up or face-down) on that island. If there is no investment on the island then no card is raided (but the raid is still considered successful).
 
 ### Raiding a card
@@ -285,7 +285,7 @@ The raid text at the bottom of this card requires that the pirate pay 🟡 equal
 ## 6. (☠️) TRIGGER CREW EFFECTS
 After a raid has ended, whether successful or not, execute the game text of all crew in the raiding party. If there are multiple crew the effects may be resolved in the order of the pirate's choosing.
 
-- Any other effects that trigger off a successful raid (such as that of "Treasure Map") happen after all crew effects.
+- Any other effects that trigger off a successful raid (such as that of _Treasure Map_) happen after all crew effects.
 
 <table>
 <tr><th>Crew effect</th><th>Event effect</th></tr>
@@ -310,50 +310,50 @@ However, if a crown player intentionally does this, it's cheating. There is bluf
 
 # EXAMPLE OF A RAID
 The pirate has decided to raid the player. The pirate has 3 ships in play:
-- A "Longboat" with one crew ("Peg-Leg Paul")
-- A "Sloop" with two crew ("Cutthroat Carlie" and "Doug Doubloon")
-- A "Brigantine" with one crew ("Enric Cursemaker") and one 🟡 on it
+- A _Longboat_ with one crew (_Peg-Leg Paul_)
+- A _Sloop_ with two crew (_Cutthroat Carlie_ and _Doug Doubloon_)
+- A _Brigantine_ with one crew (_Enric Cursemaker_) and one 🟡 on it
 
 | The raiding party |
 | --- |
 | <img class="tabletopLayout" src="rulebook/raidParty.png" max-height="300px"/> |
 
-The pirate decides "Privateer Point" is the target of their raid.
+The pirate decides _Privateer Point_ is the target of their raid.
 
-The pirate forms a raiding party of 2 ships, the "Longboat" and the "Sloop". They may not select the "Brigantine" because it has a 🟡 on it. They pay 2 🟡 from their personal supply, placing 🟡 on the "Longboat" and 🟡 on the "Sloop".
+The pirate forms a raiding party of 2 ships, the _Longboat_ and the _Sloop_. They may not select the _Brigantine_ because it has a 🟡 on it. They pay 2 🟡 from their personal supply, placing 🟡 on the _Longboat_ and 🟡 on the _Sloop_.
 
-Now the crown has decisions to make. They have 1 face-up hazard and 2 face-down hazards in front of "Privateer Point":
-- "Port Taxes", face-up
-- "Reef", face-down
-- "Privateers", face-down
+Now the crown has decisions to make. They have 1 face-up hazard and 2 face-down hazards in front of _Privateer Point_:
+- _Port Taxes_, face-up
+- _Reef_, face-down
+- _Privateers_, face-down
 
-The investment face-down on "Privateer Point" is "Light Rum", and has 2 on it 🟡.
+The investment face-down on _Privateer Point_ is _Light Rum_, and has 2 on it 🟡.
 
 | What the pirate sees | What the crown knows is there |
 | --- | --- |
 | <img src="rulebook/hazardWhatPirateSees.png" max-width="300px"/> | <img src="rulebook/hazardWhatCrownKnows.png" max-width="300px"/> |
 
-The crown reviews the raiding party of 2 ships, noting they can muster 2 navigation 🧭 (from the "Sloop" and from "Cuthroat Carlie") and 1 combat ⚔️ (from "Doug Doubloon"). They decide to raise the "Privateers" hazard, spending its 1 🟡 cost to the bank and flipping the card face-up. They pay 2 additional 🟡 from their supply and place them on the now face-up hazard. The crown could also raise "Reef" at this point, but they decide not to (known that this raiding party could bypass it).
+The crown reviews the raiding party of 2 ships, noting they can muster 2 navigation 🧭 (from the _Sloop_ and from _Cuthroat Carlie_) and 1 combat ⚔️ (from _Doug Doubloon_). They decide to raise the _Privateers_ hazard, spending its 1 🟡 cost to the bank and flipping the card face-up. They pay 2 additional 🟡 from their supply and place them on the now face-up hazard. The crown could also raise "Reef" at this point, but they decide not to (known that this raiding party could bypass it).
 
 <p style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example1.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, "Privateers". This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing "Peg-Leg Paul" to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).
+Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, <i>Privateers</i>. This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing <i>Peg-Leg Paul</i> to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).
 </p>
 
-As that there are no more crew on that "Longboat", it is no longer considered part of the raiding party, leaving the "Sloop" to continue on alone. The next hazard would be the "Reef", but it's face-down so it's skipped.
+As that there are no more crew on that _Longboat_, it is no longer considered part of the raiding party, leaving the _Sloop_ to continue on alone. The next hazard would be the _Reef_, but it's face-down so it's skipped.
 
 
 <p style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example2.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-The raiding party now moves onto "Port Taxes". As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.
+The raiding party now moves onto <i>Port Taxes</i>. As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.
 </p>
 
 <p style="min-height: 250px;">
 <img class="card" src="rulebook/rum_example1.png" width="150px" height="250px" style="float: right; margin-left: 10px;"/>
-There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's "Light Rum". The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the "Sloop", and keeps the "Light Rum" card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.
+There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's <i>Light Rum</i>. The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the <i>Sloop</i>, and keeps the <i>Light Rum</i> card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.
 </p>
 
-Finally, the pirate triggers their crew 🪝 effects. They choose to resolve "Doug Doubloon"'s effect first, drawing 1 card. Secondly, they resolve "Cutthroat Carlie"'s ability and move 1 🟡 from the "Brigantine" to the "Longboat".
+Finally, the pirate triggers their crew 🪝 effects. They choose to resolve _Doug Doubloon_'s effect first, drawing 1 card. Secondly, they resolve _Cutthroat Carlie_'s ability and move 1 🟡 from the _Brigantine_ to the _Longboat_.
 
 | The aftermath |
 | --- |
