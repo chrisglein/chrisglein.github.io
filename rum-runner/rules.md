@@ -5,9 +5,9 @@ description: Rulebook
 # SUMMARY
 It's the Age of Sail! The **crown** is distilling rum on colonized islands for enormous profit. Meanwhile **pirates** intend to sail in, steal that rum, and drink it all. These two factions (crown 👑 and pirate ☠️) play their conflict out over a two player asymmetric card game. Each player has a deck, a hand of cards, coins, and a menu of actions to choose from each turn. But what each does from there varies substantially.
 
-👑 The **crown** player will work in secret, laying traps and pushing for an economic victory. They score rum by founding it on an island and investing coins into it over time. They protect that investment by placing hazards in front of the island face-down. When the pirate player tries to raid that island the crown can decide to spend their coin to raise those hazards against the pirate, stopping them or making them pay a terrible price. The crown may alternatively place traps or economic investments on their islands, luring the pirate to certain doom or increasing the momentum of the crown's victory. If the crown manages to hold out and score four points of rum, they win the game.
+👑 The **crown** player will work in secret, laying traps and pushing for an economic victory. They score rum by founding it on an island and investing coins into it over time. They protect that investment by placing hazards in front of the island face-down. When the pirate player tries to raid that island the crown can decide to spend their coin to raise those hazards against the pirate, stopping them or making them pay a terrible price. The crown may alternatively place traps or economic investments on their islands, luring the pirate to certain doom or increasing the momentum of the crown's victory. If the crown manages to hold out and fund four points of rum, they win the game.
 
-☠️ The **pirate** player will assemble ships and crew. These will hopefully raid their way to where the rum is with a combination of deduction and perseverance. But regardless they will trigger and combo together unique crew's abilities to gain an advantage. If the pirate finds four bottles of rum (quality doesn't matter), they win the game.
+☠️ The **pirate** player will assemble ships and crew. These will hopefully raid their way to where the rum is with a combination of deduction and perseverance. But regardless they will trigger and combo together unique crew's abilities to gain an advantage. If the pirate raids four bottles of rum, they win the game.
 
 # COMPONENTS
 <table class="noBorder components">
@@ -39,13 +39,13 @@ It's the Age of Sail! The **crown** is distilling rum on colonized islands for e
 <img class="tabletopLayout" src="rulebook/setupOverhead.png" style="max-height: 600px;"/>
 
 # GOAL
-Both players want **rum**. The crown wins if they **fund** 4 points ⭐ worth of rum (where different bottles will have different point values). The pirate wins if they **raid** 4 bottles worth of rum (each bottle is always worth 1 point ⭐ to them). When it comes to rum, pirates only care about quantity, not quality.
+Both players want **rum**. The crown wins if they **fund** 4 points ⭐ worth of rum (where different bottles will have different point values). The pirate wins if they **raid** 4 points ⭐ worth of rum (where each bottle is always worth 1 point ⭐ when raided; when it comes to rum pirates only care about quantity, not quality). Each player will track their score by accumulating scored rum cards in a personal score pile.
 
 The two players play differently.
 - The crown 👑 will primarily play cards face-down as information hidden from the pirate. The crown will start **investments** (including rum) across their various islands and raise **hazards** to defend them.
 - The pirate ☠️ will play their cards face-up. They will buy **ships** and hire **crew** that together will raid the crown's islands in hopes of finding rum.
 
-There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards.
+There are a total of 7 rum cards in the crown's deck. Either the crown will score 2-4 of those rum cards to score 4 points ⭐, or the pirate will raid 4 of those rum cards to get their 4 points ⭐.
 
 # ICONOGRAPHY & TERMS
 <table class="splitTable">
@@ -327,7 +327,7 @@ After a raid has ended, whether successful or not, execute the game text of all 
 </table>
 
 # END GAME
-The game ends as soon as the crown scores 4 points of rum (via funding) or the pirate scores 4 rum cards (via raiding). Whoever hit 4 (or more) points first wins.
+The game ends as soon as the crown scores 4 points ⭐ of rum (via funding) or the pirate scores 4 points ⭐ cards (via raiding). Whoever hit 4 points first wins.
 
 # CLARIFICATIONS
 
