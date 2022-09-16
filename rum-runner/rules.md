@@ -36,7 +36,7 @@ It's the Age of Sail! The **crown** is distilling rum on colonized islands for e
 1. Take 5 🟡 to start your personal supply.
 1. Draw a hand of 5 cards from your deck.
 
-<img class="tabletopLayout" src="rulebook/setupOverhead.png" max-height="500px"/>
+<img class="tabletopLayout" src="rulebook/setupOverhead.png" style="max-height: 500px;"/>
 
 # GOAL
 Both players want **rum**. The crown wins if they **fund** 4 points ⭐ worth of rum (where different bottles will have different point values). The pirate wins if they **raid** 4 bottles worth of rum (each bottle is always worth 1 point ⭐ to them). When it comes to rum, pirates only care about quantity, not quality.
@@ -328,7 +328,7 @@ The pirate has decided to raid the player. The pirate has 3 ships in play:
 
 | The raiding party |
 | --- |
-| <img class="tabletopLayout" src="rulebook/raidParty.png" max-height="300px"/> |
+| <img class="tabletopLayout" src="rulebook/raidParty.png" style="max-height: 300px;"/> |
 
 The pirate decides _Privateer Point_ is the target of their raid.
 
@@ -343,7 +343,7 @@ The investment face-down on _Privateer Point_ is _Light Rum_, and has 2 on it �
 
 | ☠️ What the pirate sees | 👑 What the crown knows is there |
 | --- | --- |
-| <img src="rulebook/hazardWhatPirateSees.png" max-width="300px"/> | <img src="rulebook/hazardWhatCrownKnows.png" max-width="300px"/> |
+| <img src="rulebook/hazardWhatPirateSees.png" style="max-height: 600px;"/> | <img src="rulebook/hazardWhatCrownKnows.png" style="max-height: 600px;"/> |
 
 The crown reviews the raiding party of 2 ships, noting they can muster 2 navigation 🧭 (from the _Sloop_ and from _Cuthroat Carlie_) and 1 combat ⚔️ (from _Doug Doubloon_). They decide to raise the _Privateers_ hazard, spending its 1 🟡 cost to the bank and flipping the card face-up. They pay 2 additional 🟡 from their supply and place them on the now face-up hazard. The crown could also raise "Reef" at this point, but they decide not to (known that this raiding party could bypass it).
 
@@ -369,7 +369,7 @@ Finally, the pirate triggers their crew 🪝 effects. They choose to resolve _Do
 
 | The aftermath |
 | --- |
-| <img class="tabletopLayout" src="rulebook/raidPartyAftermath.png" max-height="300px"/> |
+| <img class="tabletopLayout" src="rulebook/raidPartyAftermath.png" style="max-height: 300px;"/> |
 
 # TIPS
 
