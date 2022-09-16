@@ -302,6 +302,7 @@ Then trash the card (unless prevented by the raid effect text).
 
 - If a card has 🟡 on it, those coins remain on it while the raid effect is resolved. If a card is raided from the deck or the hand, it will naturally have zero 🟡 on it. 
 - Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as "raid text" on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
+- Raid text is read from the pirate's perspective, and any choices are made by the pirate.
 - If the raid text says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the pirate's score pile. If there are 4 total cards in the pirates's score pile, they win the game.
 
 <table>
