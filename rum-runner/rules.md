@@ -265,11 +265,21 @@ If the raid has not been stopped this process continues with the next face-up ha
 When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
 
 <table>
-<tr><th colspan="2">Example</th></tr>
+<tr><th colspan="2">Example 1</th></tr>
+<tr>
+<td style="min-height: 150px;">
+<img class="card" src="rulebook/hazard_example3.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
+This hazard may be overcome by providing 3 🧭 across the raiding party's crew 🪝 and ships ⚓. For example, a raiding party containing a <em>Sloop</em>, <em>Cuthroat Carlie</em>, and <em>Enric Cursemaker<em>, from the "Example of a Raid" section below could meet this cost. If the requirement cannot be met, the raid is stopped and is unsuccessful.
+</td>
+</tr>
+</table>
+
+<table>
+<tr><th colspan="2">Example 2</th></tr>
 <tr>
 <td style="min-height: 150px;">
 <img class="card" src="rulebook/hazard.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Otherwise, the raid is stopped and is unsuccessful.
+This hazard may be overcome by either discarding 2 cards or by trashing a crew 🪝 (from the raiding party). If either cost can be paid, the raid continues (assuming there are crewed ships remaining in the raid). Note that this particular cost can always be paid, as a raiding party will always have at least one crew. However if after paying the cost there are new crewed ships remaining in the raiding party then the raid will be stopped and will be unsuccessful.
 </td>
 </tr>
 </table>
