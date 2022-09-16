@@ -39,7 +39,7 @@ It's the Age of Sail! The **crown** is distilling rum on colonized islands for e
 <img class="tabletopLayout" src="rulebook/setupOverhead.png" max-height="500px"/>
 
 # GOAL
-Both players want **rum**. The crown wins if they **fund** 4 points ⭐ worth of rum (where different bottles will have different point values). The pirate wins if they **raid** 4 bottles worth of rum (they only care about quantity, not quality).
+Both players want **rum**. The crown wins if they **fund** 4 points ⭐ worth of rum (where different bottles will have different point values). The pirate wins if they **raid** 4 bottles worth of rum (each bottle is always worth 1 point ⭐ to them). When it comes to rum, pirates only care about quantity, not quality.
 
 The two players play differently.
 - The crown 👑 will primarily play cards face-down as information hidden from the pirate. The crown will start **investments** (including rum) across their various islands and raise **hazards** to defend them.
