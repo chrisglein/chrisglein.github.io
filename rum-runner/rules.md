@@ -77,6 +77,7 @@ At the start the crown's turn they may flip any face-down investment cards that 
 - The crown may choose to not flip an investment, even if has funded.
 - The top half of the text on an investment card (black text on a light background) is the "funded text" and is for the crown. That is executed when the card is funded and face-up. The text immediate applies and may indicate effects that triggers every turn.
 - The bottom half of the text on an investment card (white text on a black background) is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
+- If a funded card says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the crown's score pile. If the total points ⭐ on cards in the crown's score pile is 4 or more, they win the game.
 
 <table>
 <tr><th colspan="2">Example 1</th></tr>
@@ -272,7 +273,8 @@ If the card has a "raid" effect listed at the bottom of the card, resolve it. Th
 Then trash the card (unless prevented by the raid effect text).
 
 - If a card has 🟡 on it, those coins remain on it while the raid effect is resolved. If a card is raided from the deck or the hand, it will naturally have zero 🟡 on it. 
-- Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as raid effects on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
+- Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as "raid text" on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
+- If the raid text says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the pirate's score pile. If there are 4 total cards in the pirates's score pile, they win the game.
 
 <table>
 <tr><th colspan="2">Example</th></tr>
@@ -297,7 +299,7 @@ After a raid has ended, whether successful or not, execute the game text of all 
 </table>
 
 # END GAME
-The game ends as soon as the crown scores 4 points of rum or the pirate raids 4 rum cards. Whoever hit 4 (or more) points first wins.
+The game ends as soon as the crown scores 4 points of rum (via funding) or the pirate scores 4 rum cards (via raiding). Whoever hit 4 (or more) points first wins.
 
 # TERMS & CLARIFICATIONS
 
