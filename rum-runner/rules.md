@@ -284,7 +284,7 @@ After a raid has ended, whether successful or not, execute the game text of all 
 </table>
 
 # END GAME
-The game ends as soon as the crown scores 4 points of rum or the pirate steals 4 rum cards. Whoever hit 4 (or more) points first wins.
+The game ends as soon as the crown scores 4 points of rum or the pirate raids 4 rum cards. Whoever hit 4 (or more) points first wins.
 
 # TERMS & CLARIFICATIONS
 
@@ -363,16 +363,16 @@ Finally, the pirate triggers their crew 🪝 effects. They choose to resolve _Do
 
 ## Pirate ☠️
 - You aren't going to know what you're up against until it's too late. Thus is the pirate's life. You will often have to go with your gut rather than wait for perfect information.
-- Rum can't score unless there are 🟡 on it. And the higher point values require many 🟡. Knowing this will help you gauge whether you need to "all in" now, or whether you can afford to wait a turn.
+- Rum can't score for the crown unless there are 🟡 on it. And the higher point values require many 🟡. Knowing this will help you gauge whether you need to "all in" now, or whether you can afford to wait a turn.
 - It can be useful to have multiple ships for different purposes. One big powerful ship can generally only raid once per turn, so keep around something cheap and disposable to probe for information.
-- Put pressure on *Home Port* if there aren't any investments in play (or any that you can reach). You can score rum off the top of the deck, or at the very least eliminate cards that the crown was hoping to use later. Forcing the crown to defend *Home Port* diverts their resources from what they want to be doing, which is funding investments.
+- Put pressure on *Home Port* if there aren't any investments in play (or any that you can reach). You can raid and score rum off the top of the deck, or at the very least eliminate cards that the crown was hoping to use later. Forcing the crown to defend *Home Port* diverts their resources from what they want to be doing, which is funding investments.
 - You can brute force your way through most hazards. Remember that after facing a hazard it is trashed when it has no 🟡, whether you were successful or not. A broad fleet of cheap ships and disposable crew can spend raids softening up the defenses to clear the way for your real raid. 
 - Learn the 4 starting hazards that the crown starts with. If you can produce 🧭 and ⚔ then you can survive any of the starting hazards (although there may be side effects if you have few cards in hand and/or few 🟡).
 - Your crew action also allows you to rearrange crew across your ships. Even if you have no/few crew to play, it can be worth it to align the right crew traits/effects before you raid.
 
 ## Crown 👑
 - Remember that they are afraid of you as much as you are of them. They don't know what your face-down cards are, and generally they will assume the worst.
-- You can place multiple investments as one action, and you can invest 🟡 in multiple cards as one action. Use this to present multiple threats and keep the pirate player guessing. If you put down a pair of 2 point rum cards and they steal one but you score the other, you're ahead as they scored 1 point and you scored 2 points.
+- You can place multiple investments as one action, and you can invest 🟡 in multiple cards as one action. Use this to present multiple threats and keep the pirate player guessing. If you put down a pair of 2 point rum cards and they successfully raid one but you fund the other, you're ahead as they scored 1 point and you scored 2 points.
 - Don't be afraid to take your turn earning 🟡. Since you generally don't need to spend your 🟡 until asked to, having a large supply will keep you flexible.
 - The most efficient time to leave 🟡 on a hazard is when you raise it (rather than spending invest actions later). Set aside extra 🟡 for raising hazards that the pirate likely can't overcome (or are costly for them to overcome). 
 - Remember that you can return cards to your hand. This enables you to over multiple actions move a hazard from one island to the island where you actually want it. It also enables you to get back 🟡 that have pooled on a hazard that doesn't actually need it.
