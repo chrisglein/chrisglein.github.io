@@ -208,9 +208,12 @@ The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate 
 - The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
 
 ## 3. 👑 RAISE HAZARDS
-The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left of the card) from their supply to the bank to flip that hazard face-up. If there were any 🟡 on the face-down hazard card those may be used for payment or left on the card after it is flipped face-up. If the crown opts to not raise an individual hazard that card remains face-down. Likewise any hazards that were already face-up remain face-up.
+The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left of the card) to flip it face-up. This cost may be paid using any combination of 🟡 from the crown's supply or 🟡 on the face-down hazard card. Any 🟡 on the hazard not used to pay its cost remain on the card after it is flipped face-up.
 
 Immediately after flipping a card face-up the crown may add any additional 🟡 from their supply to the face-up hazard. The number of 🟡 on a hazard will generally affect how many uses that hazard has.
+
+- If the crown opts to not raise an individual hazard, that card remains face-down. Likewise any hazards that were already face-up remain face-up.
+- As part of this step the crown may not pay 🟡 onto hazards that were already face-up. Those can only be added later by taking the invest action or through resolving other card effects (e.g. _Royal Decree_).
 
 ## 4. ☠️ FACE HAZARDS
 The pirate then encounters the face-up hazards 🌊 (if any) one at a time, starting with the furthest away from the island that is being raided.
