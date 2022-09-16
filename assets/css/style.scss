@@ -12,6 +12,7 @@ img.card {
 
 img.tabletopLayout {
   width: 100%;
+  object-fit: contain;
 }
 
 table img {
@@ -75,5 +76,6 @@ table.splitTable td.splitColumn {
   table.components img.card {
     max-width: unset;
     width: 100%;
+    object-fit: contain;
   }
 }
