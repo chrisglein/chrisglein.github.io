@@ -75,15 +75,25 @@ The two players start their turn differently.
 At the start the crown's turn they may flip any face-down investment cards that are **funded** to their face-up side. An investment is funded if it has 🟡 on it greater than or equal to the investment's price (shown in the top left of the card).
 - The coins remain on the investment after it is flipped face-up.
 - The crown may choose to not flip an investment, even if has funded.
-- The investment card will have game text that executes when the card is flipped face-up. It will indicate if it only triggers once or every turn.
-- The text at the bottom of an investment card (white text on a black background) is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
+- The top half of the text on an investment card (black text on a light background) is the "funded text" and is for the crown. That is executed when the card is funded and face-up. The text immediate applies and may indicate effects that triggers every turn.
+- The bottom half of the text on an investment card (white text on a black background) is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
 
 <table>
-<tr><th colspan="2">Example</th></tr>
+<tr><th colspan="2">Example 1</th></tr>
 <tr>
 <td style="min-height: 250px;">
 <img class="card" src="rulebook/rum.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
 This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.
+</td>
+</tr>
+</table>
+
+<table>
+<tr><th colspan="2">Example 2</th></tr>
+<tr>
+<td style="min-height: 250px;">
+<img class="card" src="rulebook/investment.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
+This investment requires 1 🟡 on it to be funded. While funded it gives the crown an effect each turn where they can +1 🟡 on of their cards. If raided the pirate must pay 🟡 equal to the amount of 🟡 on the card or they may not trash it.
 </td>
 </tr>
 </table>
