@@ -192,16 +192,22 @@ When you take this action you may also rearrange crew 🪝 in play between crew 
 The details of how a raid works are covered below in "The Raid" section.
 
 ## END OF TURN
-After taking your 3 actions, draw a card from your deck.
+After taking your 3 actions, draw 1 card from your deck.
 
-If you have more than 5 cards in your hand, discard 1 card from your hand into your face-up discard pile. You only need to discard one card even if you still have more than 5 cards in your hand.
+If you have more than 5 cards in your hand, discard 1 card from your hand into your face-up discard pile.
+
+- You only need to discard 1 card even if you still have more than 5 cards in your hand.
 
 ### Discarded cards are raided cards
 
-👑 If the crown player discards a card (through this or any other game effect), treat it as if that card had been raided. See "Raiding a card" below for details. Most importantly, this means that if the crown player discards rum, the pirate player will score that rum.
+👑 If the crown player discards a card (through this or any other game effect), treat it as if that card had been raided. See "Raiding a card" below for details.
+
+- Most importantly, this means that if the crown player discards rum, the pirate player will score that rum.
 
 ### When your deck runs out
-👑 When the crown's deck runs out, that's it. They must make do with the cards in their hand and already in play. However *Home Port* is now available for playing investments, just like other islands.
+👑 When the crown's deck runs out, that's it. They must make do with the cards in their hand and already in play.
+
+- As called out in the "Play investments" action, *Home Port* is now available for playing investments, just like other islands.
 
 ☠️ When the pirate's deck runs out, nothing happens until they need to draw more cards. As soon as the pirate needs to draw 1 or more cards then they flip their discard pile face-down, shuffle it, and form a new draw deck. After doing so they remove the top 5 cards of their deck from the game (return to the game box). Then (if any cards remain), they resume drawing cards.
 - Both players may look at the cards that were removed from the game.
