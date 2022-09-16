@@ -337,7 +337,7 @@ The crown reviews the raiding party of 2 ships, noting they can muster 2 navigat
 
 <p style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example1.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, <i>Privateers</i>. This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing <i>Peg-Leg Paul</i> to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).
+Now that the crown is done raising hazards, the raiding party faces them. They start with the outermost hazard from the island, <em>Privateers</em>. This hazard has 3 choices: 2 combat ⚔️⚔️, pay 4 🟡, or trash a crew 🪝. The raiding party only has 1 ⚔️, so they can't pay the first cost. They only have 3 🟡, so they can't pay the second cost. They have 3 raiding crew 🪝 that they could choose from for the third cost, so they must choose that option. They decide to pay the third cost by trashing <em>Peg-Leg Paul</em> to their discard pile. Now that the hazard is faced, they removes 1 🟡 from the card (leaving 1 🟡 still on the card).
 </p>
 
 As that there are no more crew on that _Longboat_, it is no longer considered part of the raiding party, leaving the _Sloop_ to continue on alone. The next hazard would be the _Reef_, but it's face-down so it's skipped.
@@ -345,12 +345,12 @@ As that there are no more crew on that _Longboat_, it is no longer considered pa
 
 <p style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example2.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-The raiding party now moves onto <i>Port Taxes</i>. As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.
+The raiding party now moves onto <em>Port Taxes</em>. As it's already face-up there is no opportunity for the crown to add addtional 🟡 to it. This hazard has 2 choices: Pay 2 🟡, or the crown gains 3 🟡. The pirate has enough 🟡 in their supply, so either is an option. They opt to pay 2 🟡 to the bank. Now that the hazard is faced, there are no 🟡 on the hazard card so it is trashed to the crown's discard pile.
 </p>
 
 <p style="min-height: 250px;">
 <img class="card" src="rulebook/rum_example1.png" width="150px" height="250px" style="float: right; margin-left: 10px;"/>
-There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's <i>Light Rum</i>. The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the <i>Sloop</i>, and keeps the <i>Light Rum</i> card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.
+There are no hazards left to face, so the pirates raid the face-down investment on the island. They flip it over, and it's <em>Light Rum</em>. The raid text says "+1 🟡 each rading ship. Score for 1 ⭐". The pirate adds 1 🟡 from the bank to the <em>Sloop</em>, and keeps the <em>Light Rum</em> card to track that they have 1 of the 4 bottles they need to win the game. The 2 🟡 that had been on the card are returned to the bank.
 </p>
 
 Finally, the pirate triggers their crew 🪝 effects. They choose to resolve _Doug Doubloon_'s effect first, drawing 1 card. Secondly, they resolve _Cutthroat Carlie_'s ability and move 1 🟡 from the _Brigantine_ to the _Longboat_.
