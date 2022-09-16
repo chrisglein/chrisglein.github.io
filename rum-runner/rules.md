@@ -173,7 +173,7 @@ Play a ship ⚓ card from your hand in front of you. You must pay its 🟡 cost 
 
 ### ☠️ Play crew
 Play any number of crew 🪝 cards from your hand into available slots on ships ⚓ in play. For each crew card you play must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank.
-- Each ship has a fixed number of crew slots. You may not add a pirate to a ship if all of its slots are filled.
+- Each ship has a fixed number of crew slots. You may not add a crew to a ship if all of its slots are filled.
 
 You may also rearrange your crew 🪝 in play between crew slots on ships ⚓ in play. You may also recall any crew cards in play to your hand as part of this action.
 - You may move crew even if their source or destination ship has 🟡 on it.
