@@ -1,6 +1,6 @@
 ---
 title: RUM RUNNER
-description: Index
+description: Pirates and the Crown compete over rum in an asymmetric card game
 ---
 - [View on BoardGameGeek](https://boardgamegeek.com/boardgame/370114/rum-runner)
 - [Rulebook](rules.html)
