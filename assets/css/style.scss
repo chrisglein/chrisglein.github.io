@@ -50,6 +50,11 @@ table.components td.componentDescription {
   vertical-align: top;
 }
 
+table.components td:not(.card):not(.componentDescription) {
+  vertical-align: middle;
+  text-align: center;
+}
+
 table.splitTable {
   border: none;
 }
