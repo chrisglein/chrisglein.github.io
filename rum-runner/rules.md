@@ -233,7 +233,8 @@ The pirate chooses and announces one of the crown's islands as the target for th
 
 ## 2. ☠️ FORM THE RAIDING PARTY
 The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate may not choose a ship that has any 🟡 on it, or a ship that has no crew 🪝 slotted into it. For each ship chosen the pirate must then place a 🟡 from their supply on the chosen ship.
-- The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
+
+The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
 
 ## 3. 👑 RAISE HAZARDS
 The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left of the card) to flip it face-up. This cost may be paid using any combination of 🟡 from the crown's supply or 🟡 on the face-down hazard card. Any 🟡 on the hazard not used to pay its cost remain on the card after it is flipped face-up.
@@ -298,7 +299,7 @@ If the raid was unsuccessful, this step is skipped.
 ### Raiding a card
 When raiding a card reveal it to both players.
 
-If the card has a "raid" effect listed at the bottom of the card, resolve it. This may add a cost or side effect to raiding the card.
+If the card has "raid text" listed at the bottom of the card, the pirate resolves it. This may add a cost or side effect to raiding the card.
 
 Then trash the card (unless prevented by the raid effect text).
 

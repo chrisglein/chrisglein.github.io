@@ -104,37 +104,10 @@ This investment requires 1 🟡 on it to be funded. While funded it gives the cr
 ### ☠️ Ready ships
 At the start of the pirate's turn they remove 1 🟡 from each ship ⚓ in play (returning the 🟡 to the bank).
 
-<table>
-<tr><th colspan="2">Example</th></tr>
-<tr>
-<td style="min-height: 150px;">
-<img class="card" src="rulebook/ship.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-If this ship ⚓ had 3 🟡 on it at the start of the turn, 1 🟡 would return to the bank, leaving 2 🟡 still on the ship.
-</td>
-</tr>
-</table>
-
 ## ACTIONS
-The rest of your turn (whether crown or pirate) functions largely the same. You will take 3 **actions**. Some of the available actions are shared, while some are only for the crown and some are only for the pirate.
-
-| Crown 👑 | Pirate ☠️ | Action |
-| --- | --- | --- |
-| ✔ | ✔ | Gain coins 🟡 |
-| ✔ | ✔ | Draw |
-| ✔ | ✔ | Play an event 📜 |
-| ✔ | - | Play investments 🍾 |
-| ✔ | - | Play a hazard 🌊 |
-| ✔ | - | Recall |
-| ✔ | - | Invest |
-| - | ✔ | Play a ship ⚓ |
-| - | ✔ | Play/Rearrange crew 🪝 |
-| - | ✔ | Raid |
+The rest of your turn (whether crown or pirate) functions largely the same. You will take 3 **actions**. Some of the available actions are shared, while some are only for the crown and some are only for the pirate (as indicated below with 👑 or ☠️).
 
 You make take the same action type multiple times, and you make take actions in any order.
-
-| Example | |
-| --- | --- |
-| On their turn the ☠️ player chooses these 3 actions:<br>1. Draw<br>2. Gain coins 🟡<br>3. Raid | On their turn the 👑 player chooses these 3 actions:<br>1. Gain coins 🟡<br>2. Invest<br>3. Gain coins 🟡 |
 
 ### Gain coins
 Take 2 🟡 from the bank and add it to your supply.
@@ -147,18 +120,12 @@ Draw cards from your deck until you have 5 cards in your hand.
 Play an event 📜 card from your hand into your discard pile face-up. You must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank. Execute the text on the card.
 
 ### 👑 Play investments
-Play any number of investment 🍾 cards from your hand face-down on available islands in play.
-- If an island already has a card on it (either face-up or face-down), you may not add a second investment card.
+Play any number of investment 🍾 cards from your hand face-down on islands in play that do not have any cards on them already.
 - If the *Home Port* island has no cards on it (your deck is empty) you may play investment cards to it.
-- Although most investment cards have a 🟡 cost, that cost is not paid now.
-- Only investment cards may be placed face-down. It is invalid to play other card types (e.g. event 📜 or hazard 🌊 cards) as face-down investments. See "Invalid face-down cards" below.
 
 ### 👑 Play a hazard
 Play a hazard 🌊 card from your hand face-down in front of one of your islands.
 - If there are already hazard cards in front of the island, the new card goes in the position furthest away from the island (closest to the pirate player).
-- Although most hazard cards have a 🟡 cost, that cost is not paid now.
-- There is no limit to how many cards may be placed in front of a single island.
-- Only hazard cards may be placed face-down. It is invalid to play other card types (e.g. event 📜 or investment 🍾 cards) as face-down hazards. See "Invalid face-down cards" below.
 
 ### 👑 Recall
 Return one of your cards that is in play (investment 🍾 or hazard 🌊) to your hand. Any 🟡 on that card are moved to your supply.
@@ -166,20 +133,14 @@ Return one of your cards that is in play (investment 🍾 or hazard 🌊) to you
 
 ### 👑 Invest
 Pay any number of 🟡 from your supply. Add a single 🟡 to the same number of your cards in play (hazards or investments).
-- This means that for each investment action you can place 🟡 on as many cards as you like, but a maximum of one 🟡 per card.
-- You may only place 🟡 on your own cards.
 
 ### ☠️ Play a ship
 Play a ship ⚓ card from your hand in front of you. You must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank.
 
 ### ☠️ Play crew
 Play any number of crew 🪝 cards from your hand into available slots on ships ⚓ in play. For each crew card you play must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank.
-- Each ship has a fixed number of crew slots. You may not add a crew to a ship if all of its slots are filled.
 
 When you take this action you may also rearrange crew 🪝 in play between crew slots on ships ⚓ in play, and you may recall any crew in play to your hand.
-- You may move crew even if their source or destination ship has 🟡 on it.
-- You may take this action to rearrange crew even if you play no new crew.
-- You may rearrange or recall crew before playing new crew (e.g. to open up a slot on a ship).
 
 ### ☠️ Raid
 The details of how a raid works are covered below in "The Raid" section.
@@ -189,22 +150,14 @@ After taking your 3 actions, draw 1 card from your deck.
 
 If you have more than 5 cards in your hand, discard 1 card from your hand into your face-up discard pile.
 
-- You only need to discard 1 card even if you still have more than 5 cards in your hand.
-
 ### Discarded cards are raided cards
 
 👑 If the crown player discards a card (through this or any other game effect), treat it as if that card had been raided. See "Raiding a card" below for details.
 
-- Most importantly, this means that if the crown player discards rum, the pirate player will score that rum.
-
 ### When your deck runs out
 👑 When the crown's deck runs out, that's it. They must make do with the cards in their hand and already in play.
 
-- As called out in the "Play investments" action, *Home Port* is now available for playing investments, just like other islands.
-
 ☠️ When the pirate's deck runs out, nothing happens until they need to draw more cards. As soon as the pirate needs to draw 1 or more cards then they flip their discard pile face-down, shuffle it, and form a new draw deck. After doing so they remove the top 5 cards of their deck from the game (return to the game box). Then (if any cards remain), they resume drawing cards.
-- Both players may look at the cards that were removed from the game.
-- If there were fewer than 5 cards, remove as many as there were available.
 
 # THE RAID
 At the center of the game is the act of the pirate raiding the crown's islands. If the pirate does not raid, the crown will eventually win.
@@ -219,22 +172,20 @@ The steps to resolve a raid are as follows:
 1. ☠️ Raid the island
 1. ☠️ Trigger crew effects
 
-For a detailed example, see "Example of a Raid" below.
+For a detailed example, see "Example of a Raid" in the full rules reference.
 
 ## 1. ☠️ CHOOSE A TARGET ISLAND
 The pirate chooses and announces one of the crown's islands as the target for the raid.
 
 ## 2. ☠️ FORM THE RAIDING PARTY
 The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate may not choose a ship that has any 🟡 on it, or a ship that has no crew 🪝 slotted into it. For each ship chosen the pirate must then place a 🟡 from their supply on the chosen ship.
-- The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
+
+The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
 
 ## 3. 👑 RAISE HAZARDS
 The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left of the card) to flip it face-up. This cost may be paid using any combination of 🟡 from the crown's supply or 🟡 on the face-down hazard card. Any 🟡 on the hazard not used to pay its cost remain on the card after it is flipped face-up.
 
 Immediately after flipping a card face-up the crown may add any additional 🟡 from their supply to the face-up hazard. The number of 🟡 on a hazard will generally affect how many uses that hazard has.
-
-- If the crown opts to not raise an individual hazard, that card remains face-down. Likewise any hazards that were already face-up remain face-up.
-- As part of this step the crown may not pay 🟡 onto hazards that were already face-up. Those can only be added later by taking the invest action or through resolving other card effects (e.g. _Royal Decree_).
 
 ## 4. ☠️ FACE HAZARDS
 The pirate then encounters the face-up hazards 🌊 (if any) one at a time, starting with the furthest away from the island that is being raided.
@@ -291,13 +242,10 @@ If the raid was unsuccessful, this step is skipped.
 ### Raiding a card
 When raiding a card reveal it to both players.
 
-If the card has a "raid" effect listed at the bottom of the card, resolve it. This may add a cost or side effect to raiding the card.
+If the card has "raid text" listed at the bottom of the card, the pirate resolves it. This may add a cost or side effect to raiding the card.
 
 Then trash the card (unless prevented by the raid effect text).
 
-- If a card has 🟡 on it, those coins remain on it while the raid effect is resolved. If a card is raided from the deck or the hand, it will naturally have zero 🟡 on it. 
-- Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as "raid text" on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
-- Raid text is read from the pirate's perspective, and any choices are made by the pirate.
 - If the raid text says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the pirate's score pile. If there are 4 total cards in the pirates's score pile, they win the game.
 
 <table>
@@ -312,26 +260,5 @@ The raid text at the bottom of this card requires that the pirate pay 🟡 equal
 ## 6. ☠️ TRIGGER CREW EFFECTS
 After a raid has ended, whether successful or not, execute the game text of all crew in the raiding party. If there are multiple crew the effects may be resolved in the order of the pirate's choosing.
 
-- Some crew effects will specify that they only trigger if the raid is successful or not.
-- Any other effects that trigger off a completed raid (such as that of _Treasure Map_) happen after all crew effects.
-
-<table>
-<tr><th>Crew effect</th><th>Event effect</th></tr>
-<tr>
-<td width="150px"><img class="card" src="rulebook/crew.png" width="150px" height="250px"/></td>
-<td width="150px"><img class="card" src="rulebook/eventPirate.png" width="150px" height="250px"/></td>
-</tr>
-</table>
-
 # END GAME
 The game ends as soon as the crown scores 4 points ⭐ of rum (via funding) or the pirate scores 4 points ⭐ cards (via raiding). Whoever hit 4 points first wins.
-
-# CLARIFICATIONS
-
-### Face-down cards
-The crown player may look at their face-down cards at any point. They do not need to memorize what they have placed down (or what started the game face-down, in their starting hazards).
-
-### Invalid face-down cards
-The crown player operates in secret, playing most of their cards face-down. That does mean it is possible (particularly for a learning player) to unintentionally place the wrong card type in the wrong place (e.g. an investment 🍾 in front of an island where only Hazards should go, or an event 📜 on an island where only Investments should go). This is an invalid play state. In a friendly game, find an agreeable way to roll back the mistake as soon as it's uncovered. Learning new games is hard; be generous!
-
-However, if a crown player intentionally does this, it's cheating. There is bluffing in this game, but not this kind of bluffing. 
