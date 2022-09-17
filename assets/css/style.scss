@@ -35,6 +35,11 @@ table.components {
   table-layout: fixed;
 }
 
+table.components img.card {
+  width: 100%;
+  object-fit: contain;
+}
+
 table.components td {
   max-width: 150px;
 }
