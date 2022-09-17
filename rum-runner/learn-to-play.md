@@ -2,6 +2,8 @@
 title: RUM RUNNER
 description: Learn to Play
 ---
+This is a succinct version of the rules you need to play _Rum Runner_. If you are seeking clarifications or more examples, try the [rules reference](rules.html).
+
 # COMPONENTS
 <table class="noBorder components">
 <tr><td><img class="card" src="rulebook/crownCard.png"/></td><td><img class="card" src="rulebook/crownRules.png"/></td><td><img class="card" src="rulebook/startingHazard.png"/></td><td><img class="card" src="rulebook/island.png"/></td></tr>
