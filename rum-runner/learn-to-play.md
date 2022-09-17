@@ -51,9 +51,10 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
 </table>
 
-### Cards: Trash and Discard
+### Cards: Trash, Discard, and Score
 - To **trash** a card place it in the owner's face-up discard pile. If there were any 🟡 on it, those are returned to the bank.
 - To **discard** a card take a card of your hand and place it in your face-up discard pile.
+- To **score** a card remove it from play (return any 🟡 on it to the bank) and add it to the player's score pile. If the total points ⭐ on cards in the player's score pile is 4 or more, they win the game.
 
 ### Coins: Add, Pay, and Remove
 - To +1🟡 (**add**) a card take a coin from the bank and place it on top of the card.
@@ -114,23 +115,17 @@ Take 2 🟡 from the bank and add it to your supply.
 
 ### Draw
 Draw cards from your deck until you have 5 cards in your hand.
-- If your deck is out of cards you may be able to replenish your deck. See "When your deck runs out" below.
 
 ### Play an event
 Play an event 📜 card from your hand into your discard pile face-up. You must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank. Execute the text on the card.
 
 ### 👑 Play investments
-Play any number of investment 🍾 cards from your hand face-down on islands in play that do not have any cards on them already.
-- If the *Home Port* island has no cards on it (your deck is empty) you may play investment cards to it.
-
+Play any number of investment 🍾 cards from your hand face-down on any islands in play that do not already have any cards on them
 ### 👑 Play a hazard
-Play a hazard 🌊 card from your hand face-down in front of one of your islands.
-- If there are already hazard cards in front of the island, the new card goes in the position furthest away from the island (closest to the pirate player).
+Play a hazard 🌊 card from your hand face-down in front of one of your islands. If there are already hazard cards in front of the island, the new card goes in the position furthest away from the island (closest to the pirate player).
 
 ### 👑 Recall
 Return one of your cards that is in play (investment 🍾 or hazard 🌊) to your hand. Any 🟡 on that card are moved to your supply.
-- If the card was face-down you do not need to reveal what it was to the pirate player.
-
 ### 👑 Invest
 Pay any number of 🟡 from your supply. Add a single 🟡 to the same number of your cards in play (hazards or investments).
 
@@ -245,8 +240,6 @@ When raiding a card reveal it to both players.
 If the card has "raid text" listed at the bottom of the card, the pirate resolves it. This may add a cost or side effect to raiding the card.
 
 Then trash the card (unless prevented by the raid effect text).
-
-- If the raid text says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the pirate's score pile. If there are 4 total cards in the pirates's score pile, they win the game.
 
 <table>
 <tr><th colspan="2">Example</th></tr>

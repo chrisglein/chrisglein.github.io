@@ -58,9 +58,10 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
 </table>
 
-### Cards: Trash and Discard
+### Cards: Trash, Discard, and Score
 - To **trash** a card place it in the owner's face-up discard pile. If there were any 🟡 on it, those are returned to the bank.
 - To **discard** a card take a card of your hand and place it in your face-up discard pile.
+- To **score** a card remove it from play (return any 🟡 on it to the bank) and add it to the player's score pile. If the total points ⭐ on cards in the player's score pile is 4 or more, they win the game.
 
 ### Coins: Add, Pay, and Remove
 - To +1🟡 (**add**) a card take a coin from the bank and place it on top of the card.
@@ -86,7 +87,6 @@ At the start the crown's turn they may flip any face-down investment cards that 
 - The crown may choose to not flip an investment, even if has funded.
 - The top half of the text on an investment card (black text on a light background) is the "funded text" and is for the crown. That is executed when the card is funded and face-up. The text immediate applies and may indicate effects that triggers every turn.
 - The bottom half of the text on an investment card (white text on a black background) is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
-- If a funded card says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the crown's score pile. If the total points ⭐ on cards in the crown's score pile is 4 or more, they win the game.
 
 <table>
 <tr><th colspan="2">Example 1</th></tr>
@@ -154,15 +154,14 @@ Draw cards from your deck until you have 5 cards in your hand.
 Play an event 📜 card from your hand into your discard pile face-up. You must pay its 🟡 cost (shown in the top left of the card) from your supply to the bank. Execute the text on the card.
 
 ### 👑 Play investments
-Play any number of investment 🍾 cards from your hand face-down on available islands in play.
+Play any number of investment 🍾 cards from your hand face-down on any islands in play that do not already have any cards on them.
 - If an island already has a card on it (either face-up or face-down), you may not add a second investment card.
 - If the *Home Port* island has no cards on it (your deck is empty) you may play investment cards to it.
 - Although most investment cards have a 🟡 cost, that cost is not paid now.
 - Only investment cards may be placed face-down. It is invalid to play other card types (e.g. event 📜 or hazard 🌊 cards) as face-down investments. See "Invalid face-down cards" below.
 
 ### 👑 Play a hazard
-Play a hazard 🌊 card from your hand face-down in front of one of your islands.
-- If there are already hazard cards in front of the island, the new card goes in the position furthest away from the island (closest to the pirate player).
+Play a hazard 🌊 card from your hand face-down in front of one of your islands. If there are already hazard cards in front of the island, the new card goes in the position furthest away from the island (closest to the pirate player).
 - Although most hazard cards have a 🟡 cost, that cost is not paid now.
 - There is no limit to how many cards may be placed in front of a single island.
 - Only hazard cards may be placed face-down. It is invalid to play other card types (e.g. event 📜 or investment 🍾 cards) as face-down hazards. See "Invalid face-down cards" below.
@@ -306,7 +305,7 @@ Then trash the card (unless prevented by the raid effect text).
 - If a card has 🟡 on it, those coins remain on it while the raid effect is resolved. If a card is raided from the deck or the hand, it will naturally have zero 🟡 on it. 
 - Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as "raid text" on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
 - Raid text is read from the pirate's perspective, and any choices are made by the pirate.
-- If the raid text says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the pirate's score pile. If there are 4 total cards in the pirates's score pile, they win the game.
+- The raid text may say to score the card, in which case it will be removed from the game and not trashed.
 
 <table>
 <tr><th colspan="2">Example</th></tr>
