@@ -198,7 +198,7 @@ Some details on hazard costs:
 <tr>
 <td style="min-height: 150px;">
 <img class="card" src="rulebook/hazard_example3.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-This hazard may be overcome by providing 3 🧭 across the raiding party's crew 🪝 and ships ⚓. For example, a raiding party containing a <em>Sloop</em>, <em>Cuthroat Carlie</em>, and <em>Enric Cursemaker</em>, from the "Example of a Raid" section below could meet this cost. If the requirement cannot be met, the raid is stopped and is unsuccessful.
+This hazard may be overcome by providing 3 🧭 across the raiding party's crew 🪝 and ships ⚓. If the requirement cannot be met, the raid is stopped and is unsuccessful.
 </td>
 </tr>
 </table>
