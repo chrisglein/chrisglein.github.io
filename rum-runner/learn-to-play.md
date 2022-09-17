@@ -78,7 +78,6 @@ At the start the crown's turn they may flip any face-down investment cards that 
 - The crown may choose to not flip an investment, even if has funded.
 - The top half of the text on an investment card (black text on a light background) is the "funded text" and is for the crown. That is executed when the card is funded and face-up. The text immediate applies and may indicate effects that triggers every turn.
 - The bottom half of the text on an investment card (white text on a black background) is “raid text” and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
-- If a funded card says to score the card, remove it from play (return any 🟡 on it to the bank) and add it to the crown's score pile. If the total points ⭐ on cards in the crown's score pile is 4 or more, they win the game.
 
 <table>
 <tr><th colspan="2">Example 1</th></tr>
