@@ -80,17 +80,7 @@ The top half of the text on an investment card (black text on a light background
 The bottom half of the text on an investment card (white text on a black background) is **raid text** and is for the pirate. It is only executed when the card is raided (see "The Raid" below).
 
 <table>
-<tr><th colspan="2">Example 1</th></tr>
-<tr>
-<td style="min-height: 250px;">
-<img class="card" src="rulebook/rum.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
-This investment requires 3 🟡 on it to be funded. When revealed as funded it will give the crown 2 of the 4 points needed to win the game, and then they may choose to shuffle their hand into their deck. If raided the pirate will score 1 point, and add 1 🟡 to each ship ⚓ that participated in the raid.
-</td>
-</tr>
-</table>
-
-<table>
-<tr><th colspan="2">Example 2</th></tr>
+<tr><th colspan="2">Example</th></tr>
 <tr>
 <td style="min-height: 250px;">
 <img class="card" src="rulebook/investment.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
@@ -191,17 +181,7 @@ Some details on hazard costs:
 - Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is encountered in the same raid then those costs will need to be met by different members of the raiding party. 
 
 <table>
-<tr><th colspan="2">Example 1</th></tr>
-<tr>
-<td style="min-height: 150px;">
-<img class="card" src="rulebook/hazard_example3.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
-This hazard may be overcome by providing 3 🧭 across the raiding party's crew 🪝 and ships ⚓. If the requirement cannot be met, the raid is stopped and is unsuccessful.
-</td>
-</tr>
-</table>
-
-<table>
-<tr><th colspan="2">Example 2</th></tr>
+<tr><th colspan="2">Example</th></tr>
 <tr>
 <td style="min-height: 150px;">
 <img class="card" src="rulebook/hazard.png" width="250px" height="150px" style="float: left; margin-right: 10px;"/>
@@ -237,15 +217,6 @@ When raiding a card reveal it to both players.
 If the card has "raid text" listed at the bottom of the card, the pirate resolves it. This may add a cost or side effect to raiding the card.
 
 Then trash the card (unless prevented by the raid effect text).
-
-<table>
-<tr><th colspan="2">Example</th></tr>
-<tr>
-<td style="min-height: 250px;"><img class="card" src="rulebook/investment.png" width="150px" height="250px" style="float: left; margin-right: 10px;"/>
-The raid text at the bottom of this card requires that the pirate pay 🟡 equal to the number of 🟡 on the investment to trash it, otherwise it remains in play.
-</td>
-</tr>
-</table>
 
 ## 6. ☠️ TRIGGER CREW EFFECTS
 After a raid has ended, whether successful or not, execute the game text of all crew in the raiding party. If there are multiple crew the effects may be resolved in the order of the pirate's choosing.
