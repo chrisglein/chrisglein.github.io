@@ -1,6 +1,7 @@
 ---
 title: DRAGON FAMILY
 description: TBD
+thumbsurl: dragon-family/media/thumbnails
 ---
 - [Rulebook](rules.html)
 - [Rulebook PDF](https://1drv.ms/b/s!AidSzKQj8MkEjsEX_9BN99cAJgFz4Q)
@@ -9,4 +10,4 @@ description: TBD
 - [Sell Sheet](https://1drv.ms/b/s!AidSzKQj8MkEjqlxogXgvnNiQ_4heA)
 
 # Gallery
-{% include gallery.html folder="dragon-family/media/images" thumbnails="dragon-family/media/thumbnails' %}
+{% include gallery.html folder="dragon-family/media/images" %}
