@@ -1,6 +1,7 @@
 ---
 title: GAMES
 description: List of game projects
+thumbsurl: media/thumbnails
 ---
 # Released
 - [Studies in Sorcery](studies-in-sorcery/index.html)
