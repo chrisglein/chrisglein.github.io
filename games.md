@@ -17,5 +17,6 @@ description: List of game projects
 - [Ark Ship](ark-ship/rules.html)
 - [Deeper](deeper/rules.html)
 - [Fridge Feast](fridge-feast/rules.html)
+- [Heist](heist/rules.html)
 - [Pixel Pusher](pixel-pusher/rules.html)
 - [Slither](slither/rules.html)
