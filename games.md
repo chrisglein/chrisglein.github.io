@@ -22,4 +22,4 @@ description: List of game projects
 - [Slither](slither/rules.html)
 
 # Gallery
-{% include gallery.html folder="rum-runner/rulebook" %}
+{% include gallery.html folder="portfolio\static\media" %}
