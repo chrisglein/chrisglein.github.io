@@ -21,8 +21,10 @@ A colony of frogs has built up a thriving community on the edge of the swamp. Bu
 3. Sort all the other tri-hexes in a face-up stack by number
 4. Sort all the matching numbered location cards by number in a face-up stack
 5. The snake places 1 tri-hex per frog player
+
   - a. For example, in a 3 player game with 2 frogs the snake would place the 1|2|3 hex and the 4|5|6 hex.
   - b. Each tri-hex must by placed so that it touches at least 2 different hex spaces
+
 **TODO: N+1?**
 6. On the building space of each tri-hex (the one without a letter) place 2 lily pad hexes
 7. The snake takes the numbered location cards that match the placed tri-hexes into their hand
