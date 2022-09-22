@@ -22,4 +22,4 @@ description: List of game projects
 - [Slither](slither/rules.html)
 
 # Gallery
-{% include gallery.html folder="portfolio\static\media" %}
+{% include gallery.html folder="portfolio/static/media" %}
