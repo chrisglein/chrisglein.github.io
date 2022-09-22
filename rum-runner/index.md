@@ -7,4 +7,4 @@ description: Pirates and the Crown compete over rum in an asymmetric card game
 - [Learn to Play](learn-to-play.html)
 
 # Gallery
-{% include gallery.html folder="rulebook" %}
+{% include gallery.html folder="rum-runner/rulebook" %}
