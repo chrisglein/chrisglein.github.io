@@ -20,3 +20,6 @@ description: List of game projects
 - [Heist](heist/rules.html)
 - [Pixel Pusher](pixel-pusher/rules.html)
 - [Slither](slither/rules.html)
+
+# Gallery
+{% include my-gallery.html folder="rum-runner/rulebook" %}
