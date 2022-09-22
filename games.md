@@ -19,7 +19,7 @@ thumbsurl: media/thumbnails
 - [Deeper](deeper/rules.html)
 - [Fridge Feast](fridge-feast/rules.html)
 - [Heist](heist/rules.html)
-- [Pixel Pusher](pixel-pusher/rules.html)
+- [Pixel Pusher](pixel-pusher/index.html)
 - [Slither](slither/rules.html)
 
 # Gallery
