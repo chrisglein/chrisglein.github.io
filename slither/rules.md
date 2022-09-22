@@ -17,7 +17,7 @@ A colony of frogs has built up a thriving community on the edge of the swamp. Bu
 # Setup
 1. Determine one player to be the snake. The other players are frogs.
 2. The frogs places the starting 2 tri-hexes (the ones with A/B and C/D on them) so that they connect.
-**TODO: Fixed starting layout**
+<mark>TODO: Fixed starting layout</mark>
 3. Sort all the other tri-hexes in a face-up stack by number
 4. Sort all the matching numbered location cards by number in a face-up stack
 5. The snake places 1 tri-hex per frog player
@@ -25,7 +25,7 @@ A colony of frogs has built up a thriving community on the edge of the swamp. Bu
   - a. For example, in a 3 player game with 2 frogs the snake would place the 1|2|3 hex and the 4|5|6 hex.
   - b. Each tri-hex must by placed so that it touches at least 2 different hex spaces
 
-**TODO: N+1?**
+<mark>TODO: N+1?</mark>
 6. On the building space of each tri-hex (the one without a letter) place 2 lily pad hexes
 7. The snake takes the numbered location cards that match the placed tri-hexes into their hand
 8. The snake creates their segments
@@ -34,8 +34,8 @@ A colony of frogs has built up a thriving community on the edge of the swamp. Bu
   - c. 1 Tail
 9. The snake choses a location card from their hand and places it face-down at the Head segment. This is their current location.
 10. For each frog player the snake player adds another location card according to the movement rules declared below.
-**TODO: N-1**
-**TODO: Clarify adjacent rules here so there’s no need to jump ahead**
+<mark>TODO: N-1</mark>
+<mark>TODO: Clarify adjacent rules here so there’s no need to jump ahead</mark>
 11. The snake takes the remaining location cards into their hand
 12. The snake takes the ability cards into their hand
 13. Each player draws a random frog ability card
@@ -62,7 +62,7 @@ If every card in the snake’s path is face-up the snake has been found out. The
 2. Draw the next tri-hex in numerical order and place it on the board so that is touching at least 2 hex spaces.
 3. Draw the matching location cards for the new tri-hex and add them to their hand.
 4. As per the setup instructures, select a location card for the Head of the path and grow that path by the number of frog players.
-**TODO: N-1**
+<mark>TODO: N-1</mark>
 5. Start a new round (skip part 3).
 
 ## 3) Snake Moves

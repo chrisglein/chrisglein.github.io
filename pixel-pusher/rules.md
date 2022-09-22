@@ -9,10 +9,10 @@ Build a machine to collect colors and combine them to make tiny pixel art master
   - <mark>Numbered 1-3 and 4-6</mark>
   - <mark>Arrows indicating direction of flow</mark>
 - 4 player machine boards
-  - **Numbered 1-6**
-  - **Reversable (6-1)**
-  - **Colored (matching score markers)**
-  - **Has storage slots**
+  - <mark>Numbered 1-6</mark>
+  - <mark>Reversable (6-1)</mark>
+  - <mark>Colored (matching score markers)</mark>
+  - <mark>Has storage slots</mark>
 - 4 player score markers
 - Colored pixel cubes
   - 20 red
@@ -24,9 +24,9 @@ Build a machine to collect colors and combine them to make tiny pixel art master
   - 10 white
 - 60 machine cards
 - 4 draft ability cards
-  - **1st to Build**
-  - **1st to Collect**
-  - **1st to Score**
+  - <mark>1st to Build</mark>
+  - <mark>1st to Collect</mark>
+  - <mark>1st to Score</mark>
 - 20 image cards
 - 1 opaque bag 
 - 1 score track board
@@ -36,7 +36,7 @@ Build a machine to collect colors and combine them to make tiny pixel art master
 2. Separate out the cyan, magenta, yellow, and white pixels into separate piles
 3. Put all the red, green, and blue pixels into the opaque bag
 4. Shuffle the machine cards to make a face-down deck
-5. **Remove 20 machine cards and place in the game box if playing with 2 players, 10 cards if 3 players.**
+5. <mark>Remove 20 machine cards and place in the game box if playing with 2 players, 10 cards if 3 players.</mark>
 6. Construct the conveyer belt
   - a. Place the conveyer belt boards so that the numbers are in sequential order (1-3, 4-6)
   - b. Drawing randomly from the bag, fill up the segments of the conveyer belt as follows with random pixels:
@@ -79,14 +79,14 @@ With the draft complete each player takes the face-down cards they drafted into 
 Starting with the “1st to Build” player, each player will add cards from their hand to their player board. Each machine card must be installed to one of the 6 available slots. If there is already a card in a slot then only a card of the same type may be installed in that slot.
 
 ### Example
-**Instead of adding a card to their machine a player may immediately take a random pixel from the bag.**
+<mark>Instead of adding a card to their machine a player may immediately take a random pixel from the bag.</mark>
 
 ## 3) COLLECT
 Starting with the “1st to Collect” player, each player attempts to remove pixels from the 1st segment of the conveyer belt. The player takes the matching color and number of pixels that are on their machine card(s) in the matching slot in their machine board. The taken pixels are placed on that player’s machine board.
 
 > IMPORTANT: If there are fewer matching pixels on the segment than that player can take, then that player takes none!
 
-**Example**
+<mark>Example</mark>
 
 Continue with the next player until each player has had one chance to collect pixels from that conveyer segment.
 
@@ -99,7 +99,7 @@ Players may activate machine cards they have installed or ability cards they hav
 
 All remaining un-stored pixels are returned to the supply. The phase is over when all players have decided which pixels to store and which to return to the supply.
 
-**Can you un-store pixels?**
+<mark>Can you un-store pixels?</mark>
 
 ## 5) SCORE
 Starting with the “1st to Score” player, each player may spend pixels they have collected to fill a scanline in one of the image cards. The scanline must not already be filled, and the player must have all of the pixels needed by that scanline. The player places their pixels on the image cards and receives the scanline’s listed number of victory points (moving their score tracker up the victory track).

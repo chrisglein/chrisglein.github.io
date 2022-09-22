@@ -78,7 +78,7 @@ The added tile must connect to at least one existing tile in your dungeon. All o
 
 After all the tiles in the central pile are gone or all players have chosen to stop building (no one wants the remaining tiles) begin the inspection phase.
 
-**TODO: Show an example built dungeon**
+<mark>TODO: Show an example built dungeon</mark>
 
 <img alt="example built dungeon"/>
 
@@ -98,7 +98,7 @@ If at any point a tile is no longer connected through a path to the dungeon entr
 | --- |
 | <img alt="example large mistake and the tiles that need to be removed"/> ❌ |
 
-Instead of removing tiles you may make replace a tile with a “patch” tile from the supply (**TODO: Add to components list**). Patch tiles are always considered valid (they may have mismatched open edges or have open edges that connect to closed edges). If you choose to take a patch tile you must return a gem token from your stash (see: Profit Phase) to the supply, if able. You may take a patch tile even if you have no gem tokens.
+Instead of removing tiles you may make replace a tile with a “patch” tile from the supply (<mark>TODO: Add to components list</mark>). Patch tiles are always considered valid (they may have mismatched open edges or have open edges that connect to closed edges). If you choose to take a patch tile you must return a gem token from your stash (see: Profit Phase) to the supply, if able. You may take a patch tile even if you have no gem tokens.
 
 ## POPULATE PHASE
 During this phase you will place tokens from the supply (and potentially your stash of gem tokens) on your dungeon. Consult the “Tiles” appendix to know which tokens go on which tiles.
@@ -125,9 +125,9 @@ Create the shared invasion deck by shuffling together a number of invader cards 
 | 4 invader cards | 4 invader cards | 5 invader cards |
 | 1 event card | 2 event cards | 2 event cards |
 
-**It’s possible to create 3 decks at setup with the ROUND I, II, II cards. Update these instructions for that. As is this section lacks mention of shuffling old invaders/events (if needed).**
+<mark>It’s possible to create 3 decks at setup with the ROUND I, II, II cards. Update these instructions for that. As is this section lacks mention of shuffling old invaders/events (if needed).</mark>
 
-Draw and reveal one card from of the invasion deck. If that card is an invader (**TODO: Invader cards should have a map icon**) also draw a card from the map deck.
+Draw and reveal one card from of the invasion deck. If that card is an invader (<mark>TODO: Invader cards should have a map icon</mark>) also draw a card from the map deck.
 
 The invader card defines who is invading the dungeon and the map card describes how they will move through the dungeon.
 
@@ -153,7 +153,7 @@ Some notes:
 - If there is ever a tie in how an invader wants to traverse your dungeon (there are two options equal distance apart) you decide how to break that tie.
 - Both gold tokens and gem tokens are considered “treasure”.
 
-**TODO: Example of resolving an invader (for now consult the video)**
+<mark>TODO: Example of resolving an invader (for now consult the video)</mark>
 
 <img alt="example"/>
 
@@ -194,13 +194,13 @@ Each player then _must_ exchange each 5 gold tokens they have into gem tokens. T
 ## DRAFT PHASE
 > Important: Skip this phase during the 3rd round.
 
-**TODO: Include picture of the special tiles laid out as for a draft**
+<mark>TODO: Include picture of the special tiles laid out as for a draft</mark>
 
 Between each round you will get new special tiles that can be added to your future dungeons. 
 1. For each player in the game deal out 1 L-shaped special tile (e.g. in a 3 player game deal out 3).
 2. For each player in the game deal out that many plus 1 I-shaped special tiles (e.g. in a 3 player game deal out 4).
 
-Count up how much gold you have (each gold token is worth 1 and each gem token is worth 5). Your total determines the reverse order you will be able to draft. The player with the least gold will go first, followed by the player with the second least gold, etc. If there is a tie **flip a coin or something**? 
+Count up how much gold you have (each gold token is worth 1 and each gem token is worth 5). Your total determines the reverse order you will be able to draft. The player with the least gold will go first, followed by the player with the second least gold, etc. If there is a tie <mark>flip a coin or something</mark>? 
 
 On your draft turn you take one of the special tiles (L-shaped or I-shaped). When everyone has taken one tile repeat the process in the same draft order so that each player ends up with 2 total new tiles. Return any remaining unchosen tiles to the game box.
 
@@ -212,9 +212,10 @@ Return any tile that were removed from the pile during the build phase or from p
 After playing all 3 rounds the winner is the player with the most gold (totaled the same way as during the draft phase). If there is a tie the player with the most gems wins. If a tie remains the players share the victory.
 
 # SINGLEPLAYER
- 	**TODO: Enter score targets and timer requirements (2:30 standard difficulty)**
+<mark>TODO: Enter score targets and timer requirements (2:30 standard difficulty)</mark>
 
 # CREDITS
+
 | | |
 | --- | --- |
 | Game Design | Chris Glein |
