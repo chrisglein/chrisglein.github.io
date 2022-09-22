@@ -6,8 +6,8 @@ Build a machine to collect colors and combine them to make tiny pixel art master
 
 # COMPONENTS
 - 2 conveyer belt boards
-  - **Numbered 1-3 and 4-6**
-  - **Arrows indicating direction of flow**
+  - ==Numbered 1-3 and 4-6==
+  - ==Arrows indicating direction of flow==
 - 4 player machine boards
   - **Numbered 1-6**
   - **Reversable (6-1)**
