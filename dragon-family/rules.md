@@ -4,8 +4,10 @@ description: Rulebook
 ---
 # SUMMARY
 Your goal is to populate the world with your brood of dragons. You will do this by exploring the world, hatching eggs, gathering your hatchling’s favorite foods to help them grow, and finally finding them a lair to call their own.
+
 # COMPONENTS
-| Town | Forest | Mountain | Ocean  |
+
+| Town | Forest | Mountain | Ocean |
 | --- | --- | --- | --- | 
 | <img src="rulebook\TileTown.png" style="max-height: 100px; clip-path: polygon(50% 4%, 94% 27%, 94% 74%, 50% 97%, 6% 74%, 6% 27%);"/> | <img src="rulebook\TileForest.png" style="max-height: 100px; clip-path: polygon(50% 4%, 94% 27%, 94% 74%, 50% 97%, 6% 74%, 6% 27%);"/> | <img src="rulebook\TileMountain.png" style="max-height: 100px; clip-path: polygon(50% 4%, 94% 27%, 94% 74%, 50% 97%, 6% 74%, 6% 27%);"/> | <img src="rulebook\TileWater.png" style="max-height: 100px; clip-path: polygon(50% 4%, 94% 27%, 94% 74%, 50% 97%, 6% 74%, 6% 27%); "/> |
 
@@ -25,6 +27,7 @@ Your goal is to populate the world with your brood of dragons. You will do this 
 20 lair stands (4 of each player color)
 
 5 large nest cards
+
 # SETUP
 1. Each player takes a nest, chooses a color, and takes all handlers and lairs of that color.
 2. Place the two-sided town tile in the center of the play area.
@@ -36,8 +39,10 @@ Your goal is to populate the world with your brood of dragons. You will do this 
 8. Randomly determine a starting player. 
 
 Starting with the first player each player takes a turn in clockwise order until the game ends.
+
 # COLOR AFFINITY 
 Each tile has a resource that it produces:
+
 | Tile | Resource |
 | --- | --- |
 | Mountain | Ruby (red) |
@@ -46,6 +51,7 @@ Each tile has a resource that it produces:
 | Town | Gold |
 
 Each dragon has a favorite food resource (and all will accept gold):
+
 | Dragon | Resource |
 | --- | --- |
 | Red | Ruby / Gold |
