@@ -46,7 +46,7 @@ At various points a crew members' abilities will be tested to determine the outc
 
 | Crisis | Crew |
 | --- | --- |
-| ![Crisis](docs/Crisis.png) | ![Crew Sheet](docs/CrewSheet.png) |
+| ![Crisis](rulebook/Crisis.png) | ![Crew Sheet](rulebook/CrewSheet.png) |
 
 Form a dice pool to make the test. For each crew participating in the test:
 1. Add a d6 to the dice pool
@@ -81,7 +81,7 @@ To gain a rank in a random trait roll a d6. Check the corresponding chart of tra
 - If that trait has already been checked choose any other on the table, or a rank in any skill.
 
 # Crew
-![Crew Sheet](docs/CrewSheet.png)
+![Crew Sheet](rulebook/CrewSheet.png)
 
 Each crew member is represented by a crew sheet.
 - Spot for picture
@@ -104,7 +104,7 @@ Each crew member is represented by a crew sheet.
 
 ### Aging
 
-![Trait](docs/Trait.png)
+![Trait](rulebook/Trait.png)
 
 If a crew's age increases to the point where they check the blue light bulb box, that crew either:
 - Gains a skill of their choice
@@ -114,13 +114,13 @@ This happens regardless of how the age was checked (e.g. can happen during initi
 
 ### Stress
 
-![Stress](docs/Stress.png)
+![Stress](rulebook/Stress.png)
 
 Crew can accumulate stress tokens as a result of skill tests or crisis cards. These tokens when gained are placed on top of the crew sheet. Each stress token increases the chance that a crew will become sick and die. Stress is generally removed via the "Recreation" ship location. 
 
 ### Life Goals
 
-![Life Goal](docs/LifeGoal.png)
+![Life Goal](rulebook/LifeGoal.png)
 
 Each crew has their own perceived single purpose in life. This is represented by a Life Goal card. These will all have some criteria for when they are revealed and when they are scored.
 
@@ -131,7 +131,7 @@ When scored check 1 box of Life Goals from the ship sheet.
 
 ### Getting Sick
 
-![Sickness](docs/Death.png)
+![Sickness](rulebook/Death.png)
 
 When a crew gains the sickness (skull) skill:
 - If both sickness boxes were already checked, that crew dies (see [Death](#Death)).
@@ -152,7 +152,7 @@ Crew may die, either due to receiving too much sickness or being killed directly
 # The ship board
 The ship board is divided into multiple locations that crew may spend time in. During the turn they will be able to take the action of the location unless it is blocked by a crisis.
 
-![Ship Location](docs/Ship.png)
+![Ship Location](rulebook/Ship.png)
 
 - Bridge
 - Comms
@@ -163,11 +163,11 @@ The ship board is divided into multiple locations that crew may spend time in. D
 
 # Ship sheet
 
-![Ship Sheet](docs/ShipSheet.png)
+![Ship Sheet](rulebook/ShipSheet.png)
 
 # Crisis cards
 
-![Crisis](docs/Crisis.png)
+![Crisis](rulebook/Crisis.png)
 
 # Turn
 1. Ship progress
@@ -214,7 +214,7 @@ See [Aging](#Aging)
 
 Throughout the game there will be a transimition that the crew is trying to decode, called **the signal**. The crew will have to move the **signal tokens** up and down to match the signal target. 
 
-![Signal](docs/Signal.png)
+![Signal](rulebook/Signal.png)
 
 ### Manipulating the Signal
 
@@ -222,7 +222,7 @@ Various abilities on the ship allow the crew to manipulate those signal tokens. 
 
 ### Waveforms
 
-![Waveform](docs/Waveform.png)
+![Waveform](rulebook/Waveform.png)
 
 One way to manipulate the signal is with a waveform.
 
@@ -240,7 +240,7 @@ When a signal has been decoded set aside the signal tokens, return the signal ca
 
 ### Planet Crisis
 
-![Planet Crisis](docs/PlanetCrisis.png)
+![Planet Crisis](rulebook/PlanetCrisis.png)
 
 Planet crisis cards work like normal crisis cards, except that succeeding at them adds signal tokens to the crisis card. The goal is to have a certain number of signal tokens on the card by the time the game ends.
 
