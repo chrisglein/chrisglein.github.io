@@ -25,13 +25,13 @@ You can differentiate rare resource cards by the icon shown in the lower left co
 <img alt="rare icon on ship card" src="rulebook\ShipLaboratory.png" style="max-height: 250px; clip-path: polygon(5% 87%, 20% 87%, 20% 97%, 5% 97%); margin-top: -220px; margin-right: -100px;"/><img alt="rare icon on crew card" src="rulebook\CrewCourier.png" style="max-height: 250px; clip-path: polygon(5% 87%, 20% 87%, 20% 97%, 5% 97%); margin-top: -220px; margin-right: -100px"/>
 
 ### SECTOR TILES
-<img alt="sector tile" src="rulebook/SectorRareGood.png" style="float: left; max-height: 100px; margin-right: 10px;"/>
+<img alt="sector tile" src="rulebook/SectorRareGood.png" style="float: left; max-height: 60px; margin-right: 10px;"/>
 Sectors are placed in a grid to form the game board. They start face-down (unexplored) but later can be turned face-up (explored).
 
 ### EXPLORATION CARDS
 These have an unexplored side (shown left) and an explored side (shown right).
 
-<img alt="unexplored sector card diagram" src="rulebook/DiagramExplorationCardUnexplored.png"/><img alt="explored sector card diagram" src="rulebook/DiagramExplorationCardExplored.png"/>
+<img alt="unexplored sector card diagram" src="rulebook/DiagramExplorationCardUnexplored.png" style="width: 35%"/><img alt="explored sector card diagram" src="rulebook/DiagramExplorationCardExplored.png" style="width: 70%"/>
 
 ### MISSION CARDS
 The primary path to victory in the game, these cards are worth victory points and will challenge your ship and crew in various different ways.
