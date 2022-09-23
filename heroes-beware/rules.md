@@ -13,26 +13,26 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 # COMPONENTS
 134 tiles
 
-| | | 
-| --- | --- |
-| <img alt="T-shaped tile"/> | <img alt="L-shaped tile"/> |
-| 4 dungeon entrance T-shaped tiles<br>(4 squares) | 9 special L-shaped tiles<br>(3 squares) |
-| <img alt="I-shaped tile"/> | <img alt="square tile"/> |
-| 18 special I-shaped tiles<br>(2 squares) | 104 square tiles<br>(1 square) |
+<table class="components">
+<tr><td><img alt="T-shaped tile"/></td><td><img alt="L-shaped tile"/></td></tr>
+<tr><td>4 dungeon entrance T-shaped tiles<br>(4 squares)</td><td>9 special L-shaped tiles<br>(3 squares)</td></tr>
+<tr><td><img alt="I-shaped tile"/></td><td><img alt="square tile"/></td></tr>
+<tr><td>18 special I-shaped tiles<br>(2 squares)</td><td>104 square tiles<br>(1 square)</td></tr>
+</table>
 
 36 cards
 
-| | | |
-| --- | --- | --- |
-| <img alt="invader card" src="rulebook/InvaderBack.png" class="card"/> | <img alt="event card back" src="rulebook/EventBack.png" class="card"/> | <img alt="map card back" src="rulebook/MapBack.png" class="card"/> |
-| 17 invader cards | 8 event cards | 11 map cards |
+<table class="components">
+<tr><td><img alt="invader card" src="rulebook/InvaderBack.png" class="card"/></td><td><img alt="event card back" src="rulebook/EventBack.png" class="card"/></td><td><img alt="map card back" src="rulebook/MapBack.png" class="card"/></tr></td>
+<tr><td>17 invader cards</td><td>8 event cards</td><td>11 map cards</td></tr>
+</table>
 
 144 tokens
 
-| | | | | |
-| --- | --- | --- | --- | --- |
-| <img alt="gold token" src="rulebook/Gold.png" style="clip-path: circle(); max-height: 50px"/> | <img alt="guard token" src="rulebook/Monster.png" style="clip-path: circle(); max-height: 50px"/> | <img alt="trap token" src="rulebook/Trap.png" style="clip-path: circle(); max-height: 50px"/> | <img alt="prisoner token" src="rulebook/Human.png" style="clip-path: circle(); max-height: 50px"/> | <img alt="gem token" src="rulebook/Gem.png" style="clip-path: circle(); max-height: 50px"/> |
-| 64 Gold | 24 Guards | 16 Traps | 16 Prisoners | 24 Gems |
+<table class="components">
+<tr><td><img alt="gold token" src="rulebook/Gold.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="guard token" src="rulebook/Monster.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="trap token" src="rulebook/Trap.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="prisoner token" src="rulebook/Human.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="gem token" src="rulebook/Gem.png" style="clip-path: circle(); max-height: 50px"/></tr></td>
+<tr><td>64 Gold</td><td>24 Guards</td><td>16 Traps</td><td>16 Prisoners</td><td>24 Gems</tr></td>
+</table>
 
 4 meeples (visual aids to help you walk through your dungeon)
 
