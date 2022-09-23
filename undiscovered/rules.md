@@ -150,10 +150,10 @@ On your turn you may in any order, and as many times as you like, do the followi
 - **Peek** at cards in your home sector
 
 When you're done:
-1.	**Discard** any cards you didn’t play
-2.	**Stock** unoccupied non-home sectors
-3.	**Draw** 3 cards
-4.	Trigger any **end of turn** effects
+1. **Discard** any cards you didn’t play
+2. **Stock** unoccupied non-home sectors
+3. **Draw** 3 cards
+4. Trigger any **end of turn** effects
 
 The details of these various actions and steps follow.
 
@@ -326,10 +326,16 @@ When a card is removed from the game you may put it back in the game box. It no 
 Some card effects may cause you to move entire sectors. When you do all cards, 🟢, and player ships on that sector move with the sector to its new location.
 
 # CREDITS
-## DESIGN
-Chris Glein	ART
+
+### GAME DESIGN
 Chris Glein
 
-## PLAYTESTERS
+### GRAPHIC DESIGN
+Chris Glein
+
+### ART
+Chris Glein
+
+### PLAYTESTERS
 MaLora Ann, Kevin Barnes, Drew Bogdan, Jeff Bogdan, Iris Bristol, Logan Buesching, Jack Caron, Joseph Z Chen, Alex Deakin, Curly Dimmick, Nathan DiPietro, Lauren Duran, Chuck Erikson, Dana Fujimoto, Elizabeth Glein, Jessica Glein, Linda Glein, Peter Glein, Tobi Grünthal, Malia Guerrero, Brian Halbert, Lane Haury, Ben Hendrickson, Edward Highfield, Phil Hoffman, Jan Karachale, Ian Kettlewell, Neil Kronlage, Emma Larkins, Jamie Littlejohn, Sarra Loew, David Lowe, Ethan Lowe, Brandon Miller, Rob Nash, Molly Nixon, Marc Paine, Tammy Paine, Brianna Potvin, Justin Pranger, Mike Roberts, Phillip Schmitte, Shawn Stankewich,  Cynthia Totten, Tom Totten, Ethan Trooskin-Zoller, Jenna Udren, Jason Vincent
 
