@@ -8,4 +8,4 @@ thumbsurl: media/thumbnails
 - [Learn to Play](learn-to-play.html)
 
 # Gallery
-{% include gallery.html folder="studies-in-sorcery/media/images" %}
+{% include gallery.html folder="rum-runner/media/images" %}
