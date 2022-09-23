@@ -166,15 +166,15 @@ When you're done:
 The details of these various actions and steps follow.
 
 ### PLAY CARDS
-<img class="smallCard" alt="starter resource 🟨" src="rulebook/StarterResourceSundries.png" style="float: right; max-height: 100px; margin-left: 10px;"/>
+<img class="smallCard" alt="starter resource 🟨" src="rulebook/StarterResourceSundries.png" style="float: right; max-height: 120px; margin-left: 10px;"/>
 
 Cards in your hand can be played to generate effects. You must fully resolve the effects of a card top to bottom before you play any other cards, activate abilities, or do anything else. Once resolved a played card is immediately placed face-up in your discard pile.
 
-<img class="smallCard" alt="crew card" src="rulebook/CrewClone.png" style="float: left; max-height: 100px; margin-right: 10px;"/>
+<img class="smallCard" alt="crew card" src="rulebook/CrewClone.png" style="float: left; max-height: 120px; margin-right: 10px;"/>
 
 Some cards generate **credits** (🟨), and will tell you this by showing the 🟨 icon. You resolve that effect by immediately taking a credit cube from the credit bank for each 🟨 symbol and adding it to your personal stash.
 
-<img class="smallCard" alt="crew card" src="rulebook/CrewCourier.png" style="float: right; max-height: 100px; margin-left: 10px"/>
+<img class="smallCard" alt="crew card" src="rulebook/CrewCourier.png" style="float: right; max-height: 120px; margin-left: 10px"/>
 
 Some cards generate **resources** (✊, 🌀). These are used to activate ship part abilities and contribute to missions. These resources are available for the duration of your turn until spent.
 
@@ -222,8 +222,8 @@ Your **home sector** is special in that you may look at face-down cards on your 
 
 Early in the game there will be exploration cards on most sectors. These all have an activated ability and will give out rewards to the player that activates them first. That reward is unknown until the card is activated.
 
-<img class="smallCard" alt="exploration card requiring credits" src="rulebook/ExplorationCredits.png" style="float: left; max-height: 100px; margin-right: 10px"/>
-<img class="smallCard" alt="exploration card granting victory points" src="rulebook/ExplorationVictory.png" style="float: right; max-height: 100px; margin-left: 10px"/>
+<img class="smallCard" alt="exploration card requiring credits" src="rulebook/ExplorationCredits.png" style="float: left; max-height: 120px; margin-right: 10px"/>
+<img class="smallCard" alt="exploration card granting victory points" src="rulebook/ExplorationVictory.png" style="float: right; max-height: 120px; margin-left: 10px"/>
 
 As the exploration card says, flip it over when its ability is activated. About half of the time this will be a victory point (🏆), and the player will take the card in a set aside score area to keep track of this. Otherwise they gain the described reward and return the exploration card to the game box. All exploration cards will flip over the sector underneath.
 
@@ -249,11 +249,11 @@ When completed, most missions will generate rewards for any runner up players. E
 
 A completed mission is worth the victory points (🏆) listed on the card. After resolving the resolution text add the mission card to the winning player’s score area to track their total 🏆.
 
-<img class="smallCard" alt="mission card" src="rulebook/MissionFirstContact.png" style="float: left; max-height: 100px; margin-right: 10px"/>
+<img class="smallCard" alt="mission card" src="rulebook/MissionFirstContact.png" style="float: left; max-width: 120px; margin-right: 10px"/>
 
 Many missions have multiple activated abilities and state that you can only activate one of them per turn. If you activate ability “A” on a turn you cannot later activate “B” on the same turn.
 
-<img class="smallCard" alt="mission card" src="rulebook/MissionInspections.png" style="float: right; max-height: 100px; margin-right: 10px"/>
+<img class="smallCard" alt="mission card" src="rulebook/MissionInspections.png" style="float: right; max-width: 120px; margin-right: 10px"/>
 
 Some missions have a banner at the top that indicates there is an effect that may apply to players even if they are not in the mission’s sector. For example a mission may trigger some effect when any player shuffles, regardless of their current location.
 
