@@ -21,6 +21,11 @@ img.tabletopLayout {
   object-fit: contain;
 }
 
+table td {
+  /* Default of baseline creates weird layout for typical image/text components */
+  vertical-align: bottom;
+}
+
 table img {
   border: initial;
   box-shadow: initial;
