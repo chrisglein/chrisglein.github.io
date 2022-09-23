@@ -31,7 +31,7 @@ It's the Age of Sail! The **crown** is distilling rum on colonized islands for e
 1. Draw a hand of 5 cards from your deck.
 
 ## ☠️ PIRATE SETUP
-1. Find the 2 starting ship cards ⚓ (they will have a ☠️ icon on them) and play them front of you.
+1. Find the 2 starting ship cards ⚓ (they will have a ☠️ icon on them) and place them front of you.
 1. Shuffle the pirate cards into a face-down deck. Leave room near the deck for a face-up discard pile.
 1. Take 5 🟡 to start your personal supply.
 1. Draw a hand of 5 cards from your deck.
@@ -58,12 +58,12 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 <tr><td>⭐</td><td>Victory point</td><td class="splitColumn"></td><td>🪝</td><td>Crew card</td></tr>
 </table>
 
-### Cards: Trash, Discard, and Score
+### Cards
 - To **trash** a card place it in the owner's face-up discard pile. If there were any 🟡 on it, those are returned to the bank.
 - To **discard** a card take a card of your hand and place it in your face-up discard pile.
 - To **score** a card remove it from play (return any 🟡 on it to the bank) and add it to the player's score pile. If the total points ⭐ on cards in the player's score pile is 4 or more, they win the game.
 
-### Coins: Add, Pay, and Remove
+### Coins
 - To +1🟡 (**add**) a card take a coin from the bank and place it on top of the card.
 - To **pay** 🟡 those coins must come from your personal supply. 
 - To **remove** 🟡 those coins are removed from a card and returned to the bank. 
@@ -72,13 +72,13 @@ There are a total of 7 rum cards in the crown's deck. Either the crown will scor
 Each player alternates taking turns, with the crown always taking the first turn.
 
 The turn phases are as follows:
-- Upkeep
+- Start turn
   - 👑 Reveal funded investments
   - ☠️ Ready ships
 - Take 3 actions
-- End of turn
+- End turn
 
-## UPKEEP
+## START TURN
 The two players start their turn differently.
 
 ### 👑 Reveal funded investments
@@ -193,7 +193,7 @@ When you take this action you may also rearrange crew 🪝 in play between crew 
 ### ☠️ Raid
 The details of how a raid works are covered below in "The Raid" section.
 
-## END OF TURN
+## END TURN
 After taking your 3 actions, draw 1 card from your deck.
 
 If you have more than 5 cards in your hand, discard 1 card from your hand into your face-up discard pile.
@@ -220,7 +220,7 @@ At the center of the game is the act of the pirate raiding the crown's islands. 
 
 Generally, a raid is started by the pirate taking an action to do so, although there are event cards that will also start a raid as part of their action (e.g. _Treasure Map_).
 
-The steps to resolve a raid are as follows:
+The 6 steps to resolve a raid are as follows:
 1. ☠️ Choose a target island
 1. ☠️ Form the raiding party
 1. 👑 Raise hazards
@@ -230,32 +230,32 @@ The steps to resolve a raid are as follows:
 
 For a detailed example, see "Example of a Raid" below.
 
-## 1. ☠️ CHOOSE A TARGET ISLAND
+## 1. ☠️ CHOOSE TARGET
 The pirate chooses and announces one of the crown's islands as the target for the raid.
 
-## 2. ☠️ FORM THE RAIDING PARTY
-The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate may not choose a ship that has any 🟡 on it, or a ship that has no crew 🪝 slotted into it. For each ship chosen the pirate must then place a 🟡 from their supply on the chosen ship.
+## 2. ☠️ FORM RAIDING PARTY
+The pirate then chooses 1 or more ships ⚓ that will join the raid. The pirate may not choose a ship that has any 🟡 on it, or a ship that has no crew 🪝 slotted into it. For each ship chosen the pirate must then pay a 🟡 from their supply onto the chosen ship.
 
 The ships that are joined to the raid and the crew on those ships are called the **raiding party**.
 
 ## 3. 👑 RAISE HAZARDS
-The crown can then raise any number of face-down hazards 🌊 that have been played in front of the target island. For each face-down hazard the crown may pay its 🟡 cost (shown in the top left of the card) to flip it face-up. This cost may be paid using any combination of 🟡 from the crown's supply or 🟡 on the face-down hazard card. Any 🟡 on the hazard not used to pay its cost remain on the card after it is flipped face-up.
+For each face-down hazard 🌊 in front of the target island the crown may pay its 🟡 cost (shown in the top left of the card) to flip it face-up. This cost may be paid using any combination of 🟡 from the crown's supply or 🟡 on the face-down hazard card. Any 🟡 on the hazard not used to pay its cost remain on the card after it is flipped face-up.
 
-Immediately after flipping a card face-up the crown may add any additional 🟡 from their supply to the face-up hazard. The number of 🟡 on a hazard will generally affect how many uses that hazard has.
+Immediately after flipping a card face-up the crown may pay additional 🟡 from their supply to the face-up hazard. The number of 🟡 on a hazard generally affects how many uses that hazard has.
 
 - If the crown opts to not raise an individual hazard, that card remains face-down. Likewise any hazards that were already face-up remain face-up.
 - As part of this step the crown may not pay 🟡 onto hazards that were already face-up. Those can only be added later by taking the invest action or through resolving other card effects (e.g. _Royal Decree_).
 
 ## 4. ☠️ FACE HAZARDS
-The pirate then encounters the face-up hazards 🌊 (if any) one at a time, starting with the furthest away from the island that is being raided.
+The pirate encounters the face-up hazards 🌊 (if any) one at a time, starting with the furthest away from the target island.
 
-Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill each of these costs. If they could pay multiple, then they choose one to pay. If they cannot pay _any_ of the hazard's costs then the raid will be unsuccessful.
+Each hazard has one or more costs listed at the bottom of the card. The pirate checks to see if they can fulfill each of these costs. If they could pay multiple, then they choose one to pay. If they cannot pay _any_ of the hazard's costs then the raid will be **stopped**.
 
 Some details on hazard costs:
 - If the pirate can pay one of a hazard's costs then they must, _even if they don't want to_. 
 - Hazard costs are read from the pirate's perspective, and any choices are made by the pirate. For example, if the pirate player is asked to trash crew, the pirate player would choose which crew.
 - Only members of the raiding party can be affected by the hazard. You may not pay hazard costs with other ships or crew (unless specified otherwise by the cards in play).
-- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are resources that are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is encountered in the same raid then those costs will need to be met by different members of the raiding party. 
+- Many hazards require skills like **navigation** (🧭) or **combat** (⚔). These are provided by the raiding party. To meet a requirement for 🧭🧭, for example, the pirate player could source that from a combination of a ship (their _Sloop_) and one of its crew (_Stinky Pete_). Each ship or crew skill icon can only be used once per raid, so if a second hazard is encountered in the same raid then those costs will need to be met by different members of the raiding party. 
 
 <table>
 <tr><th colspan="2">Example 1</th></tr>
@@ -278,32 +278,30 @@ This hazard may be overcome by either discarding 2 cards or by trashing a crew �
 </table>
 
 After a hazard has been evaluated (either successfully or unsuccessfully) check if the hazard has any 🟡 on it.
-- If it has one or more 🟡, return one of its 🟡 to the bank.
+- If it has one or more 🟡, remove one 🟡 (to the bank).
 - If it has no 🟡, trash the hazard card.
 
 The hazard is now resolved.
-- If the pirate was unable to pay one of the hazard's costs then the raid is stopped (and is **unsuccessful**).
+- If the pirate was unable to pay one of the hazard's costs then the raid is **stopped**.
 - If one of the ships in the raiding party no longer has any crew then that ship is no longer part of the raiding party.
-- If there are no ships in the raiding party then the raid is stopped (and is **unsuccessful**).
+- If there are no ships in the raiding party then the raid is **stopped**.
 
-If the raid has not been stopped this process continues with the next face-up hazard closest to the island, then the next, until no more remain.
+If the raid has not been stopped this process continues with the next face-up hazard closest to the island, then the next, until no more remain. When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
 
-When all face-up hazards have been resolved and the raid was not stopped the raid is considered **successful**.
+## 5. ☠️ RAID ISLAND
 
-## 5. ☠️ RAIDING THE ISLAND
-If the raid was unsuccessful, this step is skipped.
-
-- If there is a single card on the island, raid that card.
+If the raid was successful:
+- If there one card on the island, raid that card.
 - If there are multiple cards in a deck on the island (e.g. _Home Port_), then raid the top card of that deck.
-- If there are no cards on the island, and it is _Home Port_, and the crown has 1 more cards in their hand, then raid a card chosen randomly from the crown’s hand.
+- If there are no cards on the island, and it is _Home Port_, and the crown has 1 or more cards in their hand, then raid a card chosen randomly from the crown’s hand.
 - Otherwise, no card is raided (but the raid is still considered successful).
 
 ### Raiding a card
 When raiding a card reveal it to both players.
 
-If the card has "raid text" listed at the bottom of the card, the pirate resolves it. This may add a cost or side effect to raiding the card.
+If the card has "raid text" listed at the bottom of the card, the pirate executes it. This may add a cost or side effect to raiding the card.
 
-Then trash the card (unless prevented by the raid effect text).
+Then trash the card (unless prevented by the raid text).
 
 - If a card has 🟡 on it, those coins remain on it while the raid effect is resolved. If a card is raided from the deck or the hand, it will naturally have zero 🟡 on it. 
 - Hazard 🌊 cards have costs that may occur during a raid, but these are not the same as "raid text" on investment 🍾 cards. When raided hazard cards will simply be trashed with no additional effects.
@@ -319,7 +317,7 @@ The raid text at the bottom of this card requires that the pirate pay 🟡 equal
 </tr>
 </table>
 
-## 6. ☠️ TRIGGER CREW EFFECTS
+## 6. ☠️ CREW EFFECTS
 After a raid has ended, whether successful or not, execute the game text of all crew in the raiding party. If there are multiple crew the effects may be resolved in the order of the pirate's choosing.
 
 - Some crew effects will specify that they only trigger if the raid is successful or not.
