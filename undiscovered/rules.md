@@ -50,15 +50,15 @@ The primary path to victory in the game, these cards are worth victory points an
 <img alt="setup diagram, bottom player" src="rulebook/DiagramSetupBottomPlayer.png" style="width: 100%"/>
 
 1. Each player selects a color and takes their starting components:
-- A rules reminder card
-- A pawn of their color that represents their position in space
-- 12 mission markers (🟢) of their color
-- A home planet sector tile of their color (these are double sided to be easier to find)
-- A set of starter ship parts: "Engines", “Cargo Hold", and “Bridge” (these are also double sided).
+  - A rules reminder card
+  - A pawn of their color that represents their position in space
+  - 12 mission markers (🟢) of their color
+  - A home planet sector tile of their color (these are double sided to be easier to find)
+  - A set of starter ship parts: "Engines", “Cargo Hold", and “Bridge” (these are also double sided).
 
 <img class="card" alt="engines" src="rulebook/StarterShipEngines.png" style="width: 32%; margin-right: 5px;"/><img class="card" alt="cargo hold" src="rulebook/StarterShipCargoHold.png" style="width: 32%; margin-right: 5px;"/><img class="card" alt="bridge" src="rulebook/StarterShipBridge.png" style="width: 32%"/>
 
-- A deck of 9 starter resource cards:
+  - A deck of 9 starter resource cards:
 
 Each player’s starter deck can be found by gathering up all cards with the same player icon in the corner (🙍‍♂️, 👨‍👧, 👨‍👨‍👦, 👨‍👩‍👧‍👦). They have differences that are only cosmetic.
 
@@ -66,20 +66,20 @@ Each player’s starter deck can be found by gathering up all cards with the sam
 
 Note that the starter cards have the same back as other cards but have an icon in the lower left corner and do not have a cost. Do not shuffle them into the common goods deck.
 
-3. Return any remaining unused starter cards, player pawns, mission markers, rules reminder cards, and home sectors to the game box.
+2. Return any remaining unused starter cards, player pawns, mission markers, rules reminder cards, and home sectors to the game box.
 
-4. Separate all of the resource cards into two decks based on the indicator in the lower left corner. Those marked with the rare icon will go together to form the “rare goods” deck; the rest will be the “common goods” deck.
+3. Separate all of the resource cards into two decks based on the indicator in the lower left corner. Those marked with the rare icon will go together to form the “rare goods” deck; the rest will be the “common goods” deck.
 
 > For your first game if you have experience with deck building games or collectible card games you’ll jump into all this no problem. But if you don’t, or if any of this sounds intimidating, for a simpler experience we recommend you return the rare goods cards back to the game box. Whenever a card refers to the “rare goods” deck use the common goods deck instead.
 
-5. Shuffle cards to create these face-down decks:
+4. Shuffle cards to create these face-down decks:
   - The common goods deck
   - The rare goods deck (place the “RARE GOODS” two-sided card on top of this deck to differentiate it from the common goods deck)
   - The mission deck
   - The exploration deck
   - Each player's starting deck
 
-6. Create the galaxy
+5. Create the galaxy
   - **2 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 3 from the “mission” pile and deal 4 from the other pile. Shuffle these together to form a sector draw pile.
   - **3 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 4 from the “mission” pile and deal 6 from the other pile. Shuffle these together to form a sector draw pile.
   - **4 player game**: Shuffle all remaining (non-home) sector tiles together to form a sector draw pile.
@@ -127,19 +127,19 @@ Note that the starter cards have the same back as other cards but have an icon i
 </tr>
 </table>
 
-- Place an exploration card on each non-home sector with the reward side face-down (without looking at the reward side). Return any remaining exploration cards to the game box. 
-- Stock each home planet sector with face-down cards (6 cards from the common goods deck). 
+  - Place an exploration card on each non-home sector with the reward side face-down (without looking at the reward side). Return any remaining exploration cards to the game box. 
+  - Stock each home planet sector with face-down cards (6 cards from the common goods deck). 
 
 <img alt="diagram of stocked sectors" src="rulebook/DiagramStockedSectors.png" style="width: 100%"/>
 
-7. Each player:
+6. Each player:
   - Receives 6 credit cubes (🟨) to form their personal stash
   - Places their pawn on their home sector
   - Draws 3 cards
 
-8. Put the remaining credit cubes (🟨) somewhere within reach of all players to create a credit bank.
+7. Put the remaining credit cubes (🟨) somewhere within reach of all players to create a credit bank.
 
-9. Randomly determine a starting player.
+8. Randomly determine a starting player.
 
 > Optional: The rules reminder cards can be shuffled to determine the 1st, 2nd, 3rd, and 4th players.
 
