@@ -3,34 +3,34 @@ title: DEEPER
 description: Rulebook
 ---
 # Setup
-<img alt="fabricator card"/><img alt="hatch card"/><img alt="storage card"/>
+<img class="card" alt="fabricator card" src="rulebook/Fabricator.png"/><img class="card" alt="hatch card" src="rulebook/Hatch.png"/><img class="card" alt="storage card" src="rulebook/Storage.png"/>
 
 1. Each player takes a “Fabricator”, “Hatch”, and “Storage” card. These form their starting habitat.
 
-<img alt="radio card"/>
+<img class="card" alt="radio card" src="rulebook/Radio.png"/>
 
 2. Each player takes a “Radio” card. This forms their starting hand.
 
-<img alt="lungs/inventory player board"/>
+<img class="card" alt="lungs/inventory player board" src="rulebook/LungsInventory.png"/>
 
 3. Each player takes a large “Lungs/Inventory” player board
   - 3.1. Cover up 2 columns of “Lungs” with the “Rebreather” and “Air Tank” tiles
   - 3.2. Cover up 2 columns of “Inventory” with the “Swim Bag” and “Back Pack” tiles
 
-<img alt="upgrades player board"/>
+<img class="card" alt="upgrades player board" src="rulebook/Upgrades.png"/>
 
 4. Each player takes a large “Upgrades” player board
   - 4.1. Cover up “Fins”, “Knife”, and “Sea Glide” with the corresponding tiles
   - 4.2. Cover up the “Explore” milestones with the corresponding “40m”, “60m”, “80m”, and “100m” tiles
 
-<img alt="actions player aid card"/>
+<img class="card" alt="actions player aid card" src="rulebook/Actions.png"/>
 
 5. Optionally each player may take an “Actions” player aid card
 6. Give each player 4 air tokens, which they place on their “Lungs” grid.
 
 | 20m | 40m | 60m | 80m | 100m |
 | --- | --- | --- | --- | --- |
-| <img alt="20 meter tiles"/> | <img alt="40 meter tiles"/> | <img alt="60 meter tiles"/> | <img alt="80 meter tiles"/> | <img alt="100 meter tiles"/> |
+| <img alt="20 meter tiles" src="rulebook/20m.png"/> | <img alt="40 meter tiles" src="rulebook/40m.png"/> | <img alt="60 meter tiles" src="rulebook/60m.png"/> | <img alt="80 meter tiles" src="rulebook/80m.png"/> | <img alt="100 meter tiles" src="rulebook/100m.png"/> |
 
 7. Separate all hex tiles into different stacks separated by depth (20m, 40m, etc.)
 8. Shuffle each hex tile stack.
@@ -88,7 +88,7 @@ While in your habitat you may use any of your built cards (including your “Fab
 ### Craft
 While in your habitat you may pay resources (from a combination of your “Inventory” and your “Storage”) to build habitat cards or rocket cards.
 
-<img alt="garden habitat card"/> <img alt="scanner habitat card"/> <img alt="reactor habitat card"/>
+<img class="card" alt="garden habitat card" src="rulebook/Craft1.png"/> <img class="card" alt="scanner habitat card" src="rulebook/Craft2.png"/> <img class="card" alt="reactor habitat card" src="rulebook/Craft3.png"/>
      
 The resources required are listed at the top of the card. Once built the card goes in front of you. It will be worth victory points equal to the starred number at the bottom of the card, and generally it will also have an ability.
 
