@@ -86,7 +86,7 @@ Note that the starter cards have the same back as other cards but have an icon i
   - Place each player's home sector and a deal out a number of other random sectors face-down from the sector draw pile according to the number of players (see below). Return any remaining sector tiles to the game box. 
 
 <table>
-<tr><th>2 PLAYERS</th><th>3 PLAYERS</th><th>4 PLAYERS</th></tr>
+<tr><th>2 PLAYERS</th><th>3 PLAYERS</th></tr>
 
 <tr>
 
@@ -106,6 +106,14 @@ Note that the starter cards have the same back as other cards but have an icon i
 <tr><td>____</td><td>____</td><td>____</td></tr>
 </table>
 </td>
+
+</tr>
+</table>
+
+
+<table>
+<tr><th>4 PLAYERS</th></tr>
+<tr>
 
 <td>
 <table>
