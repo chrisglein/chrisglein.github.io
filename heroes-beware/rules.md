@@ -14,9 +14,9 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 134 tiles
 
 <table class="components">
-<tr><td><img alt="T-shaped tile" src="rulebook/TileT.png"/></td><td><img alt="L-shaped tile" src="rulebook/TileL.png"/></td></tr>
+<tr><td><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 50%"/></td><td><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 50%"/></td></tr>
 <tr><td>4 dungeon entrance T-shaped tiles<br>(4 squares)</td><td>9 special L-shaped tiles<br>(3 squares)</td></tr>
-<tr><td><img alt="I-shaped tile" src="rulebook/TileI.png"/></td><td><img alt="square tile" src="rulebook/TileSquare.png"/></td></tr>
+<tr><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 50%"/></td><td><img alt="square tile" src="rulebook/TileSquare.png" style="width: 50%"/></td></tr>
 <tr><td>18 special I-shaped tiles<br>(2 squares)</td><td>104 square tiles<br>(1 square)</td></tr>
 </table>
 
@@ -71,32 +71,32 @@ The added tile must connect to at least one existing tile in your dungeon. All o
 - You cannot match an open edge to a closed edge.
 - You cannot match an open tunnel edge (cavern, small) to an open hallway edge (dungeon, large).
 
-| | |
+| ✔️ | ❌ |
 | --- | --- |
-| <img alt="cavern matching open edges" src="rulebook/DiagramMatchedOpen.png"/> ✔️ | <img alt="cavern mis-connected to dungeon edge" src="rulebook/DiagramMismatchOpen.png"/> ❌ |
-| <img alt="adjacent cavern and dungeon closed edges" src="rulebook/DiagramMismatchClosed.png"/> ✔️ | <img alt="open edge adjacent to closed edge" src="rulebook/DiagramOpenToClosed.png"/> ❌ |
+| <img alt="cavern matching open edges" src="rulebook/DiagramMatchedOpen.png" style="width: 50%"/> | <img alt="cavern mis-connected to dungeon edge" src="rulebook/DiagramMismatchOpen.png" style="width: 50%"/> |
+| <img alt="adjacent cavern and dungeon closed edges" src="rulebook/DiagramMismatchClosed.png" style="width: 50%"/> | <img alt="open edge adjacent to closed edge" src="rulebook/DiagramOpenToClosed.png" style="width: 50%"/> |
 
 After all the tiles in the central pile are gone or all players have chosen to stop building (no one wants the remaining tiles) begin the inspection phase.
 
 <mark>TODO: Show an example built dungeon</mark>
 
-<img alt="example built dungeon" src="rulebook/ExampleInvasion.png"/>
+<img alt="example built dungeon" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
 
 ## INSPECTION PHASE
 Take this opportunity to look at your neighbor’s dungeons. It’s possible they have made mistakes during the build phase and have tiles that are invalidly placed (e.g. have mismatched open edges).
 
 
-| |
+| ❌ |
 | --- |
-| <img alt="example mistake (cavern mis-connected to dungeon)" src="rulebook/DiagramMismatchOpen.png"/> ❌ |
+| <img alt="example mistake (cavern mis-connected to dungeon)" src="rulebook/DiagramMismatchOpen.png" style="width: 50%"/> |
 
 If a mistake is discovered in your dungeon, you must choose and remove tiles from your dungeon until there are no longer any invalid tiles.
 
 If at any point a tile is no longer connected through a path to the dungeon entrance that tile is invalid removed from the dungeon.
 
-| |
+| ❌ |
 | --- |
-| <img alt="example large mistake and the tiles that need to be removed" src="rulebook/DiagramLargeError.png"/> ❌ |
+| <img alt="example large mistake and the tiles that need to be removed" src="rulebook/DiagramLargeError.png" style="width: 100%"/> |
 
 Instead of removing tiles you may make replace a tile with a “patch” tile from the supply (<mark>TODO: Add to components list</mark>). Patch tiles are always considered valid (they may have mismatched open edges or have open edges that connect to closed edges). If you choose to take a patch tile you must return a gem token from your stash (see: Profit Phase) to the supply, if able. You may take a patch tile even if you have no gem tokens.
 
@@ -155,7 +155,7 @@ Some notes:
 
 <mark>TODO: Example of resolving an invader (for now consult the video)</mark>
 
-<img alt="example" src="rulebook/ExampleInvasion.png"/>
+<img alt="example" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
 
 ### TOKEN EFFECTS
 As the invader moves through the dungeon they encounter each square. If there is a token in that square something happens:
@@ -226,19 +226,19 @@ After playing all 3 rounds the winner is the player with the most gold (totaled 
 
 | Tile | Description |
 | --- | --- |
-| <img alt="entrance tile" src="rulebook/EntrancePart1.png"/> | **Entrance**<br>Invaders will start on this tile. |
-| <img alt="treasure tile" src="rulebook/DungeonDeadEndTreasure.png"/> | **Treasure**<br>Starts the round with a gold token.<br>May alternatively be used to store a gem token. |
-| <img alt="campfire tile" src="rulebook/CavernStraightMonster.png"/> | **Campfire**<br>Starts the round with a guard token. |
-| <img alt="trap tile" src="rulebook/CavernForkTrap.png"/> | **Trap**<br>Starts the round with a trap token. |
-| <img alt="ore tile" src="rulebook/CavernDeadEndOre.png"/> | **Ore Vein**<br>Starts the round with 2 gold tokens on it if there is a path with 5 or more squares between it and the dungeon entrance (not including the entrance square or the ore square) |
-| <img alt="cell tile" src="rulebook/DungeonDeadEndCell.png"/> | **Cell**<br>Whenever an invader is defeated you place a prisoner token on one of your cell tiles that does not already have a prisoner token. These tokens may be ransomed at the end of the round for 2 gold each. |
+| <img class="tile" alt="entrance tile" src="rulebook/EntrancePart1.png"/> | **Entrance**<br>Invaders will start on this tile. |
+| <img class="tile" alt="treasure tile" src="rulebook/DungeonDeadEndTreasure.png"/> | **Treasure**<br>Starts the round with a gold token.<br>May alternatively be used to store a gem token. |
+| <img class="tile" alt="campfire tile" src="rulebook/CavernStraightMonster.png"/> | **Campfire**<br>Starts the round with a guard token. |
+| <img class="tile" alt="trap tile" src="rulebook/CavernForkTrap.png"/> | **Trap**<br>Starts the round with a trap token. |
+| <img class="tile" alt="ore tile" src="rulebook/CavernDeadEndOre.png"/> | **Ore Vein**<br>Starts the round with 2 gold tokens on it if there is a path with 5 or more squares between it and the dungeon entrance (not including the entrance square or the ore square) |
+| <img class="tile" alt="cell tile" src="rulebook/DungeonDeadEndCell.png"/> | **Cell**<br>Whenever an invader is defeated you place a prisoner token on one of your cell tiles that does not already have a prisoner token. These tokens may be ransomed at the end of the round for 2 gold each. |
 
 ## SPECIAL TILES
 The following tiles only appear on special tiles which are drafted between rounds 1 and 2 and rounds 2 and 3:
 
 | Tile | Description |
 | --- | --- |
-| <img alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Starts the round with 1 gem token if there is a path with 10 or more squares between it and the dungeon entrance (not including the entrance square or the gem square) |
-| <img alt="mess hall tile" src="rulebook/SpecialDungeonMessHall.png"/> | **Mess Hall**<br>Starts the round with a guard token.<br>At the end of the populate phase you may move guard tokens from anywhere in your dungeon to any adjacent connected squares to a Mess Hall square. |
-| <img alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your dungeon (or is defeated) you may add one guard token to a Campfire tile that has no open edges (e.g. following the same rules as the Populate Phase). |
+| <img class="tile" alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Starts the round with 1 gem token if there is a path with 10 or more squares between it and the dungeon entrance (not including the entrance square or the gem square) |
+| <img class="tile" alt="mess hall tile" src="rulebook/SpecialDungeonMessHall.png"/> | **Mess Hall**<br>Starts the round with a guard token.<br>At the end of the populate phase you may move guard tokens from anywhere in your dungeon to any adjacent connected squares to a Mess Hall square. |
+| <img class="tile" alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your dungeon (or is defeated) you may add one guard token to a Campfire tile that has no open edges (e.g. following the same rules as the Populate Phase). |
 

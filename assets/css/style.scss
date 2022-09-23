@@ -9,6 +9,12 @@ img.card {
   max-height: 250px;
   margin: -10px;
 }
+img.tile {
+  clip-path: inset(10px round 0.25em);
+  max-width: 150px;
+  max-height: 150px;
+  margin: -10px;
+}
 
 img.tabletopLayout {
   width: 100%;
