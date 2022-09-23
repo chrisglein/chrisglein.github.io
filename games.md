@@ -16,7 +16,7 @@ thumbsurl: media/thumbnails
 
 # Prototypes
 - [Ark Ship](ark-ship/rules.html)
-- [Deeper](deeper/rules.html)
+- [Deeper](deeper/index.html)
 - [Fridge Feast](fridge-feast/rules.html)
 - [Heist](heist/rules.html)
 - [Pixel Pusher](pixel-pusher/index.html)
