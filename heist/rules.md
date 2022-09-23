@@ -55,7 +55,7 @@ There are a set of jobs that you all are looking to pull off. Each job can only 
 
 # YOUR IDENTITY
 
-<img class="card" alt="identity" src="rulebook/Identity.png"/><img class="card" alt="secret" src="rulebook/Secret.png"/>
+<img class="card" alt="identity" src="rulebook/Identity.png" style="max-width: 350px;"/><img class="card" alt="secret" src="rulebook/Secret.png"/>
 
 You start the game with an identity card that provides your starting talents. There are 3 talents:
 	 
@@ -72,7 +72,7 @@ Players each take a turn in clockwise order. On your turn choose a job and place
 
 ## FACING AN OBSTACLE
 
-<img class="card" alt="obstacle card" style="float: left;" src="rulebook/Obstacle.png"/>
+<img class="card" alt="obstacle card" style="float: right;" src="rulebook/Obstacle.png"/>
 
 Each obstacle may have the following elements:
 - One or more required talents with a target number
