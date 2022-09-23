@@ -14,9 +14,9 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 134 tiles
 
 <table class="components">
-<tr><td><img alt="T-shaped tile"/></td><td><img alt="L-shaped tile"/></td></tr>
+<tr><td><img alt="T-shaped tile" src="rulebook/TileT.png"/></td><td><img alt="L-shaped tile" src="rulebook/TileL.png"/></td></tr>
 <tr><td>4 dungeon entrance T-shaped tiles<br>(4 squares)</td><td>9 special L-shaped tiles<br>(3 squares)</td></tr>
-<tr><td><img alt="I-shaped tile"/></td><td><img alt="square tile"/></td></tr>
+<tr><td><img alt="I-shaped tile" src="rulebook/TileI.png"/></td><td><img alt="square tile" src="rulebook/TileSquare.png"/></td></tr>
 <tr><td>18 special I-shaped tiles<br>(2 squares)</td><td>104 square tiles<br>(1 square)</td></tr>
 </table>
 
@@ -73,14 +73,14 @@ The added tile must connect to at least one existing tile in your dungeon. All o
 
 | | |
 | --- | --- |
-| <img alt="cavern matching open edges"/> ✔️ | <img alt="cavern mis-connected to dungeon edge"/> ❌ |
-| <img alt="adjacent cavern and dungeon closed edges"/> ✔️ | <img alt="open edge adjacent to closed edge"/> ❌ |
+| <img alt="cavern matching open edges" src="rulebook/DiagramMatchedOpen.png"/> ✔️ | <img alt="cavern mis-connected to dungeon edge" src="rulebook/DiagramMismatchOpen.png"/> ❌ |
+| <img alt="adjacent cavern and dungeon closed edges" src="rulebook/DiagramMismatchClosed.png"/> ✔️ | <img alt="open edge adjacent to closed edge" src="rulebook/DiagramOpenToClosed.png"/> ❌ |
 
 After all the tiles in the central pile are gone or all players have chosen to stop building (no one wants the remaining tiles) begin the inspection phase.
 
 <mark>TODO: Show an example built dungeon</mark>
 
-<img alt="example built dungeon"/>
+<img alt="example built dungeon" src="rulebook/ExampleInvasion.png"/>
 
 ## INSPECTION PHASE
 Take this opportunity to look at your neighbor’s dungeons. It’s possible they have made mistakes during the build phase and have tiles that are invalidly placed (e.g. have mismatched open edges).
@@ -88,7 +88,7 @@ Take this opportunity to look at your neighbor’s dungeons. It’s possible the
 
 | |
 | --- |
-| <img alt="example mistake (cavern mis-connected to dungeon)"/> ❌ |
+| <img alt="example mistake (cavern mis-connected to dungeon)" src="rulebook/DiagramMismatchOpen.png"/> ❌ |
 
 If a mistake is discovered in your dungeon, you must choose and remove tiles from your dungeon until there are no longer any invalid tiles.
 
@@ -96,20 +96,20 @@ If at any point a tile is no longer connected through a path to the dungeon entr
 
 | |
 | --- |
-| <img alt="example large mistake and the tiles that need to be removed"/> ❌ |
+| <img alt="example large mistake and the tiles that need to be removed" src="rulebook/DiagramLargeError.png"/> ❌ |
 
 Instead of removing tiles you may make replace a tile with a “patch” tile from the supply (<mark>TODO: Add to components list</mark>). Patch tiles are always considered valid (they may have mismatched open edges or have open edges that connect to closed edges). If you choose to take a patch tile you must return a gem token from your stash (see: Profit Phase) to the supply, if able. You may take a patch tile even if you have no gem tokens.
 
 ## POPULATE PHASE
 During this phase you will place tokens from the supply (and potentially your stash of gem tokens) on your dungeon. Consult the “Tiles” appendix to know which tokens go on which tiles.
 
-<img alt="example of placing tokens only tiles with no open edges"/>
+<img alt="example of placing tokens only tiles with no open edges" src="rulebook/DiagramPopulate.png"/>
 
 > Important: Tiles that have an open edge do not receive any tokens.
 
 You may have gem and gold tokens leftover in your stash from previous rounds. The gem tokens must be stored in your dungeon or they are lost. They may be placed on dungeon treasure tiles instead of placing a gold token there.
 
-<img alt="placing a gem on a chest tile"/>
+<img alt="placing a gem on a chest tile" src="rulebook/DiagramPopulateGem.png"/>
 
 If you do not have a valid tile to place your gem token on you may instead exchange the gem token for a guard token from the supply and place that guard token on any square of your dungeon that does not already have a guard token.
 
@@ -155,7 +155,7 @@ Some notes:
 
 <mark>TODO: Example of resolving an invader (for now consult the video)</mark>
 
-<img alt="example"/>
+<img alt="example" src="rulebook/ExampleInvasion.png"/>
 
 ### TOKEN EFFECTS
 As the invader moves through the dungeon they encounter each square. If there is a token in that square something happens:
