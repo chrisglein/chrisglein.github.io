@@ -1,6 +1,7 @@
 ---
 title: STUDIES IN SORCERY
 description: TBD
+thumbsurl: media/thumbnails
 ---
 - [pitchVideo](https://www.youtube.com/watch?v=45JW44CnKDY)
 - [howToPlayVideo](https://www.youtube.com/watch?v=L23Nj6Aqalk)
@@ -9,3 +10,6 @@ description: TBD
 - [bgg](https://boardgamegeek.com/boardgame/286790/studies-sorcery)
 - [publisher](https://weird-giraffe-games.square.site/studies-in-sorcery)
 - [buy](https://weird-giraffe-games.square.site/product/studies-in-sorcery/106)
+
+# Gallery
+{% include gallery.html folder="studies-in-sorcery/media/images" %}
