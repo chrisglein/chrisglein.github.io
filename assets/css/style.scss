@@ -37,7 +37,7 @@ table.components {
   table-layout: fixed;
 }
 
-table.components img.card {
+table.components td:not(.componentDescription) img {
   width: 100%;
   object-fit: contain;
 }
