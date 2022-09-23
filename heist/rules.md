@@ -9,22 +9,23 @@ Modifier tokens
 
 | | | | | | |
 | --- | --- | --- | --- | --- | --- |  
-| <img alt="blue +4/+2 modifier token"/> | <img alt="green +2/+1 modifier token"/> | <img alt="yellow +1/-1 modifier token"/> | <img alt="orange -1/-2 modifier token"/> | <img alt="red -2/-4 modifier token"/> | <img alt="purple +3/-3 modifier token"/> |
+| <img alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/> | <img alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/> | <img alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/> | <img alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/> | <img alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/> |
+| <img alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/> | <img alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/> | <img alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/> | <img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/> | <img alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/> | <img alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/> |
 | x7 | x9 | x12 | x9 | x7 | x6 |
 
 | | |
 | --- | --- |
-| <img alt="identity card"/> | <img alt="job card"/> |
+| <img class="card" alt="identity card" src="rulebook/Identity.png"/> | <img class="card" alt="job card" src="rulebook/Job.png"/> |
 | 7 identity cards | 5 job cards |
 
 | | | |
 | --- | --- | --- |
-| <img alt="secret card"/> | <img alt="assist card"/> | <img alt="trick card"/> |
+| <img class="card" alt="secret card" src="rulebook/Secret.png"/> | <img class="card" alt="assist card" src="rulebook/Assist.png"/> | <img class="card" alt="trick card" src="rulebook/Trick.png"/> |
 | 15 secret cards | 44 assist cards | 34 trick cards |
 
 | | | |
 | --- | --- | --- |
-| <img alt="obstacle card"/> | <img alt="rules reminder card"/> | <img alt="bag"/> |
+| <img class="card" alt="obstacle card" src="rulebook/Obstacle.png"/> | <img class="card" alt="rules reminder card"/> | <img alt="bag"/> |
 | 28 obstacle cards | 4 rules reminder cards | <mark>Active job marker</mark><br><mark>Police track card</mark><br>1 opaque bag |
 
 # SETUP
@@ -36,13 +37,13 @@ Modifier tokens
 
 | yellow | red | purple |
 | --- | --- | -- |
-| <img alt="yellow +1 modifier token"/> | <img alt="red -2 modifier token"/> | <img alt="purple +3 modifier token"/> |
+| <img alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
 
 6. For each additional player in the game beyond the first, add the following combination of tokens to the bag:
 
 | yellow | yellow | orange |
 | --- | --- | -- |
-| <img alt="yellow +1 modifier token"/> | <img alt="yellow +1 modifier token"/> | <img alt="orange -1 modifier token"/> |
+| <img alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
 
 7. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the police track.
 8. Shuffle the resource deck.
@@ -54,13 +55,13 @@ There are a set of jobs that you all are looking to pull off. Each job can only 
 
 # YOUR IDENTITY
 
-<img alt="identity"/><img alt="secret"/>
+<img class="card" alt="identity" src="rulebook/Identity.png"/><img class="card" alt="secret" src="rulebook/Secret.png"/>
 
 You start the game with an identity card that provides your starting talents. There are 3 talents:
 	 
 | Agility | Charm | Skill |
 | --- | --- | --- |
-| <img alt="agility icon"/> | <img alt="charm icon"/> | <img alt="skill icon"/> |
+| <img alt="agility icon" src="rulebook/Agility.png"/> | <img alt="charm icon" src="rulebook/Charm.png"/> | <img alt="skill icon" src="rulebook/Skill.png"/> |
 
 The number of icons you have of a particular talent is your talent score. For example, the Cat Burglar starts with 2 Agility and 1 Skill.
 
@@ -71,7 +72,7 @@ Players each take a turn in clockwise order. On your turn choose a job and place
 
 ## FACING AN OBSTACLE
 
-<img alt="obstacle card" style="float: left;"/>
+<img class="card" alt="obstacle card" style="float: left;" src="rulebook/Obstacle.png"/>
 
 Each obstacle may have the following elements:
 - One or more required talents with a target number
@@ -89,14 +90,14 @@ Resolving an obstacle is done with the following steps:
 ### 1. GET HELP
 After selecting an obstacle to face every player in clockwise order (other than you) has an opportunity to play an assist card.
 
-<img alt="assist card"/>
+<img class="card" alt="assist card" src="rulebook/Assist.png"/>
 
 ### 2. DRAW TOKENS
 Then you draw 2 tokens from the bag and without first looking at them place them on the table. 
 
 ### 3. PLAY TRICKS
 
-<img alt="trick card"/>
+<img class="card" alt="trick card" src="rulebook/Trick.png"/>
 
 ### 4. RESOLVE
 Add the revealed modifiers from tokens and assist cards to your talent score (the combination granted by your identity card and any upgrade cards you’ve added). If the sum is less than the target number for that talent you have failed the obstacle. Otherwise you succeed.
