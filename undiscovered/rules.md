@@ -14,7 +14,7 @@ Mechanically the game has three major components:
 <img class="smallCard" src="rulebook/ResourceCardBack.png" alt="resource card back" style="float:left; max-height: 50px; margin-right: 5px;">
 Most of the cards in this game share the same back, but they fall into two categories: ship parts (shown left), or crew and cargo cards (show right).
 
-<img src="rulebook/DiagramShipCard.png" alt="example ship card"><img src="rulebook/DiagramCrewCard.png" alt="example crew card">
+<img src="rulebook/DiagramShipCard.png" alt="example ship card" style="width: 60%"><img src="rulebook/DiagramCrewCard.png" alt="example crew card"  style="width: 40%">
 
 ### RARE GOODS CARD
 <img class="smallCard" src="rulebook/RareCardBack.png" alt="rare card back" style="float:left; max-height: 50px; margin-right: 5px; ">
@@ -22,10 +22,10 @@ This card is used to help differentiate two separate decks of cards in the game:
 
 You can differentiate rare resource cards by the icon shown in the lower left corner:
 
-<img alt="rare icon on ship card"/><img alt="rare icon on crew card"/>
+<img alt="rare icon on ship card" src="rulebook\ShipLaboratory.png" style="max-height: 250px; clip-path: polygon(5% 87%, 20% 87%, 20% 97%, 5% 97%); margin-top: -220px; margin-right: -100px;"/><img alt="rare icon on crew card" src="rulebook\CrewCourier.png" style="max-height: 250px; clip-path: polygon(5% 87%, 20% 87%, 20% 97%, 5% 97%); margin-top: -220px; margin-right: -100px"/>
 
 ### SECTOR TILES
-<img alt="sector tile"/>
+<img alt="sector tile" src="rulebook/SectorRareGood.png" style="float: left; max-height: 100px; margin-right: 10px;"/>
 Sectors are placed in a grid to form the game board. They start face-down (unexplored) but later can be turned face-up (explored).
 
 ### EXPLORATION CARDS
