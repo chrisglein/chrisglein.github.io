@@ -133,7 +133,7 @@ The invader card defines who is invading the dungeon and the map card describes 
 
 | Invader | Map |
 | --- | --- |
-| <img src="invader card"/> | <img alt="map card"/> |
+| <img alt="invader card" src="rulebook/Thief.png" class="card"/> | <img alt="map card" src="rulebook/TraversalToTreasure.png" class="card"/> |
 
 Each invader has a number of hearts and a number of bags. They may also have additional rules text. 
 
@@ -171,7 +171,7 @@ If there are multiple tokens in a square, they are processed one at a time in th
 ### EVENT CARDS
 Events cards trigger the text on the card and are then considered resolved. You do not need to draw a matching map card for an event card.
 
-<img alt="event card"/>
+<img alt="event card" src="rulebook/Cave-In.png" class="card"/>
  
 ### RE-ARM TRAPS
 After the card from the invasion deck has been resolved you may decide to re-arm the traps in your dungeon. To do so remove one gold token or one guard token from your dungeon, then add trap tokens to all trap tiles that do not have an open edge (e.g. the same criteria used during the Populate Phase). You must decide to re-arm traps before the next card is drawn from the invasion deck.
