@@ -23,15 +23,15 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 36 cards
 
 <table class="components">
-<tr><td><img alt="invader card" src="rulebook/InvaderBack.png" class="card"/></td><td><img alt="event card back" src="rulebook/EventBack.png" class="card"/></td><td><img alt="map card back" src="rulebook/MapBack.png" class="card"/></tr></td>
+<tr><td><img alt="invader card" src="rulebook/InvaderBack.png" class="card"/></td><td><img alt="event card back" src="rulebook/EventBack.png" class="card"/></td><td><img alt="map card back" src="rulebook/MapBack.png" class="card"/></td></tr>
 <tr><td>17 invader cards</td><td>8 event cards</td><td>11 map cards</td></tr>
 </table>
 
 144 tokens
 
 <table class="components">
-<tr><td><img alt="gold token" src="rulebook/Gold.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="guard token" src="rulebook/Monster.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="trap token" src="rulebook/Trap.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="prisoner token" src="rulebook/Human.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="gem token" src="rulebook/Gem.png" style="clip-path: circle(); max-height: 50px"/></tr></td>
-<tr><td>64 Gold</td><td>24 Guards</td><td>16 Traps</td><td>16 Prisoners</td><td>24 Gems</tr></td>
+<tr><td><img alt="gold token" src="rulebook/Gold.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="guard token" src="rulebook/Monster.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="trap token" src="rulebook/Trap.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="prisoner token" src="rulebook/Human.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="gem token" src="rulebook/Gem.png" style="clip-path: circle(); max-height: 50px"/></td></tr>
+<tr><td>64 Gold</td><td>24 Guards</td><td>16 Traps</td><td>16 Prisoners</td><td>24 Gems</td></tr>
 </table>
 
 4 meeples (visual aids to help you walk through your dungeon)
