@@ -11,21 +11,13 @@ Mechanically the game has three major components:
  
 # COMPONENTS
 ### RESOURCE CARDS
-<img class="card" src="rulebook/ResourceCardBack.png" alt="resource card back" style="float:left; max-height: 50px; margin-right: 5px;">
+<img class="smallCard" src="rulebook/ResourceCardBack.png" alt="resource card back" style="float:left; max-height: 50px; margin-right: 5px;">
 Most of the cards in this game share the same back, but they fall into two categories: ship parts (shown left), or crew and cargo cards (show right).
 
-<div style="display: grid; grid-template-columns: auto 300px auto; grid-template-rows: 200px;">
-<img src="rulebook/ShipEngineUpgrade.png" alt="example ship card" style="grid-column: 2; grid-row: 1;">
-<img src="rulebook/ShipOverlay.png" alt="definitions for ship cards" style="grid-column: 1 / 4; grid-row: 1;">
-</div>
-
-<div style="display: grid; grid-template-columns: 200px auto; grid-template-rows: 200px;">
-<img src="rulebook/CrewNavigator.png" alt="example crew card" style="grid-column: 2; grid-row: 1;">
-<img src="rulebook/CrewOverlay.png" alt="definitions for overlay cards" style="grid-column: 1 / 3; grid-row: 1;">
-</div>
+<img src="rulebook/DiagramShipCard.png" alt="example ship card"><img src="rulebook/DiagramCrewCard.png" alt="example crew card">
 
 ### RARE GOODS CARD
-<img class="card" src="rulebook/RareCardBack.png" alt="rare card back" style="float:left; max-height: 50px; margin-right: 5px; ">
+<img class="smallCard" src="rulebook/RareCardBack.png" alt="rare card back" style="float:left; max-height: 50px; margin-right: 5px; ">
 This card is used to help differentiate two separate decks of cards in the game: rare and common goods. Both types share the same card back (since they can both go into your personal deck).
 
 You can differentiate rare resource cards by the icon shown in the lower left corner:
@@ -64,13 +56,13 @@ The primary path to victory in the game, these cards are worth victory points an
 - A home planet sector tile of their color (these are double sided to be easier to find)
 - A set of starter ship parts: "Engines", “Cargo Hold", and “Bridge” (these are also double sided).
 
-<img class="card" alt="engines" src="rulebook/StarterShipEngines.png" style="width: 33%"/><img class="card" alt="cargo hold" src="rulebook/StarterShipCargoHold.png" style="width: 33%"/><img class="card" alt="bridge" src="rulebook/StarterShipBridge.png" style="width: 33%"/>
+<img class="card" alt="engines" src="rulebook/StarterShipEngines.png" style="width: 32%; margin-right: 5px;"/><img class="card" alt="cargo hold" src="rulebook/StarterShipCargoHold.png" style="width: 32%; margin-right: 5px;"/><img class="card" alt="bridge" src="rulebook/StarterShipBridge.png" style="width: 32%"/>
 
 - A deck of 9 starter resource cards:
 
 Each player’s starter deck can be found by gathering up all cards with the same player icon in the corner (🙍‍♂️, 👨‍👧, 👨‍👨‍👦, 👨‍👩‍👧‍👦). They have differences that are only cosmetic.
 
-<img class="card" alt="starter resource 🟨" src="rulebook/StarterResourceSundries.png" style="width: 25%"/><img class="card" alt="starter resource 🌀" src="rulebook/StarterResourceFuel.png" style="width: 25%"/><img class="card" alt="starter resource 🟨🟨" src="rulebook/StarterResourceMedicalSupplies.png" style="width: 25%"/><img class="card" alt="starter crew ✊" src="rulebook/StarterCrewDeckhand.png" style="width: 25%"/>
+<img class="card" alt="starter resource 🟨" src="rulebook/StarterResourceSundries.png" style="width: 24%; margin-right: 5px;"/><img class="card" alt="starter resource 🌀" src="rulebook/StarterResourceFuel.png" style="width: 24%; margin-right: 5px;"/><img class="card" alt="starter resource 🟨🟨" src="rulebook/StarterResourceMedicalSupplies.png" style="width: 24%; margin-right: 5px;"/><img class="card" alt="starter crew ✊" src="rulebook/StarterCrewDeckhand.png" style="width: 24%;"/>
 
 Note that the starter cards have the same back as other cards but have an icon in the lower left corner and do not have a cost. Do not shuffle them into the common goods deck.
 
@@ -87,11 +79,11 @@ Note that the starter cards have the same back as other cards but have an icon i
   - The exploration deck
   - Each player's starting deck
 
-6) Create the galaxy
-- **2 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 3 from the “mission” pile and deal 4 from the other pile. Shuffle these together to form a sector draw pile.
-- **3 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 4 from the “mission” pile and deal 6 from the other pile. Shuffle these together to form a sector draw pile.
-- **4 player game**: Shuffle all remaining (non-home) sector tiles together to form a sector draw pile.
-- Place each player's home sector and a deal out a number of other random sectors face-down from the sector draw pile according to the number of players (see below). Return any remaining sector tiles to the game box. 
+6. Create the galaxy
+  - **2 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 3 from the “mission” pile and deal 4 from the other pile. Shuffle these together to form a sector draw pile.
+  - **3 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 4 from the “mission” pile and deal 6 from the other pile. Shuffle these together to form a sector draw pile.
+  - **4 player game**: Shuffle all remaining (non-home) sector tiles together to form a sector draw pile.
+  - Place each player's home sector and a deal out a number of other random sectors face-down from the sector draw pile according to the number of players (see below). Return any remaining sector tiles to the game box. 
 
 <table>
 <tr><th>2 PLAYERS</th><th>3 PLAYERS</th><th>4 PLAYERS</th></tr>
@@ -100,31 +92,29 @@ Note that the starter cards have the same back as other cards but have an icon i
 
 <td>
 <table>
-<tr><td>    </td><td>    </td><td>    </td></tr>
-<tr><td>Home</td><td>    </td><td>Home</td></tr>
-<tr><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>____</td><td>____</td><td>____</td></tr>
+<tr><td>Home</td><td>____</td><td>Home</td></tr>
+<tr><td>____</td><td>____</td><td>____</td></tr>
 </table>
 </td>
 
 <td>
 <table>
-<tr><td>    </td><td>Home</td><td>    </td></tr>
-<tr><td>    </td><td>    </td><td>    </td></tr>
-<tr><td>Home</td><td>    </td><td>Home</td></tr>
-<tr><td>    </td><td>    </td><td>    </td></tr>
+<tr><td>____</td><td>Home</td><td>____</td></tr>
+<tr><td>____</td><td>____</td><td>____</td></tr>
+<tr><td>Home</td><td>____</td><td>Home</td></tr>
+<tr><td>____</td><td>____</td><td>____</td></tr>
 </table>
 </td>
 
 <td>
 <table>
-<tr><td>    </td><td>Home</td><td>    </td><td>    </td></tr>
-<tr><td>    </td><td>    </td><td>    </td><td>Home</td></tr>
-<tr><td>Home</td><td>    </td><td>    </td><td>    </td></tr>
-<tr><td>    </td><td>    </td><td>Home</td><td>    </td></tr>
+<tr><td>____</td><td>Home</td><td>____</td><td>____</td></tr>
+<tr><td>____</td><td>____</td><td>____</td><td>Home</td></tr>
+<tr><td>Home</td><td>____</td><td>____</td><td>____</td></tr>
+<tr><td>____</td><td>____</td><td>Home</td><td>____</td></tr>
 </table>
 </td>
-
-</tr>
 
 </tr>
 </table>
@@ -134,12 +124,14 @@ Note that the starter cards have the same back as other cards but have an icon i
 
 <img alt="diagram of stocked sectors" src="rulebook/DiagramStockedSectors.png" style="width: 100%"/>
 
-7) Each player:
-- Receives 6 credit cubes (🟨) to form their personal stash
-- Places their pawn on their home sector
-- Draws 3 cards
-8) Put the remaining credit cubes (🟨) somewhere within reach of all players to create a credit bank.
-9) Randomly determine a starting player.
+7. Each player:
+  - Receives 6 credit cubes (🟨) to form their personal stash
+  - Places their pawn on their home sector
+  - Draws 3 cards
+
+8. Put the remaining credit cubes (🟨) somewhere within reach of all players to create a credit bank.
+
+9. Randomly determine a starting player.
 
 > Optional: The rules reminder cards can be shuffled to determine the 1st, 2nd, 3rd, and 4th players.
 
@@ -166,15 +158,15 @@ When you're done:
 The details of these various actions and steps follow.
 
 ### PLAY CARDS
-<img class="card" alt="starter resource 🟨" src="rulebook/StarterResourceSundries.png" style="float: right; max-height: 100px; margin-left: 10px;"/>
+<img class="smallCard" alt="starter resource 🟨" src="rulebook/StarterResourceSundries.png" style="float: right; max-height: 100px; margin-left: 10px;"/>
 
 Cards in your hand can be played to generate effects. You must fully resolve the effects of a card top to bottom before you play any other cards, activate abilities, or do anything else. Once resolved a played card is immediately placed face-up in your discard pile.
 
-<img class="card" alt="crew card" src="rulebook/CrewClone.png" style="float: left; max-height: 100px; margin-right: 10px;"/>
+<img class="smallCard" alt="crew card" src="rulebook/CrewClone.png" style="float: left; max-height: 100px; margin-right: 10px;"/>
 
 Some cards generate **credits** (🟨), and will tell you this by showing the 🟨 icon. You resolve that effect by immediately taking a credit cube from the credit bank for each 🟨 symbol and adding it to your personal stash.
 
-<img class="card" alt="crew card" src="rulebook/CrewCourier.png" style="float: right; max-height: 100px; margin-left: 10px"/>
+<img class="smallCard" alt="crew card" src="rulebook/CrewCourier.png" style="float: right; max-height: 100px; margin-left: 10px"/>
 
 Some cards generate **resources** (✊, 🌀). These are used to activate ship part abilities and contribute to missions. These resources are available for the duration of your turn until spent.
 
@@ -222,8 +214,8 @@ Your **home sector** is special in that you may look at face-down cards on your 
 
 Early in the game there will be exploration cards on most sectors. These all have an activated ability and will give out rewards to the player that activates them first. That reward is unknown until the card is activated.
 
-<img class="card" alt="exploration card requiring credits" src="rulebook/ExplorationCredits.png" style="float: left; max-height: 100px; margin-right: 10px"/>
-<img class="card" alt="exploration card granting victory points" src="rulebook/ExplorationVictory.png" style="float: right; max-height: 100px; margin-left: 10px"/>
+<img class="smallCard" alt="exploration card requiring credits" src="rulebook/ExplorationCredits.png" style="float: left; max-height: 100px; margin-right: 10px"/>
+<img class="smallCard" alt="exploration card granting victory points" src="rulebook/ExplorationVictory.png" style="float: right; max-height: 100px; margin-left: 10px"/>
 
 As the exploration card says, flip it over when its ability is activated. About half of the time this will be a victory point (🏆), and the player will take the card in a set aside score area to keep track of this. Otherwise they gain the described reward and return the exploration card to the game box. All exploration cards will flip over the sector underneath.
 
@@ -249,11 +241,11 @@ When completed, most missions will generate rewards for any runner up players. E
 
 A completed mission is worth the victory points (🏆) listed on the card. After resolving the resolution text add the mission card to the winning player’s score area to track their total 🏆.
 
-<img class="card" alt="mission card" src="rulebook/MissionFirstContact.png" style="float: left; max-height: 100px; margin-right: 10px"/>
+<img class="smallCard" alt="mission card" src="rulebook/MissionFirstContact.png" style="float: left; max-height: 100px; margin-right: 10px"/>
 
 Many missions have multiple activated abilities and state that you can only activate one of them per turn. If you activate ability “A” on a turn you cannot later activate “B” on the same turn.
 
-<img class="card" alt="mission card" src="rulebook/MissionInspections.png" style="float: right; max-height: 100px; margin-right: 10px"/>
+<img class="smallCard" alt="mission card" src="rulebook/MissionInspections.png" style="float: right; max-height: 100px; margin-right: 10px"/>
 
 Some missions have a banner at the top that indicates there is an effect that may apply to players even if they are not in the mission’s sector. For example a mission may trigger some effect when any player shuffles, regardless of their current location.
 
