@@ -15,10 +15,10 @@ thumbsurl: media/thumbnails
 - [Rum Runner](rum-runner/index.html)
 
 # Prototypes
-- [Ark Ship](ark-ship/rules.html)
+- [Ark Ship](ark-ship/index.html)
 - [Deeper](deeper/index.html)
-- [Fridge Feast](fridge-feast/rules.html)
-- [Heist](heist/rules.html)
+- [Fridge Feast](fridge-feast/index.html)
+- [Heist](heist/index.html)
 - [Pixel Pusher](pixel-pusher/index.html)
 - [Slither](slither/index.html)
 
