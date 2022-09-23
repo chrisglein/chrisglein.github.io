@@ -4,7 +4,7 @@ description: Rulebook
 ---
 # Setup
 
-<table class="components">
+<table class="components noBorder">
 <tr><td><img class="card" alt="fabricator card" src="rulebook/Fabricator.png"/></td><td><img class="card" alt="hatch card" src="rulebook/Hatch.png"/></td><td><img class="card" alt="storage card" src="rulebook/Storage.png"/></td></tr>
 </table>
 
@@ -32,7 +32,7 @@ description: Rulebook
 6. Give each player 4 air tokens, which they place on their “Lungs” grid.
 
 <table class="components">
-<tr><td>20m</td><td>40m</td><td>60m</td><td>80m</td><td>100m</td></tr>
+<tr><th>20m</th><th>40m</th><th>60m</th><th>80m</th><th>100m</th></tr>
 <tr><td><img alt="20 meter tiles" src="rulebook/20m.png"/></td><td><img alt="40 meter tiles" src="rulebook/40m.png"/></td><td><img alt="60 meter tiles" src="rulebook/60m.png"/></td><td><img alt="80 meter tiles" src="rulebook/80m.png"/></td><td><img alt="100 meter tiles" src="rulebook/100m.png"/></td></tr>
 </table>
 
