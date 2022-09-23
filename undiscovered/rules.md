@@ -31,7 +31,7 @@ Sectors are placed in a grid to form the game board. They start face-down (unexp
 ### EXPLORATION CARDS
 These have an unexplored side (shown left) and an explored side (shown right).
 
-<img alt="unexplored sector card diagram" src="rulebook/DiagramExplorationCardUnexplored.png" style="width: 35%"/><img alt="explored sector card diagram" src="rulebook/DiagramExplorationCardExplored.png" style="width: 70%"/>
+<img alt="unexplored sector card diagram" src="rulebook/DiagramExplorationCardUnexplored.png" style="width: 33%"/><img alt="explored sector card diagram" src="rulebook/DiagramExplorationCardExplored.png" style="width: 60%"/>
 
 ### MISSION CARDS
 The primary path to victory in the game, these cards are worth victory points and will challenge your ship and crew in various different ways.
