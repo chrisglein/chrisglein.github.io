@@ -4,14 +4,6 @@ description: Learn to Play
 ---
 This is a succinct version of the rules you need to play _Rum Runner_. If you are seeking clarifications or more examples, try the [rules reference](rules.html).
 
-# COMPONENTS
-<table class="noBorder components">
-<tr><td><img class="card" src="rulebook/crownCard.png"/></td><td><img class="card" src="rulebook/crownRules.png"/></td><td><img class="card" src="rulebook/startingHazard.png"/></td><td><img class="card" src="rulebook/island.png"/></td><td><img src="rulebook/gold.png" width="50px" height="50px"/></td></tr>
-<tr><td class="componentDescription">38 crown cards<br>13🍾, 11🌊, 3📜</td><td class="componentDescription">1 crown rules summary</td><td class="componentDescription">4 starting hazards 🌊</td><td class="componentDescription">4 islands 🏝️</td><td class="componentDescription">40 coins 🟡</td></tr>
-<tr><td><img class="card" src="rulebook/pirateCard.png"/></td><td><img class="card" src="rulebook/pirateRules.png"/></td><td><img class="card" src="rulebook/startingShip.png"/></td><td><img class="card" src="rulebook/pirateDecklist.png"/></td><td><img class="card" src="rulebook/actionCard.png"/></td></tr>
-<tr><td class="componentDescription">25 pirate cards<br>6⚓, 11🪝, 5📜</td><td class="componentDescription">1 pirate rules summary</td><td class="componentDescription">2 starting ships ⚓</td><td class="componentDescription">2 decklist cards</td><td class="componentDescription">3 action cards</td></tr>
-</table>
-
 # SETUP
 1. Place the coins 🟡 somewhere in reach of both players. This is the bank.
 1. Determine who will play the **crown** 👑 and who will play the **pirate** ☠️.
