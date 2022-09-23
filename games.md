@@ -20,7 +20,7 @@ thumbsurl: media/thumbnails
 - [Fridge Feast](fridge-feast/rules.html)
 - [Heist](heist/rules.html)
 - [Pixel Pusher](pixel-pusher/index.html)
-- [Slither](slither/rules.html)
+- [Slither](slither/index.html)
 
 # Gallery
 {% include gallery.html folder="portfolio/static/media" %}
