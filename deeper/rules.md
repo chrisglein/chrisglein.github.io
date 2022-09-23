@@ -3,7 +3,10 @@ title: DEEPER
 description: Rulebook
 ---
 # Setup
-<img class="card" alt="fabricator card" src="rulebook/Fabricator.png"/><img class="card" alt="hatch card" src="rulebook/Hatch.png"/><img class="card" alt="storage card" src="rulebook/Storage.png"/>
+
+<table class="components">
+<tr><td><img class="card" alt="fabricator card" src="rulebook/Fabricator.png"/></td><td><img class="card" alt="hatch card" src="rulebook/Hatch.png"/></td><td><img class="card" alt="storage card" src="rulebook/Storage.png"/></td></tr>
+</table>
 
 1. Each player takes a “Fabricator”, “Hatch”, and “Storage” card. These form their starting habitat.
 
@@ -28,9 +31,10 @@ description: Rulebook
 5. Optionally each player may take an “Actions” player aid card
 6. Give each player 4 air tokens, which they place on their “Lungs” grid.
 
-| 20m | 40m | 60m | 80m | 100m |
-| --- | --- | --- | --- | --- |
-| <img alt="20 meter tiles" src="rulebook/20m.png"/> | <img alt="40 meter tiles" src="rulebook/40m.png"/> | <img alt="60 meter tiles" src="rulebook/60m.png"/> | <img alt="80 meter tiles" src="rulebook/80m.png"/> | <img alt="100 meter tiles" src="rulebook/100m.png"/> |
+<table class="components">
+<tr><td>20m</td><td>40m</td><td>60m</td><td>80m</td><td>100m</td></tr>
+<tr><td><img alt="20 meter tiles" src="rulebook/20m.png"/></td><td><img alt="40 meter tiles" src="rulebook/40m.png"/></td><td><img alt="60 meter tiles" src="rulebook/60m.png"/></td><td><img alt="80 meter tiles" src="rulebook/80m.png"/></td><td><img alt="100 meter tiles" src="rulebook/100m.png"/></td></tr>
+</table>
 
 7. Separate all hex tiles into different stacks separated by depth (20m, 40m, etc.)
 8. Shuffle each hex tile stack.
@@ -38,8 +42,8 @@ description: Rulebook
 10. Shuffle the blueprint cards and set aside as a face-down deck.
 11. Set the rocket cards aside.
 12. Form a supply of resource tokens (fish, kelp, coral, titanium, quartz, diamond)
-13. **Use the set aside starting tiles to create the initial board**
-  - **13.1. Place resources on those tiles**
+13. <mark>Use the set aside starting tiles to create the initial board</mark>
+  - <mark>13.1. Place resources on those tiles</mark>
 14. Each player chooses a player pawn and places it in their Hatch
 15. Randomly determine a starting player
 
@@ -52,7 +56,7 @@ On your turn you take up to 2 actions, and then breathe.
 ### Swim
 Move your player pawn from its current hex tile to an adjacent hex tile.
 - The contents of the hex tile (water, land) don’t inhibit movement.
-- **You may consider your Hatch to be an adjacent to hexes**
+- <mark>You may consider your Hatch to be an adjacent to hexes</mark>
 
 ### Gather
 Take up to 2 resources of the same type from your current hex tile. Put those resources in open cells in your inventory grid.
@@ -69,9 +73,9 @@ Place a tile from the tile market adjacent to your current tile. Add the resourc
 - When you explore a new depth for the first time you gain a bonus. Remove the matching depth tile from your “Upgrades” board. Draw a blueprint card.
 
 ### Scan
-Determine your current depth by counting depth lines between your current hex and **the surface**. You may choose any of the hex tile decks of your current depth or lower (e.g. if you are at 40m you may choose the 40m deck or the 20m deck).
+Determine your current depth by counting depth lines between your current hex and <mark>the surface</mark>. You may choose any of the hex tile decks of your current depth or lower (e.g. if you are at 40m you may choose the 40m deck or the 20m deck).
 
-Draw hex tiles from that deck until you draw a tile that may be **legally placed** adjacent to your current tile, or until you have drawn 4 tiles.
+Draw hex tiles from that deck until you draw a tile that may be <mark>legally placed</mark> adjacent to your current tile, or until you have drawn 4 tiles.
 
 Place the legal tile in a spot adjacent to your current tile. Add the resources specified on the tile from the supply.
 
@@ -81,9 +85,9 @@ Put all tiles that were drawn and not placed in the hex tile market. If there ar
 Perform an Explore action as above, but the new tile may be placed on top of an existing adjacent tile as long as the new tile would still fit the rules for legal placement. Return all resources on the old tile to the supply. The new tile gets one fewer resource (of your choice) than it would normally.
 
 ### Convert
-While in your habitat you may use any of your built cards (including your “Fabricator” to convert resources. These abilities show the **->** icon. You may pay resources from your “Inventory” or from your “Storage” to fuel these conversions. Return the spent resources to the supply.
+While in your habitat you may use any of your built cards (including your “Fabricator” to convert resources. These abilities show the <mark>-></mark> icon. You may pay resources from your “Inventory” or from your “Storage” to fuel these conversions. Return the spent resources to the supply.
 
-**You may freely move resources between your “Inventory” and “Storage” as a free action while in your habitat.**
+<mark>You may freely move resources between your “Inventory” and “Storage” as a free action while in your habitat.</mark>
 
 ### Craft
 While in your habitat you may pay resources (from a combination of your “Inventory” and your “Storage”) to build habitat cards or rocket cards.
@@ -103,7 +107,7 @@ Rocket cards can only be crafted once you have completed your “Radio” bluepr
 After taking your actions you must breathe.
 - You are “in your habitat” if you are on a Hatch space.
 
-If you are not in your habitat you must spend one air token from your “Lungs”. Otherwise you drown. When you drown you lose 1 resource from your “Inventory” (chosen randomly) for **each depth level between you and the surface**. Then fill up your “Lungs” with air tokens until half of the grid spaces are covered.
+If you are not in your habitat you must spend one air token from your “Lungs”. Otherwise you drown. When you drown you lose 1 resource from your “Inventory” (chosen randomly) for <mark>each depth level between you and the surface</mark>. Then fill up your “Lungs” with air tokens until half of the grid spaces are covered.
 
 If instead you are in your habitat add air tokens until your “Lungs” grid is full.
 
