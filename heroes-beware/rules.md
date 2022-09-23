@@ -63,7 +63,7 @@ If playing with fewer than 4 players you will need to remove some tiles from the
 
 | 1 player | 2 players | 3 players | 4 players |
 | --- | --- | --- | --- |
-| Remove 60 (44 remain) | Remove 40 (64 remain) | Remove 20 | (84 remain) | Play with all tiles |
+| Remove 60<br>(44 remain) | Remove 40<br>(64 remain) | Remove 20 <br>(84 remain) | Play with all tiles |
 
 Once all players are ready, players simultaneously start collecting tiles to build their dungeon. You may take a face-down or face-up tile from the central pile into your hand, one at a time. If the tile was face-down you flip it face-up and look at it. Then you either add the tile to your personal dungeon or return it to the central pile face-up. 
 
