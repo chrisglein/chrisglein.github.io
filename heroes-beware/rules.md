@@ -51,7 +51,7 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 # OVERVIEW
 The game is played over 3 rounds. During each round, players will each simultaneously construct a dungeon from the shared pool of tiles. After the dungeons are built all of them will be simultaneously invaded by surface dwellers, who will attempt to steal any treasure stashed within. After each round, players will abandon that dungeon but take their remaining treasure with them to the next one. At the end of the last round the player with the most treasure will be the winner. 
 
-Each round is broken down into these phases:
+Each round is broken down into 6 phases:
 1. Build
 2. Inspection
 3. Populate
@@ -59,7 +59,7 @@ Each round is broken down into these phases:
 5. Profit
 6. Draft
 
-## BUILD PHASE
+## 1. BUILD PHASE
 If playing with fewer than 4 players you will need to remove some tiles from the center pile. Choose the tiles to remove randomly and do not look at them.
 
 | 1 player | 2 players | 3 players | 4 players |
@@ -83,7 +83,7 @@ After all the tiles in the central pile are gone or all players have chosen to s
 
 <img alt="example built dungeon" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
 
-## INSPECTION PHASE
+## 2. INSPECTION PHASE
 Take this opportunity to look at your neighbor’s dungeons. It’s possible they have made mistakes during the build phase and have tiles that are invalidly placed (e.g. have mismatched open edges).
 
 
@@ -101,7 +101,7 @@ If at any point a tile is no longer connected through a path to the dungeon entr
 
 Instead of removing tiles you may make replace a tile with a “patch” tile from the supply (<mark>TODO: Add to components list</mark>). Patch tiles are always considered valid (they may have mismatched open edges or have open edges that connect to closed edges). If you choose to take a patch tile you must return a gem token from your stash (see: Profit Phase) to the supply, if able. You may take a patch tile even if you have no gem tokens.
 
-## POPULATE PHASE
+## 3. POPULATE PHASE
 During this phase you will place tokens from the supply (and potentially your stash of gem tokens) on your dungeon. Consult the “Tiles” appendix to know which tokens go on which tiles.
 
 <img alt="example of placing tokens only tiles with no open edges" src="rulebook/DiagramPopulate.png"/>
@@ -118,7 +118,7 @@ Any leftover gold tokens are safe. Set yours aside until the profit phase.
 
 Once all dungeons are populated the dungeons will be invaded. 
 
-## INVASION PHASE
+## 4. INVASION PHASE
 Create the shared invasion deck by shuffling together a number of invader cards and event cards depending on the current round:
 
 | ROUND 1 | ROUND 2 | ROUND 3 |
@@ -179,7 +179,7 @@ After the card from the invasion deck has been resolved you may decide to re-arm
 
 After each player has resolved the invader and had a chance to re-arm traps draw another card from the invasion deck and repeat the process. Continue until the invasion deck is empty.
 
-## PROFIT PHASE
+## 5. PROFIT PHASE
 After the dungeons have been invaded you extract as much gold as possible from your dungeon.
 1. Count the guard tokens remaining in your dungeon. The player with the most receives one gem token. If there is a tie all players with that value receive a gem, unless that value is zero. Return all guard tokens to the supply.
 2. Ransom your prisoner tokens for 2 gold tokens each (e.g. if you have 2 prisoners you return them to the supply and take 4 gold tokens).
@@ -192,7 +192,7 @@ Each player then _must_ exchange each 5 gold tokens they have into gem tokens. T
 
 > Important: Skip the exchange in the 3rd round. Proceed to End of Game.
 
-## DRAFT PHASE
+## 6. DRAFT PHASE
 > Important: Skip this phase during the 3rd round.
 
 <mark>TODO: Include picture of the special tiles laid out as for a draft</mark>
