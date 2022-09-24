@@ -2,6 +2,9 @@
 title: HEROES BEWARE!
 description: Rulebook
 ---
+<style type="text/css" rel="stylesheet">
+.circleToken { clip-path: circle(); max-height: 50px; }
+</style>
 # SUMMARY
 
 | Players | Time | Age |
@@ -11,26 +14,24 @@ description: Rulebook
 You are the head engineer of a peaceful and prosperous underground colony. Unfortunately, greedy surface dwellers have been invading your colony, slaying your residents and stealing your gold. You must relocate and rebuild… but this time you will be prepared with traps and guards!
 
 # COMPONENTS
-134 tiles
 
 <table class="components">
-<tr><td><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 50%"/></td><td><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 50%"/></td></tr>
-<tr><td>4 dungeon entrance T-shaped tiles<br>(4 squares)</td><td>9 special L-shaped tiles<br>(3 squares)</td></tr>
-<tr><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 50%"/></td><td><img alt="square tile" src="rulebook/TileSquare.png" style="width: 50%"/></td></tr>
-<tr><td>18 special I-shaped tiles<br>(2 squares)</td><td>104 square tiles<br>(1 square)</td></tr>
+<tr><th colspan="2">134 tiles</th></tr>
+<tr><td><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 300px"/></td><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 100px"/></td></tr>
+<tr><td>4 dungeon entrance T-shaped tiles<br>(4 squares)</td><td>18 special I-shaped tiles<br>(2 squares)</td></tr>
+<tr><td><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
+<tr><td>9 special L-shaped tiles<br>(3 squares)</td><td>104 square tiles<br>(1 square)</td></tr>
 </table>
 
-36 cards
-
 <table class="components">
+<tr><th colspan="2">36 cards</th></tr>
 <tr><td><img alt="invader card" src="rulebook/InvaderBack.png" class="card"/></td><td><img alt="event card back" src="rulebook/EventBack.png" class="card"/></td><td><img alt="map card back" src="rulebook/MapBack.png" class="card"/></td></tr>
 <tr><td>17 invader cards</td><td>8 event cards</td><td>11 map cards</td></tr>
 </table>
 
-144 tokens
-
 <table class="components">
-<tr><td><img alt="gold token" src="rulebook/Gold.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="guard token" src="rulebook/Monster.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="trap token" src="rulebook/Trap.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="prisoner token" src="rulebook/Human.png" style="clip-path: circle(); max-height: 50px"/></td><td><img alt="gem token" src="rulebook/Gem.png" style="clip-path: circle(); max-height: 50px"/></td></tr>
+<tr><th colspan="2">144 tokens</th></tr>
+<tr><td><img alt="gold token" src="rulebook/Gold.png" class="circleToken"/></td><td><img alt="guard token" src="rulebook/Monster.png" class="circleToken"/></td><td><img alt="trap token" src="rulebook/Trap.png" class="circleToken"/></td><td><img alt="prisoner token" src="rulebook/Human.png" class="circleToken"/></td><td><img alt="gem token" src="rulebook/Gem.png" class="circleToken"/></td></tr>
 <tr><td>64 Gold</td><td>24 Guards</td><td>16 Traps</td><td>16 Prisoners</td><td>24 Gems</td></tr>
 </table>
 
