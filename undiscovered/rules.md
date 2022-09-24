@@ -2,6 +2,15 @@
 title: UNDISCOVERED
 description: Rulebook
 ---
+<style type="text/css" rel="stylesheet">
+img.smallCard {
+  clip-path: inset(4px round 0.25em);
+  max-width: 100px;
+  max-height: 100px;
+  margin: -4px;
+}
+</style>
+
 # SUMMARY
 You are a spaceship captain with ambition to explore the galaxy for fame, glory, and profit. You start with a junker of a ship, a meager crew, and some cargo filling up your hold. With an eye for opportunity you will win the game by exploring space and outperforming other players in various missions spread throughout the cosmos.
 Mechanically the game has three major components:

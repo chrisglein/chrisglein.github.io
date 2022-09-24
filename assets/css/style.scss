@@ -9,19 +9,6 @@ img.card {
   max-height: 250px;
   margin: -10px;
 }
-img.smallCard {
-  clip-path: inset(4px round 0.25em);
-  max-width: 100px;
-  max-height: 100px;
-  margin: -4px;
-}
-img.tile {
-  clip-path: inset(10px round 0.25em);
-  max-width: 150px;
-  max-height: 150px;
-  margin: -10px;
-}
-
 img.tabletopLayout {
   width: 100%;
   object-fit: contain;

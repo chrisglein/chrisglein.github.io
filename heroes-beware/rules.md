@@ -25,6 +25,12 @@ description: Rulebook
 .prisonerToken {
   content:url(rulebook/Human.png);
 }
+.tile {
+  clip-path: inset(10px round 0.25em);
+  max-width: 150px;
+  max-height: 150px;
+  margin: -10px;
+}
 </style>
 # SUMMARY
 
@@ -40,8 +46,10 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 <tr><th colspan="2">134 tiles</th></tr>
 <tr><td><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 300px"/></td><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 100px"/></td></tr>
 <tr><td>4 entrance T-shaped tiles<br>(4 squares)</td><td>18 special I-shaped tiles<br>(2 squares)</td></tr>
-<tr><td><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
-<tr><td>9 special L-shaped tiles<br>(3 squares)</td><td>104 square tiles<br>(1 square)</td></tr>
+<tr><td><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/Patch.png" style="width: 100px"/></td></tr>
+<tr><td>9 special L-shaped tiles<br>(3 squares)</td><td>8 patch tiles<br>(1 square)</td></tr>
+<tr><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
+<tr><td>104 square tiles<br>(1 square)</td><td></td></tr>
 </table>
 
 <table class="components">
@@ -262,6 +270,7 @@ The following tiles only appear on special tiles which are drafted between round
 
 | Tile | Description |
 | --- | --- |
+| <img class="tile" alt="patch tile" src="rulebook/Patch.png"/> | **Patch**<br>The edges of this tile are not considered an error with any type of closed or open edge on adjacent tiles. |
 | <img class="tile" alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Populates 1 gem <img class="inline gemToken"/> token if there is a path with 10 or more squares between it and the colony entrance (not including the entrance square or the gem square) |
 | <img class="tile" alt="mess hall tile" src="rulebook/SpecialDungeonMessHall.png"/> | **Mess Hall**<br>Populates 1 guard <img class="inline guardToken"/> token.<br>At the end of the populate phase you may move guard tokens from anywhere in your colony to any adjacent connected squares to a Mess Hall square. |
 | <img class="tile" alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your dungeon (or is defeated) you may add one guard <img class="inline guardToken"/> token to a Campfire tile that has no open edges (e.g. following the same rules as the Populate Phase). |
