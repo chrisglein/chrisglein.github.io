@@ -24,13 +24,13 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 </table>
 
 <table class="components">
-<tr><th colspan="2">36 cards</th></tr>
+<tr><th colspan="3">36 cards</th></tr>
 <tr><td><img alt="invader card" src="rulebook/InvaderBack.png" class="card"/></td><td><img alt="event card back" src="rulebook/EventBack.png" class="card"/></td><td><img alt="map card back" src="rulebook/MapBack.png" class="card"/></td></tr>
 <tr><td>17 invader cards</td><td>8 event cards</td><td>11 map cards</td></tr>
 </table>
 
 <table class="components">
-<tr><th colspan="2">144 tokens</th></tr>
+<tr><th colspan="5">144 tokens</th></tr>
 <tr><td><img alt="gold token" src="rulebook/Gold.png" class="circleToken"/></td><td><img alt="guard token" src="rulebook/Monster.png" class="circleToken"/></td><td><img alt="trap token" src="rulebook/Trap.png" class="circleToken"/></td><td><img alt="prisoner token" src="rulebook/Human.png" class="circleToken"/></td><td><img alt="gem token" src="rulebook/Gem.png" class="circleToken"/></td></tr>
 <tr><td>64 Gold</td><td>24 Guards</td><td>16 Traps</td><td>16 Prisoners</td><td>24 Gems</td></tr>
 </table>
