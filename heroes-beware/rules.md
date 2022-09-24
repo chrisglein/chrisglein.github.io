@@ -3,7 +3,28 @@ title: HEROES BEWARE!
 description: Rulebook
 ---
 <style type="text/css" rel="stylesheet">
-.circleToken { clip-path: circle(); max-height: 50px; }
+.goldToken, .guardToken, .trapToken, .gemToken, .prisonerToken {
+  clip-path: circle();
+  max-height: 50px;
+}
+.inline {
+  max-height: 1em;
+}
+.goldToken {
+  content:url(rulebook/Gold.png);
+}
+.guardToken {
+  content:url(rulebook/Monster.png);
+}
+.trapToken {
+  content:url(rulebook/Trap.png);
+}
+.gemToken {
+  content:url(rulebook/Gem.png);
+}
+.prisonerToken {
+  content:url(rulebook/Human.png);
+}
 </style>
 # SUMMARY
 
@@ -31,7 +52,7 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 
 <table class="components">
 <tr><th colspan="5">144 tokens</th></tr>
-<tr><td><img alt="gold token" src="rulebook/Gold.png" class="circleToken"/></td><td><img alt="guard token" src="rulebook/Monster.png" class="circleToken"/></td><td><img alt="trap token" src="rulebook/Trap.png" class="circleToken"/></td><td><img alt="prisoner token" src="rulebook/Human.png" class="circleToken"/></td><td><img alt="gem token" src="rulebook/Gem.png" class="circleToken"/></td></tr>
+<tr><td><img alt="gold token" class="goldToken"/></td><td><img alt="guard token" class="guardToken"/></td><td><img alt="trap token" class="trapToken"/></td><td><img alt="prisoner token" class="prisonerToken"/></td><td><img alt="gem token" class="gemToken"/></td></tr>
 <tr><td>64 Gold</td><td>24 Guards</td><td>16 Traps</td><td>16 Prisoners</td><td>24 Gems</td></tr>
 </table>
 
@@ -46,7 +67,7 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
   - Invader cards 
   - Event cards
   - Map cards
-6. Set aside the supply of gold, guard, trap, gem, and prisoner tokens.
+6. Set aside the supply of gold <img class="inline goldToken"/>, guard <img class="inline guardToken"/>, trap <img class="inline trapToken"/>, gem <img class="inline gemToken"/>, and prisoner <img class="inline prisonerToken"/> tokens.
 
 # OVERVIEW
 The game is played over 3 rounds. During each round, players will each simultaneously construct a dungeon from the shared pool of tiles. After the dungeons are built all of them will be simultaneously invaded by surface dwellers, who will attempt to steal any treasure stashed within. After each round, players will abandon that dungeon but take their remaining treasure with them to the next one. At the end of the last round the player with the most treasure will be the winner. 
@@ -228,18 +249,18 @@ After playing all 3 rounds the winner is the player with the most gold (totaled 
 | Tile | Description |
 | --- | --- |
 | <img class="tile" alt="entrance tile" src="rulebook/EntrancePart1.png"/> | **Entrance**<br>Invaders will start on this tile. |
-| <img class="tile" alt="treasure tile" src="rulebook/DungeonDeadEndTreasure.png"/> | **Treasure**<br>Starts the round with a gold token.<br>May alternatively be used to store a gem token. |
-| <img class="tile" alt="campfire tile" src="rulebook/CavernStraightMonster.png"/> | **Campfire**<br>Starts the round with a guard token. |
-| <img class="tile" alt="trap tile" src="rulebook/CavernForkTrap.png"/> | **Trap**<br>Starts the round with a trap token. |
-| <img class="tile" alt="ore tile" src="rulebook/CavernDeadEndOre.png"/> | **Ore Vein**<br>Starts the round with 2 gold tokens on it if there is a path with 5 or more squares between it and the dungeon entrance (not including the entrance square or the ore square) |
-| <img class="tile" alt="cell tile" src="rulebook/DungeonDeadEndCell.png"/> | **Cell**<br>Whenever an invader is defeated you place a prisoner token on one of your cell tiles that does not already have a prisoner token. These tokens may be ransomed at the end of the round for 2 gold each. |
+| <img class="tile" alt="treasure tile" src="rulebook/DungeonDeadEndTreasure.png"/> | **Treasure**<br>Populates 1 gold <img class="inline goldToken"/> token.<br>May alternatively be used to store a gem <img class="inline gemToken"/> token from your stash. |
+| <img class="tile" alt="campfire tile" src="rulebook/CavernStraightMonster.png"/> | **Campfire**<br>Populates 1 guard <img class="inline guardToken"/> token. |
+| <img class="tile" alt="trap tile" src="rulebook/CavernForkTrap.png"/> | **Trap**<br>Populates 1 trap <img class="inline trapToken"/> token. |
+| <img class="tile" alt="ore tile" src="rulebook/CavernDeadEndOre.png"/> | **Ore Vein**<br>Populates 2 gold <img class="inline goldToken"/> tokens on it if there is a path with 5 or more squares between it and the dungeon entrance (not including the entrance square or the ore square) |
+| <img class="tile" alt="cell tile" src="rulebook/DungeonDeadEndCell.png"/> | **Cell**<br>Whenever an invader is defeated you place a prisoner <img class="inline prisonerToken"/> token on one of your cell tiles that does not already have a prisoner token. These tokens may be ransomed at the end of the round for 2 gold <img class="inline goldToken"/> each. |
 
 ## SPECIAL TILES
 The following tiles only appear on special tiles which are drafted between rounds 1 and 2 and rounds 2 and 3:
 
 | Tile | Description |
 | --- | --- |
-| <img class="tile" alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Starts the round with 1 gem token if there is a path with 10 or more squares between it and the dungeon entrance (not including the entrance square or the gem square) |
-| <img class="tile" alt="mess hall tile" src="rulebook/SpecialDungeonMessHall.png"/> | **Mess Hall**<br>Starts the round with a guard token.<br>At the end of the populate phase you may move guard tokens from anywhere in your dungeon to any adjacent connected squares to a Mess Hall square. |
-| <img class="tile" alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your dungeon (or is defeated) you may add one guard token to a Campfire tile that has no open edges (e.g. following the same rules as the Populate Phase). |
+| <img class="tile" alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Populates 1 gem <img class="inline gemToken"/> token if there is a path with 10 or more squares between it and the dungeon entrance (not including the entrance square or the gem square) |
+| <img class="tile" alt="mess hall tile" src="rulebook/SpecialDungeonMessHall.png"/> | **Mess Hall**<br>Populates 1 guard <img class="inline guardToken"/> token.<br>At the end of the populate phase you may move guard tokens from anywhere in your dungeon to any adjacent connected squares to a Mess Hall square. |
+| <img class="tile" alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your dungeon (or is defeated) you may add one guard <img class="inline guardToken"/> token to a Campfire tile that has no open edges (e.g. following the same rules as the Populate Phase). |
 
