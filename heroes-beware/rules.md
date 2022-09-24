@@ -43,13 +43,11 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 # COMPONENTS
 
 <table class="components">
-<tr><th colspan="2">134 tiles</th></tr>
-<tr><td><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 300px"/></td><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 100px"/></td></tr>
-<tr><td>4 entrance T-shaped tiles<br>(4 squares)</td><td>18 special I-shaped tiles<br>(2 squares)</td></tr>
-<tr><td><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/Patch.png" style="width: 100px"/></td></tr>
-<tr><td>9 special L-shaped tiles<br>(3 squares)</td><td>8 patch tiles<br>(1 square)</td></tr>
-<tr><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
-<tr><td>104 square tiles<br>(1 square)</td><td></td></tr>
+<tr><th colspan="4">134 tiles</th></tr>
+<tr><td colspan="3"><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 300px"/></td><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 100px"/></td></tr>
+<tr><td colspan="3">4 entrance T-shaped tiles<br>(4 squares)</td><td>18 special I-shaped tiles<br>(2 squares)</td></tr>
+<tr><td colspan="2"><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/Patch.png" style="width: 100px"/></td><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
+<tr><td colspan="2">9 special L-shaped tiles<br>(3 squares)</td><td>8 patch tiles<br>(1 square)</td><td>104 square tiles<br>(1 square)</td></tr>
 </table>
 
 <table class="components">
