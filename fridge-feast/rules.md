@@ -9,15 +9,19 @@ You and your friends have all gathered to cook a tremendous feast! But you all n
 
 | Fresh | Spoiled |
 | --- | --- |
-| <img alt="fresh ingredient"/> | <img alt="spoiled ingredient"/> |
+| <img class="card" alt="fresh ingredient" src="rulebook/IngredientFresh.png"/> | <img class="card" alt="spoiled ingredient" src="rulebook/IngredientSpoiled.png"/> |
 
 22 recipe cards
 
-<img alt="recipe card with ingredients and point value"/>
+<img class="card" alt="recipe card with ingredients and point value" src="rulebook/Recipe.png"/>
+
+<mark>?? goal cards</mark>
+
+<img class="card" alt="secret goal card" src="rulebook/Goal.png"/>
 
 # Setup
 
-<img alt="setup diagram"/>
+<img alt="setup diagram" src="rulebook/Setup.png" style="width: 100%"/>
 
 1. Shuffle the recipe cards to form a face-down deck
 2. Shuffle the ingredient cards to form a deck (ideally keeping the spoiled side face-down, but it’s okay if they get mixed up).
@@ -64,4 +68,5 @@ The player who used the most spoiled ingredients is deemed the Creative Chef and
 
 # Goal Cards
 Alternatively you may play with the provided goal cards. During game setup each player is dealt one secret goal card. When the game ends each player reveals their goal card and scores it for points if the conditions have been met.
-**TODO: This isn’t an alternate, this is just how the game works now…**
+
+<mark>TODO: This isn’t an alternate, this is just how the game works now…</mark>
