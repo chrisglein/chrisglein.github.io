@@ -197,7 +197,7 @@ Create the shared invasion deck by shuffling together a number of invader cards 
 
 When shuffling the deck, ensure that the top card is not an event.
 
-<mark>It’s possible to create 3 decks at setup with the ROUND I, II, II cards. Update these instructions for that. As is this section lacks mention of shuffling old invaders/events (if needed - is it?).</mark>
+<mark>Instead, it’s possible to create separate decks for each round during setup. They can be covered with ROUND 1, ROUND 2, ROUND 3 cover cards. If this seems like the better path, update the components list and these instructions (including moving them to the Setup section).</mark>
 
 Draw and reveal one card from of the invasion deck. Each player will resolve that same card. After each player has completed resolving the card, draw another card from the invasion deck and repeat the process. The phase ends after the last card from the invasion deck has been resolved for all players.
 
