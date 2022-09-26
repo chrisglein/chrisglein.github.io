@@ -105,37 +105,17 @@ If playing with fewer than 4 players you will need to remove some tiles from the
 Before continuing, make sure all players are ready to start, as the following part of the phase happens in real time (no turns).
 
 ### Real-time tile selection
-All players simultaneously may now collect tiles to add to their colony. You may take a face-down or face-up tile from the central pile into your hand, one at a time. If the tile was face-down, flip it face-up and look at it. Then you either add the tile to your personal colony or return it to the central pile face-up. 
+All players simultaneously may now collect tiles to add to their colony.
 
-Tiles much be placed adjacent and connected to tiles already in your colony. The rules for how you should connect tiles are covered below.
+You may take a face-down or face-up tile from the central pile into your hand, one at a time. If the tile was face-down, flip it face-up and look at it. Then you either add the tile to your personal colony or return it to the central pile face-up. 
+
+Tiles must be placed adjacent and connected to tiles already in your colony. The rules for how you should connect tiles are covered below.
 
 If you have any tiles in your personal reserve, they can be added during this phase. Any unused reserve tiles at the end of the build phase remain in your reserve (they are not lost).
 
 After all the tiles in the central pile are gone or all players chose to stop building (no one wants the remaining tiles) begin the inspection phase.
 
 <img alt="example built colony" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
-
-### Alternate rule: turn-based tile selection
-
-#### Setup 
-Takes 5 tiles from the central pile and form a left-to-right **queue** in front of you. Flip all tiles in your queue face-up.
-
-You will be passing 1 tile each turn to the player on your right. Place the supplied passing podium <mark>(TODO: Add to components list</mark>) between you, and use it for placing the passed tile.
-
-#### Draft action
-Take a simultaneous turn doing one of the following:
-| Action | Description |
-| --- | --- |
-| Build from queue | Add up to 3 tiles from your queue to your colony (using normal placement rules, covered below). Then add an equivalent number of face-down tiles from the central pile to the _left_ of your queue. Pass the _right-most_ tile in your queue. |
-| Reveal | Choose a tile from _anywhere_ in your queue to pass. Then flip all tiles in your queue face-up. |
-| Build from reserve | Add a tile from your reserve to your colony. Pass the _right-most_ tile in your queue. |
-
-Regardless of which action you took, you should have 4 tiles in your queue and 1 tile passed to the player to your right.
-
-Once _all_ players have take their action, take the tile passed from the player on your left and add it to the _left_ of your queue. You all should now have 5 tiles in front of you (potentially a mix of face-up and face-down), and can all simultaneously take another turn.
-
-#### End of the draft
-After finishing a draft turn, if there are fewer tiles in the center pile than number of players, this is the final turn. Take a normal turn, but there is no need to pass a tile or to refill with tiles from the center pile. After all players have finished this final turn, begin the inspection phase
 
 ### Tile placement rules
 
@@ -302,6 +282,31 @@ These reserve tiles can be added to your colony during the build phase. They can
 
 # END OF GAME
 After playing all 3 rounds the winner is the player with the highest treasure value (totaled the same way as during the draft phase). If there is a tie the player with the most gem <img class="inline gemToken"/> tokens wins. If a tie remains the players share the victory.
+
+# VARIANT: TURN-BASED BUILD PHASE
+
+As an alternate to the real-time Build Phase, the following rules can be used. 
+
+### Setup 
+Takes 5 tiles from the central pile and form a left-to-right **queue** in front of you. Flip all tiles in your queue face-up.
+
+You will be passing 1 tile each turn to the player on your right. Place the supplied passing podium <mark>(TODO: Add to components list</mark>) between you, and use it for placing the passed tile.
+
+#### Draft action
+Take a simultaneous turn doing one of the following:
+
+| Action | Description |
+| --- | --- |
+| Build from queue | Add up to 3 tiles from your queue to your colony (using normal placement rules, covered below). Then add an equivalent number of face-down tiles from the central pile to the _left_ of your queue. Pass the _right-most_ tile in your queue. |
+| Reveal | Choose a tile from _anywhere_ in your queue to pass. Then flip all tiles in your queue face-up. |
+| Build from reserve | Add a tile from your reserve to your colony. Pass the _right-most_ tile in your queue. |
+
+Regardless of which action you took, you should have 4 tiles in your queue and 1 tile passed to the player to your right.
+
+Once _all_ players have take their action, take the tile passed from the player on your left and add it to the _left_ of your queue. You all should now have 5 tiles in front of you (potentially a mix of face-up and face-down), and can all simultaneously take another turn.
+
+#### End of the draft
+After finishing a draft turn, if there are fewer tiles in the center pile than number of players, this is the final turn. Take a normal turn, but there is no need to pass a tile or to refill with tiles from the center pile. After all players have finished this final turn, begin the inspection phase
 
 # SINGLEPLAYER
 <mark>TODO: Enter score targets and timer requirements (2:30 standard difficulty)</mark>
