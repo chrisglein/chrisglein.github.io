@@ -31,9 +31,24 @@ description: Rulebook
   max-height: 150px;
   margin: -10px;
 }
+.tinyTile {
+  clip-path: inset(5px round 0.1em);
+  max-width: 50px;
+  max-height: 50px;
+  margin: -5px;
+}
 
 table td {
   vertical-align: top;
+}
+
+table.noInnerBorder td {
+  border: initial;
+  padding: 0px;
+}
+
+table td.bottomBorder {
+  border-bottom: 1px solid #373737;
 }
 </style>
 # SUMMARY
@@ -299,13 +314,30 @@ Take a simultaneous turn doing one of the following:
 
 | Action | Description |
 | --- | --- |
-| Build from queue | Add up to 3 tiles from your queue to your colony (using normal placement rules, covered below). Then add an equivalent number of face-down tiles from the central pile to the _left_ of your queue. Pass the _right-most_ tile in your queue. |
+| Build from queue | Add up to 3 tiles from your queue to your colony (using normal placement rules). Then add an equivalent number of face-down tiles from the central pile to the _left_ of your queue. Pass the _right-most_ tile in your queue. |
 | Reveal | Choose a tile from _anywhere_ in your queue to pass. Then flip all tiles in your queue face-up. |
 | Build from reserve | Add a tile from your reserve to your colony. Pass the _right-most_ tile in your queue. |
 
 Regardless of which action you took, you should have 4 tiles in your queue and 1 tile passed to the player to your right.
 
 Once _all_ players have take their action, take the tile passed from the player on your left and add it to the _left_ of your queue. You all should now have 5 tiles in front of you (potentially a mix of face-up and face-down), and can all simultaneously take another turn.
+
+
+<table class="noInnerBorder">
+<tr><th colspan="5">Build example</th></tr>
+<tr><td>⬆️</td><td>⬆️</td><td></td><td></td><td>⬆️</td></tr>
+<tr><td><img class="tinyTile" src="rulebook/CavernStraightMonster.png"/></td><td><img class="tinyTile" src="rulebook/CavernForkTrap.png"/></td><td><img class="tinyTile" src="rulebook/DungeonDeadEndTreasure.png"/></td><td><img class="tinyTile" src="rulebook/DungeonDeadEndCell.png"/></td><td><img class="tinyTile" src="rulebook/CavernStraightMonster.png"/></td></tr>
+<tr><td colspan="5" class="bottomBorder">Added 3 tiles to the colony.</td></tr>
+<tr><td>⬇️</td><td>⬇️</td><td>⬇️</td><td></td><td></td></tr>
+<tr><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/DungeonDeadEndTreasure.png"/></td><td><img class="tinyTile" src="rulebook/DungeonDeadEndCell.png"/></td></tr>
+<tr><td colspan="5" class="bottomBorder">Refill 3 tiles from the center pile to the left.</td></tr>
+<tr><td></td><td></td><td></td><td></td><td>➡️</td></tr>
+<tr><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/DungeonDeadEndTreasure.png"/></td><td></td></tr>
+<tr><td colspan="5" class="bottomBorder">Pass the remaining right-most tile.</td></tr>
+<tr><td>➡️</td><td></td><td></td><td></td><td></td></tr>
+<tr><td><img class="tinyTile" src="rulebook/CavernDeadEndOre.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/TileBack.png"/></td><td><img class="tinyTile" src="rulebook/DungeonDeadEndTreasure.png"/></td></tr>
+<tr><td colspan="5" class="bottomBorder">Receive a tile from the player to your left.</td></tr>
+</table>
 
 #### End of the draft
 After finishing a draft turn, if there are fewer tiles in the center pile than number of players, this is the final turn. Take a normal turn, but there is no need to pass a tile or to refill with tiles from the center pile. After all players have finished this final turn, begin the inspection phase
