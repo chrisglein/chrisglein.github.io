@@ -115,6 +115,28 @@ After all the tiles in the central pile are gone or all players chose to stop bu
 
 <img alt="example built colony" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
 
+### Alternate rule: turn-based tile selection
+
+#### Setup 
+Takes 5 tiles from the central pile and form a left-to-right **queue** in front of you. Flip all tiles in your queue face-up.
+
+You will be passing 1 tile each turn to the player on your right. Place the supplied passing podium <mark>(TODO: Add to components list</mark>) between you, and use it for placing the passed tile.
+
+#### Draft action
+Take a simultaneous turn doing one of the following:
+| Action | Description |
+| --- | --- |
+| Build from queue | Add up to 3 tiles from your queue to your colony (using normal placement rules, covered below). Then add an equivalent number of face-down tiles from the central pile to the _left_ of your queue. Pass the _right-most_ tile in your queue. |
+| Reveal | Choose a tile from _anywhere_ in your queue to pass. Then flip all tiles in your queue face-up. |
+| Build from reserve | Add a tile from your reserve to your colony. Pass the _right-most_ tile in your queue. |
+
+Regardless of which action you took, you should have 4 tiles in your queue and 1 tile passed to the player to your right.
+
+Once _all_ players have take their action, take the tile passed from the player on your left and add it to the _left_ of your queue. You all should now have 5 tiles in front of you (potentially a mix of face-up and face-down), and can all simultaneously take another turn.
+
+#### End of the draft
+After finishing a draft turn, if there are fewer tiles in the center pile than number of players, this is the final turn. Take a normal turn, but there is no need to pass a tile or to refill with tiles from the center pile. After all players have finished this final turn, begin the inspection phase
+
 ### Tile placement rules
 
 Tiles have a mix of **open edges** (with a pathway) and **closed edges** (no way through). Each edge also has a type:
@@ -132,7 +154,9 @@ For a valid connection:
 | <img alt="adjacent cavern and stone closed edges" src="rulebook/DiagramMismatchClosed.png" style="width: 50%"/> | <img alt="open edge adjacent to closed edge" src="rulebook/DiagramOpenToClosed.png" style="width: 50%"/> |
 
 ## 2. INSPECTION PHASE
-Take this opportunity to look at your neighbor’s colonies. It’s possible they have made invalid connections during the build phase (e.g. there are tiles that have mismatched open edges). These need to be addressed now.
+Set aside all square tiles that were not added to any player's colony.
+
+Now look at your neighbor’s colonies. It’s possible they have made invalid connections during the build phase (e.g. there are tiles that have mismatched open edges). These need to be addressed.
 
 | ❌ |
 | --- |
