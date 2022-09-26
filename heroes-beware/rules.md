@@ -73,7 +73,7 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 2. Shuffle the L-shaped tiles and set aside in a face-down stack.
 3. Shuffle the I-shaped tiles and set aside in a face-down stack.
 4. Give each player 1 _Patch_ tile for their reserve. Set aside a supply of the remaining _Patch_ tiles.
-5. Put all square tiles face-down in a pile in the middle of the table within reach of all players. 
+5. Put all square tiles face-down in a pile in the center of the table within reach of all players. 
 6. Shuffle these cards into three separate decks:
   - Invader cards 
   - Event cards
@@ -94,7 +94,7 @@ Each round is broken down into 6 phases:
 ## 1. BUILD PHASE
 
 ### Prepare the pile
-Gather up all the square tiles into a face-down pile. Return to the center pile any square tiles that were removed from the game during previous rounds.
+Gather up all the square tiles into a face-down pile in the center of the table. Return to pile any square tiles that were removed from the game during previous rounds. Flip all tiles in the pile face-down and give it a good swirl to sufficiently randomize it.
 
 If playing with fewer than 4 players you will need to remove some tiles from the center pile. Remove (without looking at them) a number of tiles based on the chart below. The set aside tiles will not be needed during this round, but should be returned for future rounds before starting another Build Phase.
 
@@ -222,10 +222,10 @@ As the invader moves through the colony they encounter each square. If there is 
 
 | Name | Token | Effect |
 | --- | --- | --- |
-| Trap | <img class="inline trapToken"/> | Remove the token and deal 1 ❤️ damage to the invader. |
-| Guard | <img class="inline guardToken"/> | Remove the token and deal 1 ❤️ damage to the invader. |
-| Gem | <img class="inline gemToken"/> | Remove the token and the invader leaves the colony (even if they had bag 💰 space remaining). |
-| Gold | <img class="inline goldToken"/> | Remove the token and the invader uses up 1 of its bags 💰. |
+| Trap | <img class="inline trapToken"/> | Deal 1 ❤️ damage to the invader.<br>Remove the token. |
+| Guard | <img class="inline guardToken"/> | Ddeal 1 ❤️ damage to the invader.<br>Remove the token. |
+| Gem | <img class="inline gemToken"/> | The invader leaves the colony (even if they had bag 💰 space remaining).<br>Remove the token. |
+| Gold | <img class="inline goldToken"/> | The invader uses up 1 of its bags 💰.<br>Remove the token. |
 | Prisoner | <img class="inline prisonerToken"/> | Nothing happens |
 
 If there are multiple tokens in a square, they are processed one at a time in the order of your choice. This means that a guard <img class="inline guardToken"/> token may be encountered before dealing with a gold <img class="inline goldToken"/> token, for example.
@@ -233,23 +233,23 @@ If there are multiple tokens in a square, they are processed one at a time in th
 #### Re-arm Traps
 After each invader has been resolved you may decide to re-arm the traps in your colony. To do so remove one gold <img class="inline goldToken"/> token or one guard <img class="inline guardToken"/> token from your colony, then add trap <img class="inline trapToken"/> tokens to all _Trap_ tiles that do not have an open edge (e.g. the same criteria used during the Populate Phase). You must decide to re-arm traps before the next card is drawn from the invasion deck.
 
-### EVENT CARDS
+### EVENT CARD
 Events cards are resolved by executing the text on the card for all players.
 
 <img alt="event card" src="rulebook/Cave-In.png" class="card"/>
 
 ## 5. PROFIT PHASE
-After the colonies have been invaded you extract as much treasure as possible from your colony into your **stash**.
+After all colonies have been invaded, extract as much treasure as possible from your colony into your **stash**.
 1. Return all trap <img class="inline trapToken"/> tokens to the supply. They have no use anymore.
 2. Count the guard <img class="inline guardToken"/> tokens remaining in your colony, and return them to the supply. The player with the most adds a gem <img class="inline gemToken"/> token to their stash. If there is a tie for most, all tied players will receive a gem (unless the tied value is zero).
 3. For each prisoner <img class="inline guardToken"/> token, return it to the supply and add 2 gold <img class="inline goldToken"/> tokens from the supply to your stash (e.g. if you have 2 prisoners you return them to the supply and take 4 gold tokens).
 4. Move all gold <img class="inline goldToken"/> tokens and gem <img class="inline gemToken"/> tokens in your colony to your stash.
 
-At this point there should be no remaining tiles on your colony tiles.
+At this point there should be no remaining tokens on your colony tiles.
 
 #### Take it apart
 
-Dismantle your colony. Set aside your entrance tile and any of your I-shaped, L-shaped, or _Patch_ tiles into your **reserve**. Return all other square tiles to the center of the table in a pile face-down and sufficiently randomized.
+Dismantle your colony. Set aside your entrance tile and any of your I-shaped, L-shaped, or _Patch_ tiles into your **reserve**. Return all other square tiles to the center pile.
 
 #### Make change
 
