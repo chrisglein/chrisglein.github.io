@@ -150,7 +150,7 @@ If at any point a tile is no longer connected through a pathway to the colony en
 | --- |
 | <img alt="example large mistake and the tiles that need to be removed" src="rulebook/DiagramLargeError.png" style="width: 100%"/> |
 
-Instead of removing tiles you may make replace a tile with a _Patch_ tile from your reserve. _Patch_ tiles's edges are always considered to be valid (they may have mismatched edges types or have open edges that connect to closed edges). If you do not have any _Patch_ tiles you may choose to take one from the supply by returning a gem <img class="inline gemToken"/> token from your stash to the supply.
+Instead of removing tiles to address invalid connections you may replace a tile in your colony with a _Patch_ tile from your reserve. _Patch_ tiles's edges are always considered to be valid (they may have mismatched edges types or have open edges that connect to closed edges). If you do not have any _Patch_ tiles you may choose to purchase one from the supply by returning a gem <img class="inline gemToken"/> token from your stash to the supply.
 
 ## 3. POPULATE PHASE
 During this phase you will place tokens from the supply and your stash onto tiles in your colony. Consult the “Tiles” appendix to know which which tiles populate which tokens.
@@ -160,7 +160,7 @@ Tiles that have any unconnected open edge do not populate any tokens.
 <img alt="example of placing tokens only tiles with no open edges" src="rulebook/DiagramPopulate.png"/>
 
 ### YOUR STASH
-You may have gem <img class="inline gemToken"/> and/or gold <img class="inline goldToken"/> tokens leftover in your stash from previous rounds. The gem <img class="inline gemToken"/> tokens will need to be stored in your colony or they will be lost. They may be placed on colony _Treasure Chest_ tiles instead of populating a gold <img class="inline goldToken"/> token there.
+You may have gem <img class="inline gemToken"/> and/or gold <img class="inline goldToken"/> tokens in a stash from previous rounds. Your gem <img class="inline gemToken"/> tokens will need to be stored in your colony or they will be lost. These may be placed on _Treasure Chest_ tiles instead of populating a gold <img class="inline goldToken"/> token.
 
 <img alt="placing a gem on a chest tile" src="rulebook/DiagramPopulateGem.png"/>
 
@@ -180,7 +180,9 @@ Create the shared invasion deck by shuffling together a number of invader cards 
 | 4 invader cards | 4 invader cards | 5 invader cards |
 | 1 event card | 2 event cards | 2 event cards |
 
-<mark>It’s possible to create 3 decks at setup with the ROUND I, II, II cards. Update these instructions for that. As is this section lacks mention of shuffling old invaders/events (if needed).</mark>
+When shuffling the deck, ensure that the top card is not an event.
+
+<mark>It’s possible to create 3 decks at setup with the ROUND I, II, II cards. Update these instructions for that. As is this section lacks mention of shuffling old invaders/events (if needed - is it?).</mark>
 
 Draw and reveal one card from of the invasion deck. Each player will resolve that same card. After each player has completed resolving the card, draw another card from the invasion deck and repeat the process. The phase ends after the last card from the invasion deck has been resolved for all players.
 
@@ -307,6 +309,10 @@ Once _all_ players have take their action, take the tile passed from the player 
 
 #### End of the draft
 After finishing a draft turn, if there are fewer tiles in the center pile than number of players, this is the final turn. Take a normal turn, but there is no need to pass a tile or to refill with tiles from the center pile. After all players have finished this final turn, begin the inspection phase
+
+# VARIANT: SHORT GAME
+
+You can play a shorter game by skipping most of round 1. To do so start each player with 1 gem <img class="inline gemToken"/> token in their stash. Start play at the Planning Phase of round 1 (the draft of reserve tiles), then continue from there.
 
 # SINGLEPLAYER
 <mark>TODO: Enter score targets and timer requirements (2:30 standard difficulty)</mark>
