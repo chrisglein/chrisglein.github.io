@@ -257,7 +257,7 @@ Events cards are resolved by executing the text on the card for all players.
 After all colonies have been invaded, extract as much treasure as possible from your colony into your **stash**.
 1. Return all trap <img class="inline trapToken"/> tokens to the supply. They have no use anymore.
 2. Count the guard <img class="inline guardToken"/> tokens remaining in your colony, and return them to the supply. The player with the most adds a gem <img class="inline gemToken"/> token to their stash. If there is a tie for most, all tied players will receive a gem (unless the tied value is zero).
-3. For each prisoner <img class="inline guardToken"/> token, return it to the supply and add 2 gold <img class="inline goldToken"/> tokens from the supply to your stash (e.g. if you have 2 prisoners you return them to the supply and take 4 gold tokens).
+3. For each prisoner <img class="inline prisonerToken"/> token, return it to the supply and add 2 gold <img class="inline goldToken"/> tokens from the supply to your stash (e.g. if you have 2 prisoners you return them to the supply and take 4 gold tokens).
 4. Move all gold <img class="inline goldToken"/> tokens and gem <img class="inline gemToken"/> tokens in your colony to your stash.
 
 At this point there should be no remaining tokens on your colony tiles.
