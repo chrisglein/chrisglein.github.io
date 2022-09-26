@@ -31,6 +31,10 @@ description: Rulebook
   max-height: 150px;
   margin: -10px;
 }
+
+table td {
+  vertical-align: top;
+}
 </style>
 # SUMMARY
 
@@ -68,15 +72,16 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 1. Each player takes a entrance T-shaped tile. Return any remaining entrance tiles to the game box.
 2. Shuffle the L-shaped tiles and set aside in a face-down stack.
 3. Shuffle the I-shaped tiles and set aside in a face-down stack.
-4. Put all square tiles face-down in a pile in the middle of the table within reach of all players. 
-5. Shuffle these cards into three separate decks:
+4. Give each player 1 _Patch_ tile for their reserve. Set aside a supply of the remaining _Patch_ tiles.
+5. Put all square tiles face-down in a pile in the middle of the table within reach of all players. 
+6. Shuffle these cards into three separate decks:
   - Invader cards 
   - Event cards
   - Map cards
-6. Set aside the supply of gold <img class="inline goldToken"/>, guard <img class="inline guardToken"/>, trap <img class="inline trapToken"/>, gem <img class="inline gemToken"/>, and prisoner <img class="inline prisonerToken"/> tokens.
+7. Set aside the supply of gold <img class="inline goldToken"/>, guard <img class="inline guardToken"/>, trap <img class="inline trapToken"/>, gem <img class="inline gemToken"/>, and prisoner <img class="inline prisonerToken"/> tokens.
 
 # OVERVIEW
-The game is played over 3 rounds. During each round, players will simultaneously construct their own colony from the shared pool of tiles. After the colonies are built, all of them will be simultaneously invaded by surface dwellers, who will attempt to steal the treasure contained within. After each invasion, players will abandon that colony but stash their surviving treasure to carry over to the next colony. At the end of the last round the player with the most valuable treasure stash will be the winner. 
+The game is played over 3 rounds. During each round, players will simultaneously construct their own colony from the shared pile of tiles. After the colonies are built, all of them will be simultaneously invaded by surface dwellers, who will attempt to steal the treasure contained within. After each invasion, players will abandon that colony but stash their surviving treasure to carry over to the next colony. At the end of the last round the player with the most valuable treasure stash will be the winner. 
 
 Each round is broken down into 6 phases:
 1. Build
@@ -84,66 +89,84 @@ Each round is broken down into 6 phases:
 3. Populate
 4. Invasion
 5. Profit
-6. Draft
+6. Planning
 
 ## 1. BUILD PHASE
-If playing with fewer than 4 players you will need to remove some tiles from the center pile. Choose the tiles to remove randomly and do not look at them.
+
+### Prepare the pile
+Gather up all the square tiles into a face-down pile. Return to the center pile any square tiles that were removed from the game during previous rounds.
+
+If playing with fewer than 4 players you will need to remove some tiles from the center pile. Remove (without looking at them) a number of tiles based on the chart below. The set aside tiles will not be needed during this round, but should be returned for future rounds before starting another Build Phase.
 
 | 1 player | 2 players | 3 players | 4 players |
 | --- | --- | --- | --- |
 | Remove 60<br>(44 remain) | Remove 40<br>(64 remain) | Remove 20 <br>(84 remain) | Remove 0<br>(Play with all tiles) |
 
-Once all players are ready, players simultaneously start collecting tiles to build their colony. You may take a face-down or face-up tile from the central pile into your hand, one at a time. If the tile was face-down you flip it face-up and look at it. Then you either add the tile to your personal colony or return it to the central pile face-up. 
+Before continuing, make sure all players are ready to start, as the following part of the phase happens in real time (no turns).
 
-The added tile must connect to at least one existing tile in your colony. All open edges of the new tile must either connect to nothing or to matching open edges of an existing tile. 
-- You cannot match an open edge to a closed edge.
-- You cannot match an open tunnel edge (cavern, small) to an open hallway edge (stone, large).
+### Real-time tile selection
+All players simultaneously may now collect tiles to add to their colony. You may take a face-down or face-up tile from the central pile into your hand, one at a time. If the tile was face-down, flip it face-up and look at it. Then you either add the tile to your personal colony or return it to the central pile face-up. 
+
+Tiles much be placed adjacent and connected to tiles already in your colony. The rules for how you should connect tiles are covered below.
+
+If you have any tiles in your personal reserve, they can be added during this phase. Any unused reserve tiles at the end of the build phase remain in your reserve (they are not lost).
+
+After all the tiles in the central pile are gone or all players chose to stop building (no one wants the remaining tiles) begin the inspection phase.
+
+<img alt="example built colony" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
+
+### Tile placement rules
+
+Tiles have a mix of **open edges** (with a pathway) and **closed edges** (no way through). Each edge also has a type:
+- **cavern**, with a narrow pathway
+- **stone**, with a wide pathway
+
+For a valid connection:
+- At least one open edge must connect to an existing adjacent tile.
+- Adjacent tile edges must either both be closed or both be open.
+- If open, adjacent tile edges must match edge type (cavern or stone). 
 
 | ✔️ | ❌ |
 | --- | --- |
 | <img alt="cavern matching open edges" src="rulebook/DiagramMatchedOpen.png" style="width: 50%"/> | <img alt="cavern mis-connected to stone edge" src="rulebook/DiagramMismatchOpen.png" style="width: 50%"/> |
 | <img alt="adjacent cavern and stone closed edges" src="rulebook/DiagramMismatchClosed.png" style="width: 50%"/> | <img alt="open edge adjacent to closed edge" src="rulebook/DiagramOpenToClosed.png" style="width: 50%"/> |
 
-After all the tiles in the central pile are gone or all players have chosen to stop building (no one wants the remaining tiles) begin the inspection phase.
-
-<mark>TODO: Show an example built colony</mark>
-
-<img alt="example built colony" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
-
 ## 2. INSPECTION PHASE
-Take this opportunity to look at your neighbor’s colonies. It’s possible they have made mistakes during the build phase and have tiles that are invalidly placed (e.g. have mismatched open edges).
-
+Take this opportunity to look at your neighbor’s colonies. It’s possible they have made invalid connections during the build phase (e.g. there are tiles that have mismatched open edges). These need to be addressed now.
 
 | ❌ |
 | --- |
 | <img alt="example mistake (cavern mis-connected to stone)" src="rulebook/DiagramMismatchOpen.png" style="width: 50%"/> |
 
-If a mistake is discovered in your colony, you must choose and remove tiles from your colony until there are no longer any invalid tiles.
+If an invalid connection is discovered in your colony, you must choose and remove tiles from your colony until there are no longer any invalid connections.
 
-If at any point a tile is no longer connected through a path to the colony entrance that tile is invalid removed from the colony.
+If at any point a tile is no longer connected through a pathway to the colony entrance that tile is removed from the colony.
 
 | ❌ |
 | --- |
 | <img alt="example large mistake and the tiles that need to be removed" src="rulebook/DiagramLargeError.png" style="width: 100%"/> |
 
-Instead of removing tiles you may make replace a tile with a _Patch_ tile from the supply (<mark>TODO: Add to components list</mark>). _Patch_ tiles are always considered valid (they may have mismatched open edges or have open edges that connect to closed edges). If you choose to take a _Patch_ tile you must return a gem <img class="inline gemToken"/> token from your stash (see: "Profit Phase") to the supply, if able. You may take a _Patch_ tile even if you have no gem tokens.
+Instead of removing tiles you may make replace a tile with a _Patch_ tile from your reserve. _Patch_ tiles's edges are always considered to be valid (they may have mismatched edges types or have open edges that connect to closed edges). If you do not have any _Patch_ tiles you may choose to take one from the supply by returning a gem <img class="inline gemToken"/> token from your stash to the supply.
 
 ## 3. POPULATE PHASE
-During this phase you will place tokens from the supply (and potentially your stash of gem <img class="inline gemToken"/> tokens) on your colony. Consult the “Tiles” appendix to know which tokens go on which tiles.
+During this phase you will place tokens from the supply and your stash onto tiles in your colony. Consult the “Tiles” appendix to know which which tiles populate which tokens.
+
+Tiles that have any unconnected open edge do not populate any tokens.
 
 <img alt="example of placing tokens only tiles with no open edges" src="rulebook/DiagramPopulate.png"/>
 
-> Important: Tiles that have an open edge do not receive any tokens.
-
-You may have gem <img class="inline gemToken"/> and gold <img class="inline goldToken"/> tokens leftover in your stash from previous rounds. The gem <img class="inline gemToken"/> tokens must be stored in your colony or they are lost. They may be placed on colony _Treasure Chest_ tiles instead of placing a gold <img class="inline goldToken"/> token there.
+### YOUR STASH
+You may have gem <img class="inline gemToken"/> and/or gold <img class="inline goldToken"/> tokens leftover in your stash from previous rounds. The gem <img class="inline gemToken"/> tokens will need to be stored in your colony or they will be lost. They may be placed on colony _Treasure Chest_ tiles instead of populating a gold <img class="inline goldToken"/> token there.
 
 <img alt="placing a gem on a chest tile" src="rulebook/DiagramPopulateGem.png"/>
 
-If you do not have a valid tile to place your gem <img class="inline gemToken"/> token on you may instead exchange it for a guard <img class="inline guardToken"/> token from the supply and place that token on any square of your colony that does not already have a token.
+You may purchase guard <img class="inline guardToken"/> tokens from the supply with tokens from your stash. The cost is:
+- 1 gem <img class="inline gemToken"/> token
+- (or) 2 gold <img class="inline goldToken"/> tokens
 
-Any leftover gold <img class="inline goldToken"/> tokens in your stash are safe. Set your stash aside until the "Profit Phase".
+Return the spent tokens to the supply in exchange for the guard <img class="inline guardToken"/> tokens. Each of these purchased tokens can be placed on a square in your colony that does not already have a token.
 
-Once all colonies are populated the colonies will be invaded. 
+At the end of the populate phase, any remaining tokens in your stash are returned to the supply.
 
 ## 4. INVASION PHASE
 Create the shared invasion deck by shuffling together a number of invader cards and event cards depending on the current round:
@@ -155,7 +178,10 @@ Create the shared invasion deck by shuffling together a number of invader cards 
 
 <mark>It’s possible to create 3 decks at setup with the ROUND I, II, II cards. Update these instructions for that. As is this section lacks mention of shuffling old invaders/events (if needed).</mark>
 
-Draw and reveal one card from of the invasion deck. If that card is an invader (<mark>TODO: Invader cards should have a map icon</mark>) also draw a card from the map deck.
+Draw and reveal one card from of the invasion deck. Each player will resolve that same card. After each player has completed resolving the card, draw another card from the invasion deck and repeat the process. The phase ends after the last card from the invasion deck has been resolved for all players.
+
+### INVADER CARD
+If that card is an invader (<mark>TODO: Invader cards should have a map icon</mark>) also draw a card from the map deck.
 
 The invader card defines who is invading the colony and the map card describes how they will move through the colony.
 
@@ -185,58 +211,70 @@ Some notes:
 
 <img alt="example" src="rulebook/ExampleInvasion.png" style="width: 100%"/>
 
-### TOKEN EFFECTS
+#### Token Effects
 As the invader moves through the colony they encounter each square. If there is a token in that square something happens:
-- If the square contains a **trap** <img class="inline trapToken"/> token remove the token and deal 1 ❤️ damage to the invader.
-- B) If the square contains a **guard** <img class="inline guardToken"/> token remove the token and deal 1 ❤️ damage to the invader.
-- C) If the square contains a **gem** <img class="inline gemToken"/> token remove the token and the invader leaves the colony (even if they had bag 💰 space remaining).
-- D) If the square contains a **gold** <img class="inline goldToken"/> token remove the token and the invader uses up 1 of its bags 💰.
 
-Nothing happens when a **prisoner** <img class="inline prisonerToken"/> token is encountered.
+| Name | Token | Effect |
+| --- | --- | --- |
+| Trap | <img class="inline trapToken"/> | Remove the token and deal 1 ❤️ damage to the invader. |
+| Guard | <img class="inline guardToken"/> | Remove the token and deal 1 ❤️ damage to the invader. |
+| Gem | <img class="inline gemToken"/> | Remove the token and the invader leaves the colony (even if they had bag 💰 space remaining). |
+| Gold | <img class="inline goldToken"/> | Remove the token and the invader uses up 1 of its bags 💰. |
+| Prisoner | <img class="inline prisonerToken"/> | Nothing happens |
 
 If there are multiple tokens in a square, they are processed one at a time in the order of your choice. This means that a guard <img class="inline guardToken"/> token may be encountered before dealing with a gold <img class="inline goldToken"/> token, for example.
 
+#### Re-arm Traps
+After each invader has been resolved you may decide to re-arm the traps in your colony. To do so remove one gold <img class="inline goldToken"/> token or one guard <img class="inline guardToken"/> token from your colony, then add trap <img class="inline trapToken"/> tokens to all _Trap_ tiles that do not have an open edge (e.g. the same criteria used during the Populate Phase). You must decide to re-arm traps before the next card is drawn from the invasion deck.
+
 ### EVENT CARDS
-Events cards execute the text on the card and are then considered resolved. You do not draw a matching map card for an event card.
+Events cards are resolved by executing the text on the card for all players.
 
 <img alt="event card" src="rulebook/Cave-In.png" class="card"/>
- 
-### RE-ARM TRAPS
-After the card from the invasion deck has been resolved you may decide to re-arm the traps in your colony. To do so remove one gold <img class="inline goldToken"/> token or one guard <img class="inline guardToken"/> token from your colony, then add trap <img class="inline trapToken"/> tokens to all _Trap_ tiles that do not have an open edge (e.g. the same criteria used during the Populate Phase). You must decide to re-arm traps before the next card is drawn from the invasion deck.
-
-After each player has resolved the invader and had a chance to re-arm traps ,draw another card from the invasion deck and repeat the process. Continue until the invasion deck is empty.
 
 ## 5. PROFIT PHASE
-After the colonies have been invaded you extract as much treasure as possible from your colony.
-1. Count the guard <img class="inline guardToken"/> tokens remaining in your colony. The player with the most receives a gem <img class="inline gemToken"/> token. If there is a tie all players with that value receive a gem, unless that value is zero. Return all guards to the supply.
-2. Exchange each prisoner <img class="inline guardToken"/> token for 2 gold <img class="inline goldToken"/> tokens from the supply (e.g. if you have 2 prisoners you return them to the supply and take 4 gold tokens).
-3. Return all trap <img class="inline trapToken"/> tokens to the supply. They have no use anymore.
-4. Move all gold <img class="inline goldToken"/> tokens and gem <img class="inline gemToken"/> tokens in your colony to your **stash**.
+After the colonies have been invaded you extract as much treasure as possible from your colony into your **stash**.
+1. Return all trap <img class="inline trapToken"/> tokens to the supply. They have no use anymore.
+2. Count the guard <img class="inline guardToken"/> tokens remaining in your colony, and return them to the supply. The player with the most adds a gem <img class="inline gemToken"/> token to their stash. If there is a tie for most, all tied players will receive a gem (unless the tied value is zero).
+3. For each prisoner <img class="inline guardToken"/> token, return it to the supply and add 2 gold <img class="inline goldToken"/> tokens from the supply to your stash (e.g. if you have 2 prisoners you return them to the supply and take 4 gold tokens).
+4. Move all gold <img class="inline goldToken"/> tokens and gem <img class="inline gemToken"/> tokens in your colony to your stash.
 
-Dismantle your colony (setting aside your entrance tile and any of your other I-shaped or L-shaped tiles <mark>or patch tiles</mark>), returning all square tiles to the center of the table in a pile face-down and sufficiently randomized.
+At this point there should be no remaining tiles on your colony tiles.
+
+#### Take it apart
+
+Dismantle your colony. Set aside your entrance tile and any of your I-shaped, L-shaped, or _Patch_ tiles into your **reserve**. Return all other square tiles to the center of the table in a pile face-down and sufficiently randomized.
+
+#### Make change
 
 Each player then _must_ exchange each 5 gold <img class="inline goldToken"/> tokens in their stash for 1 gem <img class="inline gemToken"/> token. They keep any remaining gold <img class="inline goldToken"/> tokens in their stash.
 
-> Important: Skip the exchange in the 3rd round. Proceed to End of Game.
+> Important: Skip this exchange during the final round. Proceed to End of Game.
 
-## 6. DRAFT PHASE
-> Important: Skip this phase during the 3rd round.
+## 6. PLANNING PHASE
+> Important: Skip this phase during the final round.
 
 <mark>TODO: Include picture of the special tiles laid out as for a draft</mark>
 
-Between each round you will get new special tiles that can be added to your future colonies. 
-1. For each player in the game deal out 1 L-shaped special tile (e.g. in a 3 player game deal out 3).
-2. For each player in the game deal out that many plus 1 I-shaped special tiles (e.g. in a 3 player game deal out 4).
-3. <mark>Patch tiles are included in the draft</mark>
+Between each round you will get new reserve tiles that can be added to your future colonies. Deal out L-shaped, I-shaped, and _Patch_ tiles into the center of the table based on the number of players:
 
-Count up the **treasure value** of your stash (each gold <img class="inline goldToken"/> token is worth 1 and each gem <img class="inline gemToken"/> token is worth 5). Your total determines the reverse order you will be able to draft. The player with the lowest treasure value will go first, followed by the player with the second least treasure value, etc. If there is a tie <mark>flip a coin or something</mark>? 
+|  | 1 player | 2 players | 3 players | 4 players |
+| --- | --- | --- | --- | --- |
+| L-shaped tiles | 1 | 2 | 3 | 4 | 
+| I-shaped tiles | 2 | 3 | 4 | 5 |
+| Patch tiles | 1 | 2 | 3 | 4 |
 
-On your draft turn you take one of the special tiles (L-shaped or I-shaped <mark>or patch tiles?</mark>). When everyone has taken one tile repeat the process in the same draft order so that each player ends up with 2 new tiles. Return any remaining unchosen tiles to the game box.
+#### Draft order
 
-These special tiles can be added to your colony during the build phase. They can be added at any time (including after all the normal square tiles have been taken). They are kept from round to round, even if they are not used during the build phase. If they are ever removed from your colony they will return to you to use in the next round.
+Count up the total **treasure value** of your stash:
+- Gold <img class="inline goldToken"/> tokens are worth 1.
+- Gem <img class="inline gemToken"/> tokens are worth 5.
 
-Return any tiles that were removed from the pile during the build phase or from player’s colonies in the inspection or invasion phase to the center pile (face-down).
-<mark>Is this the right time for this step?</mark>
+Your treasure value determines the reverse order you will be able to draft. The player with the _lowest_ treasure value will go first, followed by the player with the second least treasure value, etc. If there is a tie <mark>flip a coin or something</mark>? 
+
+On your draft turn, take one of the special tiles (L-shaped, I-shaped, or _Patch_). When everyone has taken one tile repeat the process in the same order so that each player ends up with 2 new tiles. Return any remaining unchosen tiles to the game box.
+
+These reserve tiles can be added to your colony during the build phase. They can be added at any time (including after all the normal square tiles have been taken). They are kept from round to round, even if they are not used during the build phase. If they are ever removed from your colony they will return to you to use in the next round.
 
 # END OF GAME
 After playing all 3 rounds the winner is the player with the highest treasure value (totaled the same way as during the draft phase). If there is a tie the player with the most gem <img class="inline gemToken"/> tokens wins. If a tie remains the players share the victory.
@@ -260,7 +298,7 @@ After playing all 3 rounds the winner is the player with the highest treasure va
 | <img class="tile" alt="treasure tile" src="rulebook/DungeonDeadEndTreasure.png"/> | **Treasure Chest**<br>Populates 1 gold <img class="inline goldToken"/> token.<br>May alternatively be used to store a gem <img class="inline gemToken"/> token from your stash. |
 | <img class="tile" alt="campfire tile" src="rulebook/CavernStraightMonster.png"/> | **Campfire**<br>Populates 1 guard <img class="inline guardToken"/> token. |
 | <img class="tile" alt="trap tile" src="rulebook/CavernForkTrap.png"/> | **Trap**<br>Populates 1 trap <img class="inline trapToken"/> token. |
-| <img class="tile" alt="ore tile" src="rulebook/CavernDeadEndOre.png"/> | **Ore Vein**<br>Populates 2 gold <img class="inline goldToken"/> tokens on it if there is a path with 5 or more squares between it and the dungeon entrance (not including the entrance square or the ore square) |
+| <img class="tile" alt="ore tile" src="rulebook/CavernDeadEndOre.png"/> | **Ore Vein**<br>Populates 2 gold <img class="inline goldToken"/> tokens if the shortest path between this and the entrance is at least 5 squares (not including the entrance square or the ore square) |
 | <img class="tile" alt="cell tile" src="rulebook/DungeonDeadEndCell.png"/> | **Cell**<br>Whenever an invader is defeated you place a prisoner <img class="inline prisonerToken"/> token on one of your cell tiles that does not already have a prisoner token. These tokens may be ransomed at the end of the round for 2 gold <img class="inline goldToken"/> each. |
 
 ## SPECIAL TILES
@@ -268,8 +306,8 @@ The following tiles only appear on special tiles which are drafted between round
 
 | Tile | Description |
 | --- | --- |
-| <img class="tile" alt="patch tile" src="rulebook/Patch.png"/> | **Patch**<br>The edges of this tile are not considered an error with any type of closed or open edge on adjacent tiles. |
-| <img class="tile" alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Populates 1 gem <img class="inline gemToken"/> token if there is a path with 10 or more squares between it and the colony entrance (not including the entrance square or the gem square) |
+| <img class="tile" alt="patch tile" src="rulebook/Patch.png"/> | **Patch**<br>Connections with the edges of this tile are never considered invalid (whether closed or open, regardless of edge type). |
+| <img class="tile" alt="gem tile" src="rulebook/CavernDeadEndGem.png"/> | **Gem Vein**<br>Populates 1 gem <img class="inline gemToken"/> token if the shortest path between this and the entrance is at least 10 squares (not including the entrance square or the gem square) |
 | <img class="tile" alt="mess hall tile" src="rulebook/SpecialDungeonMessHall.png"/> | **Mess Hall**<br>Populates 1 guard <img class="inline guardToken"/> token.<br>At the end of the populate phase you may move guard tokens from anywhere in your colony to any adjacent connected squares to a Mess Hall square. |
-| <img class="tile" alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your dungeon (or is defeated) you may add one guard <img class="inline guardToken"/> token to a Campfire tile that has no open edges (e.g. following the same rules as the Populate Phase). |
+| <img class="tile" alt="infirmary tile" src="rulebook/SpecialDungeonBeds.png"/> | **Infirmary**<br>After each invader leaves your colony (or is defeated) you may add one guard <img class="inline guardToken"/> token to a _Campfire_ tile that has no open edges (e.g. following the same rules as the Populate Phase). |
 
