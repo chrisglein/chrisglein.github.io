@@ -2,31 +2,38 @@
 title: HEIST
 description: Rulebook
 ---
+<style type="text/css" rel="stylesheet">
+table.components {
+  width: 100%;
+  table-layout: fixed;
+}
+</style>
 Work with a gang of fellow thieves to pull off one last job.
 
 # COMPONENTS
 Modifier tokens
 
-| | | | | | |
-| --- | --- | --- | --- | --- | --- |  
-| <img alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/> | <img alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/> | <img alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/> | <img alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/> | <img alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/> |
-| <img alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/> | <img alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/> | <img alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/> | <img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/> | <img alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/> | <img alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/> |
-| x7 | x9 | x12 | x9 | x7 | x6 |
+<table class="components">
+<tr><td><img alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/></td><td><img alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/></td><td><img alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/></td><td><img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/></td><td><img alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/></td><td><img alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/></td></tr>
+<tr><td><img alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/></td><td><img alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/></td><td><img alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/></td><td><img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/></td><td><img alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/></td><td><img alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/></td></tr>
+<tr><td>x7</td><td>x9</td><td>x12</td><td>x9</td><td>x7</td><td>x6</td></tr>
+</table>
 
-| | |
-| --- | --- |
-| <img class="card" alt="identity card" src="rulebook/Identity.png"/> | <img class="card" alt="job card" src="rulebook/Job.png"/> |
-| 7 identity cards | 5 job cards |
+<table>
+<tr><td><img class="card" alt="identity card" src="rulebook/Identity.png"/></td><td><img class="card" alt="job card" src="rulebook/Job.png"/></td></tr>
+<tr><td>7 identity cards</td><td>5 job cards</td></tr>
+</table>
 
-| | | |
-| --- | --- | --- |
-| <img class="card" alt="secret card" src="rulebook/Secret.png"/> | <img class="card" alt="assist card" src="rulebook/Assist.png"/> | <img class="card" alt="trick card" src="rulebook/Trick.png"/> |
-| 15 secret cards | 44 assist cards | 34 trick cards |
+<table>
+<tr><td><img class="card" alt="secret card" src="rulebook/Secret.png"/></td><td><img class="card" alt="assist card" src="rulebook/Assist.png"/></td><td><img class="card" alt="trick card" src="rulebook/Trick.png"/></td></tr>
+<tr><td>15 secret cards</td><td>44 assist cards</td><td>34 trick cards</td></tr>
+</table>
 
-| | | |
-| --- | --- | --- |
-| <img class="card" alt="obstacle card" src="rulebook/Obstacle.png"/> | <img class="card" alt="rules reminder card"/> | <img alt="bag"/> |
-| 28 obstacle cards | 4 rules reminder cards | <mark>Active job marker</mark><br><mark>Police track card</mark><br>1 opaque bag |
+
+<table>
+<tr><td><img class="card" alt="obstacle card" src="rulebook/Obstacle.png"/></td><td><img class="card" alt="rules reminder card"/></td><td><img alt="bag"/></td></tr>
+<tr><td>28 obstacle cards</td><td>4 rules reminder cards</td><td><mark>Active job marker</mark><br><mark>Police track card</mark><br>1 opaque bag</td></tr>
+</table>
 
 # SETUP
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
@@ -55,7 +62,9 @@ There are a set of jobs that you all are looking to pull off. Each job can only 
 
 # YOUR IDENTITY
 
-<img class="card" alt="identity" src="rulebook/Identity.png" style="max-width: 350px;"/><img class="card" alt="secret" src="rulebook/Secret.png"/>
+<table class="components">
+<tr><td width="66%"><img class="card" alt="identity" src="rulebook/Identity.png"/></td><td width="33%"><img class="card" alt="secret" src="rulebook/Secret.png"/></td></tr>
+</table>
 
 You start the game with an identity card that provides your starting talents. There are 3 talents:
 	 
