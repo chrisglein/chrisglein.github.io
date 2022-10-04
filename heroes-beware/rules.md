@@ -31,6 +31,20 @@ description: Rulebook
   max-height: 150px;
   margin: -10px;
 }
+.i-tile {
+  clip-path: inset(5px round 0.25em);
+  margin: -5px;
+}
+.l-tile {
+  /* This won't round all corners, need to use SVG */
+  clip-path: inset(5px round 0.25em);
+  margin: -5px;
+}
+.t-tile {
+  /* Doesn't round, need to use SVG */
+  clip-path: polygon(2% 2%, 98% 2%, 98% 48%, 65% 48%, 65% 98%, 34% 98%, 34% 48%, 2% 48%);
+  margin: -5px;
+}
 .tinyTile {
   clip-path: inset(5px round 0.1em);
   max-width: 50px;
@@ -63,9 +77,9 @@ You are the head engineer of a peaceful and prosperous underground colony. Unfor
 
 <table class="components">
 <tr><th colspan="4">134 tiles</th></tr>
-<tr><td colspan="3"><img alt="T-shaped tile" src="rulebook/TileT.png" style="width: 300px"/></td><td><img alt="I-shaped tile" src="rulebook/TileI.png" style="width: 100px"/></td></tr>
+<tr><td colspan="3"><img class="t-tile" alt="T-shaped tile" src="rulebook/TileT.png" style="width: 300px"/></td><td><img class="i-tile" alt="I-shaped tile" src="rulebook/TileI.png" style="width: 100px"/></td></tr>
 <tr><td colspan="3">4 entrance T-shaped tiles<br>(4 squares)</td><td>18 special I-shaped tiles<br>(2 squares)</td></tr>
-<tr><td colspan="2"><img alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/Patch.png" style="width: 100px"/></td><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
+<tr><td colspan="2"><img class="l-tile" alt="L-shaped tile" src="rulebook/TileL.png" style="width: 200px"/></td><td><img class="tile" alt="square tile" src="rulebook/Patch.png" style="width: 100px"/></td><td><img class="tile" alt="square tile" src="rulebook/TileBack.png" style="width: 100px"/></td></tr>
 <tr><td colspan="2">9 special L-shaped tiles<br>(3 squares)</td><td>8 patch tiles<br>(1 square)</td><td>104 square tiles<br>(1 square)</td></tr>
 </table>
 
