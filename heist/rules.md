@@ -7,6 +7,10 @@ table.components {
   width: 100%;
   table-layout: fixed;
 }
+
+.token {
+  clip-path: circle(50% at center);
+}
 </style>
 Work with a gang of fellow thieves to pull off one last job.
 
@@ -14,8 +18,8 @@ Work with a gang of fellow thieves to pull off one last job.
 Modifier tokens
 
 <table class="components">
-<tr><td><img alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/></td><td><img alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/></td><td><img alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/></td><td><img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/></td><td><img alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/></td><td><img alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/></td></tr>
-<tr><td><img alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/></td><td><img alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/></td><td><img alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/></td><td><img alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/></td><td><img alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/></td><td><img alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/></td></tr>
+<tr><td><img class="token" alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/></td><td><img class="token" alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/></td><td><img class="token" alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/></td><td><img class="token" alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/></td><td><img class="token" alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/></td><td><img class="token" alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/></td></tr>
+<tr><td><img class="token" alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/></td><td><img class="token" alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/></td><td><img class="token" alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/></td><td><img class="token" alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/></td><td><img class="token" alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/></td><td><img class="token" alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/></td></tr>
 <tr><td>x7</td><td>x9</td><td>x12</td><td>x9</td><td>x7</td><td>x6</td></tr>
 </table>
 
@@ -43,13 +47,13 @@ Modifier tokens
 
 | yellow | red | purple |
 | --- | --- | -- |
-| <img alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
+| <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
 
 6. For each additional player in the game beyond the first, add the following combination of tokens to the bag:
 
 | yellow | yellow | orange |
 | --- | --- | -- |
-| <img alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
+| <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
 
 7. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the police track.
 8. Shuffle the resource deck.
