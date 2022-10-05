@@ -21,15 +21,14 @@ a.rulebookLink img {
 }
 
 iframe.embeddedVideo {
-    max-width: 560px;
-    max-height: 315px;
-
-    width: 100%;
+    width: 560px;
+    height: 315px;
 }
 
 @media (max-width: 480px) {
     iframe.embeddedVideo {
         width: 480px;
+        height: 270px;
     }
 }
 </style>
