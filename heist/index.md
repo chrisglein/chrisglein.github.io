@@ -27,7 +27,7 @@ iframe.embeddedVideo {
 
 @media (max-width: 480px) {
     iframe.embeddedVideo {
-        width: 480px;
+        width: 100%;
         height: 270px;
     }
 }
