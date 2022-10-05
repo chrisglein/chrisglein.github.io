@@ -3,8 +3,27 @@ title: HEIST
 description: Work with a gang of fellow thieves to pull off one last job.
 thumbsurl: media/thumbnails
 ---
+<style type="text/css" rel="stylesheet">
+a.rulebookLink {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+}
+
+a.rulebookLink img {
+    max-height: 64px;
+}
+</style>
+
+# Links
 - [Rulebook](rules.html)
 - [Pitch Video](https://www.youtube.com/watch?v=Fwlsm3gBUaU)
+
+# Rulebook
+<a class="rulebookLink" href="rules.html">
+<img src="..\media\rulebook_icon.png">
+Read the rules
+</a>
 
 # Pitch Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
