@@ -34,7 +34,7 @@ Modifier tokens
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="obstacle card" src="rulebook/Obstacle.png"/></td><td><img class="card" alt="rules reminder card"/></td><td><img alt="bag"/></td></tr>
+<tr><td><img class="card" alt="obstacle card" src="rulebook/Obstacle.png"/></td><td><img class="card" alt="rules reminder card" src="rulebook/RulesCard.png"/></td><td><img alt="bag"/></td></tr>
 <tr><td>28 obstacle cards</td><td>4 rules reminder cards</td><td><mark>Active job marker</mark><br><mark>Police track card</mark><br>1 opaque bag</td></tr>
 </table>
 
