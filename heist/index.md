@@ -23,8 +23,12 @@ a.rulebookLink img {
 iframe.embeddedVideo {
     max-width: 560px;
     max-height: 315px;
+}
 
-    width: 100%;
+@media (max-width: 480px) {
+    iframe.embeddedVideo {
+        width: 480px;
+    }
 }
 </style>
 
