@@ -13,6 +13,19 @@ a.rulebookLink {
 a.rulebookLink img {
     max-height: 64px;
 }
+
+@media (prefers-color-scheme: dark) {
+    a.rulebookLink img {
+        filter: invert(1);
+    }
+}
+
+iframe.embeddedVideo {
+    max-width: 560px;
+    max-height: 315px;
+
+    width: 100%;
+}
 </style>
 
 # Links
@@ -26,7 +39,7 @@ Read the rules
 </a>
 
 # Pitch Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="embeddedVideo" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Gallery
 {% include gallery.html folder="heist/media/images" %}
