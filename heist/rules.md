@@ -19,18 +19,17 @@ Modifier tokens
 <tr><td>x7</td><td>x9</td><td>x12</td><td>x9</td><td>x7</td><td>x6</td></tr>
 </table>
 
-<table>
+<table class="components">
 <tr><td><img class="card" alt="identity card" src="rulebook/Identity.png"/></td><td><img class="card" alt="job card" src="rulebook/Job.png"/></td></tr>
 <tr><td>7 identity cards</td><td>5 job cards</td></tr>
 </table>
 
-<table>
+<table class="components">
 <tr><td><img class="card" alt="secret card" src="rulebook/Secret.png"/></td><td><img class="card" alt="assist card" src="rulebook/Assist.png"/></td><td><img class="card" alt="trick card" src="rulebook/Trick.png"/></td></tr>
 <tr><td>15 secret cards</td><td>44 assist cards</td><td>34 trick cards</td></tr>
 </table>
 
-
-<table>
+<table class="components">
 <tr><td><img class="card" alt="obstacle card" src="rulebook/Obstacle.png"/></td><td><img class="card" alt="rules reminder card"/></td><td><img alt="bag"/></td></tr>
 <tr><td>28 obstacle cards</td><td>4 rules reminder cards</td><td><mark>Active job marker</mark><br><mark>Police track card</mark><br>1 opaque bag</td></tr>
 </table>
