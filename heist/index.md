@@ -23,6 +23,8 @@ a.rulebookLink img {
 iframe.embeddedVideo {
     max-width: 560px;
     max-height: 315px;
+
+    width: 100%;
 }
 
 @media (max-width: 480px) {
@@ -43,7 +45,7 @@ Read the rules
 </a>
 
 # Pitch Video
-<iframe style="embeddedVideo" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embeddedVideo" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Gallery
 {% include gallery.html folder="heist/media/images" %}
