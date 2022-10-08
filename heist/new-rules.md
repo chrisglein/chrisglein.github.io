@@ -38,7 +38,7 @@ Modifier tokens
 
 <table class="components">
 <tr><td><img class="card" alt="rules reminder card" src="rulebook/RulesCard.png"/></td><td><img alt="bag"/></td><td><img alt="jobMarker"/></td></tr>
-<tr><td>4 rules reminder cards</td><td>1 opaque bag</td><td><mark>Active job marker</mark></tr>
+<tr><td>4 rules reminder cards</td><td>1 opaque bag</td><td><mark>Active job marker</mark></td></tr>
 </table>
 
 # SETUP
@@ -59,8 +59,8 @@ Modifier tokens
 | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
 
 7. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track.
-8. Shuffle the resource deck.
-9. Deal each player 6 cards from the resource deck.
+8. Shuffle the trick cards and assist cards together to form a resource deck.
+9. Deal each player 5 cards from the resource deck.
 10. Randomly determine a starting player.
 
 # GOAL
