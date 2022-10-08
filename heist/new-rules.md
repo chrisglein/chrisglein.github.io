@@ -69,16 +69,16 @@ There are a set of jobs that you all are looking to pull off. Each job can only 
 # YOUR IDENTITY
 
 <table class="components">
-<tr><td><img class="card" alt="identity" style="max-width: 300px" src="new-rulebook/identity.png"/></td><td><img class="card" alt="secret" style="max-width: 150px" src="new-rulebook/secret.png"/></td></tr>
+<tr><td width="66%"><img class="card" alt="identity" style="max-width: 300px" src="new-rulebook/identity.png"/></td><td width="33%"><img class="card" alt="secret" style="max-width: 150px" src="new-rulebook/secret.png"/></td></tr>
 </table>
 
-You start the game with an identity card that provides your starting talents. There are 3 talents:
+You start the game with an identity card that provides your starting skills. There are 3 skills:
 	 
-| Agility | Charm | Skill |
+| Agility | Charm | Dexterity |
 | --- | --- | --- |
 | <img alt="agility icon" src="new-rulebook/skillFoot.png" style="max-width: 100px"/> | <img alt="charm icon" src="new-rulebook/skillTeeth.png" style="max-width: 100px"/> | <img alt="skill icon" src="new-rulebook/skillPaw.png" style="max-width: 100px"/> |
 
-The number of icons you have of a particular talent is your talent score. For example, the Cat Burglar starts with 2 Agility and 1 Skill.
+The number of icons you have of a particular skill is your skill score. For example, the Cat Burglar starts with 2 Agility and 1 Dexterity.
 
 You also start the game with a Secret. These cards represent your unique background that provides your motivation for the heist. Meeting the criteria on your Secret will award you a larger take at the end of the game.
 
@@ -90,7 +90,7 @@ Players each take a turn in clockwise order. On your turn choose an obstacle and
 <img class="card" alt="obstacle card" style="float: right; max-width: 300px" src="new-rulebook/obstacle.png"/>
 
 Each obstacle may have the following elements:
-- One or more required talents with a target number
+- One or more required skills with a target number
 - Failure penalty
 - Success reward 
 - Payout (bottom right)
@@ -132,7 +132,7 @@ Then you draw 2 tokens from the bag and without looking at them place them on th
 At this time you (and only you) may play any number of trick cards to modify the token results. These could involve flipping tokens, adding additional tokens, or any number of effects.
 
 ### 5. RESOLVE
-Add the revealed modifiers from tokens and assist cards to your skill score. If the sum is less than the target number for that talent you have <strong>failed</strong> the Obstacle. Otherwise you <strong>succeeded</strong>.
+Add the revealed modifiers from tokens and assist cards to your skill score. If the sum is less than the target number for that skill you have <strong>failed</strong> the Obstacle. Otherwise you <strong>succeeded</strong>.
 
 #### FAILURE
 - Apply the "failure" effect of the Obstacle (if any).
