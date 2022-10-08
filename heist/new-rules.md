@@ -44,8 +44,8 @@ Modifier tokens
 # SETUP
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
 2. Randomly deal 1 secret card face-down to each player. They may look at this card but not share it with other players. Return the rest to the game box.
-3. Arrange the 4 job cards (A,B,C,D) face-up in a grid in the middle of the table.
-4. Place the obstacle cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
+3. Arrange the 4 Job cards (A,B,C,D) face-up in a grid in the middle of the table.
+4. Place the Obstacle cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
 5. Place the following tokens in the bag:
 
 | Yellow | Red | Purple |
@@ -59,7 +59,7 @@ Modifier tokens
 | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
 
 7. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track.
-8. Shuffle the trick cards and assist cards together to form a resource deck.
+8. Shuffle the Trick cards and Assist cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
 9. Deal each player 5 cards from the resource deck.
 10. Randomly determine a starting player.
 
@@ -129,23 +129,25 @@ Then you draw 2 tokens from the bag and without looking at them place them on th
 
 <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trick.png"/> <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trickReward.png"/>
 
-At this time you (and only you) may play any number of trick cards to modify the token results. These could involve flipping tokens, adding additional tokens, or any number of effects.
+At this time you (and only you) may play any number of Trick cards to modify the token results. These could involve flipping tokens, adding additional tokens, or any number of effects.
 
 ### 5. RESOLVE
 Add the revealed modifiers from tokens and assist cards to your skill score. If the sum is less than the target number for that skill you have <strong>failed</strong> the Obstacle. Otherwise you <strong>succeeded</strong>.
 
 #### FAILURE
 - Apply the "failure" effect of the Obstacle (if any).
-- Unless the Obstacle says it is “Mandatory”, discard the Obstacle card.
+- Unless the Obstacle says it is “Mandatory”, returrn the Obstacle card to the game box.
 - Discard any assist cards that were played.
-- If you played a trick card that has a score (cheese) value, add it to your score pile.
-- You may use the “Failure” (bottom) effect of one trick card you played or of a trick card from your hand. These are added to your identity card to upgrade your skills.
+- If you played a Trick card that has a score (cheese) value, add it to your score pile.
+- You may use the “Failure” (bottom) effect of one Trick card you played or of a Trick card from your hand. These are added to your identity card to upgrade your skills.
+- Discard any other played Trick cards.
 
 #### SUCCESS
 - Apply the "success" effect of the Obstacle (if any).
 - Add the Obstacle card to your score pile.
 - All players who played assist cards with a score (cheese) value adds their assist card to their score pile.
 - Any player who played an assist card with a “Success” (bottom) effect adds that card to their identity card. These will upgrade their skills.
+- Discard any played Trick cards.
 
 ### 6. PREPARE
 You draw resource cards from the deck until you have 5 cards in your hand.
