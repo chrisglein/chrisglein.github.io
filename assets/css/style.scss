@@ -78,6 +78,9 @@ table.splitTable td.splitColumn {
 }
 
 @media (max-width: 480px) {
+  td {
+    padding: 5px;
+  }
   table.components td {
     max-width: 100px;
   }
