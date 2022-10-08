@@ -56,22 +56,30 @@ Modifier tokens
 2. Randomly deal 1 secret card face-down to each player. They may look at this card but not share it with other players. Return the rest to the game box.
 3. Arrange the 4 Job cards (A,B,C,D) face-up in a grid in the middle of the table.
 4. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
-5. Place the following tokens in the bag:
+5. Place the following tokens in the bag, based on the number of players:
 
-| Yellow | Red | Purple |
-| --- | --- | -- |
-| <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
+| Players | Yellow | Orange | Red | Purple |
+| --- | --- | --- | -- | --- |
+| | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> | <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
+| 2 players | 3 | 1 | 1 | 1 |
+| 3 players | 5 | 2 | 1 | 1 |
+| 4 players | 7 | 3 | 1 | 1 |
+| 5 players | 9 | 4 | 1 | 1 |
+| 6 players | 11 | 5 | 1 | 1 |
 
-6. For each additional player in the game beyond the first, add the following combination of tokens to the bag:
+6. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track, as indicated in this chart:
 
-| Yellow | Yellow | Orange |
-| --- | --- | -- |
-| <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
+| Players | Tokens per spot on heat track | 
+| --- | --- | 
+| 2 players | 2 |
+| 3 players | 2 |
+| 4 players | 4 |
+| 5 players | 4 |
+| 6 players | 5 |
 
-7. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track.
-8. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
-9. Deal each player 5 cards from the resource deck.
-10. Randomly determine a starting player.
+7. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
+8. Deal each player 5 cards from the resource deck.
+9. Randomly determine a starting player.
 
 # GOAL
 There are a set of jobs that you all are looking to pull off. Each job can only be completed by overcoming a sequence of obstacles. Players will test their skill against these obstacles. When the game ends players are paid out according to how well they helped. Each player also has a secret that provides an way to increase their take. The player with the largest payout is the winner.
