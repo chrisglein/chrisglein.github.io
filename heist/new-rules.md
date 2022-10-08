@@ -83,7 +83,7 @@ The number of icons you have of a particular skill is your skill score. For exam
 You also start the game with a Secret. These cards represent your unique background that provides your motivation for the heist. Meeting the criteria on your Secret will award you a larger take at the end of the game.
 
 # YOUR TURN
-Players each take a turn in clockwise order. On your turn choose an obstacle and place the active job marker on that obstacle card. 
+Players each take a turn in clockwise order. On your turn choose an Obstacle and place the active job marker on that Obstacle card. 
 
 ## FACING AN OBSTACLE
 
@@ -114,13 +114,13 @@ If an obstacle is testing multiple skills, add the score of all skills indicated
 <mark>TODO: For “or” choice obstacles do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
 
 ### 2. GET HELP
-After selecting an obstacle to face every player in clockwise order (other than you) has an opportunity to play an assist card. They simultaneously reveal either nothing or an assist card to commit from their hand to the upcoming test.
+Each other player has an opportunity to play an Assist card to help the current player. They simultaneously reveals either nothing or an Assist card to commit from their hand to the upcoming test. 
 
 <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/> <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assistReward.png"/>
 
-Assist cards may modify the test result if they include a number in a circle. They may also modify the bag contents or have other effects. These are all completed prior to making the test. Leave the assist card in front of the player who committed them until the test is completed.
+Assist cards may modify the test result if they include a number in a circle. They may also modify the bag contents or have other effects. These are all resolved prior to making the test, in a clockwise order. Leave the Assist card in front of the player who committed them until the test is completed.
 
-If the test is successful the assist cards will "score". This may mean granting a skill (tucking the card under the identity card to show the increased skill rating). Or it may mean increasing the payout to the assisting player (indicated by showing cheese on the committed card).
+<mark>You may only commit an assist card if your player pawn is at the location of the active job marker. You may discard one card to move your pawn to the active player's location. You only need to pay this cost after assist cards are revealed. If you cannot pay this cost (you have no more cards in your hand) then your committed assist card is discarded.</mark>
 
 ### 3. DRAW TOKENS
 Then you draw 2 tokens from the bag and without looking at them place them on the table. 
@@ -133,6 +133,8 @@ At this time you (and only you) may play any number of Trick cards to modify the
 
 ### 5. RESOLVE
 Add the revealed modifiers from tokens and assist cards to your skill score. If the sum is less than the target number for that skill you have <strong>failed</strong> the Obstacle. Otherwise you <strong>succeeded</strong>.
+
+The drawn tokens remain in front of you until the end of the round.
 
 #### FAILURE
 - Apply the "failure" effect of the Obstacle (if any).
@@ -153,7 +155,11 @@ Add the revealed modifiers from tokens and assist cards to your skill score. If 
 You draw resource cards from the deck until you have 5 cards in your hand.
 
 ## END OF THE ROUND
-After each player has had a turn the round is over. Add the tokens for the current round number from the heat track to the bag. If there are no more rounds on the track the game is over, proceed to End Game & Scoring.
+After each player has had a turn the round is over. Add the tokens for the current round number from the heat track to the bag.
+
+Return all tokens in front of players to the bag.
+
+If there are no more rounds on the heat track the game is over, proceed to End Game & Scoring.
 
 # END GAME & SCORING
 - Check your Secret to see if you met the conditions. Empty the bag onto the table, as many Secrets care about the contents of the bag at the end of the game. If you have met the conditions of your Secret you add that card to your score pile.
