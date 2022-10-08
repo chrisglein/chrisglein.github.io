@@ -11,6 +11,16 @@ table.components {
 .token {
   clip-path: circle(50% at center);
 }
+
+.assist {
+  color: #363b51;
+}
+.trick {
+  color: #E8594B;
+}
+.obstacle {
+  color: #5e7196;
+}
 </style>
 Work with a gang of fellow thieves to pull off one last job.
 
@@ -45,7 +55,7 @@ Modifier tokens
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
 2. Randomly deal 1 secret card face-down to each player. They may look at this card but not share it with other players. Return the rest to the game box.
 3. Arrange the 4 Job cards (A,B,C,D) face-up in a grid in the middle of the table.
-4. Place the Obstacle cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
+4. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
 5. Place the following tokens in the bag:
 
 | Yellow | Red | Purple |
@@ -59,7 +69,7 @@ Modifier tokens
 | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
 
 7. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track.
-8. Shuffle the Trick cards and Assist cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
+8. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
 9. Deal each player 5 cards from the resource deck.
 10. Randomly determine a starting player.
 
@@ -83,20 +93,20 @@ The number of icons you have of a particular skill is your skill score. For exam
 You also start the game with a Secret. These cards represent your unique background that provides your motivation for the heist. Meeting the criteria on your Secret will award you a larger take at the end of the game.
 
 # YOUR TURN
-Players each take a turn in clockwise order. On your turn choose an Obstacle and place the active job marker on that Obstacle card. 
+Players each take a turn in clockwise order. On your turn choose an <span class="obstacle">Obstacle</span> and place the active job marker on that <span class="obstacle">Obstacle</span> card. 
 
 ## FACING AN OBSTACLE
 
 <img class="card" alt="obstacle card" style="float: right; max-width: 300px" src="new-rulebook/obstacle.png"/>
 
-Each obstacle may have the following elements:
+Each <span class="obstacle">Obstacle</span> may have the following elements:
 - One or more required skills with a target number
 - Failure penalty
 - Success reward 
 - Payout (bottom right)
 - Associated Job (bottom right)
 
-But all obstacles will incur a <strong>test</strong>.
+But all <span class="obstacle">Obstacles</span> will incur a <strong>test</strong>.
 
 Resolving a test is done with the following steps:
 1. Evaluate Skill
@@ -107,49 +117,49 @@ Resolving a test is done with the following steps:
 6. Prepare
 
 ### 1. EVALUATE SKILL
-An obstacle will test one or more of your skills. Each of your skills has a score, which is the sum of the icons on your identity card and all assist and trick cards that have been added to your identity card.
+An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a score, which is the sum of the icons on your identity card and all <span class="assist">Assist</span> and <span class="trick">Trick</span> cards that have been added to your identity card.
 
-If an obstacle is testing multiple skills, add the score of all skills indicated.
+If an <span class="obstacle">Obstacle</span> is testing multiple skills, add the score of all skills indicated.
 
-<mark>TODO: For “or” choice obstacles do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
+<mark>TODO: For “or” choice <span class="obstacle">Obstacles</span> do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
 
 ### 2. GET HELP
-Each other player has an opportunity to play an Assist card to help the current player. They simultaneously reveals either nothing or an Assist card to commit from their hand to the upcoming test. 
+Each other player has an opportunity to play an <span class="assist">Assist</span> card to help the current player. They simultaneously reveals either nothing or an <span class="assist">Assist</span> card to commit from their hand to the upcoming test. 
 
 <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/> <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assistReward.png"/>
 
-Assist cards may modify the test result if they include a number in a circle. They may also modify the bag contents or have other effects. These are all resolved prior to making the test, in a clockwise order. Leave the Assist card in front of the player who committed them until the test is completed.
+<span class="assist">Assist</span> cards may modify the test result if they include a number in a circle. They may also modify the bag contents or have other effects. These are all resolved prior to making the test, in a clockwise order. Leave the <span class="assist">Assist</span> card in front of the player who committed them until the test is completed.
 
-<mark>You may only commit an assist card if your player pawn is at the location of the active job marker. You may discard one card to move your pawn to the active player's location. You only need to pay this cost after assist cards are revealed. If you cannot pay this cost (you have no more cards in your hand) then your committed assist card is discarded.</mark>
+<mark>You may only commit an <span class="assist">Assist</span> card if your player pawn is at the location of the active job marker. You may discard one card to move your pawn to the active player's location. You only need to pay this cost after <span class="assist">Assist</span> cards are revealed. If you cannot pay this cost (you have no more cards in your hand) then your committed <span class="assist">Assist</span> card is discarded.</mark>
 
 ### 3. DRAW TOKENS
-Then you draw 2 tokens from the bag and without looking at them place them on the table. 
+Draw 2 tokens from the bag and without looking at them place them on the table. 
 
 ### 4. PLAY TRICKS
 
 <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trick.png"/> <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trickReward.png"/>
 
-At this time you (and only you) may play any number of Trick cards to modify the token results. These could involve flipping tokens, adding additional tokens, or any number of effects.
+At this time you (and only you) may play any number of <span class="trick">Trick</span> cards to modify the token results. These could involve flipping tokens (to change which modifier value is showing), drawing additional tokens, or any number of effects.
 
 ### 5. RESOLVE
-Add the revealed modifiers from tokens and assist cards to your skill score. If the sum is less than the target number for that skill you have <strong>failed</strong> the Obstacle. Otherwise you <strong>succeeded</strong>.
+Add the revealed modifiers showing on all tokens and committed <span class="assist">Assist</span> cards to your skill score. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
 The drawn tokens remain in front of you until the end of the round.
 
 #### FAILURE
-- Apply the "failure" effect of the Obstacle (if any).
-- Unless the Obstacle says it is “Mandatory”, returrn the Obstacle card to the game box.
-- Discard any assist cards that were played.
-- If you played a Trick card that has a score (cheese) value, add it to your score pile.
-- You may use the “Failure” (bottom) effect of one Trick card you played or of a Trick card from your hand. These are added to your identity card to upgrade your skills.
-- Discard any other played Trick cards.
+- Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
+- Unless the <span class="obstacle">Obstacle</span> says it is <mark>“Mandatory”</mark>, return the <span class="obstacle">Obstacle</span> card to the game box.
+- Discard any <span class="assist">Assist</span> cards that were played.
+- If you played a <span class="trick">Trick</span> card that has a score (cheese) value, add it to your score pile.
+- You may use the “Failure” (bottom) effect of one <span class="trick">Trick</span> card you played or of a <span class="trick">Trick</span> card from your hand. These are added to your identity card to upgrade your skills.
+- Discard any other played <span class="trick">Trick</span> cards.
 
 #### SUCCESS
-- Apply the "success" effect of the Obstacle (if any).
-- Add the Obstacle card to your score pile.
-- All players who played assist cards with a score (cheese) value adds their assist card to their score pile.
-- Any player who played an assist card with a “Success” (bottom) effect adds that card to their identity card. These will upgrade their skills.
-- Discard any played Trick cards.
+- Apply the "success" effect of the <span class="obstacle">Obstacle</span> (if any).
+- Add the <span class="obstacle">Obstacle</span> card to your score pile.
+- All players who played <span class="assist">Assist</span> cards with a score (cheese) value adds their <span class="assist">Assist</span> card to their score pile.
+- Any player who played an <span class="assist">Assist</span> card with a “Success” (bottom) effect adds that card to their identity card. These will upgrade their skills.
+- Discard any played <span class="trick">Trick</span> cards.
 
 ### 6. PREPARE
 You draw resource cards from the deck until you have 5 cards in your hand.
@@ -163,6 +173,6 @@ If there are no more rounds on the heat track the game is over, proceed to End G
 
 # END GAME & SCORING
 - Check your Secret to see if you met the conditions. Empty the bag onto the table, as many Secrets care about the contents of the bag at the end of the game. If you have met the conditions of your Secret you add that card to your score pile.
-- Tally the points on all cards in your score pile. If a Job was completed each Obstacle from that Job is worth 1 additional point.
+- Tally the points on all cards in your score pile. If a Job was completed each <span class="obstacle">Obstacle</span> from that Job is worth 1 additional point.
 
-The player with the most points is the winner. If there is a tie the player with the most scored Obstacle cards is the winner. If there’s still a tie the players share the victory.
+The player with the most points is the winner. If there is a tie the player with the most scored <span class="obstacle">Obstacle</span> cards is the winner. If there’s still a tie the players share the victory.
