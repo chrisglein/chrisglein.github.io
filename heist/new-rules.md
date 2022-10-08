@@ -18,14 +18,17 @@ Work with a gang of fellow thieves to pull off one last job.
 Modifier tokens
 
 <table class="components">
+<tr><th>Blue</th><th>Green</th><th>Yellow</th><th>Orange</th><th>Red</th><th>Purple</th></tr>
 <tr><td><img class="token" alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/></td><td><img class="token" alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/></td><td><img class="token" alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/></td><td><img class="token" alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/></td><td><img class="token" alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/></td><td><img class="token" alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/></td></tr>
 <tr><td><img class="token" alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/></td><td><img class="token" alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/></td><td><img class="token" alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/></td><td><img class="token" alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/></td><td><img class="token" alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/></td><td><img class="token" alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/></td></tr>
 <tr><td>x7</td><td>x9</td><td>x12</td><td>x9</td><td>x7</td><td>x6</td></tr>
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="card" alt="job card" src="rulebook/Job.png"/></td></tr>
-<tr><td>7 identity cards</td><td>5 job cards</td></tr>
+<tr><td><img class="card" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="card" alt="job card" src="new-rulebook/job.png"/></td></tr>
+<tr><td>7 identity cards</td><td>4 job cards</td></tr>
+<tr><td><img class="card" alt="obstacle card" src="new-rulebook/obstacle.png"/></td><td><img class="card" alt="heat track" src="new-rulebook/heat.png"/></td></tr>
+<tr><td>28 obstacle cards</td><td>1 heat track card</td></tr>
 </table>
 
 <table class="components">
@@ -34,8 +37,8 @@ Modifier tokens
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="obstacle card" src="new-rulebook/obstacle.png"/></td><td><img class="card" alt="rules reminder card" src="rulebook/RulesCard.png"/></td><td><img alt="bag"/></td></tr>
-<tr><td>28 obstacle cards</td><td>4 rules reminder cards</td><td><mark>Active job marker</mark><br><mark>Police track card</mark><br>1 opaque bag</td></tr>
+<tr><td><img class="card" alt="rules reminder card" src="rulebook/RulesCard.png"/></td><td><img alt="bag"/></td><td><img alt="jobMarker"/></td></tr>
+<tr><td>4 rules reminder cards</td><td>1 opaque bag</td><td><mark>Active job marker</mark></tr>
 </table>
 
 # SETUP
@@ -45,17 +48,17 @@ Modifier tokens
 4. Place the obstacle cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
 5. Place the following tokens in the bag:
 
-| yellow | red | purple |
+| Yellow | Red | Purple |
 | --- | --- | -- |
 | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
 
 6. For each additional player in the game beyond the first, add the following combination of tokens to the bag:
 
-| yellow | yellow | orange |
+| Yellow | Yellow | Orange |
 | --- | --- | -- |
 | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> |
 
-7. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the police track.
+7. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track.
 8. Shuffle the resource deck.
 9. Deal each player 6 cards from the resource deck.
 10. Randomly determine a starting player.
@@ -135,7 +138,7 @@ Add the obstacle card to your score area.
 Any player who played an assist card adds that card to their score area (or resolve its “Success” (green bottom) effect).
 
 # END OF THE ROUND
-After each player has had a turn the round is over. Add the tokens for the current round number from the police track to the bag. If there are no more rounds on the track the game is over, proceed to End Game & Scoring.
+After each player has had a turn the round is over. Add the tokens for the current round number from the heat track to the bag. If there are no more rounds on the track the game is over, proceed to End Game & Scoring.
 
 If any jobs were completed (the last obstacle card was removed) during the round a draft is started before resuming the next round.
 
