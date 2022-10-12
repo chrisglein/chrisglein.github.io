@@ -171,10 +171,17 @@ After each player has had a turn the round is over. Add the tokens for the curre
 
 Return all tokens in front of players to the bag.
 
-If there are no more rounds on the heat track the game is over, proceed to End Game & Scoring.
+If there are no more rounds on the heat track the game is over, proceed to _End Game & Scoring_.
+
+# OTHER DETAILS
+
+## DECK RUNS OUT
+The resource deck may run out of cards and you need to draw a card. When this happens, shuffle the discard pile into a new face-down resource deck.
 
 # END GAME & SCORING
 - Check your Secret to see if you met the conditions. Empty the bag onto the table, as many Secrets care about the contents of the bag at the end of the game. If you have met the conditions of your Secret you add that card to your score pile.
 - Tally the points on all cards in your score pile. If a Job was completed each <span class="obstacle">Obstacle</span> from that Job is worth 1 additional point.
+- For each of the 3 skills, the player with the highest value for that skill is awarded 3 points. If there is a tie, all tied players receive the 3 points.
+- The player with te most scored <span class="assist">Assist</span> cards is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 
 The player with the most points is the winner. If there is a tie the player with the most scored <span class="obstacle">Obstacle</span> cards is the winner. If there’s still a tie the players share the victory.
