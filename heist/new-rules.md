@@ -58,24 +58,18 @@ Modifier tokens
 4. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
 5. Place the following tokens in the bag, based on the number of players:
 
-| Players | Yellow | Orange | Red | Purple |
-| --- | --- | --- | -- | --- |
-| | <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> | <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> |
-| 2 players | 3 | 1 | 1 | 1 |
-| 3 players | 5 | 2 | 1 | 1 |
-| 4 players | 7 | 3 | 1 | 1 |
-| 5 players | 9 | 4 | 1 | 1 |
-| 6 players | 11 | 5 | 1 | 1 |
+| Token | 2 players | 3 players | 4 players | 5 players | 6 players |
+| --- | --- | --- | -- | --- | --- |
+| <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | 3 | 5 | 7 | 9 | 11 |
+| <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> | 1 | 2 | 3 | 4 | 5 |
+| <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
+| <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
 
 6. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track, as indicated in this chart:
 
-| Players | Tokens per spot on heat track | 
-| --- | --- | 
-| 2 players | 2 |
-| 3 players | 2 |
-| 4 players | 4 |
-| 5 players | 4 |
-| 6 players | 5 |
+| 2 players | 3 players | 4 players | 5 players | 6 players |
+| --- | --- | -- | --- | --- |
+| 2 | 2 | 4 | 4 | 5 |
 
 7. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
 8. Deal each player 5 cards from the resource deck.
