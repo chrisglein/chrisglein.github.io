@@ -137,6 +137,10 @@ Each other player has an opportunity to play an <span class="assist">Assist</spa
 ### 3. DRAW TOKENS
 Draw 2 tokens from the bag and without looking at them place them on the table. 
 
+Note that some <span class="obstacle">Obstacle</span> cards may modify how many tokens are drawn from the default of 2.
+
+If any tokens had previously been set aside for your next test, they are added now.
+
 ### 4. PLAY TRICKS
 
 <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trick.png"/> <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trickReward.png"/>
