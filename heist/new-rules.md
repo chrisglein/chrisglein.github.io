@@ -184,7 +184,8 @@ The resource deck may run out of cards and you need to draw a card. When this ha
 
 # END GAME & SCORING
 - Check your Secret to see if you met the conditions. Empty the bag onto the table, as many Secrets care about the contents of the bag at the end of the game. If you have met the conditions of your Secret you add that card to your score pile.
-- Tally the points on all cards in your score pile. If a <span class="job">Job</span> was completed each <span class="obstacle">Obstacle</span> from that <span class="job">Job</span> is worth 1 additional point.
+- Tally the points on all cards in your score pile. 
+- If a <span class="job">Job</span> was completed each player who completed at least 1 <span class="obstacle">Obstacle</span> from that <span class="job">Job</span> scores 1 point.
 - For each of the 3 skills, the player with the highest value for that skill is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 - The player with te most scored <span class="assist">Assist</span> cards is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 
