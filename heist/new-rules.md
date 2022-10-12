@@ -54,8 +54,8 @@ Modifier tokens
 # SETUP
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
 2. Randomly deal 1 secret card face-down to each player. They may look at this card but not share it with other players. Return the rest to the game box.
-3. Arrange the 4 Job cards (A,B,C,D) face-up in a grid in the middle of the table.
-4. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding job card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
+3. Randomly select <span class="job">Job</span> cards equal to the number of players. Place them in the center of the table.
+4. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
 5. Place the following tokens in the bag, based on the number of players:
 
 | Token | 2 players | 3 players | 4 players | 5 players | 6 players |
@@ -184,7 +184,7 @@ The resource deck may run out of cards and you need to draw a card. When this ha
 
 # END GAME & SCORING
 - Check your Secret to see if you met the conditions. Empty the bag onto the table, as many Secrets care about the contents of the bag at the end of the game. If you have met the conditions of your Secret you add that card to your score pile.
-- Tally the points on all cards in your score pile. If a Job was completed each <span class="obstacle">Obstacle</span> from that Job is worth 1 additional point.
+- Tally the points on all cards in your score pile. If a <span class="job">Job</span> was completed each <span class="obstacle">Obstacle</span> from that <span class="job">Job</span> is worth 1 additional point.
 - For each of the 3 skills, the player with the highest value for that skill is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 - The player with te most scored <span class="assist">Assist</span> cards is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 
