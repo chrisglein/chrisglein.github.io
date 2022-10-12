@@ -126,7 +126,7 @@ If an <span class="obstacle">Obstacle</span> is testing multiple skills, add the
 <mark>TODO: For “or” choice <span class="obstacle">Obstacles</span> do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
 
 ### 2. GET HELP
-Each other player has an opportunity to play an <span class="assist">Assist</span> card to help the current player. They simultaneously reveals either nothing or an <span class="assist">Assist</span> card to commit from their hand to the upcoming test. 
+Each other player has an opportunity to play an <span class="assist">Assist</span> card to help (or potentially hinder) the current player. They simultaneously reveal either nothing or an <span class="assist">Assist</span> card to commit from their hand to the upcoming test. If they reveal nothing and have fewer that 5 cards in their hand, they draw a card from the resoure deck.
 
 <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/> <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assistReward.png"/>
 
@@ -168,7 +168,7 @@ The drawn tokens remain in front of you until the end of the round.
 - Discard any played <span class="trick">Trick</span> cards.
 
 ### 6. PREPARE
-You draw resource cards from the deck until you have 5 cards in your hand.
+You may discard any number of cards from your hand. Then draw resource cards from the deck until you have 5 cards in your hand.
 
 ## END OF THE ROUND
 After each player has had a turn the round is over. Add the tokens for the current round number from the heat track to the bag.
