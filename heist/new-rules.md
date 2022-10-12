@@ -155,7 +155,7 @@ The drawn tokens remain in front of you until the end of the round.
 #### FAILURE
 - Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
 - Unless the <span class="obstacle">Obstacle</span> says it is <mark>“Mandatory”</mark>, return the <span class="obstacle">Obstacle</span> card to the game box.
-- Discard any <span class="assist">Assist</span> cards that were played.
+- All players who played <span class="assist">Assist</span> cards that have a "Failure" (bottom) effect adds their card to their identity card. Discard any other <span class="assist">Assist</span> cards.
 - If you played a <span class="trick">Trick</span> card that has a score (cheese) value, add it to your score pile.
 - You may use the “Failure” (bottom) effect of one <span class="trick">Trick</span> card you played or of a <span class="trick">Trick</span> card from your hand. These are added to your identity card to upgrade your skills.
 - Discard any other played <span class="trick">Trick</span> cards.
