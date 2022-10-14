@@ -36,14 +36,14 @@ Modifier tokens
 
 <table class="components">
 <tr><td><img class="card" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="card" alt="job card" src="new-rulebook/job.png"/></td></tr>
-<tr><td>7 identity cards</td><td>4 job cards</td></tr>
+<tr><td>7 identity cards</td><td>6 job cards</td></tr>
 <tr><td><img class="card" alt="obstacle card" src="new-rulebook/obstacle.png"/></td><td><img class="card" alt="heat track" src="new-rulebook/heat.png"/></td></tr>
-<tr><td>28 obstacle cards</td><td>1 heat track card</td></tr>
+<tr><td>32 obstacle cards</td><td>1 heat track card</td></tr>
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="secret card" src="new-rulebook/secret.png"/></td><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="trick card" src="new-rulebook/trick.png"/></td></tr>
-<tr><td>15 secret cards</td><td>44 assist cards</td><td>34 trick cards</td></tr>
+<tr><td><img class="card" alt="award card" src="new-rulebook/secret.png"/></td><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="trick card" src="new-rulebook/trick.png"/></td></tr>
+<tr><td>4 award cards</td><td>42 assist cards</td><td>37 trick cards</td></tr>
 </table>
 
 <table class="components">
@@ -53,10 +53,9 @@ Modifier tokens
 
 # SETUP
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
-2. Randomly deal 1 secret card face-down to each player. They may look at this card but not share it with other players. Return the rest to the game box.
-3. Randomly select <span class="job">Job</span> cards equal to the number of players. Place them in the center of the table.
-4. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
-5. Place the following tokens in the bag, based on the number of players:
+2. Randomly select <span class="job">Job</span> cards equal to the number of players. Place them in the center of the table.
+3. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
+4. Place the following tokens in the bag, based on the number of players:
 
 | Token | 2 players | 3 players | 4 players | 5 players | 6 players |
 | --- | --- | --- | -- | --- | --- |
@@ -65,24 +64,22 @@ Modifier tokens
 | <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
 | <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
 
-6. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track, as indicated in this chart:
+5. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track, as indicated in this chart:
 
 | 2 players | 3 players | 4 players | 5 players | 6 players |
 | --- | --- | -- | --- | --- |
 | 2 | 2 | 4 | 4 | 5 |
 
-7. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
-8. Deal each player 5 cards from the resource deck.
-9. Randomly determine a starting player.
+6. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
+7. Deal each player 5 cards from the resource deck.
+8. Randomly determine a starting player.
 
 # GOAL
-There are a set of jobs that you all are looking to pull off. Each job can only be completed by overcoming a sequence of obstacles. Players will test their skill against these obstacles. When the game ends players are paid out according to how well they helped. Each player also has a secret that provides an way to increase their take. The player with the largest payout is the winner.
+There are a set of jobs that you all are looking to pull off. Each job can only be completed by overcoming a sequence of obstacles. Players will test their skill against these obstacles. When the game ends players are paid out according to how well they helped. There are also awards granted for having the highest of each skill. The player with the largest payout is the winner.
 
 # YOUR IDENTITY
 
-<table class="components">
-<tr><td width="66%"><img class="card" alt="identity" style="max-width: 300px" src="new-rulebook/identity.png"/></td><td width="33%"><img class="card" alt="secret" style="max-width: 150px" src="new-rulebook/secret.png"/></td></tr>
-</table>
+<img class="card" alt="identity" style="max-width: 300px" src="new-rulebook/identity.png"/>
 
 You start the game with an identity card that provides your starting skills. There are 3 skills:
 	 
@@ -91,8 +88,6 @@ You start the game with an identity card that provides your starting skills. The
 | <img alt="agility icon" src="new-rulebook/skillFoot.png" style="max-width: 100px"/> | <img alt="charm icon" src="new-rulebook/skillTeeth.png" style="max-width: 100px"/> | <img alt="skill icon" src="new-rulebook/skillPaw.png" style="max-width: 100px"/> |
 
 The number of icons you have of a particular skill is your skill score. For example, the Cat Burglar starts with 2 Agility and 1 Dexterity.
-
-You also start the game with a Secret. These cards represent your unique background that provides your motivation for the heist. Meeting the criteria on your Secret will award you a larger take at the end of the game.
 
 # YOUR TURN
 Players each take a turn in clockwise order. On your turn choose an <span class="obstacle">Obstacle</span> and place the active job marker on that <span class="obstacle">Obstacle</span> card. 
@@ -188,10 +183,9 @@ If there are no more rounds on the heat track the game is over, proceed to _End 
 The resource deck may run out of cards and you need to draw a card. When this happens, shuffle the discard pile into a new face-down resource deck.
 
 # END GAME & SCORING
-- Check your Secret to see if you met the conditions. Empty the bag onto the table, as many Secrets care about the contents of the bag at the end of the game. If you have met the conditions of your Secret you add that card to your score pile.
 - Tally the points on all cards in your score pile. 
 - If a <span class="job">Job</span> was completed each player who completed at least 1 <span class="obstacle">Obstacle</span> from that <span class="job">Job</span> scores 1 point.
 - For each of the 3 skills, the player with the highest value for that skill is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 - The player with te most scored <span class="assist">Assist</span> cards is awarded 3 points. If there is a tie, all tied players receive the 3 points.
 
-The player with the most points is the winner. If there is a tie the player with the most scored <span class="obstacle">Obstacle</span> cards is the winner. If there’s still a tie the players share the victory.
+The player with the most points is the winner. If there is a tie the player with the most scored <span class="assist">Assist</span> cards is the winner. If there’s still a tie the players share the victory.
