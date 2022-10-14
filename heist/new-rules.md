@@ -148,13 +148,16 @@ If any tokens had previously been set aside for your next test, they are added n
 At this time you (and only you) may play any number of <span class="trick">Trick</span> cards to modify the token results. These could involve flipping tokens (to change which modifier value is showing), drawing additional tokens, or any number of effects.
 
 ### 5. RESOLVE
+
+<img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
+
 Add the revealed modifiers showing on all tokens and committed <span class="assist">Assist</span> cards to your skill score. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
 The drawn tokens remain in front of you until the end of the round.
 
 #### FAILURE
 - Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
-- Unless the <span class="obstacle">Obstacle</span> says it is <mark>“Mandatory”</mark>, return the <span class="obstacle">Obstacle</span> card to the game box.
+- Unless the <span class="obstacle">Obstacle</span> says it is a “Mandatory Obstacle”, return the <span class="obstacle">Obstacle</span> card to the game box.
 - All players who played <span class="assist">Assist</span> cards that have a "Failure" (bottom) effect adds their card to their identity card. Discard any other <span class="assist">Assist</span> cards.
 - If you played a <span class="trick">Trick</span> card that has a score (cheese) value, add it to your score pile.
 - You may use the “Failure” (bottom) effect of one <span class="trick">Trick</span> card you played or of a <span class="trick">Trick</span> card from your hand. These are added to your identity card to upgrade your skills.
@@ -169,6 +172,8 @@ The drawn tokens remain in front of you until the end of the round.
 
 ### 6. PREPARE
 You may discard any number of cards from your hand. Then draw resource cards from the deck until you have 5 cards in your hand.
+
+Some <span class="obstacle">Obstacle</span> are labeled as "mandatory". These function the same as normal, except that if the test fails the 
 
 ## END OF THE ROUND
 After each player has had a turn the round is over. Add the tokens for the current round number from the heat track to the bag.
