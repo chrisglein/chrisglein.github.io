@@ -1,5 +1,5 @@
 ---
-title: HEIST
+title: MICE HEIST
 description: Rulebook
 ---
 <style type="text/css" rel="stylesheet">
@@ -22,7 +22,6 @@ table.components {
   color: #5e7196;
 }
 </style>
-Work with a gang of fellow thieves to pull off one last job.
 
 # COMPONENTS
 Modifier tokens

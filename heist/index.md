@@ -1,6 +1,6 @@
 ---
-title: HEIST
-description: Work with a gang of fellow thieves to pull off one last job.
+title: MICE HEIST
+description: Compete among a gang of rodent thieves to pull off a big job and feed your whole colony.
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

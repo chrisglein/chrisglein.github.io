@@ -18,7 +18,7 @@ thumbsurl: media/thumbnails
 - [Ark Ship](ark-ship/index.html)
 - [Deeper](deeper/index.html)
 - [Fridge Feast](fridge-feast/index.html)
-- [Heist](heist/index.html)
+- [Mice Heist](heist/index.html)
 - [Pixel Pusher](pixel-pusher/index.html)
 - [Slither](slither/index.html)
 
