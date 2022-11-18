@@ -32,7 +32,6 @@ iframe.embeddedVideo {
     }
 }
 </style>
-
 # Rulebook
 <a class="rulebookLink" href="rules.html">
 <img src="..\media\rulebook_icon.png">

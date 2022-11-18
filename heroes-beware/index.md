@@ -1,5 +1,5 @@
 ---
-title: HEROES BEWARE
+title: HEROES BEWARE!
 description: Simultaneous dungeon building
 thumbsurl: media/thumbnails
 ---
