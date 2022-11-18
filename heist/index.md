@@ -33,15 +33,15 @@ iframe.embeddedVideo {
 }
 </style>
 
-# Links
-- [Rulebook](rules.html)
-- [Pitch Video](https://www.youtube.com/watch?v=Fwlsm3gBUaU)
-
 # Rulebook
 <a class="rulebookLink" href="rules.html">
 <img src="..\media\rulebook_icon.png">
 Read the rules
 </a>
+
+# Links
+- [Rulebook](rules.html)
+- [Pitch Video](https://www.youtube.com/watch?v=Fwlsm3gBUaU)
 
 # Pitch Video
 <iframe class="embeddedVideo" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
