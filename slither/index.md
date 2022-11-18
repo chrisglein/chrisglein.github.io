@@ -1,6 +1,6 @@
 ---
 title: SLITHER
-description: A snake is lurking in the grass, but can these mice work together to find it before it picks each of them off one by one?
+description: Hidden movement. Mice team up against a snake.
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">
@@ -32,6 +32,8 @@ iframe.embeddedVideo {
     }
 }
 </style>
+A snake is lurking in the grass, but can these mice work together to find it before it picks each of them off one by one?
+
 # Rulebook
 <a class="rulebookLink" href="rules.html">
 <img src="..\media\rulebook_icon.png">

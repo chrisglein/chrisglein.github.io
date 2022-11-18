@@ -1,6 +1,6 @@
 ---
 title: ARK SHIP
-description: The crew of this colony ship carry all the hope of a doomed Earth to a new home... but something is wrong your target planet. Work together over generations to prevent your whole species from extinction.
+description: Multi-generational crew save the human race's new planet
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">
@@ -32,6 +32,8 @@ iframe.embeddedVideo {
     }
 }
 </style>
+The crew of this colony ship carry all the hope of a doomed Earth to a new home... but something is wrong your target planet. Work together over generations to prevent your whole species from extinction.
+
 # Rulebook
 <a class="rulebookLink" href="rules.html">
 <img src="..\media\rulebook_icon.png">

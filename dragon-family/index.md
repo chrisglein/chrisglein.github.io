@@ -1,6 +1,6 @@
 ---
 title: DRAGON FAMILY
-description: TBD
+description: Map making, Area control, Meal planning
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

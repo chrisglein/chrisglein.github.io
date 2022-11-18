@@ -1,6 +1,6 @@
 ---
 title: FRIDGE FEAST
-description: Gather ingredients from the fridge before they go bad. Or maybe you can hide the funky flavor with a creative recipe...
+description: Draft spoiling food. Cook creatively.
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">
@@ -32,6 +32,8 @@ iframe.embeddedVideo {
     }
 }
 </style>
+Gather ingredients from the fridge before they go bad. Or maybe you can hide the funky flavor with a creative recipe...
+
 # Rulebook
 <a class="rulebookLink" href="rules.html">
 <img src="..\media\rulebook_icon.png">

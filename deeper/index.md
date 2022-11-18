@@ -1,6 +1,6 @@
 ---
 title: DEEPER
-description: You've crashed landed on an ocean planet. Dive below the waves and gather what you need to repair your spaceship and escape. 
+description: Explore the ocean's depths. Craft your escape.
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">
@@ -32,6 +32,8 @@ iframe.embeddedVideo {
     }
 }
 </style>
+You've crashed landed on an ocean planet. Dive below the waves and gather what you need to repair your spaceship and escape. 
+
 # Rulebook
 <a class="rulebookLink" href="rules.html">
 <img src="..\media\rulebook_icon.png">
