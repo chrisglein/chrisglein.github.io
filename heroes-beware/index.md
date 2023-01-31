@@ -47,6 +47,7 @@ Read the rules
 - [Sell Sheet](https://1drv.ms/b/s!AidSzKQj8MkEjtUQdIRkFkxHiwfMNw?e=2BCiKK)
 - [Pitch Video](https://www.youtube.com/watch?v=UWI6GtVW13w)
 - [How to Play Video](https://www.youtube.com/watch?v=WeJYpfP28zE)
+- [Play Virtually (on TTS)](play-virtually.html)
 
 # Gallery
 {% include gallery.html folder="heroes-beware/media/images" %}
