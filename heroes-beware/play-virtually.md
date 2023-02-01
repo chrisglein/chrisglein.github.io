@@ -7,11 +7,17 @@ description: Learn how to best play Heroes Beware! using digital tools
 Heroes Beware! can be played on Tabletop Simulator (TTS) using [this link](https://steamcommunity.com/sharedfiles/filedetails/?id=2926062569).
 You'll still need to know how to play the game by reading the [rulebook](rules.html), but here are some tips for how to best play the game on TTS.
 
+![TTS Screenshot](media/images/TTS_Screenshot_2023-02-01_100211.png)
+
 # Tips
 ## Setup
 - You can press 'R' to shuffle any of the decks, including the invader cards, event cards, map cards, normal square tiles, and special I-tiles.
 - Tiles in your "Reserve", such as your starting patch tile, can be kept in your hand. Exception for the L-tiles (see Quirks below), which you'll need to set aside near your play area. Start a game by pressing '1' while hovering over the patch tile stack to draw 1 patch tile.
 - The L-tiles don't have backs, so you won't be able to place them face-down or shuffle them.
+
+
+![TTS Screenshot](media/images/TTS_Screenshot_2023-02-01_100336.png)
+
 ## Build Phase
 - To set aside tiles depending on player count, right click the tile stack and choose 'Split' and then '5'. That'll get you close to the target count quickly. Set the appropriate number of tiles off to the side, but don't delete them as you'll need them in future rounds.
 - Instead of the tiles being in a big messy pile in the middle of the table, they are in one big stack. Press '1' to draw one tile from the stack into your hand. If you pass on taking the tile, drag it back to the center and press 'F' to flip it face-up, but put it next to the stack so other players can see it clearly.
