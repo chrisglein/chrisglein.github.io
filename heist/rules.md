@@ -30,19 +30,19 @@ Modifier chips
 <tr><th>Blue</th><th>Green</th><th>Yellow</th><th>Orange</th><th>Red</th><th>Purple</th></tr>
 <tr><td><img class="chip" alt="blue +4/+2 modifier chip" src="rulebook/BluePlus4.png"/></td><td><img class="chip" alt="green +2/+1 modifier chip" src="rulebook/GreenPlus2.png"/></td><td><img class="chip" alt="yellow +1/-1 modifier chip" src="rulebook/YellowPlus1.png"/></td><td><img class="chip" alt="orange -1/-2 modifier chip" src="rulebook/OrangeMinus1.png"/></td><td><img class="chip" alt="red -2/-4 modifier chip" src="rulebook/RedMinus2.png"/></td><td><img class="chip" alt="purple +3/-3 modifier chip" src="rulebook/PurplePlus3.png"/></td></tr>
 <tr><td><img class="chip" alt="blue +4/+2 modifier chip" src="rulebook/BluePlus2.png"/></td><td><img class="chip" alt="green +2/+1 modifier chip" src="rulebook/GreenPlus1.png"/></td><td><img class="chip" alt="yellow +1/-1 modifier chip" src="rulebook/YellowMinus1.png"/></td><td><img class="chip" alt="orange -1/-2 modifier chip" src="rulebook/OrangeMinus2.png"/></td><td><img class="chip" alt="red -2/-4 modifier chip" src="rulebook/RedMinus4.png"/></td><td><img class="chip" alt="purple +3/-3 modifier chip" src="rulebook/PurpleMinus3.png"/></td></tr>
-<tr><td>x7</td><td>x9</td><td>x12</td><td>x9</td><td>x7</td><td>x6</td></tr>
+<tr><td>x1</td><td>x2</td><td>x4</td><td>x2</td><td>x1</td><td>x1</td></tr>
 </table>
 
 <table class="components">
 <tr><td><img class="card" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="card" alt="job card" src="new-rulebook/job.png"/></td></tr>
 <tr><td>7 identity cards</td><td>6 job cards</td></tr>
-<tr><td><img class="card" alt="obstacle card" src="new-rulebook/obstacle.png"/></td><td><img class="card" alt="heat track" src="new-rulebook/heat.png"/></td></tr>
-<tr><td>32 obstacle cards</td><td>1 heat track card</td></tr>
+<tr><td><img class="card" alt="obstacle card" src="new-rulebook/obstacle.png"/></td><td></td></tr>
+<tr><td>32 obstacle cards</td><td></td></tr>
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="award card" src="new-rulebook/secret.png"/></td><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="trick card" src="new-rulebook/trick.png"/></td></tr>
-<tr><td>4 award cards</td><td>42 assist cards</td><td>37 trick cards</td></tr>
+<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="trick card" src="new-rulebook/trick.png"/></td><td></td></tr>
+<tr><td>42 assist cards</td><td>37 trick cards</td><td></td></tr>
 </table>
 
 <table class="components">
@@ -54,24 +54,10 @@ Modifier chips
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
 2. Randomly select <span class="job">Job</span> cards equal to the number of players. Place them in the center of the table.
 3. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
-4. Place the following chips in the bag, based on the number of players:
-
-| Chip | 2 players | 3 players | 4 players | 5 players | 6 players |
-| --- | --- | --- | -- | --- | --- |
-| <img class="chip" alt="yellow +1 modifier chip" src="rulebook/YellowPlus1.png"/> | 3 | 5 | 7 | 9 | 11 |
-| <img class="chip" alt="orange -1 modifier chip" src="rulebook/OrangeMinus1.png"/> | 1 | 2 | 3 | 4 | 5 |
-| <img class="chip" alt="red -2 modifier chip" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
-| <img class="chip" alt="purple +3 modifier chip" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
-
-5. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the chip indicated on each space of the heat track, as indicated in this chart:
-
-| 2 players | 3 players | 4 players | 5 players | 6 players |
-| --- | --- | -- | --- | --- |
-| 2 | 2 | 4 | 4 | 5 |
-
-6. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
-7. Deal each player 5 cards from the resource deck.
-8. Randomly determine a starting player.
+4. Place all chips in the bag.
+5. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
+6. Deal each player 5 cards from the resource deck.
+7. Randomly determine a starting player.
 
 # GOAL
 There are a set of jobs that you all are looking to pull off. Each job can only be completed by overcoming a sequence of obstacles. Players will test their skill against these obstacles. When the game ends players are paid out according to how well they helped. There are also awards granted for having the highest of each skill. The player with the largest payout is the winner.
@@ -169,14 +155,10 @@ You may discard any number of cards from your hand. Then draw resource cards fro
 
 Some <span class="obstacle">Obstacle</span> are labeled as "mandatory". These function the same as normal, except that if the test fails the 
 
-## END OF THE ROUND
-After each player has had a turn the round is over. Add the chips for the current round number from the heat track to the bag.
-
-Return all chips in front of players to the bag.
-
-If there are no more rounds on the heat track the game is over, proceed to _End Game & Scoring_.
-
 # OTHER DETAILS
+
+## CHIPS RUN OUT
+When a player is asked to draw a chip and there are none in the bag return all chips to the bag. Then continue drawing.
 
 ## DECK RUNS OUT
 The resource deck may run out of cards and you need to draw a card. When this happens, shuffle the discard pile into a new face-down resource deck.
