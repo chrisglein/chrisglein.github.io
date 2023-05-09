@@ -120,7 +120,7 @@ If an <span class="obstacle">Obstacle</span> is testing multiple skills, add the
 <mark>TODO: For “or” choice <span class="obstacle">Obstacles</span> do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
 
 ### 2. GET HELP
-Each other player has an opportunity to play an <span class="assist">Assist</span> card to help (or potentially hinder) the current player. They simultaneously reveal either nothing or an <span class="assist">Assist</span> card to commit from their hand to the upcoming test. If they reveal nothing and have fewer that 5 cards in their hand, they draw a card from the resoure deck.
+Each other player has an opportunity to play an <span class="assist">Assist</span> card to help (or potentially hinder) the current player. They simultaneously reveal either nothing or an <span class="assist">Assist</span> card to commit from their hand to the upcoming test. If they reveal nothing they draw a card from the resource deck, and then discard until they have no more than 5 cards in their hand.
 
 <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/> <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assistReward.png"/>
 
