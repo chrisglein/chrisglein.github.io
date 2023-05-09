@@ -15,7 +15,7 @@ table.components {
 .assist {
   color: #363b51;
 }
-.trick {
+.skill {
   color: #E8594B;
 }
 .obstacle {
@@ -41,8 +41,8 @@ Modifier chips
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="trick card" src="new-rulebook/trick.png"/></td><td></td></tr>
-<tr><td>42 assist cards</td><td>37 trick cards</td><td></td></tr>
+<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td></td></tr>
+<tr><td>42 assist cards</td><td>37 skill cards</td><td></td></tr>
 </table>
 
 <table class="components">
@@ -55,7 +55,7 @@ Modifier chips
 2. Randomly select <span class="job">Job</span> cards equal to the number of players. Place them in the center of the table.
 3. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
 4. Place all chips in the bag.
-5. Shuffle the <span class="trick">Trick</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
+5. Shuffle the <span class="skill">Skill</span> cards and <span class="assist">Assist</span> cards together to form a face-down resource deck. Leave room next to it for a face-up discard pile.
 6. Deal each player 5 cards from the resource deck.
 7. Randomly determine a starting player.
 
@@ -94,12 +94,12 @@ Resolving a test is done with the following steps:
 1. Evaluate Skill
 2. Get Help
 3. Draw Chips
-4. Play Tricks
+4. Play Skills
 5. Resolve (Success or Failure)
 6. Prepare
 
 ### 1. EVALUATE SKILL
-An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a score, which is the sum of the icons on your identity card and all <span class="assist">Assist</span> and <span class="trick">Trick</span> cards that have been added to your identity card.
+An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a score, which is the sum of the icons on your identity card and all <span class="assist">Assist</span> and <span class="skill">Skill</span> cards that have been added to your identity card.
 
 If an <span class="obstacle">Obstacle</span> is testing multiple skills, add the score of all skills indicated.
 
@@ -121,11 +121,11 @@ Note that some <span class="obstacle">Obstacle</span> cards may modify how many 
 
 If any chips had previously been set aside for your next test, they are added now.
 
-### 4. PLAY TRICKS
+### 4. PLAY SKILLS
 
-<img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trick.png"/> <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trickReward.png"/>
+<img class="card" alt="skill card" style="max-width: 150px" src="new-rulebook/trick.png"/> <img class="card" alt="skill card" style="max-width: 150px" src="new-rulebook/trickReward.png"/>
 
-At this time you (and only you) may play any number of <span class="trick">Trick</span> cards to modify the chip results. These could involve flipping chips (to change which modifier value is showing), drawing additional chips, or any number of effects.
+At this time you (and only you) may play any number of <span class="skill">Skill</span> cards to modify the chip results. These could involve flipping chips (to change which modifier value is showing), drawing additional chips, or any number of effects.
 
 ### 5. RESOLVE
 
@@ -139,16 +139,16 @@ The drawn chips remain in front of you until the end of the round.
 - Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
 - Unless the <span class="obstacle">Obstacle</span> says it is a “Mandatory Obstacle”, return the <span class="obstacle">Obstacle</span> card to the game box.
 - All players who played <span class="assist">Assist</span> cards that have a "Failure" (bottom) effect adds their card to their identity card. Discard any other <span class="assist">Assist</span> cards.
-- If you played a <span class="trick">Trick</span> card that has a score (cheese) value, add it to your score pile.
-- You may use the “Failure” (bottom) effect of one <span class="trick">Trick</span> card you played or of a <span class="trick">Trick</span> card from your hand. These are added to your identity card to upgrade your skills.
-- Discard any other played <span class="trick">Trick</span> cards.
+- If you played a <span class="skill">Skill</span> card that has a score (cheese) value, add it to your score pile.
+- You may use the “Failure” (bottom) effect of one <span class="skill">Skill</span> card you played or of a <span class="skill">Skill</span> card from your hand. These are added to your identity card to upgrade your skills.
+- Discard any other played <span class="skill">Skill</span> cards.
 
 #### SUCCESS
 - Apply the "success" effect of the <span class="obstacle">Obstacle</span> (if any).
 - Add the <span class="obstacle">Obstacle</span> card to your score pile.
 - All players who played <span class="assist">Assist</span> cards with a score (cheese) value adds their <span class="assist">Assist</span> card to their score pile.
 - Any player who played an <span class="assist">Assist</span> card with a “Success” (bottom) effect adds that card to their identity card. These will upgrade their skills.
-- Discard any played <span class="trick">Trick</span> cards.
+- Discard any played <span class="skill">Skill</span> cards.
 
 ### 6. PREPARE
 You may discard any number of cards from your hand. Then draw resource cards from the deck until you have 5 cards in your hand.
