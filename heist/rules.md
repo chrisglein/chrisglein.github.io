@@ -24,7 +24,7 @@ table.components {
 </style>
 
 # COMPONENTS
-Modifier tokens
+Modifier chips
 
 <table class="components">
 <tr><th>Blue</th><th>Green</th><th>Yellow</th><th>Orange</th><th>Red</th><th>Purple</th></tr>
@@ -54,16 +54,16 @@ Modifier tokens
 1. Randomly deal 1 identity card face-up in front of each player. Return the rest to the game box.
 2. Randomly select <span class="job">Job</span> cards equal to the number of players. Place them in the center of the table.
 3. Place the <span class="obstacle">Obstacle</span> cards face-up on their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top)
-4. Place the following tokens in the bag, based on the number of players:
+4. Place the following chips in the bag, based on the number of players:
 
-| Token | 2 players | 3 players | 4 players | 5 players | 6 players |
+| Chip | 2 players | 3 players | 4 players | 5 players | 6 players |
 | --- | --- | --- | -- | --- | --- |
-| <img class="token" alt="yellow +1 modifier token" src="rulebook/YellowPlus1.png"/> | 3 | 5 | 7 | 9 | 11 |
-| <img class="token" alt="orange -1 modifier token" src="rulebook/OrangeMinus1.png"/> | 1 | 2 | 3 | 4 | 5 |
-| <img class="token" alt="red -2 modifier token" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
-| <img class="token" alt="purple +3 modifier token" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
+| <img class="token" alt="yellow +1 modifier chip" src="rulebook/YellowPlus1.png"/> | 3 | 5 | 7 | 9 | 11 |
+| <img class="token" alt="orange -1 modifier chip" src="rulebook/OrangeMinus1.png"/> | 1 | 2 | 3 | 4 | 5 |
+| <img class="token" alt="red -2 modifier chip" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
+| <img class="token" alt="purple +3 modifier chip" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
 
-5. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the token indicated on each space of the heat track, as indicated in this chart:
+5. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the chip indicated on each space of the heat track, as indicated in this chart:
 
 | 2 players | 3 players | 4 players | 5 players | 6 players |
 | --- | --- | -- | --- | --- |
@@ -107,7 +107,7 @@ But all <span class="obstacle">Obstacles</span> will incur a <strong>test</stron
 Resolving a test is done with the following steps:
 1. Evaluate Skill
 2. Get Help
-3. Draw Tokens
+3. Draw Chips
 4. Play Tricks
 5. Resolve (Success or Failure)
 6. Prepare
@@ -128,26 +128,26 @@ Each other player has an opportunity to play an <span class="assist">Assist</spa
 
 <mark>You may only commit an <span class="assist">Assist</span> card if your player pawn is at the location of the active job marker. You may discard one card to move your pawn to the active player's location. You only need to pay this cost after <span class="assist">Assist</span> cards are revealed. If you cannot pay this cost (you have no more cards in your hand) then your committed <span class="assist">Assist</span> card is discarded.</mark>
 
-### 3. DRAW TOKENS
-Draw 2 tokens from the bag and without looking at them place them on the table. 
+### 3. DRAW CHIPS
+Draw 2 chips from the bag and without looking at them place them on the table. 
 
-Note that some <span class="obstacle">Obstacle</span> cards may modify how many tokens are drawn from the default of 2.
+Note that some <span class="obstacle">Obstacle</span> cards may modify how many chips are drawn from the default of 2.
 
-If any tokens had previously been set aside for your next test, they are added now.
+If any chips had previously been set aside for your next test, they are added now.
 
 ### 4. PLAY TRICKS
 
 <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trick.png"/> <img class="card" alt="trick card" style="max-width: 150px" src="new-rulebook/trickReward.png"/>
 
-At this time you (and only you) may play any number of <span class="trick">Trick</span> cards to modify the token results. These could involve flipping tokens (to change which modifier value is showing), drawing additional tokens, or any number of effects.
+At this time you (and only you) may play any number of <span class="trick">Trick</span> cards to modify the chip results. These could involve flipping chips (to change which modifier value is showing), drawing additional chips, or any number of effects.
 
 ### 5. RESOLVE
 
 <img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
 
-Add the revealed modifiers showing on all tokens and committed <span class="assist">Assist</span> cards to your skill score. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
+Add the revealed modifiers showing on all chips and committed <span class="assist">Assist</span> cards to your skill score. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
-The drawn tokens remain in front of you until the end of the round.
+The drawn chips remain in front of you until the end of the round.
 
 #### FAILURE
 - Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
@@ -170,9 +170,9 @@ You may discard any number of cards from your hand. Then draw resource cards fro
 Some <span class="obstacle">Obstacle</span> are labeled as "mandatory". These function the same as normal, except that if the test fails the 
 
 ## END OF THE ROUND
-After each player has had a turn the round is over. Add the tokens for the current round number from the heat track to the bag.
+After each player has had a turn the round is over. Add the chips for the current round number from the heat track to the bag.
 
-Return all tokens in front of players to the bag.
+Return all chips in front of players to the bag.
 
 If there are no more rounds on the heat track the game is over, proceed to _End Game & Scoring_.
 
