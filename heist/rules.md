@@ -8,7 +8,7 @@ table.components {
   table-layout: fixed;
 }
 
-.token {
+.chip {
   clip-path: circle(50% at center);
 }
 
@@ -28,8 +28,8 @@ Modifier chips
 
 <table class="components">
 <tr><th>Blue</th><th>Green</th><th>Yellow</th><th>Orange</th><th>Red</th><th>Purple</th></tr>
-<tr><td><img class="token" alt="blue +4/+2 modifier token" src="rulebook/BluePlus4.png"/></td><td><img class="token" alt="green +2/+1 modifier token" src="rulebook/GreenPlus2.png"/></td><td><img class="token" alt="yellow +1/-1 modifier token" src="rulebook/YellowPlus1.png"/></td><td><img class="token" alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus1.png"/></td><td><img class="token" alt="red -2/-4 modifier token" src="rulebook/RedMinus2.png"/></td><td><img class="token" alt="purple +3/-3 modifier token" src="rulebook/PurplePlus3.png"/></td></tr>
-<tr><td><img class="token" alt="blue +4/+2 modifier token" src="rulebook/BluePlus2.png"/></td><td><img class="token" alt="green +2/+1 modifier token" src="rulebook/GreenPlus1.png"/></td><td><img class="token" alt="yellow +1/-1 modifier token" src="rulebook/YellowMinus1.png"/></td><td><img class="token" alt="orange -1/-2 modifier token" src="rulebook/OrangeMinus2.png"/></td><td><img class="token" alt="red -2/-4 modifier token" src="rulebook/RedMinus4.png"/></td><td><img class="token" alt="purple +3/-3 modifier token" src="rulebook/PurpleMinus3.png"/></td></tr>
+<tr><td><img class="chip" alt="blue +4/+2 modifier chip" src="rulebook/BluePlus4.png"/></td><td><img class="chip" alt="green +2/+1 modifier chip" src="rulebook/GreenPlus2.png"/></td><td><img class="chip" alt="yellow +1/-1 modifier chip" src="rulebook/YellowPlus1.png"/></td><td><img class="chip" alt="orange -1/-2 modifier chip" src="rulebook/OrangeMinus1.png"/></td><td><img class="chip" alt="red -2/-4 modifier chip" src="rulebook/RedMinus2.png"/></td><td><img class="chip" alt="purple +3/-3 modifier chip" src="rulebook/PurplePlus3.png"/></td></tr>
+<tr><td><img class="chip" alt="blue +4/+2 modifier chip" src="rulebook/BluePlus2.png"/></td><td><img class="chip" alt="green +2/+1 modifier chip" src="rulebook/GreenPlus1.png"/></td><td><img class="chip" alt="yellow +1/-1 modifier chip" src="rulebook/YellowMinus1.png"/></td><td><img class="chip" alt="orange -1/-2 modifier chip" src="rulebook/OrangeMinus2.png"/></td><td><img class="chip" alt="red -2/-4 modifier chip" src="rulebook/RedMinus4.png"/></td><td><img class="chip" alt="purple +3/-3 modifier chip" src="rulebook/PurpleMinus3.png"/></td></tr>
 <tr><td>x7</td><td>x9</td><td>x12</td><td>x9</td><td>x7</td><td>x6</td></tr>
 </table>
 
@@ -58,10 +58,10 @@ Modifier chips
 
 | Chip | 2 players | 3 players | 4 players | 5 players | 6 players |
 | --- | --- | --- | -- | --- | --- |
-| <img class="token" alt="yellow +1 modifier chip" src="rulebook/YellowPlus1.png"/> | 3 | 5 | 7 | 9 | 11 |
-| <img class="token" alt="orange -1 modifier chip" src="rulebook/OrangeMinus1.png"/> | 1 | 2 | 3 | 4 | 5 |
-| <img class="token" alt="red -2 modifier chip" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
-| <img class="token" alt="purple +3 modifier chip" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
+| <img class="chip" alt="yellow +1 modifier chip" src="rulebook/YellowPlus1.png"/> | 3 | 5 | 7 | 9 | 11 |
+| <img class="chip" alt="orange -1 modifier chip" src="rulebook/OrangeMinus1.png"/> | 1 | 2 | 3 | 4 | 5 |
+| <img class="chip" alt="red -2 modifier chip" src="rulebook/RedMinus2.png"/> | 1 | 1 | 1 | 1 | 1 |
+| <img class="chip" alt="purple +3 modifier chip" src="rulebook/PurplePlus3.png"/> | 1 | 1 | 1 | 1 | 1 |
 
 5. Put the heat track card in the center of the play area. For each 2 players in the game (rounded up) add 1 of the chip indicated on each space of the heat track, as indicated in this chart:
 
