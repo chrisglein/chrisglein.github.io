@@ -208,34 +208,36 @@ The end game is triggered when one of the jobs has been completed (there are no 
 For each job, pay out <span class="cheese">cheese</span> according to each player's place on the contribution track, adding to any <span class="cheese">cheese</span> that player has collected over the course of the game. The player in 1st place on the track will get paid half (rounded up) of that job's <span class="cheese">cheese</span> pool. The player in 2nd place will get paid half (rounded up) of the remaining <span class="cheese">cheese</span>, and so on.
 
 You may also use this chart:
-| Cheese | 1st | 2nd | 3rd | 4th | 5th |
-| ------ | --- | --- | --- | --- | --- |
-| 5      | 3   | 1   | 1   | 0   | 0   |
-| 6      | 3   | 2   | 1   | 0   | 0   |
-| 7      | 4   | 2   | 1   | 0   | 0   |
-| 8      | 4   | 2   | 1   | 1   | 0   |
-| 9      | 5   | 2   | 1   | 1   | 0   |
-| 10     | 5   | 3   | 1   | 1   | 0   |
-| 11     | 6   | 3   | 1   | 1   | 0   |
-| 12     | 6   | 3   | 2   | 1   | 0   |
-| 13     | 7   | 3   | 2   | 1   | 0   |
-| 14     | 7   | 4   | 2   | 1   | 0   |
-| 15     | 8   | 4   | 2   | 1   | 0   |
-| 16     | 8   | 4   | 2   | 1   | 1   |
-| 17     | 9   | 4   | 2   | 1   | 1   |
-| 18     | 9   | 5   | 2   | 1   | 1   |
-| 19     | 10  | 5   | 2   | 1   | 1   |
-| 20     | 10  | 5   | 3   | 1   | 1   |
-| 21     | 11  | 5   | 3   | 1   | 1   |
-| 22     | 11  | 6   | 3   | 1   | 1   |
-| 23     | 12  | 6   | 3   | 1   | 1   |
-| 24     | 12  | 6   | 3   | 2   | 1   |
-| 25     | 13  | 6   | 3   | 2   | 1   |
-| 26     | 13  | 7   | 3   | 2   | 1   |
-| 27     | 14  | 7   | 3   | 2   | 1   |
-| 28     | 14  | 7   | 4   | 2   | 1   |
-| 29     | 15  | 7   | 4   | 2   | 1   |
-| 30     | 15  | 8   | 4   | 2   | 1   |
+<table class="components">
+<tr>
+<th>Cheese</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th></tr>
+<tr><td>5     </td><td>3  </td><td>1  </td><td>1  </td><td>0  </td><td>0</td></tr>
+<tr><td>6     </td><td>3  </td><td>2  </td><td>1  </td><td>0  </td><td>0</td></tr>
+<tr><td>7     </td><td>4  </td><td>2  </td><td>1  </td><td>0  </td><td>0</td></tr>
+<tr><td>8     </td><td>4  </td><td>2  </td><td>1  </td><td>1  </td><td>0</td></tr>
+<tr><td>9     </td><td>5  </td><td>2  </td><td>1  </td><td>1  </td><td>0</td></tr>
+<tr><td>10    </td><td>5  </td><td>3  </td><td>1  </td><td>1  </td><td>0</td></tr>
+<tr><td>11    </td><td>6  </td><td>3  </td><td>1  </td><td>1  </td><td>0</td></tr>
+<tr><td>12    </td><td>6  </td><td>3  </td><td>2  </td><td>1  </td><td>0</td></tr>
+<tr><td>13    </td><td>7  </td><td>3  </td><td>2  </td><td>1  </td><td>0</td></tr>
+<tr><td>14    </td><td>7  </td><td>4  </td><td>2  </td><td>1  </td><td>0</td></tr>
+<tr><td>15    </td><td>8  </td><td>4  </td><td>2  </td><td>1  </td><td>0</td></tr>
+<tr><td>16    </td><td>8  </td><td>4  </td><td>2  </td><td>1  </td><td>1</td></tr>
+<tr><td>17    </td><td>9  </td><td>4  </td><td>2  </td><td>1  </td><td>1</td></tr>
+<tr><td>18    </td><td>9  </td><td>5  </td><td>2  </td><td>1  </td><td>1</td></tr>
+<tr><td>19    </td><td>10 </td><td>5  </td><td>2  </td><td>1  </td><td>1</td></tr>
+<tr><td>20    </td><td>10 </td><td>5  </td><td>3  </td><td>1  </td><td>1</td></tr>
+<tr><td>21    </td><td>11 </td><td>5  </td><td>3  </td><td>1  </td><td>1</td></tr>
+<tr><td>22    </td><td>11 </td><td>6  </td><td>3  </td><td>1  </td><td>1</td></tr>
+<tr><td>23    </td><td>12 </td><td>6  </td><td>3  </td><td>1  </td><td>1</td></tr>
+<tr><td>24    </td><td>12 </td><td>6  </td><td>3  </td><td>2  </td><td>1</td></tr>
+<tr><td>25    </td><td>13 </td><td>6  </td><td>3  </td><td>2  </td><td>1</td></tr>
+<tr><td>26    </td><td>13 </td><td>7  </td><td>3  </td><td>2  </td><td>1</td></tr>
+<tr><td>27    </td><td>14 </td><td>7  </td><td>3  </td><td>2  </td><td>1</td></tr>
+<tr><td>28    </td><td>14 </td><td>7  </td><td>4  </td><td>2  </td><td>1</td></tr>
+<tr><td>29    </td><td>15 </td><td>7  </td><td>4  </td><td>2  </td><td>1</td></tr>
+<tr><td>30    </td><td>15 </td><td>8  </td><td>4  </td><td>2  </td><td>1</td></tr>
+</table>
 
 ## Most cheese wins
 
