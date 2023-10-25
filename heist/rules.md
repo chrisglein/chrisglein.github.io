@@ -48,7 +48,7 @@ Modifier chips
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td>Cheese Token</td></tr>
+<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td><img alt="cheese token" src="new-rulebook/cheeseToken.png"/></td></tr>
 <tr><td>42 assist cards</td><td>37 skill cards</td><td>60 cheese tokens</td></tr>
 </table>
 
