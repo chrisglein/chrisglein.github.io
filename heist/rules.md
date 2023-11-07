@@ -100,6 +100,15 @@ You start the game with an Identity card that provides your starting skills. The
 
 The number of icons you have of a particular skill is your skill score. For example, the Cat Burglar starts with 2 Agility and 1 Dexterity.
 
+## Skill rating
+<mark>This section should explain the skill rating cards. Previously: </mark>
+Your skill rating is the sum of the icons on your Identity card and all <span class="skill">Skill</span> cards that have been added to your Identity card.
+
+## Learning a skill
+When you learn a skill, you increase your rating in that skill by one. Flip over the corresponding skill rating card if your current value is even (0, 2, or 4) or return that skill rating card to the game box if your current value is odd (1 or 3). The maximum skill rating is 5; any increase beyond 5 is ignored.
+
+When learning due to playing a <span class="skill">Skill</span> card, learn the matching skill displayed on the back of the card (also shown in the bottom right of the front of the card), then put that card in the discard pile.
+
 # YOUR TURN
 Players each take a turn in clockwise order. On your turn choose an <span class="obstacle">Obstacle</span> and place the active job marker on that <span class="obstacle">Obstacle</span> card. 
 
@@ -107,14 +116,11 @@ Players each take a turn in clockwise order. On your turn choose an <span class=
 
 <img class="card" alt="obstacle card" style="float: right; max-width: 300px" src="new-rulebook/obstacle.png"/>
 
-Each <span class="obstacle">Obstacle</span> may have the following elements:
-- One or more required skills with a target number
-- Failure penalty
-- Success reward 
+Each <span class="obstacle">Obstacle</span> will have the following elements:
+- A <strong>test</strong>, with one or more required skills and a target number
+- Failure effect (for mandatory obstacles only)
 - Payout (bottom right)
 - Associated Job (top right)
-
-But all <span class="obstacle">Obstacles</span> will incur a <strong>test</strong>.
 
 Resolving a test is done with the following steps:
 1. Evaluate Skill
@@ -124,20 +130,22 @@ Resolving a test is done with the following steps:
 5. Resolve (Success or Failure)
 6. Prepare
 
-On your turn you are considered the "testing player."
+On your turn you are considered the <strong>testing player</strong>.
 
 ### 1. EVALUATE SKILL
-An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a score, which is the sum of the icons on your Identity card and all <span class="skill">Skill</span> cards that have been added to your Identity card.
+An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a rating, as explained above.
 
 If an <span class="obstacle">Obstacle</span> is testing multiple skills, add the score of all skills indicated.
 
-<mark>TODO: For “or” choice <span class="obstacle">Obstacles</span> do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
+Some tests will provide an "or" choice between multiple skills. Before proceeding, choose one of these to use as the target for the test.
+
+<mark>TODO: Add visual aid</mark>
 
 ### 2. GET HELP
-Each other player has an opportunity to bet on the outcome of the testing player's upcoming test. In clockwise order (starting with the player to the left of the testing player), each player will choose one of the following:
+Each other player has an opportunity to bet on the outcome of the testing player's upcoming test. Simultaneously, each player will choose one of the following:
 
 #### A) Bet for
-Play a <span class="assist">Assist</span> card to help (or potentially hinder) the active player, and share in their success.
+Play a <span class="assist">Assist</span> card to help (or potentially hinder) the active player, and share in their success. They are considered an <strong>assisting player</strong>
 
 #### B) Bet against
 
@@ -145,13 +153,15 @@ Play a <span class="skill">Skill</span> card facedown (ignoring the text on the 
 
 #### C) Abstain
 
-Draw a card from either the <span class="skill">Skill</span> or <span class="assist">Assist</span> deck.
+Play no card, but draw a card from either the <span class="skill">Skill</span> or <span class="assist">Assist</span> deck.
 
-#### Resolving an Assist card
+#### Resolving Assist cards
+
+Once all players have chosen how to bet, their choice is revealed. <mark>TODO: Clarify how to show your bet</mark>. Any players who chose to abstain draw a card. Then, in clockwise order (starting with the player to the left of the testing player), any played <span class="assist">Assist</span> cards are resolved.
 
 <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/>
 
-<span class="assist">Assist</span> cards may modify the test result with a number modifier (indicated in a circle). They may also have other effects. These effects are all resolved now, _prior_ to making the test. After resolving the effects, leave the <span class="assist">Assist</span> card in front of the player who committed them until the test is completed.
+<span class="assist">Assist</span> cards may modify the test result with a number modifier (indicated in a circle). They may also have other effects. These effects are all resolved now, _prior_ to drawing chips for the test. After resolving the effects, leave the <span class="assist">Assist</span> card in front of the player who committed them until the test is resolved.
 
 ### 3. DRAW CHIPS
 Draw 2 chips from the bag and without looking at them place them on the table. 
@@ -168,7 +178,7 @@ At this time you (and only you) may play any number of <span class="skill">Skill
 
 <img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
 
-Add the revealed modifiers showing on all chips and committed <span class="assist">Assist</span> cards to your skill score. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
+Add the revealed modifiers showing on all chips and committed <span class="assist">Assist</span> cards to your skill rating. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
 Leave the drawn chips in the center of the play area.
 
@@ -176,32 +186,34 @@ Leave the drawn chips in the center of the play area.
 - Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
 - Unless the <span class="obstacle">Obstacle</span> says it is a “Mandatory Obstacle”, return the <span class="obstacle">Obstacle</span> card to the game box and any <span class="cheese">cheese</span> on it to the central supply.
 - Discard any played <span class="assist">Assist</span> cards.
-- You may **learn** one <span class="skill">Skill</span> cards you played, a <span class="skill">Skill</span> card from your hand, or the top <span class="skill">Skill</span> card from the <span class="skill">Skill</span> deck. To learn a <span class="skill">Skill</span> that card is added face-down to your identity card (upgrading your skill score).
-- Discard any other played <span class="skill">Skill</span> cards.
-- Increase your place on the job's contribution track by 3.
+- You may **learn** one <span class="skill">Skill</span> cards you played, a <span class="skill">Skill</span> card from your hand, or the top <span class="skill">Skill</span> card from the <span class="skill">Skill</span> deck.
+- Discard any played <span class="skill">Skill</span> cards.
+- Increase your place on the job's contribution track by the <strong>payout</strong> value of the obstacle.
 
 #### SUCCESS
-- Apply the "success" effect of the <span class="obstacle">Obstacle</span> (if any).
-- Add all <span class="cheese">cheese</span> on the <span class="obstacle">Obstacle</span> to the corresponding job.
-- Return the <span class="obstacle">Obstacle</span> card to your game box.
-- All players who played <span class="assist">Assist</span> cards increase their place on the job's contribution track by 1. Discard these <span class="assist">Assist</span> cards.
+- Take all <span class="cheese">cheese</span> on the <span class="obstacle">Obstacle</span>.
+- Return the <span class="obstacle">Obstacle</span> card to the game box.
+- All assisting players (those who played <span class="assist">Assist</span> cards) increase their place on the job's contribution track by 1. Discard these <span class="assist">Assist</span> cards.
+- All <span class="skill">Skill</span> cards bet by other players are returned to those player's hands.
 - Discard any played <span class="skill">Skill</span> cards.
 - Increase your place on the job's contribution track by 1.
 
 #### The contribution track
 
-To increase your place on the contribution track, take your player-colored contribution marker and move it up that many spaces on the track. If you are not already on the track, start counting from the first track space. If your marker would land on an already occupied space, instead move to the next available space. If you have reached the end of the track and there are no more available spaces, instead take one <span class="cheese">cheese</span> from the job's pool and add it to your personal stash.
+To increase your place on the contribution track, take your player-colored contribution marker and move it up that many spaces on the track. If you are not already on the track, start counting from the first track space. If your marker would land on an already occupied space, instead move to the next available space. If you have reached the end of the track and there are no more available spaces, land on the highest value available space.
 
-To decrease your place on the contribution track, move backwards as above however if you would land on an occupied space you instead move to the next available space _moving backwards_. If there are no previously available spaces then you remove your marker from the track entirely.
+To decrease your place on the contribution track, move backwards as above. However if you would land on an occupied space you instead move to the next available space _moving backwards_. If there are no previously available spaces then remove your marker from the track entirely.
+
+#### Alternate payout
+
+Whenever you would increase your place on the contribution track, you may alternatively take one <span class="cheese">cheese</span> from the supply. This is true if you are the testing player or an assisting player.
 
 #### Reveal the next obstacle
 
-If the <span class="obstacle">Obstacle</span> was discarded and a new one was revealed underneath it, add <span class="cheese">cheese</span> to that new <span class="obstacle">Obstacle</span> equal to the amount shown in the bottom right of that card.
-
-If there was no <span class="obstacle">Obstacle</span> underneath, then the job is complete and the end game has been triggered (see below).
+If the <span class="obstacle">Obstacle</span> was discarded then a new one was likely revealed underneath it. If there was no <span class="obstacle">Obstacle</span> underneath, then the job is complete and the end game has been triggered (see below).
 
 ### 6. PREPARE
-You may discard any number of cards from your hand. Then draw resource cards from the deck until you have 5 cards in your hand.
+You may discard any number of cards from your hand. Then draw resource cards (in whatever combination you like) from their deck until you have a total of 5 cards in your hand. You must decide what mix of cards you want to draw before looking at those cards.
 
 # OTHER DETAILS
 
@@ -212,44 +224,12 @@ When a player is asked to draw a chip and there are none in the bag return all c
 Either deck may run out of cards and you need to draw a card. When this happens, shuffle the discard pile of that deck to form a new face-down deck.
 
 # END GAME & SCORING
-The end game is triggered when one of the jobs has been completed (there are no more <span class="obstacle">Obstacle</span> cards).
+The end game is triggered when one of the jobs has been completed (there are no more <span class="obstacle">Obstacle</span> cards in its stack).
 
 ## Job's pay out
 
-For each job, pay out <span class="cheese">cheese</span> according to each player's place on the contribution track, adding to any <span class="cheese">cheese</span> that player has collected over the course of the game. The player in 1st place on the track will get paid half (rounded up) of that job's <span class="cheese">cheese</span> pool. The player in 2nd place will get paid half (rounded up) of the remaining <span class="cheese">cheese</span>, and so on.
-
-You may also use this chart:
-<table class="components">
-<tr>
-<th>Cheese</th><th>1st</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th></tr>
-<tr><td>5     </td><td>3  </td><td>1  </td><td>1  </td><td>0  </td><td>0</td></tr>
-<tr><td>6     </td><td>3  </td><td>2  </td><td>1  </td><td>0  </td><td>0</td></tr>
-<tr><td>7     </td><td>4  </td><td>2  </td><td>1  </td><td>0  </td><td>0</td></tr>
-<tr><td>8     </td><td>4  </td><td>2  </td><td>1  </td><td>1  </td><td>0</td></tr>
-<tr><td>9     </td><td>5  </td><td>2  </td><td>1  </td><td>1  </td><td>0</td></tr>
-<tr><td>10    </td><td>5  </td><td>3  </td><td>1  </td><td>1  </td><td>0</td></tr>
-<tr><td>11    </td><td>6  </td><td>3  </td><td>1  </td><td>1  </td><td>0</td></tr>
-<tr><td>12    </td><td>6  </td><td>3  </td><td>2  </td><td>1  </td><td>0</td></tr>
-<tr><td>13    </td><td>7  </td><td>3  </td><td>2  </td><td>1  </td><td>0</td></tr>
-<tr><td>14    </td><td>7  </td><td>4  </td><td>2  </td><td>1  </td><td>0</td></tr>
-<tr><td>15    </td><td>8  </td><td>4  </td><td>2  </td><td>1  </td><td>0</td></tr>
-<tr><td>16    </td><td>8  </td><td>4  </td><td>2  </td><td>1  </td><td>1</td></tr>
-<tr><td>17    </td><td>9  </td><td>4  </td><td>2  </td><td>1  </td><td>1</td></tr>
-<tr><td>18    </td><td>9  </td><td>5  </td><td>2  </td><td>1  </td><td>1</td></tr>
-<tr><td>19    </td><td>10 </td><td>5  </td><td>2  </td><td>1  </td><td>1</td></tr>
-<tr><td>20    </td><td>10 </td><td>5  </td><td>3  </td><td>1  </td><td>1</td></tr>
-<tr><td>21    </td><td>11 </td><td>5  </td><td>3  </td><td>1  </td><td>1</td></tr>
-<tr><td>22    </td><td>11 </td><td>6  </td><td>3  </td><td>1  </td><td>1</td></tr>
-<tr><td>23    </td><td>12 </td><td>6  </td><td>3  </td><td>1  </td><td>1</td></tr>
-<tr><td>24    </td><td>12 </td><td>6  </td><td>3  </td><td>2  </td><td>1</td></tr>
-<tr><td>25    </td><td>13 </td><td>6  </td><td>3  </td><td>2  </td><td>1</td></tr>
-<tr><td>26    </td><td>13 </td><td>7  </td><td>3  </td><td>2  </td><td>1</td></tr>
-<tr><td>27    </td><td>14 </td><td>7  </td><td>3  </td><td>2  </td><td>1</td></tr>
-<tr><td>28    </td><td>14 </td><td>7  </td><td>4  </td><td>2  </td><td>1</td></tr>
-<tr><td>29    </td><td>15 </td><td>7  </td><td>4  </td><td>2  </td><td>1</td></tr>
-<tr><td>30    </td><td>15 </td><td>8  </td><td>4  </td><td>2  </td><td>1</td></tr>
-</table>
+For each job, players claim food tokens according to their place on the contribution track. The player in 1st place on the track gets first choice, the 2nd place will choose next, and so on. If all food tokens have been claimed for that job, that player gets a single <span class="cheese">cheese</span> token instead.
 
 ## Most cheese wins
 
-The player with the most <span class="cheese">cheese</span>  is the winner. If there is a tie the player with the most total learned <span class="skill">Skill</span> cards is the winner. If there’s still a tie the players share the victory.
+Each player adds the value of their food tokens to the number of <span class="cheese">cheese</span> tokens. The player with the largest total is the winner. If there is a tie the player with the highest sum of skill ratings is the winner. If there’s still a tie the players share the victory.
