@@ -30,6 +30,8 @@ table.components {
 }
 </style>
 
+In Mice Heist you are mice from a colony seeking to steal food from a human household. The player who returns with the best food will be the hero of the colony. But the food is protected by obstacles and traps, so you may have to reluctantly work together to overcome them and get the largest portion.
+
 # COMPONENTS
 Modifier chips
 
@@ -41,43 +43,63 @@ Modifier chips
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="card" alt="rules reminder card" src="new-rulebook/rulesCard.png"/></td></tr>
-<tr><td>7 identity cards</td><td>4 rules reminder cards</td></tr>
+<tr><td><img class="card" alt="identity card" src="new-rulebook/contributionTrack.png"/></td><td><img class="card" alt="rules reminder card" src="new-rulebook/rulesCard.png"/></td></tr>
+<tr><td>4 contribution tracks</td><td>4 rules reminder cards</td></tr>
 <tr><td><img class="card" alt="job card" src="new-rulebook/job.png"/></td><td><img class="card" alt="obstacle card" src="new-rulebook/obstacle.png"/></td></tr>
 <tr><td>6 job cards</td><td>30 obstacle cards<br>(5 per job)</td></tr>
-<tr><td><img class="card" alt="contribution track" src="new-rulebook/contributionTrack.png"/></td><td><img alt="contribution marker" src="new-rulebook/contributionMarker.png"/></td></tr>
-<tr><td>4 contribution tracks</td><td>20 player markers<br>(5 of each player color)</td></tr>
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td><img class="card" alt="skill rating card" src="new-rulebook/skillRating.png"/></td></tr>
-<tr><td>42 assist cards</td><td>37 skill cards</td><td>36 skill rating cards<br>(9 for each player)</td></tr>
+<tr><td><img class="card" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="card" alt="skill rating card" src="new-rulebook/skillRating.png"/></td><td><img alt="contribution marker" src="new-rulebook/contributionMarker.png"/></td></tr>
+<tr><td>6 identity cards<br>(each a different color)</td><td>36 skill rating cards<br>(9 of each player color)</td><td>24 contribution markers<br>(4 of each player color)</td></tr>
+</table>
+
+
+<table class="components">
+<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td><img class="chip" alt="player chip" src="rulebook/YellowPlus1.png"/><br><mark>Image needed</mark></td></tr>
+<tr><td>42 assist cards</td><td>37 skill cards</td><td>12 player chips<br>(2 for each player)</td></tr>
 </table>
 
 <table class="components">
-<tr><td><img alt="cheese token" src="new-rulebook/cheeseToken.png"/></td><td><img alt="bag"/></td><td><img alt="jobMarker"/></td></tr>
-<tr><td>60 cheese tokens</td><td>1 opaque bag</td><td><mark>Active job marker</mark></td></tr>
-<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td></td><td></td></tr>
-<tr><td>12 food tokens<br>(4 each in values 12, 6, and 3)</td><td></td><td></td></tr>
+<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="cheese token" src="new-rulebook/cheeseToken.png"/></td><td></td></tr>
+<tr><td>12 food tokens<br>(4 each in values 12, 6, and 3)</td><td>40 cheese tokens</td><td></td></tr>
+<tr><td><img alt="bag" src="new-rulebook/bag.png"/></td><td><img alt="jobMarker" src="new-rulebook/activeJob.png"/></td><td></td></tr>
+<tr><td>1 opaque bag</td><td>Active job marker</td><td></td></tr>
 </table>
 
 
 # SETUP
-### Skills
+
+### Player Components
+<img alt="player components" src="new-rulebook/playerComponents.png"/>
+
 1. Randomly deal 1 Identity card face-up in front of each player. Return the rest to the game box.
-1. Each player takes one set of 9 skill rating cards. Place them in 3 stacks, with the 4/5 on bottom, the 2/3 on top of that, and the 0/1 on top of that (so that the 0 is showing). <mark>TODO: Needs visual aid</mark>
-1. According to their identity card, each player flips or removes skill rating cards until their rating matches the identity card. <mark>TODO: This is nonesense without a visual aid</mark>
-1. Each player chooses a player color and takes all contribution markers of that color.
+1. Each player takes the components that match their Identity card color and image
+  - 9 skill rating cards
+  - 4 contribution markers
+  - 2 player chips
+
+### Skill Ratings
+<img alt="player setup diagram" src="new-rulebook/playerSetup.png"/>
+
+1. Each player places their skill rating cards in front of them in 3 stacks, separated by the 3 skill icons. In each stack the value 4 card should be placed on the bottom, the value 2 card on top of that, and the value 0 card on top of that.
+1. According to their Identity card, each player flips or removes skill rating cards until their visible rating matches the identity card. <mark>TODO: This is nonesense without a visual aid</mark>
+
 ### Jobs
+<img alt="setup diagram" src="new-rulebook/setup.png"/>
+<mark>Need updated pciture for beginning of game, not end. And should include food.</mark>
+
 1. Place the 4 contribution tracks in the center of the table.
-1. Randomly select 4 <span class="job">Job</span> cards. Place one in each contribution track. Return the rest to the game box.
-1. Place the <span class="obstacle">Obstacle</span> cards face-up on top of  their corresponding <span class="job">Job</span> card (e.g. place A5 on job A) in numeric order with the lowest number on top (e.g. place A1 on top). Return all other unused <span class="obstacle">Obstacle</span> to the gabe box.
+1. Randomly select 4 <span class="job">Job</span> cards. Place one on top of each contribution track. Return the rest to the game box.
+1. Place each <span class="job">Job</span>'s matching <span class="obstacle">Obstacle</span> cards (e.g. set A1-A5 for job A) face-up on top of  their corresponding <span class="job">Job</span> card in numeric order so that the lowest number is on top (e.g. for job A obtacle A1 will be on top and A5 will be on the bottom). Return all other unused <span class="obstacle">Obstacle</span> to the game box.
 1. For each job select a 12 point, 6 point, and 3 point food item and place it above the track.
+
 ### Resource decks
 1. Shuffle the <span class="skill">Skill</span> cards and <span class="assist">Assist</span> cards separately to form 2 face-down resource decks. Leave room next to each for a face-up discard pile.
-1. Deal each player 3 cards from the <span class="skill">Skill</span> deck and 2 cards <span class="assist">Assist</span> deck, forming their starting 5 card hand.
+1. Deal each player 3 cards from the <span class="skill">Skill</span> deck, forming their starting hand.
+
 ### The rest
-1. Put the <span class="cheese">cheese</span> in a central supply.
+1. Put the <span class="cheese">cheese</span> tokens in a central supply.
 1. Place all chips in the bag.
 1. Randomly determine a starting player. They take the active job marker.
 
