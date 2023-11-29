@@ -151,15 +151,17 @@ Each <span class="obstacle">Obstacle</span> will have the following elements:
 - Associated Job (top right)
 
 Resolving a test is done with the following steps:
-1. Evaluate Skill Rating
+1. Announce Skill Rating
 2. Get Help
 3. Draw Chips
 4. Play Skill Cards
-5. Resolve (Success or Failure)
-6. Draw
-7. Cleanup
+5. Calculate Result
+6. Resolve (Success or Failure)
+7. Advance Obstacle
+8. Draw
+9. Cleanup
 
-### 1. EVALUATE SKILL RATING
+### 1. ANNOUNCE SKILL RATING
 An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a rating, as explained above.
 
 If an <span class="obstacle">Obstacle</span> lists multiple skills, add the score of all the skill ratings indicated.
@@ -168,24 +170,25 @@ Some tests will provide an "or" choice between multiple skills. Before proceedin
 
 <mark>TODO: Add visual aid for different test types</mark>
 
+The testing player anounces their current skill rating and the target number to all players.
+
 ### 2. GET HELP
-Each nont-testing player has an opportunity to bet on the outcome of the testing player's upcoming test. They must choose to either **Assist** or **Abstain**. Each non-testing player will hold zero or more of their player chips in a closed fist. The testing player will call on all other players to reveal what's in thier hands simultaneously.
+Each non-testing player has an opportunity to bet on the outcome of the testing player's upcoming test. They must choose to either **Assist** or **Abstain**. Each non-testing player will hold zero or more of their player chips in a closed fist. The testing player will call on players to reveal what's in thier hands simultaneously.
 
-Any player who reveals one or more player chips is considered to be an **assisting player**. The revealed player chips are put in front of the testing player to make it clear who is assisting.
+Any player who reveals one or more player chips is considered to be an **assisting player**. The revealed player chips are left in front of the assisting players until the test is resolved.
 
-#### Resolve an Assist effect
 If the <span class="assist">Assist</span> deck is empty, shuffle the <span class="assist">Assist</span> discard pile into a face-down deck.
 
-If there is *at least one* assisting player, the testing player reveals the top card of the <span class="assist">Assist</span> deck and places it in front of them.
+If there is *at least one* assisting player, the testing player reveals the top card of the <span class="assist">Assist</span> deck.
 
 <img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/>
 
 <span class="assist">Assist</span> cards may modify the test result with a number modifier (indicated in a circle). They may also have other effects. These effects are all resolved now, _prior_ to drawing chips for the test. The text is read from the perspective of the testing player. Any choices the testing player must make must be made now. After resolving the effects, leave the <span class="assist">Assist</span> card in front of the testing player until the test is resolved.
 
 ### 3. DRAW CHIPS
-Draw 2 chips from the bag and without looking at them place them on the table. 
+The testing player draws 2 chips from the bag and without looking at them places them on the table. 
 
-If a player chip is revealed, treat it as a +1 and draw another chip from the bag.
+If a player chip is revealed, leave it there and draw another chip from the bag.
 
 At times you may need to draw a chip when there are no chips remaining in the bag. When this happens, return all chips from the play area _except the ones already drawn for this test_ to the bag. Then proceed drawing.
 
@@ -195,39 +198,54 @@ At times you may need to draw a chip when there are no chips remaining in the ba
 
 At this time you (and only you) may play any number of <span class="skill">Skill</span> cards to modify the chip results. These could involve flipping chips (to change which modifier value is showing), drawing additional chips, adding numeric modifiers, or any number of effects. Play and resolve cards one at a time. Leave all played cards in front of you until after the test is resolved.
 
-### 5. RESOLVE
+### 5. CALCULATE RESULT
+
+Add the following together:
+- Your skill rating for all skills involved in the test
+- The modifiers on all chips drawn for this test
+- The modifier on the <span class="assist">Assist</span> card (if any)
+- The modifiers on any played <span class="skill">Skill</span> cards.
+- +1 for each player chip drawn for this test
+
+This value is your **test rating**. 
+
+### 6. RESOLVE
 
 <img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
 
-Add the revealed modifiers showing on all chips, the <span class="assist">Assist</span> card (if any), and any played <span class="skill">Skill</span> cards to your skill rating. If the sum is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
+If the test rating is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
 Leave the drawn chips in the center of the play area, adding to any other chips revealed for previous tests.
 
 #### FAILURE
-- Apply the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
-- Unless the <span class="obstacle">Obstacle</span> says it is a “Mandatory Obstacle”, return the <span class="obstacle">Obstacle</span> card to the game box and any <span class="cheese">cheese</span> tokens on it to the central supply.
+- Resolve the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
 - You may **learn** one <span class="skill">Skill</span> card you played, a <span class="skill">Skill</span> card from your hand, or the top <span class="skill">Skill</span> card from the <span class="skill">Skill</span> deck.
 - All non-assisting players may either **learn** a <span class="skill">Skill</span> card in their hand or draw a <span class="skill">Skill</span> card from the deck.
 - Increase your place on the job's contribution track by 1.
 
 #### SUCCESS
 - Move any <span class="cheese">cheese</span> tokens on the <span class="obstacle">Obstacle</span> to your Identity card.
-- Return the <span class="obstacle">Obstacle</span> card to the game box.
 - All assisting players increase their place on the job's contribution track by the number of their player chips they revealed. These increases are resolved one player at a time in clockwise order.
 - Increase your place on the job's contribution track by the <strong>payout</strong> value of the obstacle.
 
-### 6. DRAW
+### 7. ADVANCE OBSTACLE
+If the <span class="obstacle">Obstacle</span> says it is a “Mandatory Obstacle”, then skip this advance step unless the test <strong>succeeded</strong>.
+
+Return the <span class="obstacle">Obstacle</span> card to the game box. Any <span class="cheese">cheese</span> tokens on it are returned to the central supply.
+
+If after advancing there is <span class="obstacle">Obstacle</span> remaining for the job then the job is complete and the game is over (see below).
+
+### 8. DRAW
 You may discard any number of cards from your hand. Then draw <span class="skill">Skill</span> cards from the deck until you have a total of 3 cards in your hand.
 
 At times you may need to draw a card when the deck is empty. When this happens, shuffle the discard pile to form a new face-down deck.
 
-### 7. CLEANUP
-- Return all player chips drawn for this test to their owning player.
-- Add all other chips drawn for this to the center play area (combining with chips drawn from previous tests).
-- Add all chips contributed by assisting players to the center play area as well.
+### 9. CLEANUP
+- Return all player chips drawn as part of this test to their owning player.
+- Move all other chips drawn for this to the center play area (combining with chips drawn from previous tests).
+- Move all chips contributed by assisting players to the center play area as well.
 - Discard the revealed <span class="assist">Assist</span> card (if any).
 - Discard any played <span class="skill">Skill</span> cards (if any).
-- If the <span class="obstacle">Obstacle</span> was discarded then a new one was likely revealed underneath it. If there was no <span class="obstacle">Obstacle</span> underneath, then the job is complete and the game is over (see below).
 - Pass the active job marker to the next player in clockwise order.
 
 # END GAME & SCORING
