@@ -185,6 +185,8 @@ If there is *at least one* assisting player, the testing player reveals the top 
 ### 3. DRAW CHIPS
 Draw 2 chips from the bag and without looking at them place them on the table. 
 
+If a player chip is revealed, treat it as a +1 and draw another chip from the bag.
+
 At times you may need to draw a chip when there are no chips remaining in the bag. When this happens, return all chips from the play area _except the ones already drawn for this test_ to the bag. Then proceed drawing.
 
 ### 4. PLAY SKILL CARDS
@@ -220,9 +222,13 @@ You may discard any number of cards from your hand. Then draw <span class="skill
 At times you may need to draw a card when the deck is empty. When this happens, shuffle the discard pile to form a new face-down deck.
 
 ### 7. CLEANUP
+- Return all player chips drawn for this test to their owning player.
+- Add all other chips drawn for this to the center play area (combining with chips drawn from previous tests).
+- Add all chips contributed by assisting players to the center play area as well.
 - Discard the revealed <span class="assist">Assist</span> card (if any).
 - Discard any played <span class="skill">Skill</span> cards (if any).
 - If the <span class="obstacle">Obstacle</span> was discarded then a new one was likely revealed underneath it. If there was no <span class="obstacle">Obstacle</span> underneath, then the job is complete and the game is over (see below).
+- Pass the active job marker to the next player in clockwise order.
 
 # END GAME & SCORING
 The end game is triggered when one of the jobs has been completed (there are no more <span class="obstacle">Obstacle</span> cards in its stack).
