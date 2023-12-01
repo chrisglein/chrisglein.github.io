@@ -40,10 +40,7 @@ Read the rules
 
 # Links
 - [Rulebook](rules.html)
-- [Pitch Video](https://www.youtube.com/watch?v=Fwlsm3gBUaU)
-
-# Pitch Video
-<iframe class="embeddedVideo" src="https://www.youtube.com/embed/Fwlsm3gBUaU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Pitch Video](https://www.youtube.com/watch?v=Fwlsm3gBUaU) (very dated at this point - not accurate to current rules)
 
 # Gallery
 {% include gallery.html folder="heist/media/images" %}
