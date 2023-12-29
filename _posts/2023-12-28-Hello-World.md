@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World"
+title: "Games of 2023"
 ---
 Testing whether this is configured to do blog posts or not.
 
@@ -22,7 +22,13 @@ It appears it does.
 [![Pentiment](/media/posts/pentiment.jpg)](https://pentiment.obsidian.net/)
 
 ## Diablo IV
-## Valheim
-## Tears of the Kingdom
+[![Diablo IV](/media/posts/diablo-iv.png)](https://diablo4.blizzard.com/en-us/)
+
 ## Chicory
+[![Chicory](/media/posts/chicory.png)](https://chicorygame.com/)
+
 ## Inscryption
+[![Inscryption](/media/posts/inscryption.jpg)](https://www.inscryption.com)
+
+## Tears of the Kingdom
+[![Inscryption](/media/posts/tears-of-the-kingdom.jpg)](https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/)
