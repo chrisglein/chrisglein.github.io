@@ -27,6 +27,15 @@
   }
 }
 
+.playIcon {
+  height: 1em;
+  width: 1em;
+  display: inline-block;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: 0.2em;
+}
+
 .playIcon.switch {
   background-image: url(/media/switch.png);
 }
