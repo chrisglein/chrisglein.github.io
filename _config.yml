@@ -23,8 +23,7 @@ defaults:
       layout: "default"
   -
     scope:
-      path: ""
-      type: "pages"
+      path: "_posts"
     values:
       layout: "post"
       author: "Chris Glein"
