@@ -13,9 +13,10 @@
   margin: 0px;
 }
 
-@media (min-width: 400px) {
-  .image-gallery img {
-    max-width: 180px;
+@media (max-width: 500px) {
+  .image-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
   }
 }
 
