@@ -5,11 +5,11 @@ highlighter:      pygments
 # Setup
 title:            Chris Glein
 tagline:          'Game Design'
-description:      'Game design projects and musings from Chris Glein'
+description:      'Game design projects and musings'
 
 author:
   name:           'Chris Glein'
-  url:            https://twitter.com/mdo
+  url:            https://chrisglein.com
 
 defaults:
   -
