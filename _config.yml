@@ -2,7 +2,7 @@
 title:            Chris Glein
 tagline:          'Game Design'
 description:      'Game design projects and musings'
-baseurl:          ''
+baseurl:          /
 url:              https://chrisglein.com
 paginate:         5
 permalink:        pretty
