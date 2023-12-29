@@ -1,6 +1,6 @@
 ---
 title: Posts
-description: Blog posts
+description: All blog posts
 layout: page
 ---
 
@@ -15,7 +15,11 @@ layout: page
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {{ post.content }}
+    {{ post.excerpt }}
+
+    <a href="{{ post.url | absolute_url }}">
+      More
+    </a>
   </div>
   {% endfor %}
 </div>
