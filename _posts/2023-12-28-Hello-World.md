@@ -7,7 +7,7 @@ Testing whether this is configured to do blog posts or not.
 It appears it does.
 
 ## Sea of Stars
-[![Sea of Stars](/media/sea-of-stars.png)](https://seaofstarsgame.co/)
+[![Sea of Stars](/media/posts/sea-of-stars.png)](https://seaofstarsgame.co/)
 
 ## Cult of the Lamb
 [![Cult of the Lamb](/media/posts/cult-of-the-lamb.png)](https://www.cultofthelamb.com/)
