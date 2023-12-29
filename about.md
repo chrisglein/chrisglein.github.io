@@ -3,15 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  This is a work in progress!
-</p>
+Chris Glein is a Seattle area [game designer](https://boardgamegeek.com/boardgamedesigner/120507/chris-glein) and [artist](https://boardgamegeek.com/boardgameartist/120507/chris-glein). You can find him monthly with the Seattle Tabletop Game Designers at [Blue Highway Games](https://www.bluehighwaygames.com/events/events-schedule/)'s industry meet up, playing and creating all sorts of game prototypes. He is endlessly looking for new and interesting ways to pair theme and mechanics so that he has an excuse to draw more pictures and put them on cards.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes.
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+This website is a collection of in-progress and published game design projects, as well as a blog for whatever other topics seem relevant.
