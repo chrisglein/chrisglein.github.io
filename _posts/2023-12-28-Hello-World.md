@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-date: 2023-12-28 04:37:00 -0000
-categories: TESTING first
+categories: TESTING first 2023
 ---
 Testing whether this is configured to do blog posts or not.
 
@@ -17,7 +16,12 @@ It appears it does.
 [Website](https://www.cultofthelamb.com/)
 
 ## Super Mario Wonder
+[![Super Mario Wonder](./media/posts/super-mario-wonder.png)](https://supermariobroswonder.nintendo.com)
+[Website](https://supermariobroswonder.nintendo.com/)
+
 ## Cocoon
+[![Cocoon](./media/posts/cocoon.jpg)](https://annapurnainteractive.com/en/games/cocoon)
+
 ## Pentiment
 ## Diablo IV
 ## Valheim
