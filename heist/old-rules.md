@@ -1,7 +1,6 @@
 ---
-title: HEIST
+title: Heist
 description: Rulebook
-layout: default
 categories: rules
 ---
 <style type="text/css" rel="stylesheet">

@@ -1,7 +1,6 @@
 ---
-title: PIXEL PUSHER
+title: Pixel Pusher
 description: Build a machine to make pixel art
-layout: default
 categories: design
 thumbsurl: media/thumbnails
 ---

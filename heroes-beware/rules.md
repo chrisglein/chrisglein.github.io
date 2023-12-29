@@ -1,7 +1,6 @@
 ---
-title: HEROES BEWARE!
+title: Heroes Beware!
 description: Rulebook
-layout: default
 categories: rules
 ---
 <style type="text/css" rel="stylesheet">

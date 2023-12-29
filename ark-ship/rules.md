@@ -1,7 +1,6 @@
 ---
-title: ARK SHIP
+title: Ark Ship
 description: Rulebook
-layout: default
 categories: rules
 ---
 # Components

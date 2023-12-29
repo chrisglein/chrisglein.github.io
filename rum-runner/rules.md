@@ -1,5 +1,5 @@
 ---
-title: RUM RUNNER
+title: Rum Runner
 description: Rulebook
 layout: default
 categories: rules

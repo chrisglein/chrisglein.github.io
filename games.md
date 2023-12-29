@@ -1,13 +1,13 @@
 ---
-title: Games
-description: List of game projects
+title: Game Design
+description: My game design projects
 layout: page
 thumbsurl: media/thumbnails
 ---
-## Released
+## Published
 - [Studies in Sorcery](studies-in-sorcery/index.html)
 
-## In Development
+## In Development with a Publisher
 - [Mice Heist](heist/index.html)
 - [Rum Runner](rum-runner/index.html)
 

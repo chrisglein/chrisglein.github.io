@@ -1,7 +1,6 @@
 ---
-title: UNDISCOVERED
+title: Undiscovered
 description: Rulebook
-layout: default
 categories: rules
 ---
 <style type="text/css" rel="stylesheet">

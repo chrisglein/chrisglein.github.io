@@ -1,7 +1,6 @@
 ---
-title: DRAGON FAMILY
+title: Dragon Family
 description: Rulebook
-layout: default
 categories: rules
 ---
 # SUMMARY

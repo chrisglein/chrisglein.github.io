@@ -1,7 +1,6 @@
 ---
-title: DRAGON FAMILY
+title: Dragon Family
 description: Map making, Area control, Meal planning
-layout: default
 categories: design
 thumbsurl: media/thumbnails
 ---

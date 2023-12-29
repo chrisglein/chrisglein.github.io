@@ -1,7 +1,6 @@
 ---
-title: FRIDGE FEAST
+title: Fridge Feast
 description: Rulebook
-layout: default
 categories: rules
 ---
 You and your friends have all gathered to cook a tremendous feast! But you all need to work from the contents of the same refridgerator… and some of the food inside has started to look questionable. Be creative and get as many dishes to the table as you can!

@@ -1,7 +1,6 @@
 ---
-title: MICE HEIST
+title: Mice Heist
 description: Rulebook
-layout: default
 categories: rules
 ---
 <style type="text/css" rel="stylesheet">

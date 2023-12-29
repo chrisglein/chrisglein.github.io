@@ -1,7 +1,6 @@
 ---
-title: SLITHER
+title: Slither
 description: Rulebook
-layout: default
 categories: rules
 ---
 A colony of frogs has built up a thriving community on the edge of the swamp. But everything could fall apart because their primary predator, a giant snake, is out to eat every last one of them. The frogs together could all drive off that snake… if only they could find the sneaky thing!

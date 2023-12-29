@@ -1,7 +1,6 @@
 ---
-title: HEROES BEWARE!
+title: Heroes Beware!
 description: Simultaneous dungeon building
-layout: default
 categories: design
 thumbsurl: media/thumbnails
 ---

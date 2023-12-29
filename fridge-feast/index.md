@@ -1,7 +1,6 @@
 ---
-title: FRIDGE FEAST
+title: Fridge Feast
 description: Draft spoiling food. Cook creatively.
-layout: default
 categories: design
 thumbsurl: media/thumbnails
 ---
