@@ -4,24 +4,24 @@ description: List of game projects
 layout: page
 thumbsurl: media/thumbnails
 ---
-# Released
+## Released
 - [Studies in Sorcery](studies-in-sorcery/index.html)
 
-# In Development
-- [Undiscovered](undiscovered/index.html)
-
-# Ready to Pitch
-- [Dragon Family](dragon-family/index.html)
-- [Heroes Beware!](heroes-beware/index.html)
+## In Development
+- [Mice Heist](heist/index.html)
 - [Rum Runner](rum-runner/index.html)
 
-# Prototypes
+## Ready to Pitch
+- [Dragon Family](dragon-family/index.html)
+- [Heroes Beware!](heroes-beware/index.html)
+- [Undiscovered](undiscovered/index.html)
+
+## Prototypes
 - [Ark Ship](ark-ship/index.html)
 - [Deeper](deeper/index.html)
 - [Fridge Feast](fridge-feast/index.html)
-- [Mice Heist](heist/index.html)
 - [Pixel Pusher](pixel-pusher/index.html)
 - [Slither](slither/index.html)
 
-# Gallery
+## Gallery
 {% include gallery.html folder="portfolio/static/media" %}
