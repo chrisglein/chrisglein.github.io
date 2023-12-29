@@ -17,6 +17,17 @@ title: CHRIS GLEIN
   {% endfor %}
 </ul>
 
+## Posts with Excerpts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 ## Source
 - [source for site](https://github.com/chrisglein/chrisglein.github.io)
 - [react-native-github-dashboard](https://github.com/chrisglein/react-native-github-dashboard)
