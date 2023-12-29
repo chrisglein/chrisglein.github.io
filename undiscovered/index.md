@@ -1,7 +1,6 @@
 ---
-title: UNDISCOVERED
+title: Undiscovered
 description: Space Exploration. Deck building. Ship building
-layout: default
 categories: design
 thumbsurl: media/thumbnails
 ---
