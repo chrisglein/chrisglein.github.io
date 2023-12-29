@@ -1,9 +1,14 @@
 .sidebar h1 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 .image-gallery {
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 1em;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 1em;
+}
+
+.page-description {
+  font-size: 1.25rem;
+  font-weight: 300;
 }
