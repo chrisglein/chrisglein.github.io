@@ -40,6 +40,9 @@
   margin-right: 0.2em;
 }
 
+.playIcon.ios {
+  background-image: url(/media/ios.png);
+}
 .playIcon.switch {
   background-image: url(/media/switch.png);
 }
