@@ -1,6 +1,7 @@
 ---
-title: GAMES
+title: Games
 description: List of game projects
+layout: page
 thumbsurl: media/thumbnails
 ---
 # Released

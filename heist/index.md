@@ -1,6 +1,8 @@
 ---
 title: MICE HEIST
 description: Compete among a gang of rodent thieves to pull off a big job and feed your whole colony.
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

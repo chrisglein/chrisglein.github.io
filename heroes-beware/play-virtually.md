@@ -1,6 +1,8 @@
 ---
 title: Play Virtually
 description: Learn how to best play Heroes Beware! using digital tools
+layout: default
+categories: tts
 ---
 <style type="text/css" rel="stylesheet">
 </style>

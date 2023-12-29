@@ -1,6 +1,8 @@
 ---
 title: PIXEL PUSHER
 description: Build a machine to make pixel art
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

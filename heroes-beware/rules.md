@@ -1,6 +1,8 @@
 ---
 title: HEROES BEWARE!
 description: Rulebook
+layout: default
+categories: rules
 ---
 <style type="text/css" rel="stylesheet">
 .goldToken, .guardToken, .trapToken, .gemToken, .prisonerToken {

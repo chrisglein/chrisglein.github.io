@@ -1,6 +1,8 @@
 ---
 title: RUM RUNNER
 description: Learn to Play
+layout: default
+categories: learn-to-play
 ---
 This is a succinct version of the rules you need to play _Rum Runner_. If you are seeking clarifications or more examples, try the [rules reference](rules.html).
 

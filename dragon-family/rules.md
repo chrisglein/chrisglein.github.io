@@ -1,6 +1,8 @@
 ---
 title: DRAGON FAMILY
 description: Rulebook
+layout: default
+categories: rules
 ---
 # SUMMARY
 Your goal is to populate the world with your brood of dragons. You will do this by exploring the world, hatching eggs, gathering your hatchling’s favorite foods to help them grow, and finally finding them a lair to call their own.

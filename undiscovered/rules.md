@@ -1,6 +1,8 @@
 ---
 title: UNDISCOVERED
 description: Rulebook
+layout: default
+categories: rules
 ---
 <style type="text/css" rel="stylesheet">
 img.smallCard {

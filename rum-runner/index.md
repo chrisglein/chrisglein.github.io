@@ -1,6 +1,8 @@
 ---
 title: RUM RUNNER
 description: Pirates and the Crown compete over rum in an asymmetric card game
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

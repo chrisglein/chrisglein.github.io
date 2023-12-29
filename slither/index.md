@@ -1,6 +1,8 @@
 ---
 title: SLITHER
 description: Hidden movement. Mice team up against a snake.
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

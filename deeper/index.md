@@ -1,6 +1,8 @@
 ---
 title: DEEPER
 description: Explore the ocean's depths. Craft your escape.
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

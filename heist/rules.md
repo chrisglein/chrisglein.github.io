@@ -1,6 +1,8 @@
 ---
 title: MICE HEIST
 description: Rulebook
+layout: default
+categories: rules
 ---
 <style type="text/css" rel="stylesheet">
 table.components {

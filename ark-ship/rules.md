@@ -1,6 +1,8 @@
 ---
 title: ARK SHIP
 description: Rulebook
+layout: default
+categories: rules
 ---
 # Components
 - 12 6-sided dice (d6)

@@ -1,6 +1,8 @@
 ---
 title: UNDISCOVERED
 description: Space Exploration. Deck building. Ship building
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

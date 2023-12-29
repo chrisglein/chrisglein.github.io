@@ -1,6 +1,8 @@
 ---
 title: PIXEL PUSHER
 description: Rulebook
+layout: default
+categories: rules
 ---
 Build a machine to collect colors and combine them to make tiny pixel art masterpieces.
 

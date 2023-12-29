@@ -1,33 +1,37 @@
 ---
-title: CHRIS GLEIN
+title: Home
+layout: default
 ---
 
-## Sections
-- [List of game projects](https://chrisglein.github.io/games)
-- [Rum Runner](https://chrisglein.github.io/rum-runner)
-- [GitHub Dashboard tool](https://chrisglein.github.io/github-dashboard)
-- [This index](https://chrisglein.github.io/)
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-## Posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
   {% endfor %}
-</ul>
+</div>
 
-## Posts with Excerpts
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-## Source
-- [source for site](https://github.com/chrisglein/chrisglein.github.io)
-- [react-native-github-dashboard](https://github.com/chrisglein/react-native-github-dashboard)
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

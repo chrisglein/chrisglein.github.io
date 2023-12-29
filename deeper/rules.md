@@ -1,6 +1,8 @@
 ---
 title: DEEPER
 description: Rulebook
+layout: default
+categories: rules
 ---
 # Setup
 

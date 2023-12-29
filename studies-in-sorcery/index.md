@@ -1,6 +1,8 @@
 ---
 title: STUDIES IN SORCERY
 description: Scavenge the local cemetery so that you can reanimate skeletons, brew potions, perform rituals, and finally graduate from the Academy of the Dark Arts.
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 # Links

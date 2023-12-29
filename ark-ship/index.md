@@ -1,6 +1,8 @@
 ---
 title: ARK SHIP
 description: Multi-generational crew save the human race's new planet
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">

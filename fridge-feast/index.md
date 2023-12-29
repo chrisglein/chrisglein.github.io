@@ -1,6 +1,8 @@
 ---
 title: FRIDGE FEAST
 description: Draft spoiling food. Cook creatively.
+layout: default
+categories: design
 thumbsurl: media/thumbnails
 ---
 <style type="text/css" rel="stylesheet">
