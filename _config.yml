@@ -1,17 +1,20 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
 # Setup
 title:            Chris Glein
 tagline:          'Game Design'
 description:      'Game design projects and musings'
-baseurl:          /
+baseurl:          ''
 url:              https://chrisglein.com
+paginate:         5
+permalink:        pretty
 
+# About/contact
 author:
   name:           'Chris Glein'
   url:            https://chrisglein.com
+
+# Gems
+plugins:
+  - jekyll-paginate
 
 defaults:
   -
