@@ -1,7 +1,7 @@
 ---
 title: Posts
 description: Blog posts
-layout: default
+layout: page
 ---
 
 <div class="posts">
