@@ -7,8 +7,3 @@
   flex-wrap: wrap;
   column-gap: 1em;
 }
-
-#page-description {
-  font-size: 1.25rem;
-  font-weight: 300;
-}
