@@ -5,7 +5,6 @@ description:      'Game design projects and musings'
 baseurl:          /
 url:              https://chrisglein.com
 paginate:         5
-permalink:        pretty
 
 # About/contact
 author:
