@@ -6,7 +6,6 @@ highlighter:      pygments
 title:            Chris Glein
 tagline:          'Game Design'
 description:      'Game design projects and musings'
-url:              http://chrisglein.com
 baseurl:          /
 
 author:
