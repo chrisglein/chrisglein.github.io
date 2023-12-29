@@ -1,3 +1,9 @@
 .sidebar h1 {
     font-weight: normal;
 }
+
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1em;
+}
