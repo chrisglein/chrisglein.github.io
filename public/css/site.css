@@ -26,3 +26,10 @@
     grid-template-columns: 1fr 1fr;
   }
 }
+
+.playIcon.switch {
+  background-image: url(/media/switch.png);
+}
+.playIcon.xbox {
+  background-image: url(/media/xbox.png);
+}
