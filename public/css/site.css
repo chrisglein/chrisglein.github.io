@@ -31,6 +31,10 @@
   width: 100%;
 }
 
+.playLine {
+  font-size: smaller;
+}
+
 .playIcon {
   height: 1em;
   width: 1em;
@@ -40,12 +44,15 @@
   margin-right: 0.2em;
 }
 
+.playLine .ios,
 .playIcon.ios {
   background-image: url(/media/ios.png);
 }
+.playLine .switch,
 .playIcon.switch {
   background-image: url(/media/switch.png);
 }
+.playLine .xbox,
 .playIcon.xbox {
   background-image: url(/media/xbox.png);
 }
