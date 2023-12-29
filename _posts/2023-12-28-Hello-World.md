@@ -2,12 +2,11 @@
 layout: post
 title: "Games of 2023"
 ---
-Testing whether this is configured to do blog posts or not.
-
-It appears it does.
+This is a list of video games I played in 2023 (potentially released earlier) that warranted a mention. 
 
 ## Sea of Stars
 [![Sea of Stars](/media/posts/sea-of-stars.png)](https://seaofstarsgame.co/)
+This is a classic RPG that feels like it came out of the SNES era, but far more beautiful than those games could ever be. The story managed to keep me on my toes with some unexpected mid-game twists. The turn-based combat with real-time button presses (similar to Paper Mario games) kept things engaging (although by the end I was ready for more mix up in abilities). This game thoroughly captivated me and my ten-year-old daughter until we both separately completed it. Definitely recommended if you have a soft spot for beautiful pixel art RPGs. Good music too.
 
 ## Cult of the Lamb
 [![Cult of the Lamb](/media/posts/cult-of-the-lamb.png)](https://www.cultofthelamb.com/)
