@@ -73,3 +73,7 @@
 .playIcon.disney {
   background-image: url(/media/disney.png);
 }
+.playLine .bgg,
+.playIcon.bgg {
+  background-image: url(/media/bgg.png);
+}
