@@ -57,3 +57,19 @@
 .playIcon.xbox {
   background-image: url(/media/xbox.png);
 }
+.playLine .hbo,
+.playIcon.hbo {
+  background-image: url(/media/hbo.png);
+}
+.playLine .netflix,
+.playIcon.netflix {
+  background-image: url(/media/netflix.png);
+}
+.playLine .amazon,
+.playIcon.amazon {
+  background-image: url(/media/amazon.png);
+}
+.playLine .disney,
+.playIcon.disney {
+  background-image: url(/media/disney.png);
+}
