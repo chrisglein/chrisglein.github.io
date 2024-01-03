@@ -77,3 +77,11 @@
 .playIcon.bgg {
   background-image: url(/media/bgg.png);
 }
+.playLine .audible,
+.playIcon.audible {
+  background-image: url(/media/audible.png);
+}
+.playLine .goodreads,
+.playIcon.goodreads {
+  background-image: url(/media/goodreads.png);
+}
