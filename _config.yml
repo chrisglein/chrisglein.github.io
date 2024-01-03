@@ -1,7 +1,7 @@
 # Setup
 title:            Chris Glein
-tagline:          'Game Design'
-description:      'Game design projects and musings'
+tagline:          'Game Design and Life'
+description:      'Game design, and musings on life in general'
 baseurl:          /
 url:              https://chrisglein.com
 paginate:         5
