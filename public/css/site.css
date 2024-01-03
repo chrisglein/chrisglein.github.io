@@ -31,6 +31,12 @@
   width: 100%;
 }
 
+.post img.book {
+  width: 33%;
+  float: left;
+  margin: 1em;
+}
+
 .playLine {
   font-size: smaller;
   margin-bottom: 2rem;
