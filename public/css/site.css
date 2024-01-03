@@ -34,7 +34,7 @@
 .post img.book {
   width: 33%;
   float: left;
-  margin: 1em;
+  margin: 0.25em 1em 0.75em 0;
 }
 
 @media (max-width: 500px) {
