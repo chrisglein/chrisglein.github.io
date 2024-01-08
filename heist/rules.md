@@ -57,15 +57,13 @@ Modifier chips
 
 
 <table class="components">
-<tr><td><img class="card" alt="assist card" src="new-rulebook/assist.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td><img class="chip" alt="player chip" src="rulebook/YellowPlus1.png"/><br><mark>Image needed</mark></td></tr>
-<tr><td>42 assist cards</td><td>37 skill cards</td><td>12 player chips<br>(2 for each player)</td></tr>
+<tr><td><img alt="jobMarker" src="new-rulebook/activeJob.png"/></td><td><img class="card" alt="skill card" src="new-rulebook/trick.png"/></td><td><img class="chip" alt="player chip" src="rulebook/YellowPlus1.png"/><br><mark>Image needed</mark></td></tr>
+<tr><td>Active job marker</td><td>37 skill cards</td><td>12 player chips<br>(2 for each player)</td></tr>
 </table>
 
 <table class="components">
-<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="cheese token" src="new-rulebook/cheeseToken.png"/></td><td></td></tr>
-<tr><td>12 food tokens<br>(4 each in values 12, 6, and 3)</td><td>40 cheese tokens</td><td></td></tr>
-<tr><td><img alt="bag" src="new-rulebook/bag.png"/></td><td><img alt="jobMarker" src="new-rulebook/activeJob.png"/></td><td></td></tr>
-<tr><td>1 opaque bag</td><td>Active job marker</td><td></td></tr>
+<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="cheese token" src="new-rulebook/cheeseToken.png"/></td><td><img alt="bag" src="new-rulebook/bag.png"/></td></tr>
+<tr><td>12 food tokens<br>(4 each in values 12, 6, and 3)</td><td>40 cheese tokens</td><td>1 opaque bag</td></tr>
 </table>
 
 
@@ -95,9 +93,9 @@ Modifier chips
 1. Place each <span class="job">Job</span>'s matching <span class="obstacle">Obstacle</span> cards (e.g. set A1-A5 for job A) face-up on top of  their corresponding <span class="job">Job</span> card in numeric order so that the lowest number is on top (e.g. for job A obtacle A1 will be on top and A5 will be on the bottom). Return all other unused <span class="obstacle">Obstacle</span> to the game box.
 1. For each job select a 12 point, 6 point, and 3 point food item and place it above the track.
 
-### Resource decks
-1. Shuffle the <span class="skill">Skill</span> cards and <span class="assist">Assist</span> cards separately to form 2 face-down resource decks. Leave room next to each for a face-up discard pile.
-1. Deal each player 3 cards from the <span class="skill">Skill</span> deck, forming their starting hand.
+### Skill deck
+1. Shuffle the <span class="skill">Skill</span> cards to form a face-down deck. Leave room next to it for a face-up discard pile.
+1. Deal each player 4 cards from the deck, forming their starting hand.
 
 ### The rest
 1. Put the <span class="cheese">cheese</span> tokens in a central supply.
@@ -117,7 +115,7 @@ To increase your place on the contribution track, take your player-colored contr
 
 To decrease your place on the contribution track, move backwards as above. However if you would land on an occupied space you instead move to the next available space _moving backwards_. If there are no previously available spaces then remove your marker from the track entirely.
 
-If you need to increase your place on the contribution track but are already in its final space, instead take one <span class="cheese">cheese</span> token from the supply. 
+If you need to increase your place on the contribution track but are already in its last available space, instead take one <span class="cheese">cheese</span> token from the supply. 
 
 ## Skills
 There are 3 skills that will be tested when overcoming obstacles:
@@ -140,18 +138,19 @@ When learning from a <span class="skill">Skill</span> card, increase the rating 
 # YOUR TURN
 Players each take a turn in clockwise order. On a player's turn they are considered the **testing player**. Any reference to "you" is to the testing player.
 
-## SELECT AN OBSTACLE
-On your turn choose an <span class="obstacle">Obstacle</span> and place the active job marker on that <span class="obstacle">Obstacle</span> card. 
+On your turn you will be resolve a test against an <span class="obstacle">Obstacle</span>. 
 
 <img class="card" alt="obstacle card" style="float: right; max-width: 300px" src="new-rulebook/obstacle.png"/>
 
 Each <span class="obstacle">Obstacle</span> will have the following elements:
-- A <strong>test</strong>, with one or more required skills and a target number
-- Failure effect (for mandatory obstacles only)
+- A <strong>target rating</strong>, with one or more associated skills
+- A failure effect (only some will have one)
 - Payout (bottom right)
 - Associated Job (top right)
 
 Resolving a test is done with the following steps:
+
+0. Select Obstacle
 1. Announce Skill Rating
 2. Get Help
 3. Draw Chips
@@ -162,34 +161,39 @@ Resolving a test is done with the following steps:
 8. Draw
 9. Cleanup
 
+### 0. SELECT OBSTACLE
+
+Choose an <span class="obstacle">Obstacle</span> and place the active job marker on that <span class="obstacle">Obstacle</span> card. 
+
+Add a <span class="cheese">cheese</span> token to every <span class="obstacle">Obstacle</span> other than the chosen one.
+
+
 ### 1. ANNOUNCE SKILL RATING
-An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a rating, as explained above.
+An <span class="obstacle">Obstacle</span> will test one or more of your skills. Each of your skills has a rating, as explained above. The <span class="obstacle">Obstacle</span> has a target rating, the number on its card that you hope to meet or exceed.
 
-If an <span class="obstacle">Obstacle</span> lists multiple skills, add the score of all the skill ratings indicated.
+If an <span class="obstacle">Obstacle</span> lists multiple skills, add the value of all those skill ratings together.
 
-Some tests will provide an "or" choice between multiple skills. Before proceeding, choose one of these to use as the target for the test.
+Some tests will provide an "or" choice between multiple skills. Before proceeding, choose one of these to use as the rating for the test.
 
 <mark>TODO: Add visual aid for different test types</mark>
 
-The testing player anounces their current skill rating and the target number to all players.
+At this point, anounce both your skill rating and the target rating.
+
+> Example: "I'm testing my skill rating of 2 versus the target of 3"
 
 ### 2. GET HELP
-Each non-testing player has an opportunity to bet on the outcome of the testing player's upcoming test. They must choose to either **Assist** or **Abstain**. Each non-testing player will hold zero or more of their player chips in a closed fist. The testing player will call on players to reveal what's in thier hands simultaneously.
+Each non-testing player has an opportunity to bet on the outcome of the testing player's upcoming test. They must choose to either **assist** or **abstain**. Each non-testing player will hold zero or more of their player chips in a closed fist. Once everyone has chosen, the testing player will call on everyone to reveal what's in thier hands simultaneously.
 
 Any player who reveals one or more player chips is considered to be an **assisting player**. The revealed player chips are left in front of the assisting players until the test is resolved.
 
-If the <span class="assist">Assist</span> deck is empty, shuffle the <span class="assist">Assist</span> discard pile into a face-down deck.
-
-If there is *at least one* assisting player, the testing player reveals the top card of the <span class="assist">Assist</span> deck.
-
-<img class="card" alt="assist card" style="max-width: 150px" src="new-rulebook/assist.png"/>
-
-<span class="assist">Assist</span> cards may modify the test result with a number modifier (indicated in a circle). They may also have other effects. These effects are all resolved now, _prior_ to drawing chips for the test. The text is read from the perspective of the testing player. Any choices the testing player must make must be made now. After resolving the effects, leave the <span class="assist">Assist</span> card in front of the testing player until the test is resolved.
+Any player who reveals no player chips is considered to be an **abstaining player**.
 
 ### 3. DRAW CHIPS
-The testing player draws 2 chips from the bag and without looking at them places them on the table. 
+You now draw 2 chips from the bag without looking, at place them on the table.
 
-If a player chip is revealed, leave it there and draw another chip from the bag.
+The chips have mismatched sides. Do not look and choose the sides of the chips as you draw them. Leave them randomly assigned as they come out of the bag.
+
+Whenever a player chip is revealed, leave it on the table and draw another chip from the bag.
 
 At times you may need to draw a chip when there are no chips remaining in the bag. When this happens, return all chips from the play area _except the ones already drawn for this test_ to the bag. Then proceed drawing.
 
@@ -204,9 +208,9 @@ At this time you (and only you) may play any number of <span class="skill">Skill
 Add the following together:
 - Your skill rating for all skills involved in the test
 - The modifiers on all chips drawn for this test
-- The modifier on the <span class="assist">Assist</span> card (if any)
-- The modifiers on any played <span class="skill">Skill</span> cards.
 - +1 for each player chip drawn for this test
+- +1 for each player chip declared as an assist for this test
+- The modifiers on any played <span class="skill">Skill</span> cards.
 
 This value is your **test rating**. 
 
@@ -214,14 +218,14 @@ This value is your **test rating**.
 
 <img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
 
-If the test rating is less than the target number for that skill you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
+If the test rating is less than the target rating  you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
-Leave the drawn chips in the center of the play area, adding to any other chips revealed for previous tests.
+Leave the drawn chips in the center of the play area, adding to any other chips drawn for previous tests.
 
 #### FAILURE
 - Resolve the "failure" effect of the <span class="obstacle">Obstacle</span> (if any).
 - You may **learn** one <span class="skill">Skill</span> card you played, a <span class="skill">Skill</span> card from your hand, or the top <span class="skill">Skill</span> card from the <span class="skill">Skill</span> deck.
-- All non-assisting players may either **learn** a <span class="skill">Skill</span> card in their hand or draw a <span class="skill">Skill</span> card from the deck.
+- All abstaining (non-assisting) players may either **learn** a <span class="skill">Skill</span> card in their hand or draw a <span class="skill">Skill</span> card from the deck.
 - Increase your place on the job's contribution track by 1.
 
 #### SUCCESS
@@ -234,10 +238,10 @@ If the <span class="obstacle">Obstacle</span> says it is a “Mandatory Obstacle
 
 Return the <span class="obstacle">Obstacle</span> card to the game box. Any <span class="cheese">cheese</span> tokens on it are returned to the central supply.
 
-If after advancing there is <span class="obstacle">Obstacle</span> remaining for the job then the job is complete and the game is over (see below).
+If after advancing there is no <span class="obstacle">Obstacle</span> remaining for the job then the job is complete and the game is over (see below).
 
 ### 8. DRAW
-You may discard any number of cards from your hand. Then draw <span class="skill">Skill</span> cards from the deck until you have a total of 3 cards in your hand.
+You may discard any number of cards from your hand. Then draw <span class="skill">Skill</span> cards from the deck until you have a total of 4 cards in your hand.
 
 At times you may need to draw a card when the deck is empty. When this happens, shuffle the discard pile to form a new face-down deck.
 
@@ -245,7 +249,6 @@ At times you may need to draw a card when the deck is empty. When this happens, 
 - Return all player chips drawn as part of this test to their owning player.
 - Move all other chips drawn for this to the center play area (combining with chips drawn from previous tests).
 - Move all chips contributed by assisting players to the center play area as well.
-- Discard the revealed <span class="assist">Assist</span> card (if any).
 - Discard any played <span class="skill">Skill</span> cards (if any).
 - Pass the active job marker to the next player in clockwise order.
 
@@ -256,4 +259,4 @@ The end game is triggered when one of the jobs has been completed (there are no 
 For each job, players claim food tokens according to their place on the contribution track. The player in 1st place on the track gets first choice, the 2nd place will choose next, and so on. If all food tokens have been claimed for that job, that player will claim a single <span class="cheese">cheese</span> token instead.
 
 ## Most cheese wins
-Each player adds the value of their food tokens to the number of <span class="cheese">cheese</span> tokens they may have accumulated over the course of the game. The player with the largest total is the winner. If there is a tie the player with the highest sum of skill ratings is the winner. If there’s still a tie the players share the victory.
+Each player adds the value of their food tokens to the number of <span class="cheese">cheese</span> tokens they have accumulated over the course of the game. The player with the largest total is the winner. If there is a tie the player with the highest sum of skill ratings is the winner. If there’s still a tie the players share the victory.
