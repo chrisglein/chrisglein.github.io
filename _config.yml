@@ -5,6 +5,7 @@ description:      'Game design, and musings on life in general'
 baseurl:          /
 url:              https://chrisglein.com
 paginate:         5
+google_analytics_id: G-G00GHWLPKL
 
 # About/contact
 author:
