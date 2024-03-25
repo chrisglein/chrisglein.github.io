@@ -31,10 +31,10 @@ table.components {
 }
 
 .pokerLandscape {
-  height: 2.5in;
+  aspect-ratio: 1.4;
 }
 .smallPortrait {
-  height: 3in;
+  aspect-ratio: 0.66;
 }
 </style>
 
@@ -51,10 +51,10 @@ Modifier chips
 </table>
 
 <table class="components">
-<tr><td><img class="card" alt="identity card" src="new-rulebook/contributionTrack.png"/></td><td><img class="card pokerLandscape" alt="rules reminder card" src="new-rulebook/rulesCard.png"/></td></tr>
-<tr><td>4 contribution tracks</td><td>4 rules reminder cards</td></tr>
-<tr><td><img class="card smallPortrait" alt="skill card" src="new-rulebook/trick.png"/></td><td><img class="card pokerLandscape" alt="obstacle card" src="new-rulebook/obstacle.png"/></td></tr>
-<tr><td>37 upgrade skill cards</td><td>20 obstacle cards<br>(5 per job)</td></tr>
+<tr><td colspan="3"><img class="card" alt="identity card" src="new-rulebook/contributionTrack.png"/></td><td colspan="1"><img class="card smallPortrait" alt="skill card" src="new-rulebook/trick.png"/></td></tr>
+<tr><td colspan="3">4 contribution tracks</td><td colspan="1">37 upgrade skill cards</td></tr>
+<tr><td colspan="2"><img class="card pokerLandscape" alt="obstacle card" src="new-rulebook/obstacle.png"/></td><td colspan="2"><img class="card pokerLandscape" alt="rules reminder card" src="new-rulebook/rulesCard.png"/></td></tr>
+<tr><td colspan="2">20 obstacle cards<br>(5 per job)</td><td colspan="2">4 rules reminder cards</td></tr>
 </table>
 
 <table class="components">
@@ -175,7 +175,7 @@ At times you may need to draw a chip when there are no chips remaining in the ba
 
 At this time you may activate any number of <span class="skill">skills</span> one at a time to modify the chip results. These could involve flipping chips (to change which modifier value is showing), drawing additional chips, adding numeric modifiers, or any number of effects.
 
-To activate a <span class="skill">skill</span>, it must available (uncovered). Pay a <span class="cheese">cheese</span> from your personal stash onto the skill card, covering it. Then resolve its effect.
+To activate a <span class="skill">skill</span>, it must available (uncovered). Pay a <span class="cheese">cheese</span> from your personal stash onto the <span class="skill">skill</span> card, covering it. Then resolve its effect.
 
 Note that some <span class="skill">skills</span> will indicate that they only have an effect when activated for <span class="obstacle">obstacles</span> that have a matching skill icon.
 
@@ -197,13 +197,13 @@ Leave the drawn chips in the center of the play area, alongside any other chips 
 
 #### FAILURE
 - Each assisting player takes one <span class="cheese">cheese</span> from the supply.
-- You may learn one <span class="skill">skill</span> card from market.
+- You may learn one <span class="skill">skill</span> from market.
 - Increase your place on the job's contribution track by 1.
 
 #### SUCCESS
 - Take any <span class="cheese">cheese</span> on the <span class="obstacle">obstacle</span> into your stash.
 - All assisting players increase their place on the job's contribution track by the number of <span class="cheese">cheese</span> they bet. These increases are resolved one player at a time in clockwise order.
-- Increase your place on the job's contribution track by the <strong>payout</strong> value of the obstacle.
+- Increase your place on the job's contribution track by the <strong>payout</strong> value of the <span class="obstacle">obstacle</span>.
 
 ### 7. ADVANCE OBSTACLE
 If the <span class="obstacle">obstacle</span> is a "Finale Obstacle”:
