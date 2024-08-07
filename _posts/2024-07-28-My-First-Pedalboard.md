@@ -2,6 +2,13 @@
 layout: post
 title: "Journey to My First Pedalboard"
 ---
+<style type="text/css" rel="stylesheet">
+iframe.video {
+  width: 100%;
+  aspect-ratio: 1.77777;
+}
+</style>
+
 ![My first pedalboard](/media/posts/pedalboard-journey-header.png)
 My first electric guitar was a hand-me-down from my uncle, given a few years after I started playing guitar in elementary school. It was the era of grunge, and much of the music I was listening to was filled to the brim with distortion. A stark contrast with my modest electric setup. And yet, when I assembled my own money to buy my first ever guitar pedal… I hipstered myself. I could have bought a distortion pedal like the Boss DS-1, used prominently by Nirvana and so many others. Or a Big Muff Pi fuzz pedal, used heavily by the Smashing Pumpkins. Or I even could have bought a delay pedal to do my best impression of U2's The Edge. But no… I decided at the last minute to get something quirky and "unique": an octave pedal, the [DOD Octoplus](
 https://reverb.com/marketplace?query=DOD%20Octoplus%20FX35). It was immediately clear I had made a mistake. An octave pedal can have its uses, but as a first and only pedal? A dismal choice. And I had no money for a second pedal.
@@ -25,7 +32,7 @@ After over a year of being in the new house, with the financial pressure reduced
 
 Enter the pedalboard.
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/iv-eE88eDD8?si=SQnsErvUFBRuFt6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/iv-eE88eDD8?si=SQnsErvUFBRuFt6P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I was aware of the concept of a pedalboard, but having no experience I turned to YouTube. I sampled a few tutorial videos, but the one that got me there was this one from [JHS](https://www.youtube.com/@jhspedals). Not only did it walk me through everything I needed to build my pedalboard, but it also sent me down a rabbit hole of an incredibly entertaining and well-produced channel all about pedals. It was not a cheap discovery.
 

@@ -75,6 +75,11 @@ table.splitTable td.splitColumn {
   border: none;
 }
 
+iframe.video {
+  width: 720;
+  height: 405;
+}
+
 @media (max-width: 480px) {
   td {
     padding: 5px;
@@ -90,6 +95,11 @@ table.splitTable td.splitColumn {
     max-width: unset;
     width: 100%;
     object-fit: contain;
+  }
+
+  iframe.video {
+    width: 100%;
+    aspect-ratio: 1.77777;
   }
 }
 
