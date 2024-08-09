@@ -5,7 +5,7 @@ tags: guitar
 ---
 <style type="text/css" rel="stylesheet">
 img.left, img.right {
-  width: fit-content;
+  width: min-content;
   object-fit: contain;
 }
 
