@@ -4,17 +4,20 @@ title: "Pedalboard Version 2"
 tags: guitar
 ---
 <style type="text/css" rel="stylesheet">
+img.left, img.right {
+  width: fit-content;
+  object-fit: contain;
+}
+
 img.left {
   height: 12em;
   float: left;
-  width: fit-content;
   margin-right: 1em;
 }
 
 img.right {
   height: 12em;
   float: right;
-  width: fit-content;
   margin-left: 1em;
 }
 
