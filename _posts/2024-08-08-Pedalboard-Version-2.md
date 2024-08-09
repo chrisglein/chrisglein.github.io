@@ -7,16 +7,16 @@ tags: guitar
 img.left, img.right {
   width: min-content;
   object-fit: contain;
+  height: 12em;
+  aspect-ratio: 25/40 auto;
 }
 
 img.left {
-  height: 12em;
   float: left;
   margin-right: 1em;
 }
 
 img.right {
-  height: 12em;
   float: right;
   margin-left: 1em;
 }
