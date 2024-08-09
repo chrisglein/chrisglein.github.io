@@ -5,6 +5,7 @@ title: "The BGG Rating Scale"
 There's no single agreed upon rating system for all things. Sometime we use a 5 star scale. Sometimes a 10 point scale. Sometimes A-F letter grades (where maybe "S" is part of system). Sometimes thumbs up or thumbs down. Sometimes a heart vs. the absence of one.
 
 Different rating systems may be preferred depending on how much time we spend with media. A song, averaging around 3 minutes long, probably doesn't require a detailed 5 star scale; a simple "heart or not" system is plenty. Movies we spend a couple hours with, so they seem to warrant more. Video games may get a dozen or more hours, and that seems more likely to land a 10 point scale. But hey, each reviewer is going to do their own thing. And review aggregation sites are going to turn that into number soup. But there is some rhyme to which rating scales we pick for which things.
+<!--more-->
 
 The predominant resource on board games is [Board Game Geek](https://www.boardgamegeek.com), and BGG asks its users to rate games on a 10 point scale. Not only that, but they [provide suggested definitions](https://boardgamegeek.com/wiki/page/ratings) for those values.
 

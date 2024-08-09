@@ -6,6 +6,8 @@ baseurl:          /
 url:              https://chrisglein.com
 paginate:         5
 
+excerpt_separator:  <!--more-->
+
 # About/contact
 author:
   name:           'Chris Glein'

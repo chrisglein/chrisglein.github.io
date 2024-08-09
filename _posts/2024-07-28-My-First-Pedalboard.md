@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Journey to My First Pedalboard"
+tags: guitar
 ---
 <style type="text/css" rel="stylesheet">
 iframe.video {
@@ -14,6 +15,7 @@ My first electric guitar was a hand-me-down from my uncle, given a few years aft
 https://reverb.com/marketplace?query=DOD%20Octoplus%20FX35). It was immediately clear I had made a mistake. An octave pedal can have its uses, but as a first and only pedal? A dismal choice. And I had no money for a second pedal.
 
 The end result? I spent the next 25 years primarily only playing acoustic guitar.
+<!--more-->
 
 It wasn't until I was 40 years old that I actually bought myself my very own electric guitar (a Fender Stratocaster, classic and versatile). It only took a global pandemic to push me to make the purchase, stuck inside with an evaporated social calendar. But I was ready to do it right, and get pedals too. I did a lot more research this time (thanks dramatically more developed internet!). So without spending too much money I got some classic building blocks.
 
