@@ -21,4 +21,25 @@ It was time to build my second board. After more research I landed on two essent
 - Board: [Pedaltrain Classic 2](https://pedaltrain.com/collections/classic/products/pt-cl2-sc)
 - Power: [Truetone CS12](https://truetone.com/cs12/)
 
+Another key lesson was planning for the power draw from each pedal to make sure I knew which output to use for each and where I could afford to daisy chain. Thankfully there's [a website to help with that](https://stinkfoot.se/power-list), and I was able to build a table to help plan for my next board:
+
+| Brand            | Model                    | Power (mA) |
+|------------------|--------------------------|-------|
+| Behringer        | EQ                       | 8     |
+| Behringer        | Compressor               | 30    |
+| EHX              | Attack Decay             | 140   |
+| EHX              | PitchFork                | 25    |
+| EHX              | Small Stone              | 12    |
+| EHX              | Q-tron                   | 10    |
+| JHS              | PG-14                    | 67    |
+| JHS              | Tidewater                | 3     |
+| JHS              | Morning glory            | 43    |
+| Keeley           | Parallax                 | 75    |
+| TC Electronics   | Ditto+                   | 100   |
+| TC Electronics   | Polytune3                | 44    |
+| Wampler          | Triumph                  | 21    |
+| BOSS             | DS-1                     | 4     |
+| BOSS             | RC-10R                   | 250   |
+
+
 Next up, I'll cover the pedals and signal chain on the new board.
