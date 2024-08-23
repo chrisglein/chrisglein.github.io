@@ -8,6 +8,7 @@ My friend Cody has been pitching a replacement for the granular [10 point BGG ra
 2 - didn't care for it, won't actively try and play it again  
 3 - liked it, would definitely play again, maybe even buy it   
 4 - actively want to play again and would like to buy so I can play as much as often as possible   
+<!--more-->
 
 To avoid confusion with BGG number ratings, I’m going to use ⭐️ for the Cody scale. You didn’t pitch it as a star system, but it’s hard to compare without some different indicator, sorry Cody. 
 
