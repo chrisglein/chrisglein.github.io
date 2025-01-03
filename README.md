@@ -10,3 +10,9 @@
 bash
 bundle exec jekyll serve
 ```
+
+To see draft posts, instead:
+
+```bash
+bundle exec jekyll serve --drafts
+```
