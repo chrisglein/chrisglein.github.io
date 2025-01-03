@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Cody Scale"
+tags: board-games
 ---
 My friend Cody has been pitching a replacement for the granular [10 point BGG rating scale](../../../2024/08/06/The-BGG-Rating-Scale.html):
 

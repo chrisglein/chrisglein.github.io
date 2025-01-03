@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to GenCon"
+tags: board-games
 ---
 I first attended GenCon 9 years ago in 2013. I came to it as a PAX West regular (attending every single year since 2009), and to me GenCon was strange in comparison. Here I hope to share some of what I’ve learned about how to make the most of the show. 
 <!--more-->
