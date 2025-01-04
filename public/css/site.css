@@ -92,6 +92,14 @@
 .playIcon.disney {
   background-image: url(/media/disney.png);
 }
+.playLine .youtube,
+.playIcon.youtube {
+  background-image: url(/media/youtube.png);
+}
+.playLine .hulu,
+.playIcon.hulu {
+  background-image: url(/media/hulu.png);
+}
 .playLine .bgg,
 .playIcon.bgg {
   background-image: url(/media/bgg.png);
