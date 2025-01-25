@@ -3,10 +3,7 @@ layout: post
 title: More Zombie Gaming
 date: '2007-12-07T15:49:00.000-08:00'
 author: Chris Glein
-tags:
-- zombie
-- pc
-- video-games
+tags: zombie pc video-games
 modified_time: '2008-04-01T11:03:04.043-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5347332278536171356
 blogger_orig_url: https://chrisglein.blogspot.com/2007/12/more-zombie-gaming.html

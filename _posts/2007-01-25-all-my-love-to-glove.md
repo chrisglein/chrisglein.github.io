@@ -3,8 +3,7 @@ layout: post
 title: All my love to G.Love
 date: '2007-01-25T17:18:00.000-08:00'
 author: Chris Glein
-tags:
-- music
+tags: music live-music
 modified_time: '2012-02-01T09:23:35.355-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5925341482283615270
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/all-my-love-to-glove.html

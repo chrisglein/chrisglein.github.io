@@ -3,10 +3,7 @@ layout: post
 title: LotRO Revisited - Part 2 - Keeping Busy
 date: '2011-03-18T08:00:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- lotro
-- mmo
+tags: video-games lotro mmo
 modified_time: '2011-03-18T10:11:04.633-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5z32Bzga63Oufx-jrZxWNeyVw9XcC5JxrWFtzQZxDuX_M2wq1TishrYHWI8oSVY-wB-oey2Xk2Hou0GdRUn-KmDOlm0jJ8PiQlYAfis-vkYv3AkAMYQiwedhQrrAZZ84p6FwShnL9TY0/s72-c/Web610_Deeds.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3052684746734674436

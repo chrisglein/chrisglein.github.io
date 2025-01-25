@@ -3,12 +3,7 @@ layout: post
 title: Catching Up
 date: '2007-11-02T15:51:00.000-07:00'
 author: Chris Glein
-tags:
-- xbox360
-- pc
-- video-games
-- review
-- ps2
+tags: xbox-360 pc video-games review ps2
 modified_time: '2008-04-01T11:07:20.874-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-6742299062388367388
 blogger_orig_url: https://chrisglein.blogspot.com/2007/11/catching-up.html

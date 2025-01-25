@@ -3,9 +3,7 @@ layout: post
 title: The last metroid is in captivity...
 date: '2007-08-28T12:34:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- wii
+tags: video-games wii metroid
 modified_time: '2008-04-01T10:55:17.326-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7876112234686128937
 blogger_orig_url: https://chrisglein.blogspot.com/2007/08/last-metroid-is-in-captivity.html

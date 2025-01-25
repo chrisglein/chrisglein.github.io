@@ -3,7 +3,7 @@ layout: post
 title: Always a Critic
 date: '2008-07-28T23:55:00.000-07:00'
 author: Chris Glein
-tags: 
+tags: rant
 modified_time: '2012-02-01T09:23:13.900-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7332264461980101444
 blogger_orig_url: https://chrisglein.blogspot.com/2008/07/always-critic.html

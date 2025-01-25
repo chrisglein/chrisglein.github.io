@@ -3,10 +3,7 @@ layout: post
 title: ZombieTown
 date: '2008-02-27T11:07:00.000-08:00'
 author: Chris Glein
-tags:
-- zombie
-- board-games
-- review
+tags: zombie board-games review
 modified_time: '2012-02-01T09:23:23.770-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5746508045598827977
 blogger_orig_url: https://chrisglein.blogspot.com/2008/02/zombietown.html

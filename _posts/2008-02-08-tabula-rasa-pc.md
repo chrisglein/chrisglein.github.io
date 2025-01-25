@@ -1,14 +1,9 @@
 ---
 layout: post
-title: Tabula Rasa (PC)
+title: Tabula Rasa
 date: '2008-02-08T09:03:00.000-08:00'
 author: Chris Glein
-tags:
-- tabularasa
-- pc
-- video-games
-- review
-- mmo
+tags: tabula-rasa pc video-games review mmo
 modified_time: '2008-04-03T22:25:16.367-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7996637037895000148
 blogger_orig_url: https://chrisglein.blogspot.com/2008/02/tabula-rasa-pc.html

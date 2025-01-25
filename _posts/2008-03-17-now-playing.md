@@ -3,15 +3,7 @@ layout: post
 title: Now Playing
 date: '2008-03-17T11:35:00.000-07:00'
 author: Chris Glein
-tags:
-- tabularasa
-- ds
-- xbox360
-- nowplaying
-- pc
-- video-games
-- wii
-- lotro
+tags: tabula-rasa ds xbox-360 now-playing pc video-games wii lotro
 modified_time: '2008-04-03T22:25:37.166-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4885227831492617340
 blogger_orig_url: https://chrisglein.blogspot.com/2008/03/now-playing.html

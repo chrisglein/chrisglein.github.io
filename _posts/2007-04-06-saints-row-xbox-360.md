@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Saints Row (Xbox 360)
+title: Saints Row
 date: '2007-04-06T09:17:00.000-07:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review crime
 modified_time: '2008-04-01T10:55:17.336-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4224575278993552449
 blogger_orig_url: https://chrisglein.blogspot.com/2007/04/saints-row-xbox-360.html

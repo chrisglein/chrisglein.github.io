@@ -3,10 +3,7 @@ layout: post
 title: LotRO Revisited - Part 6 - Free to Play
 date: '2011-03-30T23:59:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- lotro
-- mmo
+tags: video-games lotro mmo
 modified_time: '2011-03-30T23:59:09.798-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv7JOO-Uem_nyp1oltj3tXJ7NIeXD1Jt7SuGboNms7JIGB6L7yhEDv4lKcg0K2oV8Y4-ecHmkTUOY6FbGws61VUCoXZqwJPSHepBcK3MW9o7eO1TNT0xW1kunFYYN5Ta36ePscy4WJU94/s72-c/Web788_Store.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3462947545848269078

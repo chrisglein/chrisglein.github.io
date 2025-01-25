@@ -3,9 +3,7 @@ layout: post
 title: Music Made Me - Part 28
 date: '2012-04-24T19:17:00.000-07:00'
 author: Chris Glein
-tags:
-- music
-- musicmademe
+tags: music music-made-me
 modified_time: '2012-04-24T19:17:00.431-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8141923133035455499
 blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-28.html

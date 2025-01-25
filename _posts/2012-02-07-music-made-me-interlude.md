@@ -3,9 +3,7 @@ layout: post
 title: Music Made Me - An Interlude
 date: '2012-02-07T20:49:00.001-08:00'
 author: Chris Glein
-tags:
-- music
-- musicmademe
+tags: music music-made-me
 modified_time: '2012-03-04T15:04:46.472-08:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjau2YjAyxf9D-ixDmI9aLg9aoiQsTP9JIfUs4u8t2vYJRb7iup8RcpowZZj_MP1EmV2lZg-h0Ca700NjLJ2I7h-268Lt57LrOJ5pGi0hl2N6FI11YyUmmXnSYqKVHSdzzsv-zzotqK3E8/s72-c/MixTape_web.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8318941764316964735

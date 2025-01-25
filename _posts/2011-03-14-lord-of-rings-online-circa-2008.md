@@ -3,10 +3,7 @@ layout: post
 title: Lord of the Rings Online... circa 2008
 date: '2011-03-14T09:00:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- lotro
-- mmo
+tags: video-games lotro mmo
 modified_time: '2011-03-18T10:11:35.834-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3363455121315135111
 blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lord-of-rings-online-circa-2008.html

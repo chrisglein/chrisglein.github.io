@@ -3,11 +3,7 @@ layout: post
 title: Painting Zombies
 date: '2008-07-29T00:01:00.000-07:00'
 author: Chris Glein
-tags:
-- zombie
-- board-games
-- art
-- painting 
+tags: zombie board-games art painting 
 modified_time: '2012-02-01T09:23:13.872-08:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7Dv4Dz7OYe_t0GEa3R-6gHqzcDFivL-nWBQTlbGB2_fZW2quOmu63t-GFg2qwfQWVs3vufKS_3GRtk-2gnJ4eQsxXMMKW85eTRuLvCkwJlvtGBMtX0RD6zAnF-WbilUs0ldKoBgrLWD8/s72-c/ZombiePainting-2.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5474536266997230426

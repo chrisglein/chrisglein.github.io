@@ -3,11 +3,7 @@ layout: post
 title: Perspective
 date: '2007-03-08T15:19:00.000-08:00'
 author: Chris Glein
-tags:
-- wow
-- pc
-- video-games
-- mmo
+tags: wow pc video-games mmo
 modified_time: '2008-04-01T11:12:11.054-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2801121313463676361
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/perspective.html

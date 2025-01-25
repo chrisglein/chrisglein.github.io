@@ -1,14 +1,9 @@
 ---
 layout: post
-title: Lord of the Rings Online (PC)
+title: Lord of the Rings Online
 date: '2008-01-15T11:31:00.000-08:00'
 author: Chris Glein
-tags:
-- pc
-- video-games
-- review
-- lotro
-- mmo
+tags: pc video-games review lotro mmo
 modified_time: '2008-04-01T11:03:04.042-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1155644233597603649
 blogger_orig_url: https://chrisglein.blogspot.com/2008/01/lord-of-rings-online-pc.html

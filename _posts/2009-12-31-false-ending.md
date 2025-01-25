@@ -3,8 +3,7 @@ layout: post
 title: False Ending
 date: '2009-12-31T10:42:00.000-08:00'
 author: Chris Glein
-tags:
-- video-games
+tags: video-games castlevania
 modified_time: '2009-12-31T10:44:23.170-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1869829402649579706
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/false-ending.html

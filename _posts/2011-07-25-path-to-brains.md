@@ -3,11 +3,7 @@ layout: post
 title: The Path to Brains
 date: '2011-07-25T21:16:00.000-07:00'
 author: Chris Glein
-tags:
-- zombie
-- video-games
-- musteatbrains
-- windowsphone
+tags: zombie video-games musteatbrains windowsphone
 modified_time: '2011-07-26T21:54:40.143-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA828xqC7Y-WC6g2MY6sbwp7o3d5b0FQwkbeT3QHklts_PxQjm_uEAfPEDZiOGfToNBqM95gP3CMwrAvLnXWNrb20iLjvve_x5xAQrtj2yAxaFSak01Oaeg0uB-bgp-LoYewZuQEQjDLo/s72-c/5.png
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3507744113447302961

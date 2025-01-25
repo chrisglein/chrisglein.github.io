@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'Warioware: Smooth Moves (Wii)'
+title: 'Warioware: Smooth Moves'
 date: '2007-03-12T10:16:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- review
-- wii
+tags: video-games review wii
 modified_time: '2008-04-01T10:55:17.340-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1149887256351931161
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/warioware-smooth-moves-wii.html

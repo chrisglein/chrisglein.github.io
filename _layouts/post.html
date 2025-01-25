@@ -8,20 +8,9 @@ layout: base
   {{ content }}
 </div>
 
-{% if site.related_posts.size >= 1 %}
-<div class="related">
-  <h2>Related posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+{% if page.id %}
+  <div class="wrapper">
+    <h3>See also</h3>
+    {% include related.html %}
+  </div>
 {% endif %}

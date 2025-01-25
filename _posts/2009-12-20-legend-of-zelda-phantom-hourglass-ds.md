@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'Legend of Zelda: Phantom Hourglass (DS)'
+title: 'Legend of Zelda: Phantom Hourglass'
 date: '2009-12-20T20:19:00.000-08:00'
 author: Chris Glein
-tags:
-- ds
-- video-games
-- review
+tags: ds video-games review zelda
 modified_time: '2009-12-20T20:21:17.366-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5689754777969426340
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/legend-of-zelda-phantom-hourglass-ds.html

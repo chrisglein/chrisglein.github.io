@@ -3,7 +3,7 @@ layout: post
 title: Stopping to smell the roses
 date: '2007-04-18T10:22:00.000-07:00'
 author: Chris Glein
-tags: 
+tags: technology
 modified_time: '2012-02-01T09:23:35.528-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7788116248681478301
 blogger_orig_url: https://chrisglein.blogspot.com/2007/04/stopping-to-smell-roses.html

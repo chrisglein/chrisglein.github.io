@@ -3,10 +3,7 @@ layout: post
 title: LotRO Revisited - Part 3 - Multiplayer
 date: '2011-03-21T08:00:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- lotro
-- mmo
+tags: video-games lotro mmo
 modified_time: '2011-03-21T08:00:06.877-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0K7yb4zKqGV9Q1Jw-e2joHYKKj-6tCHdwqIG5ybkP6iJooRBTH10eT_VQaXBDXh7CEJZ3U70b6Fz7_2Jx_ENf0sKL0DXX38DlnDlR-Ct-kWY2vClrlbAzvjVJ70fuD1b2yiUikIoPxrc/s72-c/Web640_PartyUp.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-326429648840131754

@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Beautiful Katamari (Xbox 360)
+title: Beautiful Katamari
 date: '2008-04-11T10:29:00.000-07:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review
 modified_time: '2008-04-11T10:30:34.668-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4998609464640354565
 blogger_orig_url: https://chrisglein.blogspot.com/2008/04/beautiful-katamari-xbox-360.html

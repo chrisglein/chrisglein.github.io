@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Rise of the Argonauts (Xbox 360)
+title: Rise of the Argonauts
 date: '2009-12-11T12:03:00.000-08:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review
 modified_time: '2009-12-11T12:08:50.221-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5535168315770440692
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/rise-of-argonauts-xbox-360.html

@@ -3,8 +3,7 @@ layout: post
 title: The Guitar Story
 date: '2011-04-21T23:49:00.000-07:00'
 author: Chris Glein
-tags:
-- music
+tags: music guitar
 modified_time: '2012-02-01T09:23:13.882-08:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEh-_zZJO-QmDSA5nAhhIimAChbF1xaaSzd44IOw0tVJfby-nO255HACvbClhVRDZnlNzCM_433c_D-8TJzj6DdLI6kSHgaa6p3S1CjmwS_u6o2FfxtGP_bX6vgxgdpdJJzaC26ELgY7k/s72-c/001.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-633596325084185328

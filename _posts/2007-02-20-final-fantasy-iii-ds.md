@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Final Fantasy III (DS)
+title: Final Fantasy III
 date: '2007-02-20T08:48:00.000-08:00'
 author: Chris Glein
-tags:
-- ds
-- video-games
-- review
+tags: ds video-games review rpg final-fantasy
 modified_time: '2008-04-01T10:55:17.350-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5778402969658691202
 blogger_orig_url: https://chrisglein.blogspot.com/2007/02/final-fantasy-iii-ds.html

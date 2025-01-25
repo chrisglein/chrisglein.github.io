@@ -3,11 +3,7 @@ layout: post
 title: Ranting Against RMT
 date: '2007-12-23T21:42:00.000-08:00'
 author: Chris Glein
-tags:
-- wow
-- video-games
-- lotro
-- mmo
+tags: wow video-games lotro mmo game-design rant
 modified_time: '2008-04-01T10:55:17.323-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7700161864374112084
 blogger_orig_url: https://chrisglein.blogspot.com/2007/12/ranting-against-rmt.html

@@ -3,11 +3,7 @@ layout: post
 title: Postcards from Middle-Earth - Part 2
 date: '2011-05-17T09:15:00.000-07:00'
 author: Chris Glein
-tags:
-- postcards
-- video-games
-- lotro
-- mmo
+tags: postcards video-games lotro mmo
 modified_time: '2011-05-17T09:15:44.068-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE_EURy-NrpJphM9FI4sSqqUrKXcn-tpW9grn0BcAWh2dEv0lk2ViYZt6mpOoSokxfqkIGMyeAyD-buHAhNoNXSWlofQ_uNGO7MwTKYdk94fr_tSamFMT3gxXKqAORW3Fh9cYKYUV9r4A/s72-c/Bree_Night.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-6490312775244262436

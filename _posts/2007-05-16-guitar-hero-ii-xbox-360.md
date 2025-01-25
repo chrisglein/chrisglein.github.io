@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Guitar Hero II (Xbox 360)
+title: Guitar Hero II
 date: '2007-05-16T08:08:00.000-07:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review music guitar rock-band
 modified_time: '2008-04-01T10:55:17.328-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3598030672229455099
 blogger_orig_url: https://chrisglein.blogspot.com/2007/05/guitar-hero-ii-xbox-360.html

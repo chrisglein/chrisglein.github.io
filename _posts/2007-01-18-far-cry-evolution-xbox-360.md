@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Far Cry Evolution (Xbox 360)
+title: Far Cry Evolution
 date: '2007-01-18T08:34:00.000-08:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review fps
 modified_time: '2008-04-01T10:55:17.358-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3260855465641070783
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/far-cry-evolution-xbox-360.html

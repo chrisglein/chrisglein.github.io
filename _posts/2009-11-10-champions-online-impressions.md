@@ -3,11 +3,7 @@ layout: post
 title: 'Champions Online: Impressions'
 date: '2009-11-10T16:16:00.000-08:00'
 author: Chris Glein
-tags:
-- pc
-- video-games
-- review
-- mmo
+tags: pc video-games review mmo comics
 modified_time: '2009-11-10T16:31:19.331-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5831574850134078920
 blogger_orig_url: https://chrisglein.blogspot.com/2009/11/champions-online-impressions.html

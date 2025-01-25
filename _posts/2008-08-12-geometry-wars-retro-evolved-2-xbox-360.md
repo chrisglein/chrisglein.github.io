@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'Geometry Wars: Retro Evolved 2 (Xbox 360)'
+title: 'Geometry Wars: Retro Evolved 2'
 date: '2008-08-12T18:30:00.000-07:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review
 modified_time: '2008-08-12T18:37:07.315-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1445629218970626970
 blogger_orig_url: https://chrisglein.blogspot.com/2008/08/geometry-wars-retro-evolved-2-xbox-360.html

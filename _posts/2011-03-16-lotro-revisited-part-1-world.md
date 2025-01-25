@@ -3,10 +3,7 @@ layout: post
 title: LotRO Revisited - Part 1 - The World
 date: '2011-03-16T08:00:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- lotro
-- mmo
+tags: video-games lotro mmo
 modified_time: '2011-03-17T22:17:43.141-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGiUb674gKeyXxgePNTX_aJKlBUFQdH5YH3NqkUbE6jpADZaGva_8OmOhsM3WpcKaXHOUrXxl8zl8vFn6QeBTyptlb8gNpPrBsgHlNY71NTKYXKo92Lv9kjYB3GcIyhxRFEIl5ZN76gbk/s72-c/Web640_Weathertop.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3358870025971120436

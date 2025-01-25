@@ -3,10 +3,7 @@ layout: post
 title: I Am Legend
 date: '2008-07-17T12:31:00.000-07:00'
 author: Chris Glein
-tags:
-- zombie
-- movie
-- review
+tags: zombie movie review horror
 modified_time: '2012-02-01T09:23:13.841-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2436304327192192873
 blogger_orig_url: https://chrisglein.blogspot.com/2008/07/i-am-legend.html

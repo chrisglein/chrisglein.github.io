@@ -3,9 +3,7 @@ layout: post
 title: Why We Fight
 date: '2007-06-24T23:54:00.000-07:00'
 author: Chris Glein
-tags:
-- movie
-- review
+tags: movie review documentary
 modified_time: '2012-02-01T09:23:23.765-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5612642313772761849
 blogger_orig_url: https://chrisglein.blogspot.com/2007/06/why-we-fight.html

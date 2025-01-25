@@ -3,9 +3,7 @@ layout: post
 title: Broken Flowers
 date: '2008-05-13T10:38:00.000-07:00'
 author: Chris Glein
-tags:
-- movie
-- review
+tags: movie review
 modified_time: '2012-02-01T09:23:24.136-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8680222535063699070
 blogger_orig_url: https://chrisglein.blogspot.com/2008/05/broken-flowers.html

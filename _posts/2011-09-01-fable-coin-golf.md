@@ -3,10 +3,7 @@ layout: post
 title: Fable Coin Golf
 date: '2011-09-01T14:02:00.001-07:00'
 author: Chris Glein
-tags:
-- video-games
-- review
-- windowsphone
+tags: video-games review windowsphone
 modified_time: '2011-09-01T14:02:00.838-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI5O4gb6VDCt36w94VDwlhVFh6EddaCrJjj-w800s7QWE96wdSZK2-SlhfR5727RC6MxDodBluDSbPN1hkCe-uJlJ117ufVwdo2K5VMMl3g9ow0IKVnJ902JD-eiwEDYwWhE8XsiVBv84/s72-c/?imgmax=800
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8821490251288129409

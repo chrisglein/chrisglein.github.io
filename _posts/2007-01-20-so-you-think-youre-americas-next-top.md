@@ -3,8 +3,7 @@ layout: post
 title: So You Think You're America's Next Top Idol
 date: '2007-01-20T08:34:00.000-08:00'
 author: Chris Glein
-tags:
-- tv
+tags: tv
 modified_time: '2012-02-01T09:23:35.313-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4852249390323234213
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/so-you-think-youre-americas-next-top.html

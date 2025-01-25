@@ -3,11 +3,7 @@ layout: post
 title: MustEatBrains
 date: '2011-07-26T21:53:00.000-07:00'
 author: Chris Glein
-tags:
-- zombie
-- video-games
-- musteatbrains
-- windowsphone
+tags: zombie video-games musteatbrains windowsphone
 modified_time: '2011-07-26T21:53:26.234-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFISgJupaLVXWNGZ-79bs3f2y5XfZy3EN6wQtyfjFLqshyIJC_TF4aBxAdSIfV_chyphenhyphenI-66pUHfNzo8AhQePGCE5Zv6SvJOcUqsjLXuXgAViNoP7JuAcllLTJHGAdgQ-iFdJmTIfEzqzt4/s72-c/Frame5.png
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4057661282980249540

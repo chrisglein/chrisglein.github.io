@@ -3,9 +3,7 @@ layout: post
 title: Hollywoodland
 date: '2007-02-18T08:25:00.000-08:00'
 author: Chris Glein
-tags:
-- movie
-- review
+tags: movie review
 modified_time: '2012-02-01T09:23:35.215-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3152630926866422577
 blogger_orig_url: https://chrisglein.blogspot.com/2007/02/hollywoodland.html

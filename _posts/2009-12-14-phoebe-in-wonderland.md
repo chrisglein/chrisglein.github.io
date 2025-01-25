@@ -3,9 +3,7 @@ layout: post
 title: Phoebe in Wonderland
 date: '2009-12-14T10:02:00.000-08:00'
 author: Chris Glein
-tags:
-- movie
-- review
+tags: movie review
 modified_time: '2012-02-01T09:23:13.850-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3795317257042252622
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/phoebe-in-wonderland.html

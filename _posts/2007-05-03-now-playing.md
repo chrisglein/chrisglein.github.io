@@ -3,13 +3,7 @@ layout: post
 title: Now Playing
 date: '2007-05-03T09:27:00.000-07:00'
 author: Chris Glein
-tags:
-- ds
-- xbox360
-- nowplaying
-- pc
-- video-games
-- wii
+tags: ds xbox-360 now-playing pc video-games wii
 modified_time: '2008-04-01T11:08:39.944-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2721137647007962118
 blogger_orig_url: https://chrisglein.blogspot.com/2007/05/now-playing.html

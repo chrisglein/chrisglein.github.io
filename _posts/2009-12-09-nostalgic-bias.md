@@ -3,8 +3,7 @@ layout: post
 title: Nostalgic Bias
 date: '2009-12-09T14:21:00.000-08:00'
 author: Chris Glein
-tags:
-- video-games
+tags: video-games castlevania
 modified_time: '2009-12-09T14:24:12.793-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4158027911661445563
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/nostalgic-bias.html

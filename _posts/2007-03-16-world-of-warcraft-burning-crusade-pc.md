@@ -1,14 +1,9 @@
 ---
 layout: post
-title: 'World of Warcraft: The Burning Crusade (PC)'
+title: 'World of Warcraft: The Burning Crusade'
 date: '2007-03-16T09:34:00.000-07:00'
 author: Chris Glein
-tags:
-- wow
-- pc
-- video-games
-- review
-- mmo
+tags: wow pc video-games review mmo
 modified_time: '2008-04-01T11:10:40.068-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1811977416870093197
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/world-of-warcraft-burning-crusade-pc.html

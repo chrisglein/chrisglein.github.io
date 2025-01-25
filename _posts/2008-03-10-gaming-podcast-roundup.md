@@ -3,11 +3,7 @@ layout: post
 title: Gaming Podcast Roundup
 date: '2008-03-10T10:36:00.000-07:00'
 author: Chris Glein
-tags:
-- video-games
-- podcast
-- zune
-- review
+tags: video-games podcast zune review
 modified_time: '2008-03-10T10:44:56.706-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8336941789202801561
 blogger_orig_url: https://chrisglein.blogspot.com/2008/03/gaming-podcast-roundup.html

@@ -3,9 +3,7 @@ layout: post
 title: Carnivàle
 date: '2008-04-13T19:01:00.000-07:00'
 author: Chris Glein
-tags:
-- tv
-- review
+tags: tv review
 modified_time: '2012-02-01T09:23:23.917-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-824394278518279240
 blogger_orig_url: https://chrisglein.blogspot.com/2008/04/carnivle.html

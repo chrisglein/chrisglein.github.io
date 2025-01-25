@@ -3,8 +3,7 @@ layout: post
 title: Bitter Sweet
 date: '2007-03-22T08:57:00.000-07:00'
 author: Chris Glein
-tags:
-- music
+tags: music live-music
 modified_time: '2012-02-01T09:23:35.437-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-6672771346542929989
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/bitter-sweet.html

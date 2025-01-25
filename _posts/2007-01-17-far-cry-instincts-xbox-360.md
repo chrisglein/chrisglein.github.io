@@ -1,12 +1,9 @@
 ---
 layout: post
-title: Far Cry Instincts (Xbox 360)
+title: Far Cry Instincts
 date: '2007-01-17T12:15:00.000-08:00'
 author: Chris Glein
-tags:
-- xbox360
-- video-games
-- review
+tags: xbox-360 video-games review fps
 modified_time: '2008-04-01T10:55:17.359-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-66504027992174368
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/far-cry-instincts-xbox-360.html

@@ -3,10 +3,7 @@ layout: post
 title: 'Gamasutra: Rethinking the MMO'
 date: '2007-03-30T08:27:00.000-07:00'
 author: Chris Glein
-tags:
-- wow
-- video-games
-- mmo
+tags: video-games mmo game-design
 modified_time: '2008-04-01T11:09:44.216-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7803749334898842999
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/gamasutra-rethinking-mmo.html
