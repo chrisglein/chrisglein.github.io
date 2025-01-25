@@ -5,7 +5,7 @@ date: '2011-08-05T08:00:00.000-07:00'
 author: Chris Glein
 tags:
 - zombie
-- videogame
+- video-games
 - musteatbrains
 modified_time: '2011-08-05T08:13:30.096-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfU_PWOQEFgr_Cs8nCEcwVB8FKh_pO5XU5gcqGyyAQIfHX_k_9lyA-KxoRcmvUAhy-qMVYljIcAOmGxluSsdFMkoqFkAt2E92TQ6EPSzFzXPabtAdeVSTcAuhdwV4rgcjRXd-nGZvt_4/s72-c/newscores.png

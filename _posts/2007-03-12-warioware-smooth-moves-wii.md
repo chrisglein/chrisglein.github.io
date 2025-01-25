@@ -4,7 +4,7 @@ title: 'Warioware: Smooth Moves (Wii)'
 date: '2007-03-12T10:16:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - review
 - wii
 modified_time: '2008-04-01T10:55:17.340-07:00'

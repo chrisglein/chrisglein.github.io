@@ -5,7 +5,7 @@ date: '2008-08-06T11:33:00.000-07:00'
 author: Chris Glein
 tags:
 - xbox360
-- videogame
+- video-games
 - review
 modified_time: '2008-08-06T11:35:47.459-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-36793641916286708

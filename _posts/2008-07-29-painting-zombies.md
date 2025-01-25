@@ -5,7 +5,7 @@ date: '2008-07-29T00:01:00.000-07:00'
 author: Chris Glein
 tags:
 - zombie
-- boardgame
+- board-games
 - art
 - painting 
 modified_time: '2012-02-01T09:23:13.872-08:00'

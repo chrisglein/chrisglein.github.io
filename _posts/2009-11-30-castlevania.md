@@ -5,7 +5,7 @@ date: '2009-11-30T23:06:00.000-08:00'
 author: Chris Glein
 tags:
 - ds
-- videogame
+- video-games
 - wii
 modified_time: '2009-11-30T23:12:43.898-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4409917664110301118

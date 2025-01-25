@@ -5,7 +5,7 @@ date: '2010-08-11T11:44:00.000-07:00'
 author: Chris Glein
 tags:
 - xbox360
-- videogame
+- video-games
 modified_time: '2010-08-11T11:44:29.708-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1023476509030944870
 blogger_orig_url: https://chrisglein.blogspot.com/2010/08/darksiders-xbox-360.html

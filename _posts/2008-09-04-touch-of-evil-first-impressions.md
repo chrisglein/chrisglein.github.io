@@ -4,7 +4,7 @@ title: 'A Touch of Evil: First Impressions'
 date: '2008-09-04T16:48:00.000-07:00'
 author: Chris Glein
 tags:
-- boardgame
+- board-games
 modified_time: '2012-02-01T09:23:13.886-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-6435878477921477648
 blogger_orig_url: https://chrisglein.blogspot.com/2008/09/touch-of-evil-first-impressions.html

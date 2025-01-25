@@ -5,7 +5,7 @@ date: '2008-01-15T11:31:00.000-08:00'
 author: Chris Glein
 tags:
 - pc
-- videogame
+- video-games
 - review
 - lotro
 - mmo

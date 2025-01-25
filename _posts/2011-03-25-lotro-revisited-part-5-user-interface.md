@@ -4,7 +4,7 @@ title: LotRO Revisited - Part 5 - User Interface
 date: '2011-03-25T08:00:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - lotro
 - mmo
 modified_time: '2011-03-25T08:00:19.480-07:00'

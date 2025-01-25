@@ -5,7 +5,7 @@ date: '2007-12-23T21:42:00.000-08:00'
 author: Chris Glein
 tags:
 - wow
-- videogame
+- video-games
 - lotro
 - mmo
 modified_time: '2008-04-01T10:55:17.323-07:00'

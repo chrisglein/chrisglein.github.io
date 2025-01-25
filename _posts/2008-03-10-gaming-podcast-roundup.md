@@ -4,7 +4,7 @@ title: Gaming Podcast Roundup
 date: '2008-03-10T10:36:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - podcast
 - zune
 - review

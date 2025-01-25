@@ -4,7 +4,7 @@ title: 'Trauma Center: Second Opinion (Wii)'
 date: '2007-04-27T09:08:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - review
 - wii
 modified_time: '2008-04-01T10:55:17.332-07:00'

@@ -5,7 +5,7 @@ date: '2007-02-12T15:22:00.000-08:00'
 author: Chris Glein
 tags:
 - ds
-- videogame
+- video-games
 modified_time: '2008-04-01T11:06:06.392-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-9081195373887663251
 blogger_orig_url: https://chrisglein.blogspot.com/2007/02/beware-of-port.html

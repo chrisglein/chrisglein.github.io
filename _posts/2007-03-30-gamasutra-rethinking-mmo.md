@@ -5,7 +5,7 @@ date: '2007-03-30T08:27:00.000-07:00'
 author: Chris Glein
 tags:
 - wow
-- videogame
+- video-games
 - mmo
 modified_time: '2008-04-01T11:09:44.216-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7803749334898842999

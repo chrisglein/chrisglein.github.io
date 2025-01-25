@@ -4,7 +4,7 @@ title: LotRO Revisited - Part 2 - Keeping Busy
 date: '2011-03-18T08:00:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - lotro
 - mmo
 modified_time: '2011-03-18T10:11:04.633-07:00'

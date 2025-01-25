@@ -9,7 +9,7 @@ tags:
 - xbox360
 - nowplaying
 - pc
-- videogame
+- video-games
 - wii
 - lotro
 modified_time: '2008-04-03T22:25:37.166-07:00'

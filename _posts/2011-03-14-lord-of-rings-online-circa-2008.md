@@ -4,7 +4,7 @@ title: Lord of the Rings Online... circa 2008
 date: '2011-03-14T09:00:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - lotro
 - mmo
 modified_time: '2011-03-18T10:11:35.834-07:00'

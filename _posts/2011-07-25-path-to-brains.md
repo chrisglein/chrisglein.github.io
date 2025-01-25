@@ -5,7 +5,7 @@ date: '2011-07-25T21:16:00.000-07:00'
 author: Chris Glein
 tags:
 - zombie
-- videogame
+- video-games
 - musteatbrains
 - windowsphone
 modified_time: '2011-07-26T21:54:40.143-07:00'

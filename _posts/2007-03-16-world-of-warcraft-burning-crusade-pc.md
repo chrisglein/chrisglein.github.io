@@ -6,7 +6,7 @@ author: Chris Glein
 tags:
 - wow
 - pc
-- videogame
+- video-games
 - review
 - mmo
 modified_time: '2008-04-01T11:10:40.068-07:00'

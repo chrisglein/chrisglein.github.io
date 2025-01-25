@@ -5,7 +5,7 @@ date: '2011-04-25T11:42:00.000-07:00'
 author: Chris Glein
 tags:
 - postcards
-- videogame
+- video-games
 - lotro
 - mmo
 modified_time: '2011-05-17T09:04:19.551-07:00'

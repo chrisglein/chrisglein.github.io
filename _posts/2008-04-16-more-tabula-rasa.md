@@ -5,7 +5,7 @@ date: '2008-04-16T08:29:00.000-07:00'
 author: Chris Glein
 tags:
 - tabularasa
-- videogame
+- video-games
 - mmo
 modified_time: '2008-04-16T08:40:44.664-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4479935886769924067

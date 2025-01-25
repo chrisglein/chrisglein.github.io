@@ -5,7 +5,7 @@ date: '2009-11-10T16:16:00.000-08:00'
 author: Chris Glein
 tags:
 - pc
-- videogame
+- video-games
 - review
 - mmo
 modified_time: '2009-11-10T16:31:19.331-08:00'

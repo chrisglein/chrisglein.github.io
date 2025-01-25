@@ -5,7 +5,7 @@ date: '2009-12-20T20:19:00.000-08:00'
 author: Chris Glein
 tags:
 - ds
-- videogame
+- video-games
 - review
 modified_time: '2009-12-20T20:21:17.366-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5689754777969426340

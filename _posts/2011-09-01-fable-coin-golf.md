@@ -4,7 +4,7 @@ title: Fable Coin Golf
 date: '2011-09-01T14:02:00.001-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - review
 - windowsphone
 modified_time: '2011-09-01T14:02:00.838-07:00'

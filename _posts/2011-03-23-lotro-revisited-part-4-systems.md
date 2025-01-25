@@ -4,7 +4,7 @@ title: LotRO Revisited - Part 4 - Systems
 date: '2011-03-23T08:00:00.000-07:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 - lotro
 - mmo
 modified_time: '2011-03-23T08:00:09.893-07:00'

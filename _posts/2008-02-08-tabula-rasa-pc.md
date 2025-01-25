@@ -6,7 +6,7 @@ author: Chris Glein
 tags:
 - tabularasa
 - pc
-- videogame
+- video-games
 - review
 - mmo
 modified_time: '2008-04-03T22:25:16.367-07:00'

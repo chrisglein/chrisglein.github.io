@@ -8,7 +8,7 @@ tags:
 - xbox360
 - nowplaying
 - pc
-- videogame
+- video-games
 - wii
 modified_time: '2008-04-01T11:08:39.944-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2721137647007962118

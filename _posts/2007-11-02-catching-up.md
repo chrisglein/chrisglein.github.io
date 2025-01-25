@@ -6,7 +6,7 @@ author: Chris Glein
 tags:
 - xbox360
 - pc
-- videogame
+- video-games
 - review
 - ps2
 modified_time: '2008-04-01T11:07:20.874-07:00'

@@ -4,7 +4,7 @@ title: I can't hear you
 date: '2007-01-31T08:05:00.000-08:00'
 author: Chris Glein
 tags:
-- videogame
+- video-games
 modified_time: '2008-04-01T10:55:17.353-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2133258145394336143
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/i-cant-hear-you.html
