@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The BGG Rating Scale"
-tags: board-games
+tags: board-games ratings
 ---
 There's no single agreed upon rating system for all things. Sometime we use a 5 star scale. Sometimes a 10 point scale. Sometimes A-F letter grades (where maybe "S" is part of system). Sometimes thumbs up or thumbs down. Sometimes a heart vs. the absence of one.
 
