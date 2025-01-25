@@ -8,6 +8,7 @@ modified_time: '2008-05-04T16:11:01.118-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8269506303921399649
 blogger_orig_url: https://chrisglein.blogspot.com/2008/05/assassins-creed-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 There was a fair share of <a href="http://www.joystiq.com/2007/11/15/penny-arcade-doles-out-criticism-of-assassins-creed-criticism/">controversy</a> around <a href="http://www.gamefly.com/products/detail.asp?pid=125845">Assassin's Creed</a> when it was released last Fall.  There seemed to be a split between people who thought it was flawless and others who got caught up on something and ended up bashing it.  And now that I've played the game I totally understand why it played out that way.  Assassin's Creed is a game that is so close to greatness that it's few flaws stick out in sharp contrast.  Whether you love it or are disappointed by it depends on whether those flaws are enough to pull you out of the experience.  I personally was able to largely ignore the blemishes and really enjoy myself, but I was left with a feeling that this game could have been so much more.
 <!--more-->

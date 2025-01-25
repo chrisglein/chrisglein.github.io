@@ -8,6 +8,7 @@ modified_time: '2010-08-11T11:44:29.708-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1023476509030944870
 blogger_orig_url: https://chrisglein.blogspot.com/2010/08/darksiders-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 Before playing <a href="http://www.giantbomb.com/darksiders/61-20991/">Darksiders</a>, I had already heard a lot of press about how the game is just one big <a href="http://www.giantbomb.com/the-legend-of-zelda/62-9/">Zelda</a> rip off. It is accused of unabashedly stealing mechanics from that franchise and others. And you know what, that's no lie. But I fail to see how it's a problem. The Zelda games are <a href="http://chrisglein.blogspot.com/2009/12/legend-of-zelda-phantom-hourglass-ds.html">almost</a> uniformly excellent. And there really aren't many other games that attempt that gameplay style. So really, there's low supply and high demand for Zelda-style games, and something like Darksiders should be perfectly welcome. I mean, were people really upset when <a href="http://www.giantbomb.com/shadow-complex/61-26706/">Shadow Complex</a> blatantly cribbed from <a href="http://www.giantbomb.com/metroidvania/92-2440/">Metroid</a>? I'm glad the gaming industry isn't as crazy about patents as the rest of the software world - it prevents the culture from stagnating.
 <!--more-->

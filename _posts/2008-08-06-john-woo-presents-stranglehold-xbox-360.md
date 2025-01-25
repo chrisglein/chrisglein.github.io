@@ -8,6 +8,7 @@ modified_time: '2008-08-06T11:35:47.459-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-36793641916286708
 blogger_orig_url: https://chrisglein.blogspot.com/2008/08/john-woo-presents-stranglehold-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 Given the <a href="http://www.gametrailers.com/player/24613.html">reviews</a> I knew that Stranglehold (sorry, "<a href="http://www.gamefly.com/products/detail.asp?pid=121915">John Woo Presents Stranglehold</a>") probably wouldn't rock my world, so I guess I wasn't too disappointed when it didn't.  It's not bad, but I certainly wouldn't recommend it over all the other games out there.  The premise is solid: a shooter with crazy destructible environments and a combo system that awards you for taking dudes out with style.  But the execution of that premise left something to be desired.
 <!--more-->

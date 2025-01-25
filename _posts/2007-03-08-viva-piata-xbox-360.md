@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.341-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8581386444108301355
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/viva-piata-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 I usually wait until after I finish a game before I review it.  But I'm pretty sure that Viva Piñata doesn't have an end.  I guess the closest thing would be getting all the achievement points.  But given all the other games I have going on right now (ahem, <a href="http://chrisglein.blogspot.com/2007/03/at-last-she-is-mine.html">new Wii</a>), I don't think that's happening any time soon.  So I'm going to jump the gun and tell you what I think now instead of later.
 <!--more-->

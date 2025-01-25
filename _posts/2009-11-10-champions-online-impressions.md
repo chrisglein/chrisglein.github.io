@@ -8,6 +8,7 @@ modified_time: '2009-11-10T16:31:19.331-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5831574850134078920
 blogger_orig_url: https://chrisglein.blogspot.com/2009/11/champions-online-impressions.html
 ---
+<p class="playLine top"><span class='playIcon pc'></span>Played on PC</p>
 
 This past Halloween weekend Cryptic decided to offer <a href="http://www.champions-online.com/">Champions Online</a> for free for a couple days. Promotional weekends are increasingly common in MMOs, but generally they're structured as a "welcome back" for old subscribers, and they're offered for older games. But Champions Online is a brand new title, so having the opportunity to try out a fresh new game for free was quite a treat.
 <!--more-->

@@ -8,6 +8,7 @@ modified_time: '2008-04-01T11:03:04.042-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1155644233597603649
 blogger_orig_url: https://chrisglein.blogspot.com/2008/01/lord-of-rings-online-pc.html
 ---
+<p class="playLine top"><span class='playIcon pc'></span>Played on PC</p>
 
 When is the appropriate time to evaluate an MMO?  I usually post a review of a game after I finish it, but MMOs are designed to have no end to them.  I could give a first impression, but many of the finer gameplay elements are not immediately available or apparent.  In fact, MMO systems are generally so large and complex that I might not understand the "bigger picture" until the time I've invested is approaching triple-digit hours.  So it is that I've gone so long without saying much about <a href="http://www.metacritic.com/games/platforms/pc/middleearthonline?q=lord%20of%20the%20rings%20online">Lord of the Rings Online</a>.
 <!--more-->

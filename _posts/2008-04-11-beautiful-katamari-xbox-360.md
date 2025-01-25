@@ -8,6 +8,7 @@ modified_time: '2008-04-11T10:30:34.668-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4998609464640354565
 blogger_orig_url: https://chrisglein.blogspot.com/2008/04/beautiful-katamari-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 If you've played one Katamari game, you've played them all.  There have been some small variations on the core formula, but it hasn't strayed too far from "roll up stuff and get big."  Which is good, because that simple thing is so entertaining.  If you've spent a lot of hours on the PS2 Katamari games, there's not much new to play around with in <a href="http://www.gamefly.com/products/detail.asp?pid=125415">Beautiful Katamari</a> on the Xbox 360.  But if you've never experienced the joy of rolling up huge balls of crap, Beautiful Katamari delivers.  You'll grow from the size of a penny to be bigger than the sun, all while listening to crazy <a href="http://www.youtube.com/watch?v=i-Kkhlewdk8&amp;feature=related">J-Pop</a>.
 <!--more-->

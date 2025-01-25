@@ -8,6 +8,7 @@ modified_time: '2008-04-03T22:25:16.367-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7996637037895000148
 blogger_orig_url: https://chrisglein.blogspot.com/2008/02/tabula-rasa-pc.html
 ---
+<p class="playLine top"><span class='playIcon pc'></span>Played on PC</p>
 
 I've been <a href="http://chrisglein.blogspot.com/search/label/mmo">struggling</a> to figure out how I feel about the MMO genre.  I love the epic worlds and character persistence, but I hate so many of the game mechanics that slow enjoyment to a crawl.  I definitely have the capacity to enjoy these kinds of games, but the concentration of good stuff is extremely diluted.  I feel like I'm in denial about a failing relationship because once in awhile we connect and I forget about all the arguing and apathy.
 <!--more-->

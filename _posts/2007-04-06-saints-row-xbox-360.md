@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.336-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4224575278993552449
 blogger_orig_url: https://chrisglein.blogspot.com/2007/04/saints-row-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 I actually finished Saints Row a couple weeks ago, but I felt compelled to keep playing it because there was just so much extra stuff to do (links: <a href="http://www.gamespot.com/pages/video_player/popup.php?sid=6156774&pid=928235">GameSpot</a>, <a href="http://xbox360.gamespy.com/xbox-360/saints-row/729563p1.html">GameSpy</a>, <a href="http://www.gamefly.com/products/detail.asp?pid=116745">GameFly</a>).  The game is an unabashed <a href="http://en.wikipedia.org/wiki/Grand_Theft_Auto_%28series%29">GTA</a> clone, but it's a pretty decent one.  It nails all the core elements of driving and shooting, and gives you plenty of varied missions.  It doesn't hit the strong thematic stride of <a href="http://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City">Vice City</a> or <a href="http://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas">San Andreas</a>, making it feel more like GTA <a href="http://en.wikipedia.org/wiki/GTA_III">III</a> but with more contemporary gameplay.
 <!--more-->

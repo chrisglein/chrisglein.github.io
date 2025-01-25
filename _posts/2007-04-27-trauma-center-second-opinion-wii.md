@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.332-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1301623093266665645
 blogger_orig_url: https://chrisglein.blogspot.com/2007/04/trauma-center-second-opinion-wii.html
 ---
+<p class="playLine top"><span class='playIcon wii'></span>Played on Wii</p>
 
 There was an article over on GameSpy awhile back about how innovation in games is <a href="http://www.gamespy.com/articles/777/777136p1.html">overrated</a>  And I agree with them - there's nothing wrong with an incremental evolution of an old formula.  But it is quite refreshing when something totally different comes along.  Trauma Center: Second Opinion is one of those games (links: <a href="http://www.gamespot.com/pages/video_player/popup.php?sid=6162005&pid=933018">GameSpot</a>, <a href="http://wii.gamespy.com/wii/trauma-center-wii/746619p1.html">GameSpy</a>, <a href="http://www.gamefly.com/products/detail.asp?pid=121185">GameFly</a>).  In it you play the role of surgeon, using your wiimote to slice, dice, and stitch your patients into good health.  It's the sort of experience that couldn't really happen on any other platform (save the <a href="http://ds.gamespy.com/nintendo-ds/caduceus/655513p1.html">DS</a>).
 <!--more-->

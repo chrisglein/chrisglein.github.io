@@ -3,11 +3,12 @@ layout: post
 title: 'Geometry Wars: Retro Evolved 2'
 date: '2008-08-12T18:30:00.000-07:00'
 author: Chris Glein
-tags: xbox-360 video-games review
+tags: xbox-360 video-games review indie
 modified_time: '2008-08-12T18:37:07.315-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1445629218970626970
 blogger_orig_url: https://chrisglein.blogspot.com/2008/08/geometry-wars-retro-evolved-2-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 <a href="http://www.giantbomb.com/geometry-wars-retro-evolved/61-11099/">Geometry Wars: Retro Evolved</a> was the title that really kicked off the whole Xbox Live Arcade thing.  It combined classic simple gameplay with high production values at a low price, making it hard not to like.  It's been quite some time since then, and this whole notion of small scale downloadable games on consoles has really taken off.  And after all this time we now have a sequel, <a href="http://www.giantbomb.com/geometry-wars-retro-evolved-2/61-21167/reviews/">Geometry Wars: Retro Evolved 2</a>.
 <!--more-->

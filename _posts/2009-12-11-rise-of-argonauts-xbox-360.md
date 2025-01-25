@@ -8,6 +8,7 @@ modified_time: '2009-12-11T12:08:50.221-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5535168315770440692
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/rise-of-argonauts-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 I'm not as much of a slave to my Gamefly queue as <a href="http://chrisglein.blogspot.com/2009/12/scarface.html">I am to my Netflix queue</a>.  Given the various platforms and their different economic models it's hard for rentals to be a large percentage.  At any point I'll generally have a disc out from Gamefly, an <a href="http://chrisglein.blogspot.com/search/label/mmo">MMO</a> I'm poking around in, a handheld game for the bus, some slow burner on the console that would take too long to rent, and some downloadable game.  But I'm always trying to push as much of my gaming to rental as possible, which is the smartest option for my rate of play.  It has the side effect of encouraging me to try games I would never risk real permanent money on.  Which means I throw stuff into my queue that is sometimes pretty borderline.
 <!--more-->

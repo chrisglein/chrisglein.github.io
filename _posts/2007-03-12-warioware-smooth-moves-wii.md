@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.340-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1149887256351931161
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/warioware-smooth-moves-wii.html
 ---
+<p class="playLine top"><span class='playIcon wii'></span>Played on Wii</p>
 
 Warioware: Smooth Moves (<a href="http://wii.gamespy.com/wii/warioware-smooth-moves/758022p1.html">GameSpy</a>, <a href="http://www.gamespot.com/wii/puzzle/wariowaresmoothmoves/review.html">GameSpot</a>, <a href="http://www.gamefly.com/products/detail.asp?pid=122455">GameFly</a>) is my fourth contact with the Warioware series. And it feels like all the previous iterations were just building up to this one. It <a href="http://gba.gamespy.com/gameboy-advance/wario-ware-inc-mega-microgame-/5867p1.html">arrived on the GBA</a>. Multiplayer was added when it was <a href="http://cube.gamespy.com/gamecube/wario-ware-inc-mega-party-game/504282p1.html">ported to the GameCube</a>. When it <a href="http://ds.gamespy.com/nintendo-ds/wario-ware-ds/587485p1.html">hit the DS</a> it brought a more intuitive set of controls. And then it <a href="http://gba.gamespy.com/gameboy-advance/mawaru-wario-ware/619291p1.html">revisited the GBA</a> to experiment with motion controls (which is the one title I missed). And now it's here on the Wii, and the Wiimote makes it the best yet.
 <!--more-->

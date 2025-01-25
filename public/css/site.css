@@ -54,6 +54,9 @@
   font-size: smaller;
   margin-bottom: 2rem;
 }
+.playLine.top {
+  margin-top: 0rem;
+}
 
 .playIcon {
   height: 1em;
@@ -75,6 +78,22 @@
 .playLine .xbox,
 .playIcon.xbox {
   background-image: url(/media/xbox.png);
+}
+.playLine .xbox360,
+.playIcon.xbox360 {
+  background-image: url(/media/xbox360.png);
+}
+.playLine .ds,
+.playIcon.ds {
+  background-image: url(/media/ds.png);
+}
+.playLine .wii,
+.playIcon.wii {
+  background-image: url(/media/wii.png);
+}
+.playLine .pc,
+.playIcon.pc {
+  background-image: url(/media/pc.png);
 }
 .playLine .hbo,
 .playIcon.hbo {

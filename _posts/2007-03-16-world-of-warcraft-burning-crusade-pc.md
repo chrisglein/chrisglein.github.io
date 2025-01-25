@@ -8,6 +8,7 @@ modified_time: '2008-04-01T11:10:40.068-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1811977416870093197
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/world-of-warcraft-burning-crusade-pc.html
 ---
+<p class="playLine top"><span class='playIcon pc'></span>Played on PC</p>
 
 I held it off as long as possible, but at last I have hit level 70 in World of Warcraft (TBC reviews: <a href="http://www.gamespot.com/pages/video_player/popup.php?sid=6165441&pid=928901">GameSpot</a>, <a href="http://pc.gamespy.com/pc/world-of-warcraft-expansion/759091p1.html">GameSpy</a>).  I had no interest in rushing the journey from 60 to 70 because I knew that the returns diminish pretty dramatically after you hit the level cap.  It's likely that Blizzard has handled it better this time around, but it's a fundamental limitation of this kind of game that at some point the content thins out and they have to string you along with a decreasing time/value proposition.  So I've absolutely taken my time to smell all the flowers as I've strolled through The Burning Crusade.
 <!--more-->

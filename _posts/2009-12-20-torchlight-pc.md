@@ -8,6 +8,7 @@ modified_time: '2009-12-20T20:47:18.810-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5874065690687142430
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/torchlight-pc.html
 ---
+<p class="playLine top"><span class='playIcon pc'></span>Played on PC</p>
 
 Okay, enough talking about games that <a href="http://chrisglein.blogspot.com/2009/12/legend-of-zelda-phantom-hourglass-ds.html">used to be better</a>.  It's time for some positive evolution.
 <!--more-->

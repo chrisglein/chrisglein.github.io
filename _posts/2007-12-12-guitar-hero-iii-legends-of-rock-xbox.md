@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.324-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1223830791167107097
 blogger_orig_url: https://chrisglein.blogspot.com/2007/12/guitar-hero-iii-legends-of-rock-xbox.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 It's hard to talk about <a href="http://www.gamefly.com/products/detail.asp?pid=127900">Guitar Hero III</a> without also blabbing about <a href="http://www.gamefly.com/products/detail.asp?pid=128175">Rock Band</a>, but I'll do my best to fight the temptation.  We'll save that comparison for when I do a proper <em>Rock Band</em> review.  But it's totally fair to start talking about <em>Guitar Hero III</em> by looking back at what I had to say about <a href="http://chrisglein.blogspot.com/2007/05/guitar-hero-ii-xbox-360.html">Guitar Hero II</a>. 
 <!--more-->

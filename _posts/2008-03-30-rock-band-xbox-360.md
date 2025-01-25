@@ -8,6 +8,7 @@ modified_time: '2008-03-30T16:53:33.938-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-741064701176700425
 blogger_orig_url: https://chrisglein.blogspot.com/2008/03/rock-band-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 Back in December I was <a href="http://chrisglein.blogspot.com/2007/12/guitar-hero-iii-legends-of-rock-xbox.html">harsh to Guitar Hero III</a>, but with good reason.  By the time I was trying to write down my thoughts on Guitar Hero I had already started playing Rock Band.  And Rock Band blows Guitar Hero out of the water.
 <!--more-->

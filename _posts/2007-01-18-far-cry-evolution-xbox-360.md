@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.358-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3260855465641070783
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/far-cry-evolution-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 The second campaign in <a href="http://xbox360.gamespy.com/xbox-360/far-cry-instincts/699889p1.html">Far Cry Instincts Predator</a> for the Xbox 360, called <em>Evolution</em>, managed to suck a lot less.
 <!--more-->

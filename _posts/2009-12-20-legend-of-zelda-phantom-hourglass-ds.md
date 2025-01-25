@@ -8,6 +8,7 @@ modified_time: '2009-12-20T20:21:17.366-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5689754777969426340
 blogger_orig_url: https://chrisglein.blogspot.com/2009/12/legend-of-zelda-phantom-hourglass-ds.html
 ---
+<p class="playLine top"><span class='playIcon ds'></span>Played on Nintendo DS</p>
 
 The new release of <a href="http://www.gametrailers.com/video/review-zelda-spirit/59651">Spirit Tracks</a> reminds me that I never commented on it's predecessor, <a href="http://www.gametrailers.com/video/review-zelda-phantom/26278">Phantom Hourglass</a>.  It's not that I didn't play it - I did.  But I sent it back after only a couple sittings.  I know, I know - I sent back a freaking Zelda games.
 <!--more-->

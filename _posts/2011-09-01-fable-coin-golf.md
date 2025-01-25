@@ -9,6 +9,7 @@ thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI5O4gb6VD
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-8821490251288129409
 blogger_orig_url: https://chrisglein.blogspot.com/2011/09/fable-coin-golf.html
 ---
+<p class="playLine"><span class='playIcon windowsphone'></span>Played on Windows Phone</p>
 
 <p>I've had a couple people ask me if I could disseminate the results from my various Windows Phone gaming expeditions. I keep putting it off, but the fact that <a href="http://redirect.zune.net/External/LaunchZuneProtocol.aspx?pathuri=navigate?phoneAppID=788c002f-5649-e011-854c-00237de2db9e&amp;source=1800PocketPC">Fable Coin Golf</a> is <a href="http://www.bestwp7games.com/deal-of-the-week-fable-coin-golf.html">on sale</a> this week reminded me to stop procrastinating.</p>  
 <!--more-->

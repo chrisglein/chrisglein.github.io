@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.350-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5778402969658691202
 blogger_orig_url: https://chrisglein.blogspot.com/2007/02/final-fantasy-iii-ds.html
 ---
+<p class="playLine top"><span class='playIcon ds'></span>Played on Nintendo DS</p>
 
 I'm happy to say that after <a href="http://chrisglein.blogspot.com/2007/02/beware-of-port.html">some difficulty</a> I finally finished <a href="http://en.wikipedia.org/wiki/Final_fantasy_iii">Final Fantasy III</a> for the DS (Links: <a href="http://ds.gamespy.com/nintendo-ds/final-fantasy-iii/746923p1.html">GameSpy</a>, <a href="http://www.gamespot.com/ds/rpg/finalfantasyiii/review.html">GameSpot</a>, <a href="http://www.gamefly.com/products/detail.asp?pid=120990">GameFly</a>).  And I'm having some trouble deciding exactly how I feel about it.
 <!--more-->

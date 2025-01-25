@@ -8,6 +8,7 @@ modified_time: '2010-01-03T15:09:15.337-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7329553531412746255
 blogger_orig_url: https://chrisglein.blogspot.com/2010/01/beatles-rock-band-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 My <a href="http://chrisglein.blogspot.com/2008/03/rock-band-xbox-360.html">love affair</a> with rhythm video games has cooled a bit. I don't lust after the experience like I once did. I'll never turn down an opportunity to play, but it's not something I'm generally seeking out anymore.
 <!--more-->

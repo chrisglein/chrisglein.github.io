@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.344-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3476112469996288122
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/crackdown-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 Well, that didn't take long.  I finished Crackdown (links: <a href="http://xbox360.gamespy.com/xbox-360/crackdown/765817p1.html">GameSpy</a>, <a href="http://www.gamespot.com/xbox360/action/crackdown/review.html">GameSpot</a>, <a href="http://www.gamefly.com/products/detail.asp?pid=123220">GameFly</a>) before I was even able to add it to my "Now Playing" list.  Which you think would have me fuming about value or something.  But I'm not.  I actually had a blast playing Crackdown.  I'd recommend you rent it, not buy it, but it's definitely a really fun game that's just different enough from the other games out there to feel fresh.
 <!--more-->

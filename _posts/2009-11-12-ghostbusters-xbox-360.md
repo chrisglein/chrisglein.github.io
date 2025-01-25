@@ -8,6 +8,7 @@ modified_time: '2009-11-12T18:28:43.482-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3686708859935106785
 blogger_orig_url: https://chrisglein.blogspot.com/2009/11/ghostbusters-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 Like many, the first time I went roller skating I was timid and hugged the wall the whole time. But there was a turning point where I finally gained enough confidence to let go, power skate as fast as I could, and really enjoy myself. That point was when the Ghostbusters <a href="http://social.zune.net/album/Various-Artists/Ghostbusters--Original-Soundtrack-Album/55422c00-0100-11db-89ca-0019b92a3933/details">theme song</a> came on. I remember later in my life, going to some skating birthday party where my mom told this little factoid to a girl I was crushing on. I was mortified, of course. But apparently it doesn't embarrass me now, as I sit freely blogging it to The Internet.
 <!--more-->

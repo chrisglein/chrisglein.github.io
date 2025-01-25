@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.359-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-66504027992174368
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/far-cry-instincts-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 I finished the two campaigns in Far Cry Instincts Predator (Xbox 360) (<a href="http://xbox360.gamespy.com/xbox-360/far-cry-instincts/699889p1.html">GameSpy</a>, <a href="http://www.gamespot.com/xbox360/action/farcryinstinctspredator/media.html?mode=exclusive">GameSpot</a>) and sent the game back to GameFly with mixed feelings. In many ways, the game was thoroughly disappointing. But in other ways it was inspiring.
 <!--more-->

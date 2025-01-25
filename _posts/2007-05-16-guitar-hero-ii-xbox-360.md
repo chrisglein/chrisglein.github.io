@@ -8,6 +8,7 @@ modified_time: '2008-04-01T10:55:17.328-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3598030672229455099
 blogger_orig_url: https://chrisglein.blogspot.com/2007/05/guitar-hero-ii-xbox-360.html
 ---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 
 It's hard to really explain how much I love Guitar Hero II.  But I don't really have to, because everyone else seems to as well (reviews: <a href="http://www.gamespot.com/pages/video_player/popup.php?sid=6168560&pid=935834">GameSpot</a>, <a href="http://xbox360.gamespy.com/xbox-360/guitar-hero-2/778081p1.html">GameSpy</a>, <a href="http://www.gamerankings.com/htmlpages2/935834.asp">GameRankings</a>).  It's one of those games that anyone can play and have a blast.  I played the <a href="http://www.gamespot.com/ps2/puzzle/guitarhero/review.html">first</a> Guitar Hero for the PS2, which totally rocked, but the sequel's arrival on the Xbox 360 is a distinct upgrade.  The graphics are totally better, although that's more a feature for the spectators, not the player.  There's a cooperative mode where one player can play lead and the other can play rhythm or bass.  There are more songs.  As a 360 title there are achievements, which are well balanced.  There are also leaderboards where you can size yourself up against your friends or the whole world (I'm currently ranked around 13,000).  The gameplay itself is more of the same, but no one's complaining about that.
 <!--more-->
