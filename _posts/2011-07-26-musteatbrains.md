@@ -16,7 +16,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2011/07/musteatbrains.html
 
 I present to you, my game for Windows Phone: [MustEatBrains](http://windowsphone.com/s?appid=feabce8d-c6af-e011-a53c-78e7d1fa76f8)!
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFISgJupaLVXWNGZ-79bs3f2y5XfZy3EN6wQtyfjFLqshyIJC_TF4aBxAdSIfV_chyphenhyphenI-66pUHfNzo8AhQePGCE5Zv6SvJOcUqsjLXuXgAViNoP7JuAcllLTJHGAdgQ-iFdJmTIfEzqzt4/s1600/Frame5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="192" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFISgJupaLVXWNGZ-79bs3f2y5XfZy3EN6wQtyfjFLqshyIJC_TF4aBxAdSIfV_chyphenhyphenI-66pUHfNzo8AhQePGCE5Zv6SvJOcUqsjLXuXgAViNoP7JuAcllLTJHGAdgQ-iFdJmTIfEzqzt4/s320/Frame5.png" width="320" /></a></div>
+![Frame5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFISgJupaLVXWNGZ-79bs3f2y5XfZy3EN6wQtyfjFLqshyIJC_TF4aBxAdSIfV_chyphenhyphenI-66pUHfNzo8AhQePGCE5Zv6SvJOcUqsjLXuXgAViNoP7JuAcllLTJHGAdgQ-iFdJmTIfEzqzt4/s320/Frame5.png)
 
 The marketplace description:
 > Choose either to fight on the side of the living or the undead horde in this handcrafted action game.  It's an all out brawl!  How long will you last?

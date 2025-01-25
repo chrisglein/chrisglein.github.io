@@ -15,6 +15,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2011/04/postcards-from-middle-
 ---
 
 I'm generally [not a fan](http://theoatmeal.com/comics/photos) of landscape photography. Maybe it's because the subject matter is infinitely patient. In general the photo will have everything in focus, and whatever is being captured has been there longer than you or I. There's no immediacy to it. Sure, mountains and trees and waterfalls are pretty, but I just don't know what a landscape photo is telling me other than "doesn't wherever you are now suck in comparison?"
+<!--more-->
 
 While writing my series on [Lord of the Rings Online](http://chrisglein.blogspot.com/2011/03/lotro-revisited-part-1-world.html) I decided I wanted screenshots to go with it, and that for some reason it was important that they be personally taken screenshots instead of stock images from whatever the internet had to offer. As I went about I decided I really enjoyed the hunt. No longer was I just some hero in Middle Earth; now I was some hero *with a camera*.
 

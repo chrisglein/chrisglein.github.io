@@ -15,6 +15,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2011/05/postcards-from-middle-
 ---
 
 [Continuing](http://chrisglein.blogspot.com/2011/04/postcards-from-middle-earth-part-1.html) our pictorial journey through Middle-Earth…
+<!--more-->
 
 ![Bree Night](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE_EURy-NrpJphM9FI4sSqqUrKXcn-tpW9grn0BcAWh2dEv0lk2ViYZt6mpOoSokxfqkIGMyeAyD-buHAhNoNXSWlofQ_uNGO7MwTKYdk94fr_tSamFMT3gxXKqAORW3Fh9cYKYUV9r4A/s320/Bree_Night.jpg)
 
