@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-37220360856445981
 blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-4-systems.html
 ---
 
-Well, this fourth part of my return to <a href="http://my.lotro.com/referral/pnb">Lord of the Rings Online</a> is maybe a bit more on the nerdy side. It's not about <a href="http://chrisglein.blogspot.com/2011/03/lotro-revisited-part-2-keeping-busy.html">what</a> you can do, or <a href="http://chrisglein.blogspot.com/2011/03/lotro-revisited-part-1-world.html">where</a> you do it; it's about *how* you do it. The mechanics of the game.
+Well, this fourth part of my return to [Lord of the Rings Online](http://my.lotro.com/referral/pnb) is maybe a bit more on the nerdy side. It's not about [what]({% post_url /2011-03-18-lotro-revisited-part-2-keeping-busy %}) you can do, or [where]({% post_url /2011-03-16-lotro-revisited-part-1-world %}) you do it; it's about *how* you do it. The mechanics of the game.
 <!--more-->
 
 **Combat**

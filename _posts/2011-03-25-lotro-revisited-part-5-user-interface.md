@@ -10,10 +10,10 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-76532105103615971
 blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-5-user-interface.html
 ---
 
-We're now at part five of my ramblings on <a href="http://my.lotro.com/referral/pnb">Lord of the Rings Online</a>. Time to stop beating around the bush and start complaining about what I really want to complain about: User Interface
+We're now at part five of my ramblings on [Lord of the Rings Online](http://my.lotro.com/referral/pnb). Time to stop beating around the bush and start complaining about what I really want to complain about: User Interface
 <!--more-->
 
-*"LotRO's UI is approachable, largely due to its similarity with WoW, but it lacks the same polish… There are a ton of small issues with the interface - I could really go on and on."*
+LotRO's UI is approachable, largely due to its similarity with WoW, but it lacks the same polish… There are a ton of small issues with the interface - I could really go on and on.
 
 During almost every topic I've covered on this game at one point or another I've mentioned problems with the user interface. I should put a disclaimer here: I'm a professional user interface developer. It's safe to say that I'm more sensitive to this class of issue than most people. But the reason I do this for a living is because I think it's *extremely* important. Good interface creates happy experiences; bad interface creates frustrating experiences.
 
@@ -21,11 +21,11 @@ Looking at the progress of this game over the years, it has gotten better. They 
 
 **Iconography**
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51_8MWuFlosTFuJtDX_Gf-xFekvgKj9gcEIzmjdNdq99oDsHC8i3xnnNresnCeNWf3kjBo0g8urVlEaUbkfCr7fK263JFZ0a8GyH1W4xIxr19B6__THo9ye1fIxDtDKRAbIf5d91dMnU/s1600/Web_ActionBar28.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="136" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51_8MWuFlosTFuJtDX_Gf-xFekvgKj9gcEIzmjdNdq99oDsHC8i3xnnNresnCeNWf3kjBo0g8urVlEaUbkfCr7fK263JFZ0a8GyH1W4xIxr19B6__THo9ye1fIxDtDKRAbIf5d91dMnU/s320/Web_ActionBar28.jpg" width="320" /></a></div>
+![Action Bar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51_8MWuFlosTFuJtDX_Gf-xFekvgKj9gcEIzmjdNdq99oDsHC8i3xnnNresnCeNWf3kjBo0g8urVlEaUbkfCr7fK263JFZ0a8GyH1W4xIxr19B6__THo9ye1fIxDtDKRAbIf5d91dMnU/s320/Web_ActionBar28.jpg)
 
 *"Icons are too small and lack strong enough silhouettes to be quickly identified."*
 
-Let's look at the action bar screenshot above that I talked about <a href="http://chrisglein.blogspot.com/2011/03/lotro-revisited-part-4-systems.html">last time</a>. There are a couple things you might notice, but the first is probably that the icons are incredibly tiny. 32x32 pixels, specifically. You can scale this bar up, but the source assets are 32x32, so the scaled up version looks terrible. By comparison WoW's source icons are 64x64, containing 4 times the amount of information.
+Let's look at the action bar screenshot above that I talked about [last time]({% post_url /2011-03-23-lotro-revisited-part-4-systems %}). There are a couple things you might notice, but the first is probably that the icons are incredibly tiny. 32x32 pixels, specifically. You can scale this bar up, but the source assets are 32x32, so the scaled up version looks terrible. By comparison WoW's source icons are 64x64, containing 4 times the amount of information.
 
 So why are they so small? Well, I'm pretty sure that's because of design choices made in the skill system. If there are many skills to choose from then the icons need to be very small to fit on screen. The decision to regularly give the player new toys has lead to these icons being small.
 
@@ -35,7 +35,7 @@ You'll notice that the attack skills all have a red background to their icon. Sk
 
 The other problem, other than small size and uniform color, is that the icons are trying to be little paintings. There's too much detail in those 32x32 dimensions. I think it's time for a comparison:
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4f5NqJPTPcmxNHxJnFe_ybcBtma1jqxDl046OUtX-XysgnHAN6mPh3SOrndKrYdIxJtTD9bOcx5oQWR_pSqjDxsQWIXYjnnm6NOEdrJ9ygOgk-ZaCUrX54wMckxTSC7u8b6qUql-G7g/s1600/MMOActionBar.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4f5NqJPTPcmxNHxJnFe_ybcBtma1jqxDl046OUtX-XysgnHAN6mPh3SOrndKrYdIxJtTD9bOcx5oQWR_pSqjDxsQWIXYjnnm6NOEdrJ9ygOgk-ZaCUrX54wMckxTSC7u8b6qUql-G7g/s320/MMOActionBar.jpg" width="297" /></a></div>
+![MMO Action Bar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4f5NqJPTPcmxNHxJnFe_ybcBtma1jqxDl046OUtX-XysgnHAN6mPh3SOrndKrYdIxJtTD9bOcx5oQWR_pSqjDxsQWIXYjnnm6NOEdrJ9ygOgk-ZaCUrX54wMckxTSC7u8b6qUql-G7g/s320/MMOActionBar.jpg)
 
 Here we have samples from 7 different MMOs. This is by no means a comprehensive list, it's just a set of MMOs that I personally have played (or have seen played, in the case of Rift). Not all of the above have excellent iconography, but you'll notice the ones from LotRO really blur together into one mass. The icons are too tightly grouped, they all have the same color, and it's hard to pick out strong silhouettes.
 
@@ -43,7 +43,7 @@ At this point you might think I'm nit picking. But your average MMO player spend
 
 **Inventory**
 
-<div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyIl_UXtCCjYrMZg1z7g9FyGEmpF_9EsaBIsQxp2N_xWRndRh3MV9rfJU8mdN_1pJ8-XSdLuvpCMn2DziS3uAtx8oMSmgRBY2bQTNCMk2MaCkE2_BlXfo7H2e2QllGvRmajt78ABUXAV4/s1600/Web848_Sell.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyIl_UXtCCjYrMZg1z7g9FyGEmpF_9EsaBIsQxp2N_xWRndRh3MV9rfJU8mdN_1pJ8-XSdLuvpCMn2DziS3uAtx8oMSmgRBY2bQTNCMk2MaCkE2_BlXfo7H2e2QllGvRmajt78ABUXAV4/s320/Web848_Sell.jpg" width="320" /></a></div>
+![Inventory](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyIl_UXtCCjYrMZg1z7g9FyGEmpF_9EsaBIsQxp2N_xWRndRh3MV9rfJU8mdN_1pJ8-XSdLuvpCMn2DziS3uAtx8oMSmgRBY2bQTNCMk2MaCkE2_BlXfo7H2e2QllGvRmajt78ABUXAV4/s320/Web848_Sell.jpg)
 
 *"The bag view is frustrating because you can't do key tasks from there like sell."*
 

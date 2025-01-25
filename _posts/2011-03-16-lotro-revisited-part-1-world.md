@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-33588700259711204
 blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-1-world.html
 ---
 
-Now that I've put up my complete words [from 2008](http://chrisglein.blogspot.com/2011/03/lord-of-rings-online-circa-2008.html), it's time to re-evaluate the [Lord of the Rings Online](http://my.lotro.com/referral/pnb) of today.
+Now that I've put up my complete words [from 2008]({% post_url /2011-03-14-lord-of-rings-online-circa-2008 %}), it's time to re-evaluate the [Lord of the Rings Online](http://my.lotro.com/referral/pnb) of today.
 <!--more-->
 
 *"... there's no doubt in my mind that WoW is a superior game. But when you've exhausted all of WoW's content, and you haven't written off the genre as a whole, you can do worse than to slum it out to LotRO."*

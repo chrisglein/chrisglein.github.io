@@ -10,7 +10,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lord-of-rings-online-c
 ---
 <p class="playLine top"><span class='playIcon pc'></span>Played on PC</p>
 
-Recently Lord of the Rings Online went <a href="http://www.lotro.com/free.php?">free to play</a>, which is to say you can play the game without a subscription or even a credit card. Of course there are all sorts of potential microtransactions available so that Turbine can actually make money on their game, but these are all completely optional. Since there's no cost to me I decided to log in and check out the game (the last time I played was alongside the Mirkwood expansion about a year ago). And as I evaluated the game in its current state against adjusted criteria I thought it'd be interesting to revistwhat I'd written about the game in the past <a href="http://chrisglein.blogspot.com/search/label/lotro">here</a>. It was at that point that I realized that there was a lot of content that I wrote about the game that somehow never got posted. So, I present to you what was intended to be an immediate follow-up to <a href="http://chrisglein.blogspot.com/2008/01/lord-of-rings-online-pc.html">this post</a>, further thoughts about Lord of the Rings Online, three years ago (circa early 2008).
+Recently Lord of the Rings Online went <a href="http://www.lotro.com/free.php?">free to play</a>, which is to say you can play the game without a subscription or even a credit card. Of course there are all sorts of potential microtransactions available so that Turbine can actually make money on their game, but these are all completely optional. Since there's no cost to me I decided to log in and check out the game (the last time I played was alongside the Mirkwood expansion about a year ago). And as I evaluated the game in its current state against adjusted criteria I thought it'd be interesting to revistwhat I'd written about the game in the past <a href="http://chrisglein.blogspot.com/search/label/lotro">here</a>. It was at that point that I realized that there was a lot of content that I wrote about the game that somehow never got posted. So, I present to you what was intended to be an immediate follow-up to [this post]({% post_url /2008-01-15-lord-of-rings-online-pc %}), further thoughts about Lord of the Rings Online, three years ago (circa early 2008).
 <!--more-->
 
 Huge disclaimer: there are things I talk about below that have changed over the past three years. I'll be following this post with my thoughts on how far the game has come. But I'm intentionally posting this as is, even though some of the statements are now inaccurate.
@@ -19,7 +19,7 @@ Huge disclaimer: there are things I talk about below that have changed over the 
 
 **World and Travel**
 
-This is the only part of what I wrote that made it to the blog already. You can read about it <a href="http://chrisglein.blogspot.com/2008/01/lord-of-rings-online-pc.html">here</a>.
+This is the only part of what I wrote that made it to the blog already. You can read about it [here]({% post_url /2008-01-15-lord-of-rings-online-pc %}).
 
 **Advancement - Deeds, Traits, and Levels**
 

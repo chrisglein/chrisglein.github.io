@@ -9,7 +9,31 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-78037493348988429
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/gamasutra-rethinking-mmo.html
 ---
 
-Gamasutra posted a great article on <a href="http://www.gamasutra.com/features/20070326/sorens_01.shtml">Rethinking the MMO</a>.  If you've ever played one of these games, it's worth a good read.<br /><br />I've pulled out some quotes that spoke to me:
+Gamasutra posted a great article on [Rethinking the MMO](http://www.gamasutra.com/features/20070326/sorens_01.shtml). If you've ever played one of these games, it's worth a good read.
+
+I've pulled out some quotes that spoke to me:
 <!--more-->
 
-<blockquote>"To make matters worse, the game mechanics do not often require players to adapt in a meaningful way, leading to repetitive encounters where the player performs the same set of actions every time."</blockquote><br /><blockquote>"Players will spend hours at a time churning through feeble, ineffectual opponents rather than taking on more risk, because the game rewards them more for adopting this style of play."</blockquote><blockquote>"it is natural for players to want to empty the cookie jar of quantifiable accomplishment as quickly as possible, even if they get a stomachache in the process."</blockquote><blockquote>"Players should not have to choose between building their persistent entity and doing something fun."</blockquote><blockquote>"There is rarely creativity involved, and the only meaningful customization is typically a series of one-time choices made at the start of the game (character creation)"</blockquote><blockquote>"Although they are still constrained to the path dictated by the designer, there are few interesting experiences between the start and end, the trip is painfully slow and entirely predictable, and the whole point of the journey is to get to a destination, not to enjoy the ride."</blockquote><blockquote>"In the land where everyone’s a hero, heroes are commoners.<br />In a game where gaining power is the primary goal of the game, this design flaw is significant."</blockquote><br /><blockquote>"RPGs are about saving the world or otherwise fixing some sort of hefty problem. The objective purportedly is to alter the game world. An RPG where altering the game world would break the game therefore has a serious flaw."</blockquote><blockquote>"While it is certainly debatable whether such games are evil, soul-consuming, life-wrecking monsters, the fact remains that they are more enjoyable when played in long stretches than when played in short ones."</blockquote><br /><blockquote>"Playing with others is fun; organizing and preparing is not. "</blockquote><br />The article doesn't pull any punches when criticizing the genre, but it's obviously written by people that love these games and really want to see them improve.  And I'm totally with them.  The key things that make the MMO appealing are persistence and epic scale.  But the classic RPG gameplay expanded to this model doesn't always hold up.<br /><br />I enjoy WoW.  Obviously I wouldn't play it so much if I didn't.  In this brutal genre WoW is more friendly than most.  And its <a href="http://chrisglein.blogspot.com/2007/03/world-of-warcraft-burning-crusade-pc.html">recent expansion</a> has improved this even more.  But there are still a lot of places where it could evolve.  I hope the good folks at Blizzard are taking these issues to heart and thinking about how to give their crack more substance... while maintaining the trademark addictive aftertaste.
+> "To make matters worse, the game mechanics do not often require players to adapt in a meaningful way, leading to repetitive encounters where the player performs the same set of actions every time."
+
+> "Players will spend hours at a time churning through feeble, ineffectual opponents rather than taking on more risk, because the game rewards them more for adopting this style of play."
+
+> "it is natural for players to want to empty the cookie jar of quantifiable accomplishment as quickly as possible, even if they get a stomachache in the process."
+
+> "Players should not have to choose between building their persistent entity and doing something fun."
+
+> "There is rarely creativity involved, and the only meaningful customization is typically a series of one-time choices made at the start of the game (character creation)"
+
+> "Although they are still constrained to the path dictated by the designer, there are few interesting experiences between the start and end, the trip is painfully slow and entirely predictable, and the whole point of the journey is to get to a destination, not to enjoy the ride."
+
+> "In the land where everyone’s a hero, heroes are commoners. In a game where gaining power is the primary goal of the game, this design flaw is significant."
+
+> "RPGs are about saving the world or otherwise fixing some sort of hefty problem. The objective purportedly is to alter the game world. An RPG where altering the game world would break the game therefore has a serious flaw."
+
+> "While it is certainly debatable whether such games are evil, soul-consuming, life-wrecking monsters, the fact remains that they are more enjoyable when played in long stretches than when played in short ones."
+
+> "Playing with others is fun; organizing and preparing is not."
+
+The article doesn't pull any punches when criticizing the genre, but it's obviously written by people that love these games and really want to see them improve. And I'm totally with them. The key things that make the MMO appealing are persistence and epic scale. But the classic RPG gameplay expanded to this model doesn't always hold up.
+
+I enjoy WoW. Obviously I wouldn't play it so much if I didn't. In this brutal genre WoW is more friendly than most. And its [recent expansion]({% post_url /2007-03-16-world-of-warcraft-burning-crusade-pc %}) has improved this even more. But there are still a lot of places where it could evolve. I hope the good folks at Blizzard are taking these issues to heart and thinking about how to give their crack more substance... while maintaining the trademark addictive aftertaste.

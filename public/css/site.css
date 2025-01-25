@@ -54,7 +54,10 @@
   font-size: smaller;
   margin-bottom: 2rem;
 }
-.playLine.top {
+.posts .playLine.top {
+  margin-bottom: 0.5rem;
+}
+.playLine.subheader {
   margin-bottom: 0.5rem;
 }
 
@@ -90,6 +93,14 @@
 .playLine .wii,
 .playIcon.wii {
   background-image: url(/media/wii.png);
+}
+.playLine .gba,
+.playIcon.gba {
+  background-image: url(/media/gba.png);
+}
+.playLine .ps2,
+.playIcon.ps2 {
+  background-image: url(/media/ps2.png);
 }
 .playLine .pc,
 .playIcon.pc {

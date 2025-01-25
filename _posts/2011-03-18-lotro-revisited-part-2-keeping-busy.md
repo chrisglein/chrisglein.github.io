@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-30526847467346744
 blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-2-keeping-busy.html
 ---
 
-The [last post](http://chrisglein.blogspot.com/2011/03/lotro-revisited-part-1-world.html) focused on the world of [Lord of the Rings Online](http://my.lotro.com/referral/pnb), because that's the first thing you'll see and care about. This post delves into the details of what to do within that world, once again comparing to my various quotes from three years ago.
+The [last post]({% post_url /2011-03-16-lotro-revisited-part-1-world %}) focused on the world of [Lord of the Rings Online](http://my.lotro.com/referral/pnb), because that's the first thing you'll see and care about. This post delves into the details of what to do within that world, once again comparing to my various quotes from three years ago.
 <!--more-->
 
 **Advancement - Deeds, Traits, and Levels**

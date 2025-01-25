@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-32642964884013175
 blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-3-multiplayer.html
 ---
 
-My <a href="http://chrisglein.blogspot.com/2011/03/lotro-revisited-part-2-keeping-busy.html">last article</a> about <a href="http://my.lotro.com/referral/pnb">Lord of the Rings Online</a> focused on the solo activities one could undertake in Middle Earth. This article will focus on the "Multiplayer" part of the MMO acronym… probably what the rest of you play these games for.
+My [last article]({% post_url /2011-03-18-lotro-revisited-part-2-keeping-busy %}) about [Lord of the Rings Online](http://my.lotro.com/referral/pnb) focused on the solo activities one could undertake in Middle Earth. This article will focus on the "Multiplayer" part of the MMO acronym… probably what the rest of you play these games for.
 <!--more-->
 
 **Instances**

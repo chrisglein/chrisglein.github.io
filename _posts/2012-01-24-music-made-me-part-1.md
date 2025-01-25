@@ -9,7 +9,7 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-44959953155903751
 blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-me-part-1.html
 ---
 
-A note about logistics: the only thing that has kept me from moving forward and posting this <a href="http://chrisglein.blogspot.com/2011/04/music-made-me.html">project</a> is a complete inability to figure out how to best link the music for your consumption. There's no one universal solution that's going to work for everyone. I could go round up the links to iTunes, Amazon, Zune, Rhapsody, and whatever else, but that's a lot of work for me and there's still no guarantee it'd meet everyone's needs. So instead I'm going to trust that if you care to listen along you'll figure out how to get the music on your own (and if possible get more than a 30 second sample). I'll be providing Zune links because that's what I use, and if you’ve got the app and a Zune Pass this should be a smooth experience. If you do the leg work for another service and want to share in the comments, please feel free to.<br />
+A note about logistics: the only thing that has kept me from moving forward and posting this [project]({% post_url /2011-04-28-music-made-me %}) is a complete inability to figure out how to best link the music for your consumption. There's no one universal solution that's going to work for everyone. I could go round up the links to iTunes, Amazon, Zune, Rhapsody, and whatever else, but that's a lot of work for me and there's still no guarantee it'd meet everyone's needs. So instead I'm going to trust that if you care to listen along you'll figure out how to get the music on your own (and if possible get more than a 30 second sample). I'll be providing Zune links because that's what I use, and if you’ve got the app and a Zune Pass this should be a smooth experience. If you do the leg work for another service and want to share in the comments, please feel free to.<br />
 <!--more-->
 <br />
 Okay, with that out of the way we can get started.<br />
@@ -26,7 +26,7 @@ But look, here I am layering on more disclaimers and we’re not even to the dep
 
 <a href="zune://navigate/?trackID=E94FDA00-0100-11DB-89CA-0019B92A3933">Blueberry Hill - Fats Domino</a><br />
 <br />
-We begin at the stretches of memory. This is a song that I recognize instantly, but couldn't place unaided. From what I've gathered it's highly likely that the photo you see <a href="http://chrisglein.blogspot.com/2011/04/guitar-story.html">here</a> could be from a family jam session to this song. Air guitar be damned; real aspiring musicians use a broom. Never mind the fact that the song barely has any guitar in it at all...<br />
+We begin at the stretches of memory. This is a song that I recognize instantly, but couldn't place unaided. From what I've gathered it's highly likely that the photo you see [here]({% post_url /2011-04-21-guitar-story %}) could be from a family jam session to this song. Air guitar be damned; real aspiring musicians use a broom. Never mind the fact that the song barely has any guitar in it at all...<br />
 <br />
 
 <a href="zune://navigate/?trackID=4F041300-0100-11DB-89CA-0019B92A3933">Johnny B. Goode - Chuck Berry</a><br />
