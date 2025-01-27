@@ -13,11 +13,13 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-me-part-3.h
 I'm a child of the Seattle area, so even though I was too young and thoroughly uncool I was exposed to grunge music in real time. Of course at this age all music was essentially new to me so it's not as if I was aware that this particular sub-genre was of the local variety. But this next block of influential songs should show some not-so-subtle commonality. Welcome to the 90's.  
 <!--more-->
 
-### [Come As You Are - Nirvana](zune://navigate/?trackID=7FAE0800-0100-11DB-89CA-0019B92A3933)
+### Come As You Are - Nirvana
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4P5KoWXOxwuobLmHXLMobV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I didn't discuss it in my [guitar story]({% post_url /2011-04-21-guitar-story %}), but the first song I ever learned how to play was "Come As You Are" by Nirvana. Which was followed shortly by "[Lithium](zune://navigate/?trackID=83AE0800-0100-11DB-89CA-0019B92A3933)". The odd thing is that I learned these songs on that nylon string classic acoustic guitar - not exactly ideal for playing a genre renowned for heavy distortion. I didn't really notice - I was still just struggling to actually get the thing in tune.
 
-### [Alive - Pearl Jam](zune://navigate/?trackID=0B391300-0100-11DB-89CA-0019B92A3933)
+### Alive - Pearl Jam
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1L94M3KIu7QluZe63g64rv?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 This song is tied in my head to one Michael Lee, and the experience of the two of us playing guitar together. I remember learning the first couple bars of the guitar solo and quickly getting horribly lost after that. But I pretended to keep up anyway.
 
@@ -25,19 +27,22 @@ Hearing that solo takes me back to the sleepover at that friend's house where we
 
 These were good times. Later, I would suspect that this particular group of friends had become too cool for me. In retrospect now I think this was partially just in my head, but not completely. I probably made it worse on myself in some sort of self-fulfilling prophesy. However at this moment, for this song, I was happy. Middle school hadn't sunk its teeth in yet and I wasn't yet questioning my friendships.
 
-### [Big Empty - Stone Temple Pilots](zune://navigate/?trackID=797CF805-0100-11DB-89CA-0019B92A3933)
+### Big Empty - Stone Temple Pilots
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/07jUylEMp4LBOWZagde8tF?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Someone gave me this album for my birthday, and I remember being disappointed because I had wanted some other album (not that I can remember which one now). Because of that I resisted and didn't appreciate the gems on the album at the time, and shortly thereafter I traded it for something else (which I also can't remember).
 
 In that short superficially dissatisfied time it still managed to plant some seeds that matured later when I no longer had access to the album. As in all of the sudden I'm singing along to "Interstate Love Song" off the car radio and totally loving it. I think there's something about STP that doesn't work when your voice is still cracking.
 
-### [My Wave - Soundgarden](zune://navigate/?trackID=E9100B00-0100-11DB-89CA-0019B92A3933)
+### My Wave - Soundgarden
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ox3xc5CNTDQiAINfzP8Zw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 We're on a family boat trip. For some reason my brother and I are able to split off in his Whaler to go… somewhere. I think we're somewhere near McNeil island, but I never paid the charts any attention so who knows. Anyway, we're in this little boat, racing along with a boom box in the back. And on comes "My Wave". I remember saying that I would never get sick of that sound. Of course the song turned out to be terribly repetitive. But whatever, in that moment, with the sound of the engine roaring and the water slapping the bottom of the boat, it was awesome.
 
 I didn't go explore Soundgarden properly until a year or so later, when I found songs like "[Fell On Black Days](zune://navigate/?trackID=EB100B00-0100-11DB-89CA-0019B92A3933)" that hold up much better for me. This seems to be a recurring pattern - parting from the raw initial loves and returning a the more constrained sound.
 
-### [Elderly Woman Behind a Counter... - Pearl Jam](zune://navigate/?trackID=192E1500-0100-11DB-89CA-0019B92A3933)
+### Elderly Woman Behind a Counter... - Pearl Jam
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5lHgBqh9VwAAzQma55gHRY?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 As hinted above, some combination of voice changing and lack of affinity for lyrics prevented me from really connecting to vocal-heavy songs. Some songs transcend that problem; this is one of them. Even in the throws of adolescence this song demanded I sing along. I know this not because I remember singing to it, but because I actually know the words.
 

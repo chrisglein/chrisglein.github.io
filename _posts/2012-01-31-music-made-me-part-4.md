@@ -10,16 +10,19 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-39683208283724076
 blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-me-part-4.html
 ---
 
-### [Sweating Bullets - Megadeth](zune://navigate/?trackID=5D3E1E00-0100-11DB-89CA-0019B92A3933)
+### Sweating Bullets - Megadeth
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6i7IXg8j7ZngiEOgBYjkhw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 We just went through a rather cohesive set of grunge influences, where's this Megadeth thing coming from? It's certainly true that I never ended up a metal-head, but it's not as if I wasn't exposed to these things. We're entering a period here where there's a lot of divergent influences coming in from my brother and my brother's friends. I remember this song specifically. Something about the hardcore music combined with the funny voice just stuck with me. That and "[Symphony of Destruction](zune://navigate/?trackID=573E1E00-0100-11DB-89CA-0019B92A3933)".
 <!--more-->
 
-### [Nuthin' But A 'G' Thang - Dr. Dre](zune://navigate/?trackID=2D8FBA01-0100-11DB-89CA-0019B92A3933)
+### Nuthin' But A 'G' Thang - Dr. Dre
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tbpp3OLLClPJF8t1DmrFD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'm guessing when most people hear this song they don’t think of stop motion LEGO movies. Yeah, didn't think so. Well my brother, his friend Justin, and I made a movie that had something to do with… time travel? I think. Damn I wish I could get a copy of that. It had an awesome driving sequence set to this song, with special effects that make seeing the strings seem professional. And then there were stop motion LEGO-men walking sequences. And then live action sequences of our awesomely awkward selves. Seriously, anyone have a copy of this? I need to see it again.
 
-### [Take Five - Dave Brubeck](zune://navigate/?trackID=1BB81C00-0100-11DB-89CA-0019B92A3933)
+### Take Five - Dave Brubeck
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YQWosTIljIvxAgHWTp7KP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 This is what adolescence looks like. From metal to rap to jazz; all of the sudden I'm absorbing all these extremely different things at the same time.
 
@@ -27,7 +30,8 @@ This one in particular is associated with making chili with my dad. It was a com
 
 The chili was cooked entirely while listening to jazz on the public radio station, and as a result "Take Five" by Dave Brubeck still sticks out in my head as a song for cooking chili.
 
-### [Fluffhead](zune://navigate/?trackID=5CF90C00-0500-11DB-89CA-0019B92A3933)/[Fluff's Travels](zune://navigate/?trackID=5DF90C00-0500-11DB-89CA-0019B92A3933) - [Phish](zune://navigate/?trackID=5CF90C00-0500-11DB-89CA-0019B92A3933)
+### Fluffhead / Fluff's Travels - Phish
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3g30fnwwdYGQNAn0LKy7d8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 In 7th grade I made a new friend named Kevin who conveniently lived just down the road from me. He introduced me to this band named Phish.
 

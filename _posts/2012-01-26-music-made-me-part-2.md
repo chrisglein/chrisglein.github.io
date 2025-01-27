@@ -13,13 +13,15 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-mepart-2.ht
 Here we continue on my musical autobiography. At this point in the story I've now entered school and am starting to be exposed to movies and other pieces of pop culture that will influence my listening tastes. Which, let's be clear, are still far from my own. Let's continue…
 <!--more-->
 
-### [Thriller - Michael Jackson](zune://navigate/?trackID=317EB800-0100-11DB-89CA-0019B92A3933)
+### Thriller - Michael Jackson
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7azo4rpSUh8nXgtonC6Pkq?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I did the bulk of my growing up in one house, but that house was actually my third. I have no memories of the first, but I have some scattered flashes of the second. And one of those is of me and my brother upstairs dancing to “Thriller". Of course the [music video](http://www.youtube.com/watch?v=sOnqjkJTMaA) is legendary (I'll go as far as to say "best ever"), but at the time I knew nothing of such things. Zombie dance not required for enjoyment.
 
 It's funny, because one of the other memories I have of that house is a reoccurring nightmare of my 1st grade teacher turning into a lion and chasing me around the house. I think that dream only stopped once I developed the ability to fly (just in the dream, not in real life, sadly). Anyway, it seems like that nightmare could maybe be related to Michael turning into a wolfman, except I know that I didn't see the music video until years later.
 
 ### [Ghostbusters](zune://navigate/?trackID=930E6700-0100-11DB-89CA-0019B92A3933)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/300zfRaCgTmEm5Eqe3HqZZ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 So, *Ghostbusters* is an awesome movie. This is fact. But apparently the theme song developed magical powers over me.
 
@@ -27,7 +29,8 @@ Here's the story. I'm at a roller rink birthday party. It's my first time on ska
 
 Apparently my source of mojo did not go by unnoticed. Fast forward many years and I'm in middle school. I have this friend who's also a girl (scandalous, I know). We hang out semi regularly, but of course at this age I'm at the mercy of adults for transportation. So the two of us are getting a ride from my mom when she starts relating the story of my Ghostbuster triumph. Naturally, I'm mortified; she's embarrassing me in front of a girl! Of course now it's all adorable, but at the time... well, you remember what it was like to be that age, but as a rule mothers are incapable of adolescent empathy. It's okay, I got over it.
 
-### [Hangin' Tough – New Kids On The Block](zune://navigate/?trackID=C7E10800-0100-11DB-89CA-0019B92A3933)
+### Hangin' Tough – New Kids On The Block
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/16flEBCtUF67V5yO0GxYWn?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'm pretty sure Nickelodeon introduced me to this boy band. I tried to track down which show they would have been on, but I just couldn't bear to wade through that crap on YouTube. Let's just say that kids that age are defenseless against packaged pop music, and I was no different.
 
@@ -38,6 +41,7 @@ A lot of the dates before this are hard to place, because fundamentally I wasn't
 Along with placing these memories in time comes other weird details. Like I remember making that infinite "Hangin' Tough" tape in the room that had become my brother's bedroom but still had the bunk bed. So I guess around seven or eight years old is where I first got my own bedroom.
 
 ### Nintendo
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51YNmq26OUpHoyt2qjoazA?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 At some point around 1987 I got a Nintendo for my birthday. I don't think my parents knew what they were getting into. My brain previously hadn't really wrapped itself around this whole video game thing. But when I had Mario at home... holy crap it dug deep.
 
@@ -54,7 +58,8 @@ You'll notice I haven't linked to a track here. It's hard to get a public use co
 
 Chip tunes have some severe limitations that in the right hands can be turned into something incredible. The inability to simulate real instruments is an obvious aspect of it, but there are many less obvious considerations. For example these old systems couldn't really do proper chords, so the musicians worked around this with arpeggios of those some chord patterns, often creating a completely different perspective on established genres of music. There are few things as wonderful as creativity working under constraint, and that's what chip tune music is all about. At the time these were just beeps and bloops to me, but the sophistication behind some of those compositions influenced me in ways that it would take years to understand.
 
-### [No Woman, No Cry - Bob Marley & The Wailers](zune://navigate/?trackID=8E8F2900-0500-11DB-89CA-0019B92A3933)
+### No Woman, No Cry - Bob Marley & The Wailers
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5rPnv4gceOGKCqbN06F2aJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I have fond memories of listening to Bob Marley and reading [Dragonlance](http://en.wikipedia.org/wiki/Dragonlance). That probably sounds strange. It's not so much that they went well together; It's just that these were things I was experiencing at the same time, some sometimes they overlapped.
 

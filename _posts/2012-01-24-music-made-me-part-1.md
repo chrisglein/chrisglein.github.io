@@ -25,17 +25,20 @@ But look, here I am layering on more disclaimers and we’re not even to the dep
 
 ---
 
-### [Blueberry Hill - Fats Domino](zune://navigate/?trackID=E94FDA00-0100-11DB-89CA-0019B92A3933)
+### Blueberry Hill - Fats Domino
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2NkAoxQOr6MGdMB5JDTU81?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 We begin at the stretches of memory. This is a song that I recognize instantly, but couldn't place unaided. From what I've gathered it's highly likely that the photo you see [here]({% post_url /2011-04-21-guitar-story %}) could be from a family jam session to this song. Air guitar be damned; real aspiring musicians use a broom. Never mind the fact that the song barely has any guitar in it at all...
 
-### [Johnny B. Goode - Chuck Berry](zune://navigate/?trackID=4F041300-0100-11DB-89CA-0019B92A3933)
+### Johnny B. Goode - Chuck Berry
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Hbe0lRKsXtDZ2wQIovz7I?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Like many of my generation, it was [Marty McFly](http://www.youtube.com/watch?v=xHgbUQnnDpA) that introduced me to this song. I have a memory of asking my dad to request it on the radio and eagerly waiting for it to come on. And when it did... dance party.
 
 Much later in life, by which I mean last year, I had the opportunity to play "Power of Love" for Rock Band 3 with some friends and it produced a similar moment of pure glee. That’s some impressive lasting impact for a 25 year span. Oh nostalgia…
 
-### [Make Me Smile - Chicago](zune://navigate/?trackID=E75E2B00-0100-11DB-89CA-0019B92A3933)
+### Make Me Smile - Chicago
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7k0UY4Kabh7SUHXowyfKj7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 My dad loved his "Chicago Silver" record, aka Chicago II. My mom didn't so much like it, so in general I think he had to enjoy it in private, but I still managed to get a whiff from time to time.
 
@@ -43,7 +46,8 @@ I like Chicago, but I don't think I realized how well they align with some of my
 
 I picked "Make Me Smile" because it filled that nostalgic criteria. I've probably heard "25 or 6 to 4" more over the years, but "Smile" leaps out to me with that older, deeper connection. It's the more human song to me. I'm also particularly fond of "Saturday in the Park" but it's not on this album, so it doesn't fit the criteria.
 
-### [Barbara Ann - The Beach Boys](zune://navigate/?trackID=CF660E00-0100-11DB-89CA-0019B92A3933)
+### Barbara Ann - The Beach Boys
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KOt2JrCB720UxIbyzweQo?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'd be remiss if I omitted the Beach Boys from the list of early influences. My dad played blues, jazz, and stuff like Chicago; my mom played the Beach Boys.
 
@@ -51,7 +55,8 @@ When I hear the Beach Boys I think of family road trips. I have this fuzzy memor
 
 I had a devil of a time picking a Beach Boys song for this list. I know at that age I enjoyed the fun poppy lyrics. But now, well, not so much. So I went with a song that I remember having that car singing vibe.
 
-### [Still Around - Robert Cray](zune://navigate/?trackID=03F10B00-0100-11DB-89CA-0019B92A3933)
+### Still Around - Robert Cray
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3s6t9lsL28WRqTsxsXK3ZO?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 On weekends we'd occasionally have a family drive for breakfast or other activities. I'm not sure how long my dad had this album in the car's cassette player, but it left a lasting impression on me. He's always had a deep love for blues, which is something I happily adopted.
 
