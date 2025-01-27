@@ -3,7 +3,7 @@ layout: post
 title: The Meta-Reality Show
 date: '2007-01-18T08:36:00.000-08:00'
 author: Chris Glein
-tags: tv
+tags: television
 modified_time: '2012-02-01T09:23:35.308-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4690336921878673155
 blogger_orig_url: https://chrisglein.blogspot.com/2007/01/meta-reality-show.html

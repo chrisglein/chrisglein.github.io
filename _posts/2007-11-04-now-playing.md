@@ -4,6 +4,7 @@ title: Now Playing
 date: '2007-11-04T18:03:00.000-08:00'
 author: Chris Glein
 tags: ds xbox-360 now-playing pc video-games wii lotro
+series: Now Playing
 modified_time: '2008-04-03T22:26:04.621-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5466202534225019440
 blogger_orig_url: https://chrisglein.blogspot.com/2007/11/now-playing.html

@@ -4,6 +4,7 @@ title: Music Made Me
 date: '2011-04-28T22:03:00.000-07:00'
 author: Chris Glein
 tags: music music-made-me
+series: Music Made Me
 modified_time: '2016-05-29T08:55:55.427-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7692397942458165058
 blogger_orig_url: https://chrisglein.blogspot.com/2011/04/music-made-me.html

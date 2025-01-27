@@ -4,6 +4,7 @@ title: Music Made Me - Part 10
 date: '2012-03-06T21:44:00.000-08:00'
 author: Chris Glein
 tags: music music-made-me
+series: Music Made Me
 modified_time: '2012-03-06T21:44:00.686-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2947404228877837617
 blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-10.html

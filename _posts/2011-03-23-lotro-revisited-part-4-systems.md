@@ -4,6 +4,7 @@ title: LotRO Revisited - Part 4 - Systems
 date: '2011-03-23T08:00:00.000-07:00'
 author: Chris Glein
 tags: video-games lotro mmo
+series: Lord of the Rings Online
 modified_time: '2011-03-23T08:00:09.893-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05pc_w8z-qgKSudIiIrJjVYzGhKAYpz8QE6mNes_JhOkvTjjD5bomSDswXAu0nypSFaimttFdZWYGYEm3UVm8R8x5_QBmAXAQohSTlQaJ2Y-7URnFlEUoBM49F7RetwsK5dEFvi3Ee2U/s72-c/Web640_Combat.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3722036085644598137

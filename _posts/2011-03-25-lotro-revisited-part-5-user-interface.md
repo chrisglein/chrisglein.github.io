@@ -4,6 +4,7 @@ title: LotRO Revisited - Part 5 - User Interface
 date: '2011-03-25T08:00:00.000-07:00'
 author: Chris Glein
 tags: video-games lotro mmo
+series: Lord of the Rings Online
 modified_time: '2011-03-25T08:00:19.480-07:00'
 thumbnail: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51_8MWuFlosTFuJtDX_Gf-xFekvgKj9gcEIzmjdNdq99oDsHC8i3xnnNresnCeNWf3kjBo0g8urVlEaUbkfCr7fK263JFZ0a8GyH1W4xIxr19B6__THo9ye1fIxDtDKRAbIf5d91dMnU/s72-c/Web_ActionBar28.jpg
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7653210510361597199

@@ -4,6 +4,7 @@ title: Music Made Me - Part 2
 date: '2012-01-26T15:22:00.001-08:00'
 author: Chris Glein
 tags: music music-made-me
+series: Music Made Me
 modified_time: '2012-02-01T09:23:13.864-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4364925737156027106
 blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-mepart-2.html
