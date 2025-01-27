@@ -10,28 +10,28 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-54662025342250194
 blogger_orig_url: https://chrisglein.blogspot.com/2007/11/now-playing.html
 ---
 
-[The Orange Box](http://www.gamefly.com/products/detail.asp?pid=125975)  
+### [The Orange Box](http://www.gamefly.com/products/detail.asp?pid=125975)  
 <p class="playLine subheader"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 I've already pumped a ton of time into The Orange Box and I still feel like I've barely scratched the surface. I started out with Portal, which is a little slice of gaming perfection. I then moved on to play Half-Life 2 for my third time (yes, it's that good), but for my first time on a console and my first time with achievements (Ravenholm with only the gravity gun = good times). I've only cracked open Team Fortress 2 for one round but it was a total blast. I'm big supporter of [renting](http://www.gamefly.com/) these days, but really no one with a 360 should be without The Orange Box.
 <!--more-->
 
-[Guitar Hero III: Legends of Rock](http://www.gamefly.com/products/detail.asp?pid=127900)  
+### [Guitar Hero III: Legends of Rock](http://www.gamefly.com/products/detail.asp?pid=127900)  
 <p class="playLine subheader"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 More of a good thing is still a good thing, and with Guitar Hero all I really need are more songs. Thankfully Guitar Hero III delivers a quality set list. Sure they've added multiplayer and that crazy battle thing, but that's not really what'll sustain me. I'm looking to [Rock Band](http://en.wikipedia.org/wiki/Rock_Band_%28video_game%29) to evolve the experience, but in the meantime I'm content with more of the same from GH3.
 
-[Halo 3](http://www.gamefly.com/products/detail.asp?pid=124695)  
+### [Halo 3](http://www.gamefly.com/products/detail.asp?pid=124695)  
 <p class="playLine subheader"><span class='playIcon xbox360'></span>Played on Xbox360</p>
 Really, who _hasn't_ been playing Halo 3? As awesome as Halo's multiplayer is, I'm a member of the "singleplayer first" crowd, so right out of the gate I holed to play through the Chief's latest rumble in the jungle. I was not disappointed, as that Halo's level design seems to have caught up with the excellent gameplay. I've been squeezing in some [multiplayer](http://www.bungie.net/Stats/Halo3/Default.aspx?player=papasnewbag) as well whenever I've had the opportunity, but there are so many games on my plate right now that it's hard to justify prioritizing another round of Slayer over other games. There's no rush, because we all know that Halo 3 multiplayer will be rocking until the [End of Time](http://www.loadingreadyrun.com/videos/view/228/Halo%3A+The+Future+of+Gaming).
 
-[Lord of the Rings Online](http://www.gamespot.com/video/914860/6171148/the-lord-of-the-rings-online-shadows-of-angmar-video-review)  
+### [Lord of the Rings Online](http://www.gamespot.com/video/914860/6171148/the-lord-of-the-rings-online-shadows-of-angmar-video-review)  
 <p class="playLine subheader"><span class='playIcon pc'></span>Played on PC</p>
 I spoke awhile ago about potentially putting down WoW and trying out LotRO. But I never proceeded to mention that I actually followed through. You heard me - I successfully broke free of WoW. You could say that I didn't quit, I just changed cigarette brands; but I haven't really been playing LotRO much at all, so it's more like switching to a nicotine patch instead. Don't get me wrong - LotRO is a very capable MMO and has a leg up on WoW in some ways. I like that they planned for varying group sizes (and even have solo instances). I like the ongoing epic quests. I love those moments when you connect to the book (like getting lost in the Old Forest, or climbing Weathertop). I _love_ the deed system (i.e. [MMO achievements]({% post_url /2007-01-29-how-to-make-wow-even-more-addictive_29 %})). But although the game is technically more powerful it ends up feeling rough around the edges. The UI is unintuitive and clunky in a lot of places, and the art direction overall just isn't as good. It's still fun, but I have a hard time deciding if I'm not playing much because of some flaw or if I'm just burned out on MMOs in general.
 
-[Metroid Prime 3: Corruption](http://www.gamefly.com/products/detail.asp?pid=122460)  
+### [Metroid Prime 3: Corruption](http://www.gamefly.com/products/detail.asp?pid=122460)  
 <p class="playLine subheader"><span class='playIcon wii'></span>Played on Wii</p>
 I'd probably be raving about Metroid all over the place right now if there weren't so many other great games also keeping me busy. Halo and the Orange Box came along and totally derailed my ongoing Metroid campaign. I'm hoping to get back to it now that I have some more free time, because what I've played so far has been great. The control scheme works really well, the action is great, and the environments are gorgeous. What more can you ask for from a Metroid title?
 
-[Guitar Hero 2: Rocks the 80's (PS2)](http://www.gamefly.com/products/detail.asp?pid=125625)  
+### [Guitar Hero 2: Rocks the 80's](http://www.gamefly.com/products/detail.asp?pid=125625)  
 <p class="playLine subheader"><span class='playIcon ps2'></span>Played on PS2</p>
 I think this one's destined to gather some dust for awhile given that GH3 is commanding my attention right now. But as a rental or a budget title Rocks the 80's is better than the bad press it got. There are some fun songs in there, just don't pay full price for this one.
 
