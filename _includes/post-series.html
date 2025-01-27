@@ -1,7 +1,7 @@
 {% if page.series %}
 {% assign posts = site.posts | where: "series", page.series | sort: 'date' %}
 {% for post in posts %}
-  {% if post.title == page.title %}
+  {% if post.id == page.id %}
     {% assign current_index = forloop.index0 %}
   {% endif %}
 {% endfor %}
