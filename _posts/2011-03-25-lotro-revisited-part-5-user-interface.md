@@ -20,11 +20,11 @@ During almost every topic I've covered on this game at one point or another I've
 
 Looking at the progress of this game over the years, it has gotten better. They have fixed some hiccups in the experience. But there are still warts, and the rate of improvement is too slow. Too many problems that have been there for years are still festering. The only conclusion I can come to is that refining the interface isn't a priority, and that they don't have the right kind of talent focused on these issues.
 
-**Iconography**
+### Iconography
 
 ![Action Bar](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj51_8MWuFlosTFuJtDX_Gf-xFekvgKj9gcEIzmjdNdq99oDsHC8i3xnnNresnCeNWf3kjBo0g8urVlEaUbkfCr7fK263JFZ0a8GyH1W4xIxr19B6__THo9ye1fIxDtDKRAbIf5d91dMnU/s320/Web_ActionBar28.jpg)
 
-*"Icons are too small and lack strong enough silhouettes to be quickly identified."*
+> Icons are too small and lack strong enough silhouettes to be quickly identified.
 
 Let's look at the action bar screenshot above that I talked about [last time]({% post_url /2011-03-23-lotro-revisited-part-4-systems %}). There are a couple things you might notice, but the first is probably that the icons are incredibly tiny. 32x32 pixels, specifically. You can scale this bar up, but the source assets are 32x32, so the scaled up version looks terrible. By comparison WoW's source icons are 64x64, containing 4 times the amount of information.
 
@@ -42,11 +42,11 @@ Here we have samples from 7 different MMOs. This is by no means a comprehensive 
 
 At this point you might think I'm nit picking. But your average MMO player spends almost as much time staring at these action bars as they do observing their virtual surroundings. I've known players to completely lose context of what was going on because they were overly focused on their bars. It's a mission critical piece of interface, and on this LotRO does a real sub-standard job.
 
-**Inventory**
+### Inventory
 
 ![Inventory](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyIl_UXtCCjYrMZg1z7g9FyGEmpF_9EsaBIsQxp2N_xWRndRh3MV9rfJU8mdN_1pJ8-XSdLuvpCMn2DziS3uAtx8oMSmgRBY2bQTNCMk2MaCkE2_BlXfo7H2e2QllGvRmajt78ABUXAV4/s320/Web848_Sell.jpg)
 
-*"The bag view is frustrating because you can't do key tasks from there like sell."*
+> The bag view is frustrating because you can't do key tasks from there like sell.
 
 To the right in the screenshot you see my bag view. Pretty standard, although once again you'll note that the icons are frustratingly small. To the left is the window that you get when you talk to a vendor. You'll note that one is a grid view and one is a list view.
 
@@ -60,9 +60,9 @@ You can filter the list view to different qualities of items, presumably to help
 
 None of this fixes the core problem: the original design was bad. Either embrace the list or embrace the grid - don't attempt some unholy hybrid.
 
-**The Solution?**
+### The Solution?
 
-*"WoW provided an open platform that enabled the community to patch up the rough spots. Blizzard would watch popular trends and integrate those features into the core. The end result is that the default WoW UI has become better and better over the years at an impressive pace"*
+> WoW provided an open platform that enabled the community to patch up the rough spots. Blizzard would watch popular trends and integrate those features into the core. The end result is that the default WoW UI has become better and better over the years at an impressive pace
 
 At last we have a sign that the developers are paying attention: recently (as in within the last six months) LotRO opened up it's platform to support LUA scripted plugins. This is huge. This empowers the community to start making things better. What's there now from an API perspective is very conservative, but it's still a huge step in the right direction.
 

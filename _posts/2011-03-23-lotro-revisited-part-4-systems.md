@@ -14,7 +14,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-4
 Well, this fourth part of my return to [Lord of the Rings Online](http://my.lotro.com/referral/pnb) is maybe a bit more on the nerdy side. It's not about [what]({% post_url /2011-03-18-lotro-revisited-part-2-keeping-busy %}) you can do, or [where]({% post_url /2011-03-16-lotro-revisited-part-1-world %}) you do it; it's about *how* you do it. The mechanics of the game.
 <!--more-->
 
-**Combat**
+### Combat
 
 Overall the combat in LotRO feels... okay. I like to move around a lot as I play. I'm not sure if that's because I think I actually get some tactical advantage, or if I just like to keep things moving to spice up the visuals. Regardless, when I play this way in LotRO I can notice the differences between what the client sees and what the server is tracking. It feels a bit… floaty. I'll often run up to a monster and realize that for a moment it's still tracking some previous snapshot of what my location was. The whole experience looks good, but it's not quite at the fidelity that I prefer.
 
@@ -28,7 +28,7 @@ It's a bummer that for this type of game you don't know whether your character c
 
 One thing that LotRO has that I've never seen in another game is the idea of a "fellowship maneuver." Certain characters can initiate an attack where everyone in the party participates by clicking one of four icons: morale (health), power (mana), direct damage, or damage over time. If the group coordinates you can pull off specific combinations that trigger even more powerful attacks. Of course there's always that one guy who's not paying attention and clicks green at the wrong time, but when it works it's a neat mechanic.
 
-**Items**
+### Items
 
 The modern MMO is mostly just a vehicle for loot addiction. It's all about the pursuit of making your character more badass. Leveling up is one obvious part of that, and the other part is *stuff*.
 
@@ -38,9 +38,9 @@ And then you get your first legendary weapon.
 
 A legendary item is an item that levels up, just like your character. As it gains levels you can spend points on different stats, slot it with gems and runes, and even give it a name. These items stay with you for a long time. As a minstrel I tried to give all mine musically themed names. Above you see the sword "Sharp Crescendo". It's predecessor was a mace named "Percussive Force". These items become a deeper part of your character than just the normal gear your slap on. It's a fun system that makes loot that much more fun.
 
-**The Action Bar**
+### The Action Bar
 
-"...they seem to have thrown too many options at you in an attempt to make it interesting. But instead most of the abilities end up blurring together and leaving you bogged down with your overcrowded quick bar."
+> ...they seem to have thrown too many options at you in an attempt to make it interesting. But instead most of the abilities end up blurring together and leaving you bogged down with your overcrowded quick bar.
 
 I get a new ability about every other level. At first this was perfectly manageable. But after awhile I started to dread visiting the class trainer. Another ability? Where am I supposed to put this? This ability feels almost identical to another one I already have - when am I supposed to use it instead of the other one?
 

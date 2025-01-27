@@ -30,13 +30,13 @@ Smoothing everything over is the fact that you gain the real-money currency (Tur
 
 So, what sorts of things can you buy?
 
-* Quest lines for levels 30-65
-* Additional skirmish instances to change up the scenery
-* Cosmetic outfits
-* Shared storage across all characters on your account
-* A wardrobe space for your characters to store and share cosmetic outfits
-* Shorter teleport home cooldowns and/or multiple home destinations
-* Short term acceleration for xp, crafting, or deeds
+- Quest lines for levels 30-65
+- Additional skirmish instances to change up the scenery
+- Cosmetic outfits
+- Shared storage across all characters on your account
+- A wardrobe space for your characters to store and share cosmetic outfits
+- Shorter teleport home cooldowns and/or multiple home destinations
+- Short term acceleration for xp, crafting, or deeds
 
 The larger priced items are content related (quests, skirmishes, etc.) or feature related (e.g. shared storage), and are usually a one-time purchase for the account. They're less "micro" and more a replacement for that monthly payment. The key difference being that unless you blaze through content too fast that it's going to be much cheaper.
 

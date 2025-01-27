@@ -14,7 +14,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2011/03/lotro-revisited-part-3
 My [last article]({% post_url /2011-03-18-lotro-revisited-part-2-keeping-busy %}) about [Lord of the Rings Online](http://my.lotro.com/referral/pnb) focused on the solo activities one could undertake in Middle Earth. This article will focus on the "Multiplayer" part of the MMO acronym… probably what the rest of you play these games for.
 <!--more-->
 
-**Instances**
+### Instances
 
 I didn't talk about the dungeon instances at all in my previous posts. That's because I didn't really run many of them. I know, ironic given that my main character was a support class. I seem to assume a singleplayer stance until I feel confident enough to group up with others and know I'll be valuable to them. Maybe I'm just too proud to risk being that guy that doesn't know what he's doing and gets everyone killed.
 
@@ -22,7 +22,7 @@ This second time through I'm running far more dungeons. But it's not because I'm
 
 It's unfortunate that the game still lacks a quality matchmaking service (like WoW's new Dungeon Finder). There's an in-game tool (pictured above), but nobody uses it (similar to earlier incarnations of WoW's Dungeon Finder). Instead you're stuck relying on either regional chat channels, or the unofficial global "looking for fellowship" channel. I'd assume that fixing this problem would be the natural next step for the development team, but I also felt the same way about WoW and it took them five years to deliver the feature. And unfortunately I have far less confidence in LotRO's interface designers. It'd greatly improve the experience, but I'm not holding my breath.
 
-**Skirmishes**
+### Skirmishes
 
 Level scaling for instance is a actually a new feature for the game. It came about as a side effect of development for something else entirely: skirmishes. Where a dungeon instance is a handcrafted adventure, a skirmish is more of a random large scale battle. There's some overall scenario, but every time you play a skirmish it will be different. There are varied squads of enemies, random lieutenants, and boss battles.
 
@@ -30,9 +30,9 @@ One of the best parts about skirmishes is that you get a companion character to 
 
 I wouldn't recommend *only* spending your time playing skirmishes, but in moderation they're great. It's best with a big group of people for good chaotic fun, but it's also good times just by yourself.
 
-**PvP**
+### PvP
 
-"I only tried it once"
+> I only tried it once
 
 I still haven't tried it since that one time. And you know what, it looks like it'll stay that way. There are only a few things that are restricted to paying subscribers, and PvMP (Player vs. Monster Player) is one of them. So if I want to play a Warg and go for the throats of poor little Hobbits I'll have to shell out a monthly fee. Sad. Oh well, I don't think the Lord of the Rings setting is one that would really fire me up to pwn other players. It's probably for the best.
 

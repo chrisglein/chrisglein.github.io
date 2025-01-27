@@ -18,11 +18,11 @@ Huge disclaimer: there are things I talk about below that have changed over the 
 
 ---
 
-**World and Travel**
+### World and Travel
 
 This is the only part of what I wrote that made it to the blog already. You can read about it [here]({% post_url /2008-01-15-lord-of-rings-online-pc %}).
 
-**Advancement - Deeds, Traits, and Levels**
+### Advancement - Deeds, Traits, and Levels
 
 One of the great innovations the developers have brought to LotRO is the deed system. Deeds can be given for traditional stuff like killing 200 orcs, or they can come from something more interesting like scouting out every ruin in the region. Completing deeds can reward you with titles, which don't have any effect on gameplay but are fun to get nonetheless. Unfortunately, titles are usually the result of easier deeds, so the coolness factor of being called "Spider-Foe" is lessened when you know everyone else has that title as well. I wish they had more challenging titles to earn for those of us who want to set ourselves apart.
 
@@ -32,27 +32,27 @@ It's impressive how enticing the deed system is considering how minor the effect
 
 Wouldn't the experience be just as rich if I everyone was the same level? Maybe getting rid of levels is too extreme, but at the very least can we make the gaps less extreme? There are 50 levels in LotRO, and taking on something more than 4 or 5 levels higher than you is a death wish. What if you could reasonably engage something within 10 levels? Would that break the game?
 
-**Combat**
+### Combat
 
 The combat in LotRO has always left me feeling a little unsatisfied. It's standard WoW fare: various timed abilities mapped to a numbered quick bar. You stand there, whacking at your opponent, firing off some pattern of special attacks, waiting for them to keel over so you can loot their stuff. It's the sort of thing that doesn't demand your full attention. The main difference in this game is that they seem to have thrown too many options at you in an attempt to make it interesting. But instead most of the abilities end up blurring together and leaving you bogged down with your overcrowded quick bar.
 
 The average fight lasts around 30 seconds, which doesn't sound like much, but is forever when you're just trying to kill a freaking boar. The result is you never feel very powerful. It doesn't help that you will be fighting an unending swarm of sameness. The respawn times seem shorter and the variety in foes fewer. Expect to fight a lot of boars, bears, wolves, spiders, brigands, and orcs. It's all true to the fiction, but once the initial warm fuzzies wear off you'll be wishing there was some more diversity.
 
-**User Interface**
+### User Interface
 
 LotRO's UI is approachable, largely due to its similarity with WoW, but it lacks the same polish. Icons are too small and lack strong enough silhouettes to be quickly identified. There are odd inconsistencies in the click-ability of items, requiring that you overfill your quick bar. And the bag view is frustrating because you can't do key tasks from there like sell. There are a ton of small issues with the interface - I could really go on and on.
 
 WoW provided an open platform that enabled the community to patch up the rough spots. Blizzard would watch popular trends and integrate those features into the core. The end result is that the default WoW UI has become better and better over the years at an impressive pace. Here in LotRO there's no ability to make up for the UI's shortcomings, and the momentum from the development team is too slow. I know user interface is my field so I'm a bit biased, but I strongly believe that WoW's choice of UI platform is one of the largest contributers to its continued success.
 
-**Quests**
+### Quests
 
 The introduction to the game is quite strong with solo instances and nice epic feeling quests. But outside of that there's an excessive amount of fetch quests and back-and-forth travel. There's a primary story quest line that adheres to a higher quality bar, letting you follow the path of the ring without contradicting the fiction. But in general the creative uses of instances in the early regions seems to thin out and be replaced by less inspired content as you move forward. Pretty standard MMO fare.
 
-**PvP**
+### PvP
 
 Given the Lord of the Rings fiction, LotRO doesn't let you turn on your fellows for standard PvP. That would let <s>the terrorists</s> Sauron win. Instead the game offers a special mode where some players play monsters and others play their heroes. I only tried it once, and was unfortunately bogged down by the excessive travelling involved. There was far too much downtime moving around to then die so quickly. But playing as the bad guys did spice up the sometimes bland morality of the primary quest lines. And it was certainly enjoyable to play varied looking characters (spiders and orcs and such). But the time to reward ratio was too high so I only gave it that one try.
 
-**Crafting**
+### Crafting
 
 The crafting system seems pretty standard at first glance, but it has a lot more complexity to it than what you see in WoW. For example there's a chance of crafting criticals that can add some surprises to a usually boring task (in the form of either a better version of the item or more components). There are patterns for more powerful items that are balanced by being one-use only, avoiding flooding the market and making the common stuff irrelevant. Unfortunately finding recipes on the auction house is laughably difficult due to poor UI. And for the other stuff the game lacks a friendly way to craft in bulk (I should never have to click a plus button 60 times just to smelt all my ore). In my experience the stuff you can make is generally not of value by the time you can make it (given either the time to gather ingredients or the prohibitive cost of those ingredients on the auction house). Overall crafting seems to be more interesting that what you can do in WoW but lacks polish, especially around the UI.
 
