@@ -35,19 +35,5 @@
         <span class="post-date">{{ prev_post.date | date_to_string }}</span>
     </div>
     {% endif %}
-
-    <ol class="list-group">
-        {% for post in posts %}
-            {% if post.title == page.title %}
-              <li>
-                <div class="list-group-item list-group-item-action active" aria-current="true">{{ post.title }}</div>
-              </li>
-            {% else %}
-              <li>
-                <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action">{{ post.title }}</a>
-              </li>
-            {% endif %}
-        {% endfor %}
-    </ol>
 </div>
 {% endif %}
