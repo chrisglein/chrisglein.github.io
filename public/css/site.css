@@ -149,12 +149,8 @@
   padding-bottom: 10px;
 }
 
-.post-series .first,
-.post-series .next,
-.post-series .prev {
-  display: flex;
-  align-items: baseline;
-  gap: 0.5em;
+.post-series .pagination {
+  margin: 1rem 0;
 }
 
 .post-related .related-post h4 {
