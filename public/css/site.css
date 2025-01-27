@@ -142,3 +142,25 @@
 .playIcon.goodreads {
   background-image: url(/media/goodreads.png);
 }
+
+.post-footer {
+  background-color: #FFF8FF;
+  padding-top: 1px;
+}
+
+.post-series .next,
+.post-series .prev {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
+}
+
+.post-related .related-post h4 {
+  margin-top: 0em;
+}
+
+.related-post .post-date,
+.post-series .post-date {
+  font-size: smaller;
+  margin-bottom: 0rem;
+}

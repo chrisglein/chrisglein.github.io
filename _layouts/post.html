@@ -7,10 +7,3 @@ layout: base
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
-
-{% if page.id %}
-  <div class="wrapper">
-    <h3>See also</h3>
-    {% include related.html %}
-  </div>
-{% endif %}

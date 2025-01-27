@@ -30,7 +30,6 @@
 {% assign related_from = page.related_from | default: site.related_from | default: documents %}
 {% assign related_categories = page.related_categories | default: site.related_categories | default: 1 %}
 {% assign related_tags = page.related_tags | default: site.related_tags | default: 1 %}
-{% assign related_template = page.related_template | default: site.related_template | default: "related-post.html" %}
 {% assign related_layout = page.related_layout | default: site.related_layout | default: "list" %}
 
 {% comment %}<!-- Random related pages -->{% endcomment %}
@@ -103,10 +102,20 @@
   {% assign related_posts = site.posts %}
 {% endif %}
 
-{% for post in related_posts limit:related_limit %}
-  {% if post.id == page.id %}
-    {% continue %}
-  {% endif %}
+<div class="post-related">
+  <h3>See also</h3>
+  <ul>
+    {% for post in related_posts limit:related_limit %}
+      {% if post.id == page.id %}
+        {% continue %}
+      {% endif %}
 
-  {% include {{ related_template }} type=related_layout %}
-{% endfor %}
+      <li class="related-post">
+        <h4>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h4>
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

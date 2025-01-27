@@ -1,0 +1,53 @@
+{% if page.series %}
+{% assign posts = site.posts | where: "series", page.series | sort: 'date' %}
+{% for post in posts %}
+  {% if post.title == page.title %}
+    {% assign current_index = forloop.index0 %}
+  {% endif %}
+{% endfor %}
+
+{% assign prev_index = current_index | minus: 1 %}
+{% assign next_index = current_index | plus: 1 %}
+
+{% if prev_index > 0 %}
+  {% assign prev_post = posts[prev_index] %}
+{% endif %}
+
+{% if next_index <= posts.size %}
+  {% assign next_post = posts[next_index] %}
+{% endif %}
+<div class="post-series">
+    <div>
+        <h3>{{ page.series }}</h3>
+        <div class="post-date">{{ posts | size }} part series</div>
+    </div>
+    {% if next_post %}
+    <div class="next">
+        <span class="label">Next →</span>
+        <a href="{{ next_post.url | relative_url }}">{{ next_post.title }} </a>
+        <span class="post-date">{{ next_post.date | date_to_string }}</span>
+    </div>
+    {% endif %}
+    {% if prev_post %}
+    <div class="prev">
+        <span class="label">Previous ←</span>
+        <a href="{{ prev_post.url | relative_url }}"> {{ prev_post.title }}</a>
+        <span class="post-date">{{ prev_post.date | date_to_string }}</span>
+    </div>
+    {% endif %}
+
+    <ol class="list-group">
+        {% for post in posts %}
+            {% if post.title == page.title %}
+              <li>
+                <div class="list-group-item list-group-item-action active" aria-current="true">{{ post.title }}</div>
+              </li>
+            {% else %}
+              <li>
+                <a href="{{ post.url | relative_url }}" class="list-group-item list-group-item-action">{{ post.title }}</a>
+              </li>
+            {% endif %}
+        {% endfor %}
+    </ol>
+</div>
+{% endif %}
