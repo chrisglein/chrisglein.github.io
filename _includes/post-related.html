@@ -102,6 +102,7 @@
   {% assign related_posts = site.posts %}
 {% endif %}
 
+{% if related_posts.size > 0 %}
 <div class="post-related">
   <h3>See also</h3>
   <ul>
@@ -119,3 +120,4 @@
     {% endfor %}
   </ul>
 </div>
+{% endif %}
