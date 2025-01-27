@@ -1,9 +1,9 @@
+{% comment %}<!-- Show footer only for post pages -->{% endcomment %}
+{% if page.date %}
 <div class="post-footer">
   <div class="container">
-    {% comment %}<!-- Show footer only for post pages -->{% endcomment %}
-    {% if page.date %}
-      {% include post-series.html %}
-      {% include post-related.html %}
-    {% endif %}
+    {% include post-series.html %}
+    {% include post-related.html %}
   </div>
 </div>
+{% endif %}
