@@ -25,12 +25,18 @@
     </div>
     <div class="pagination">
       {% if prev_post %}
-        <a class="pagination-item older" href="{{ prev_post.url | relative_url }}"> {{ prev_post.title }}</a>
+        <div class="pagination-item older">
+          <a href="{{ prev_post.url | relative_url }}">{{ prev_post.title }} </a>
+          <span class="post-date">{{ prev_post.date | date_to_string }}</span>
+        </div>
       {% else %}
         <span class="pagination-item older">Previous</span>
       {% endif %}
       {% if next_post %}
-        <a class="pagination-item newer" href="{{ next_post.url | relative_url }}">{{ next_post.title }} </a>
+      <div class="pagination-item newer">
+        <a href="{{ next_post.url | relative_url }}">{{ next_post.title }} </a>
+        <span class="post-date">{{ next_post.date | date_to_string }}</span>
+      </div>
       {% else %}
         <span class="pagination-item newer">Next</span>
       {% endif %}

@@ -151,6 +151,7 @@
 
 .post-series .pagination {
   margin: 1rem 0;
+  display: flex;
 }
 
 .post-related .related-post h4 {
@@ -161,4 +162,11 @@
 .post-series .post-date {
   font-size: smaller;
   margin-bottom: 0rem;
+}
+.post-series .pagination .post-date {
+  margin-top: 0rem;
+}
+
+.post-series .pagination-item {
+  align-content: center;
 }
