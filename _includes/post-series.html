@@ -9,7 +9,11 @@
 {% assign prev_index = current_index | minus: 1 %}
 {% assign next_index = current_index | plus: 1 %}
 
-{% if prev_index > 0 %}
+{% if current_index > 1 %}
+  {% assign first_post = posts[0] %}
+{% endif %}
+
+{% if current_index > 0 %}
   {% assign prev_post = posts[prev_index] %}
 {% endif %}
 
@@ -19,7 +23,7 @@
 <div class="post-series">
     <div>
         <h3>{{ page.series }}</h3>
-        <div class="post-date">{{ posts | size }} part series</div>
+        <div class="post-date">Part {{current_index | plus: 1}} of {{ posts | size }} part series</div>
     </div>
     {% if next_post %}
     <div class="next">
@@ -33,6 +37,13 @@
         <span class="label">Previous ←</span>
         <a href="{{ prev_post.url | relative_url }}"> {{ prev_post.title }}</a>
         <span class="post-date">{{ prev_post.date | date_to_string }}</span>
+    </div>
+    {% endif %}
+    {% if first_post %}
+    <div class="first">
+        <span class="label">First</span>
+        <a href="{{ first_post.url | relative_url }}">{{ first_post.title }}</a>
+        <span class="post-date">{{ first_post.date | date_to_string }}</span>
     </div>
     {% endif %}
 </div>
