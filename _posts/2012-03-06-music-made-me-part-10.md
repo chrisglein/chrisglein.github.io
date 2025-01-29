@@ -10,15 +10,16 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-29474042288778376
 blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-10.html
 ---
 
-### [Under the Bridge - The Red Hot Chili Peppers](zune://navigate/?trackID=3AE30D00-0500-11DB-89CA-0019B92A3933)
+### Under the Bridge - The Red Hot Chili Peppers
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3d9DChrdc6BOeFsbrZ3Is0?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I put this song far later into the timeline than when I first experienced it (which would have been 1991-1992). That's because to me it goes with a very specific memory, one which eclipsed whatever previous attachment I had for the song.
+<!--more-->
 
 I'm on the return trip from my one and only experience ice skating. I'm riding in the back seat with a girl. I've been seeing more of this girl at school lately, and I've decided I like her. Somehow I muster the courage to sing this song to her. I'm sure it must have been along to the radio, not unprompted a capella, although over the years my voice has grown louder and the radio has grown quieter. Following this there was some head-resting-on-shoulder action. Apparently it wasn't so terrible as to make her run away. She must have liked me, because it's not like I can sing.
 
-<!--more-->
-
-### [Three Marlenas - The Wallflowers](zune://navigate/?trackID=AB400800-0100-11DB-89CA-0019B92A3933)
+### Three Marlenas - The Wallflowers
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6iPZEvHsTanHMOtjyJWMEm?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I remember a discussion about what was the best song on this album between myself, my brother, and my brother's girlfriend Francesca. The decision made (at least by that vote) was that it was "Three Marlenas". It's a good song, sure, but I think perhaps my brother may have been unduly influenced by the fact that the song mentions Chevrolet; he was a bit of a fanatic back then.
 
@@ -28,7 +29,8 @@ At this moment in time I had a viable prospective love interest. A first. As in 
 
 Francesca gave me the invaluable tip to practice kissing on my hand first. This is the sort of thing you need a sister to tell you to do. I felt more than a bit silly, but it better to work out the kinks well in advance. I don't know how awful I was, but I'm sure I would have been way worse without that advice.
 
-### [Comedown - Bush](zune://navigate/?trackID=D0A0E806-0100-11DB-89CA-0019B92A3933)
+### Comedown - Bush
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ox1STg6AbcEHoHWlFtFwr?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 For me this is the point where we transitioned from calling it "grunge" to calling it "alternative". I mean, this is a pretty man. How can the music made by pretty people be called "grunge"?
 
@@ -36,7 +38,8 @@ This was an influence from my newfound girlfriend (!) Cambria. It wasn't a lasti
 
 I had an image in my brain from the music video for this song. In my head I see a guitar cord that's a big tube and someone aggressively thrusting a guitar towards the camera. The particular image coincides with 3:33 in the song, where the music lands after drifting away a bit and is celebrated with a masterfully singular guitar hit. It's the powerful return to form that "Lightning Crashes" didn't have. Anyway, I had an image in my head of what that looks like in the music video. And I just watched it [again](http://www.youtube.com/watch?v=epPW_-da6oQ&ob=av2e) and it's not there. Clearly I remembered the video, but in my head the details are incredibly different. The edit of the song for the video is shorter, so the same moment happens at 2:47. I don't know when my memory drifted apart from reality. The specific image I have doesn't occur anywhere in that video. It's weird to have a concrete image in your head that is provably _wrong_.
 
-### [Lucky - Seven Mary Three](zune://navigate/?trackID=4AD81800-0500-11DB-89CA-0019B92A3933)
+### Lucky - Seven Mary Three
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12RSkRD6HoDw5x4LMC7CmY?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 This album is the greatest musical takeaway from my relationship with Cambria. After my general dissatisfaction with the previous Seven Mary Three album I hadn't followed up on the band. I should have, because the next album, this album, is great.
 
@@ -46,7 +49,8 @@ It's not that those songs are the worst _ever_. They're just wrong for the album
 
 So why "Lucky"? Well, there would have been an easy way to bypass my problem entirely: always start at track 6. But I could never listen to the album without "Lucky". That would just be _wrong_. I would rather tolerate the pain of having to wait for the song to end and then quickly skip ahead past the bad stuff. The song was (and is) that good.
 
-### [Soldier's Daughter - Tonic](zune://navigate/?trackID=31520A00-0100-11DB-89CA-0019B92A3933)
+### Soldier's Daughter - Tonic
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29YEASj43KRGlxUKPN9UbO?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Here we have another album brought to my attention by my first girlfriend. Shortly after hearing this song I decided I was going to attempt to learn how to play it for her. But playing it wasn't enough, I was going to both provide guitar _and_ vocals. This is not something I actually could (or can) do, mind you. I don't know if it's the guitar playing or the singing that takes more concentration, but what matters is that the combination requires more than I have. So this was a doomed desire from the outset and thus never fully materialized.
 

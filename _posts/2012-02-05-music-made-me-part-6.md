@@ -10,7 +10,9 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-23572528025585503
 blogger_orig_url: https://chrisglein.blogspot.com/2012/02/music-made-me-part-6.html
 ---
 
-### [Roundabout - Yes](zune://navigate/?trackID=B1E00300-0100-11DB-89CA-0019B92A3933)
+### Roundabout - Yes
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0YveezON7jpiaHA8fnUHxN?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 In middle school I took a music appreciation class. It was actually pretty fun and covered an extremely diverse set of music. I was at just the right stage in developing my own musical tastes to really be open to all of it. Traditional symphonic, avant-garde, musicals, it was all over the place and all very interesting.
 <!--more-->
 
@@ -18,7 +20,8 @@ I remember being able to take a cassette home of the music from the class. I can
 
 Anyway, there were lots of songs in that class. But I definitely remember "Roundabout", and feeling that it was cool to have a class where it was my homework to listen to rock music.
 
-### [Silent in the Morning - Phish](zune://navigate/?trackID=B2C62300-0500-11DB-89CA-0019B92A3933)
+### Silent in the Morning - Phish
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7I6UhGnIdrk9Ht6ledyp0l?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 My first real concert was Phish at the Evergreen State College. I was young, so I went with my dad. And my brother, I think? And Kevin? How do I not remember these details? It doesn't matter, I was going to see a real live band that I was interested in. And apparently I would see them with a whole bunch of hippies, who were getting totally baked. I was completely oblivious to all of this; my dad was not, but gets points for not freaking out.
 
@@ -26,7 +29,8 @@ I had no concept of what this concert would be like. Before going to the show I 
 
 I specifically remember "Silent in the Morning" from the encore. The song has this part where there are four beats at the end of each round of the chorus. Performed live this was combined with a spot light that cycled over the four musicians in time with the beat. It was so cool to see subtle visuals like that tied to the music in small but impactful ways. It wasn't just watching the music being performed live; there was an effort to somehow enhance the experience in the process.
 
-### [Slave to the Traffic Light - Phish](zune://navigate/?trackID=50C21F00-0500-11DB-89CA-0019B92A3933)
+### Slave to the Traffic Light - Phish
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6vfDmsby4yXGZgWm7grrYu?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 This song wasn't played at the concert I was at, but it was released on the live album that came out shortly thereafter. For me it is one of the best recorded examples of how live Phish felt to me.
 
@@ -34,13 +38,15 @@ It's a long track, and it's barely even a song. There are movements through a ro
 
 The band isn't recreating a heavily rehearsed combination of verse and chorus; it's more like they're rediscovering the music again for the first time. They're listening and watching to each other, playing off each other's ideas, and trying to move in the same direction. Sometimes it doesn't work out well; sometimes wonderful unexpected things come out. But it's always very real.
 
-### [Killing in The Name - Rage Against the Machine](zune://navigate/?trackID=9FF21500-0100-11DB-89CA-0019B92A3933)
+### Killing in The Name - Rage Against the Machine
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59WN2psjkt1tyaxjspN8fp?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'm not an angry person. I've never needed music as an outlet for my aggression against The Man. But I totally got into my brother's Rage album. I liked the way it sounded, and I didn't really care what they were actually saying. Maybe I did find something liberating about someone yelling "Fuck you I won't do what you tell me" over and over again. I didn't personally have problems with people telling me to do stuff, but maybe this guy did, and yelling about it seemed to help him. I had no problem with that.
 
 But really I can't listen to this album and not remember myself playing Earthworm Jim. I think it was a weekend rental, and I sat down and played it with this Rage album as a soundtrack. At some point during this my brother's friends came by unexpectedly and froshed me by throwing me into the bay. It must have been the summer between 8th grade and 9th grade, where I would become a Freshman. It was close enough for them. I was pretty relaxed about the whole experience - and in turn they were nice enough to let me take my shoes off first. Afterwards I came back in the house, dried off, and played more Earthworm Jim. Apparently Rage didn't make me angry, even in the face of being hazed and powerless.
 
-### [Chubb Sub - Medeski, Martin, and Wood](zune://navigate/?trackID=FBBD1F00-0500-11DB-89CA-0019B92A3933)
+### Chubb Sub - Medeski, Martin, and Wood
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0NMpJoxykO6UIIXxg8im8K?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Ah, MMW, a trio of musicians on a path between two places, and another musical gift from Kevin. On one hand they have this jazzy abstract background. On the other hand they're able to produce something like this, a groovy song that just felt so… cool. It was impossible for me to listen to this and not fall in love with the bite of that organ.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music Made Me 29
+title: Music Made Me - Part 29
 date: '2012-04-26T19:33:00.000-07:00'
 author: Chris Glein
 tags: music music-made-me

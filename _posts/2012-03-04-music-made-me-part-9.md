@@ -10,7 +10,8 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-36716879263377189
 blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-9.html
 ---
 
-### [Billy Breathes - Phish](zune://navigate/?trackID=9FBB1000-0500-11DB-89CA-0019B92A3933)
+### Billy Breathes - Phish
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MfXlLIsn42GTl3fQIR2IJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Throughout all my musical explorations over these years Phish was part of my vocabulary the whole time. It's not something that really any one else I knew was listening to, and it's not like Phish got much play on the radio, but I kept on listening.
 <!--more-->
@@ -21,25 +22,28 @@ Those first couple tracks felt more like singles, and they just don't stand up t
 
 I've mentioned before a habit of preparing for sleep with music; finding albums that had good endings so that I could just leave them on to play me out. This was definitely one of those albums. Maybe the last one, as that the habit didn't last beyond high school.
 
-I was going to nominate ["Prince Caspian"](zune://navigate/?trackID=A2BB1000-0500-11DB-89CA-0019B92A3933) to represent this album in the timeline. It's the last song on the album, and would always bring me back awake a bit (albeit in a happy gentle kind of way). But after further reflection it's the title track, "Billy Breathes", that really sums up the whole run for me. It's understated, mellow, soothing, vocally compelling and musically diverse. And I love how it leads into "Swept Away", which then is turned slightly nightmarish for "Steep", which sets you up for the fresh breath of morning that is "Caspian". Many albums ago Phish had tried to do a dream concept album, *Rift*, but *Billy Breathes* pulls off the same idea so much better.
+I was going to nominate ["Prince Caspian"](https://open.spotify.com/track/255zg2kzJRA0JEOxYwMaUs?si=125d41f1437f4858) to represent this album in the timeline. It's the last song on the album, and would always bring me back awake a bit (albeit in a happy gentle kind of way). But after further reflection it's the title track, "Billy Breathes", that really sums up the whole run for me. It's understated, mellow, soothing, vocally compelling and musically diverse. And I love how it leads into "Swept Away", which then is turned slightly nightmarish for "Steep", which sets you up for the fresh breath of morning that is "Caspian". Many albums ago Phish had tried to do a dream concept album, *Rift*, but *Billy Breathes* pulls off the same idea so much better.
 
 Three years later I would begin dating the woman who would eventually become my wife. That first year I gave her a Christmas gift, which was a bowl I painted for her... and this album. *Billy Breathes* had stayed in my head space that whole time, and really felt like something that showed a key part of my musical experience.
 
-### [Bubblehouse - Medeski, Martin & Wood](zune://navigate/?trackID=2D153700-0100-11DB-89CA-0019B92A3933)
+### Bubblehouse - Medeski, Martin & Wood
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DlIbQjnkvMSbuKnJJl1fO?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Remember MMW from before? Groovy organs, maybe sometimes a little crazy? Well *Shack Man* brought a little more of that groove out. And my friend Kevin, who introduced me to the band, was not just listening to this, he was working on emulating it. Piano was taking a bigger role in his life, and he was starting to work towards the musician/composer that he would eventually become.
 
 I think it was a school talent show, but I can't actually remember specifically. I just remember Kevin performing "Bubblehouse". Which is a bit of a gimmicky song. It increases in pace until it gets to unmaintainable place. Then some random stuff happens that doesn't really work well before it drops right back into the original riff at exactly the right speed (at 2:50, again at 3:33). It's one of those moments where departing from center makes center more valuable. Contrast. But the cost on this contrast is slightly unbalanced, limiting my enjoyment. Still, it was much fun to see my friend frantically hammer away at those keys. I don't know if he considers it a turning point in his life, but from my perspective it felt like it was.
 
-I'd be remiss without mention ["Dracula"](zune://navigate/?trackID=14601300-0500-11DB-89CA-0019B92A3933). Not because it's tied into another specific memory, but because it's a great MMW song from this album.
+I'd be remiss without mention ["Dracula"](https://open.spotify.com/track/66fyCE0qcIyJa5Hhzltihw?si=b31bb96ad80a44e4). Not because it's tied into another specific memory, but because it's a great MMW song from this album.
 
-### [Too Much - Dave Matthews Band](zune://navigate/?trackID=BDA9A801-0100-11DB-89CA-0019B92A3933)
+### Too Much - Dave Matthews Band
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0i2jSWCwjjOVzfnvJJ2Sii?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I'm in my bedroom, playing with LEGOs. I'm too old to be playing with LEGOs, but LEGOs are awesome, so I don't care. I still don't. A song comes on the radio. It sounds kind of like ["Sledgehammer"](zune://navigate/?trackID=68E98C06-0100-11DB-89CA-0019B92A3933). When the song is over the DJ says it’s by some band called "The Dave Matthews Band". I remark to myself that this is a stupid name for a band. I return to my LEGOs.
+I'm in my bedroom, playing with LEGOs. I'm too old to be playing with LEGOs, but LEGOs are awesome, so I don't care. I still don't. A song comes on the radio. It sounds kind of like ["Sledgehammer"](https://open.spotify.com/track/4AUS8KNz7zX8XFu9L38GT0?si=bdaec999e5e14877). When the song is over the DJ says it’s by some band called "The Dave Matthews Band". I remark to myself that this is a stupid name for a band. I return to my LEGOs.
 
 That stupidly named band will become a critical part of my musical experience from late high school to early college, but at this moment they leave almost no impact whatsoever. I have the memory, but in no way did I rush out and buy the album, or even look the band up.
 
-### [Disco Inferno - The Trammps](zune://navigate/?trackID=37984F00-0100-11DB-89CA-0019B92A3933)
+### Disco Inferno - The Trammps
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/22ff60cZy4APp7bzESHLR8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 The older we got the less my brother and I hung out, but there was still overlap. Some of his friends I liked, some I didn't. Some of them also became my friends. One of those was Ethan.
 
@@ -47,7 +51,8 @@ At our high school, seniors had to put together some sort of senior project as p
 
 In the movie aliens come to Earth in response to receiving an "audio delight" that reached them as radio waves after traveling through space for decades. They capture a young boy and demand he produce more. There's a dance sequence to "Disco Inferno". Forever that song for me is hours spent in Ethan's garage painstakingly moving small clay figures. It was a lot of work, and it was also incredibly fun.
 
-### [Wake Up - Mad Season](zune://navigate/?trackID=2BD80800-0100-11DB-89CA-0019B92A3933)
+### Wake Up - Mad Season
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4hXqWYGyJYHrGawZOK8Rqq?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Outside of the movie, I did get a more contemporary music reference from Ethan. I only remember two songs from the album: "Wake Up" and "River of Deceit". Those are the first and third tracks, but I have no memory of the second. I got this as a copy from Ethan on cassette, so I think that means he actually saved me the trouble and just edited that out.
 
@@ -55,7 +60,8 @@ I don't know about you, but I got pretty much no sleep in high school. The stagg
 
 As mentioned above, I would go asleep to music. But waking up to music can be nice too. I took the suggestion in the title "Wake Up" and for awhile I used that song as a gentle wake up progression. It starts soft and builds into something harder to ignore, making it a good fit for the sleep deprived student.
 
-### [Freaks - Live](zune://navigate/?trackID=79180B00-0100-11DB-89CA-0019B92A3933)
+### Freaks - Live
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3R2jJMhAiba5esFMp4oGMw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 As far as I can tell, this is the last album I ever had a copy of on cassette. Yes, there were some mix tapes after this, but this was the last time I remember getting a copy of a full album on cassette.
 

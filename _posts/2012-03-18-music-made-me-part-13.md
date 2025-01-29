@@ -12,7 +12,8 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-13.
 
 Hmmm… I may have been a bit overzealous in zipping to the end of high school. These first two songs should be retroactively spliced in before prom and "Like A Prayer". I know, the academic sloppiness of being off by a couple months… you must be horrified.
 
-### [Do What You Have To Do - Sarah McLachlan](zune://navigate/?trackID=2FBEEF00-0100-11DB-89CA-0019B92A3933)
+### Do What You Have To Do - Sarah McLachlan]
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5eu1iy9jJtpi2PiGhJfDUc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I never owned this album. I say this not in an effort to protect my manliness (although this is probably the girliest entry on this list). I say this because it's noteworthy how well I know the album given that I never had personal access to it. This is the result of dating someone with a different musical history; you get a deep dive into their music tastes without even realizing that it's happening.
 <!--more-->
@@ -21,9 +22,10 @@ As I built this list I often do research by listening to albums I remember being
 
 I didn't go out of my way to select a song with any lyrical significance. But in listening through the album this song oddly stuck out to me, and then I noticed the lyrics of what I had chosen. "I don't know how to let you go." Wow, okay. Um, did I mention that this was a doomed relationship? It was the end of high school, and we were each going away to colleges in different states. The experiment had an undeniable fixed end point. It didn't really matter if it was going well, it was going to fall apart. It had to. That creates a very particular brew of emotions. And this song stirs those up.
 
-There were less heavy aspects to this album. [Ice Cream](zune://navigate/?trackID=39BEEF00-0100-11DB-89CA-0019B92A3933), for example. But I'm going to stick with my first instinct and go with the melodrama.
+There were less heavy aspects to this album. ["Ice Cream"](https://open.spotify.com/track/0ZRmP2mcSxvAzqbYlGHpyh?si=c5c07794d5ab437f), for example. But I'm going to stick with my first instinct and go with the melodrama.
 
-### [They Can't Take That Away From Me - Diana Krall](zune://navigate/?trackID=EB700A00-0100-11DB-89CA-0019B92A3933)
+### They Can't Take That Away From Me - Diana Krall
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3nOHOVW2Ef8BhTiCYAzDpM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Okay, I feel terribly exposed talking about all these intimate details on the internet. When I started this project I didn't realize how personal it was going to get. I guess that's just the cost of telling my musical story. My relationship to music is intimate and steeped in memory. I'm apparently incapable of talking about one without the other.
 
@@ -33,7 +35,8 @@ It's a unique kind of relationship that starts from an existing close friendship
 
 For someone who isn't really into lyrics, I seem rather focused on them here. But the song doesn't lie, this was a person who really and truly changed my life. I would not be the same person if I had never met her. The memory of all that… no, you can't take that way from me.
 
-### [Weapon and the Wound - Days of the New](zune://navigate/?trackID=A9F74100-0500-11DB-89CA-0019B92A3933)
+### Weapon and the Wound - Days of the New
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3aK2kWz8YJZKzfNr4VJnE5?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Okay, we need a shift in tone. Something a little less heavy. Well… this song has one of those odd associations that's entirely personal to me and completely irrelevant to anyone else. This song makes me think of [mammoth tanks](http://www.giantbomb.com/mammoth-tank/93-3637/).
 
@@ -43,7 +46,7 @@ The point is that I was listening to this interview and later the whole album as
 
 I struggled to pick the one song from the album to represent this connection. In the end it had to be "Weapon and the Wound", because I have a reaction to the orchestral beginning of this song that evokes *specific units* from the game. What I was doing and what I was listening to matched particularly poorly at that point in time. The song does not suggest mammoth tank carnage, but that's what was unfolding before my eyes. Yet now, they totally match for me, because that's how memory links everything together.
 
-### [The Opera - The Jazz Mandolin Project](zune://navigate/?trackID=9F2A1300-0500-11DB-89CA-0019B92A3933)
+### The Opera - The Jazz Mandolin Project
 
 Probably more than any other, this song represents what this list is about. Music memory.
 
