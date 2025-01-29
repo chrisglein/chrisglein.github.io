@@ -1,11 +1,8 @@
----
-title: All Posts
-description: All blog posts
-layout: page
----
-
 <div class="posts">
-  {% for post in site.posts %}
+  {% capture posts_filter %}item.tags contains "{{ include.tag }}"{% endcapture %}
+  {% assign posts_with_tag = site.posts | where_exp:'item', posts_filter | sort: 'date' | reverse %}
+
+  {% for post in posts_with_tag %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
