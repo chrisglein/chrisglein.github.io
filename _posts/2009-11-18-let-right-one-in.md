@@ -3,7 +3,7 @@ layout: post
 title: Let the Right One In
 date: '2009-11-18T10:28:00.000-08:00'
 author: Chris Glein
-tags: movie review horror
+tags: movies review horror
 modified_time: '2012-02-01T09:23:13.891-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-6816666597159803207
 blogger_orig_url: https://chrisglein.blogspot.com/2009/11/let-right-one-in.html

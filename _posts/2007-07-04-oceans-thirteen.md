@@ -3,7 +3,7 @@ layout: post
 title: Ocean's Thirteen
 date: '2007-07-04T14:13:00.000-07:00'
 author: Chris Glein
-tags: movie review crime heist
+tags: movies review crime heist
 modified_time: '2012-02-01T09:23:23.488-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3466228918998295011
 blogger_orig_url: https://chrisglein.blogspot.com/2007/07/oceans-thirteen.html

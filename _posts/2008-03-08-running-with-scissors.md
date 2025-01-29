@@ -3,7 +3,7 @@ layout: post
 title: Running With Scissors
 date: '2008-03-08T20:06:00.000-08:00'
 author: Chris Glein
-tags: movie review book
+tags: movies review book
 modified_time: '2012-02-01T09:23:23.434-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-116689419207304994
 blogger_orig_url: https://chrisglein.blogspot.com/2008/03/running-with-scissors.html

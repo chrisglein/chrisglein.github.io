@@ -3,7 +3,7 @@ layout: post
 title: Who Killed the Electric Car?
 date: '2007-03-28T09:43:00.000-07:00'
 author: Chris Glein
-tags: movie review documentary
+tags: movies review documentary
 modified_time: '2012-02-01T09:23:35.326-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5221313725059937997
 blogger_orig_url: https://chrisglein.blogspot.com/2007/03/who-killed-electric-car.html

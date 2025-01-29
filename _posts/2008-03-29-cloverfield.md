@@ -3,7 +3,7 @@ layout: post
 title: Cloverfield
 date: '2008-03-29T17:34:00.000-07:00'
 author: Chris Glein
-tags: movie review monster thriller
+tags: movies review monster thriller
 modified_time: '2012-02-01T09:23:23.528-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4221350686370881738
 blogger_orig_url: https://chrisglein.blogspot.com/2008/03/cloverfield.html

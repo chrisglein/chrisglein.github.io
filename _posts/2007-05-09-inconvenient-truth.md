@@ -3,7 +3,7 @@ layout: post
 title: An Inconvenient Truth
 date: '2007-05-09T09:58:00.001-07:00'
 author: Chris Glein
-tags: movie review documentary
+tags: movies review documentary
 modified_time: '2012-02-01T09:23:35.501-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7663830444216365055
 blogger_orig_url: https://chrisglein.blogspot.com/2007/05/inconvenient-truth.html

@@ -3,7 +3,7 @@ layout: post
 title: Scott Pilgrim vs the World
 date: '2010-09-16T12:57:00.000-07:00'
 author: Chris Glein
-tags: movie video-games review
+tags: movies video-games review
 modified_time: '2010-09-17T10:48:52.234-07:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-9195675024412897461
 blogger_orig_url: https://chrisglein.blogspot.com/2010/09/scott-pilgrim-vs-world.html

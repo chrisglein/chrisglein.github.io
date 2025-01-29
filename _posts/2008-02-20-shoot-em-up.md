@@ -3,7 +3,7 @@ layout: post
 title: Shoot 'Em Up
 date: '2008-02-20T19:19:00.000-08:00'
 author: Chris Glein
-tags: movie review action
+tags: movies review action
 modified_time: '2012-02-01T09:23:23.512-08:00'
 blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3933864692917978945
 blogger_orig_url: https://chrisglein.blogspot.com/2008/02/shoot-em-up.html
