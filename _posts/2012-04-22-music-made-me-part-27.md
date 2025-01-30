@@ -10,7 +10,8 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-90056876936293778
 blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-27.html
 ---
 
-### [Dirty Laundry - Bitter Sweet](zune://navigate/?trackID=E7E66A00-0100-11DB-89CA-0019B92A3933)
+### Dirty Laundry - Bitter Sweet
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UxYhEeF9OUbEhaarph7u3?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'd been working on the same product at Microsoft for four years, and it had come time to change the scenery. My team was migrating from Media Center to work on this new music project called Zune. A friend of mine, Ian, was already over there, and was able to give me some preliminary info on what it was all about. Sometime before I'd made the switch Jessica and I were going on a trip (to San Francisco, I think) and Ian lent Jessica his Zune device for the duration.
 <!--more-->
@@ -25,13 +26,15 @@ I also remember recommending the album to a friend who ended up putting together
 
 And now I'm realizing that we're starting catching up to reality. Because around a year after this point I went to see a Bitter Sweet show and blogged about it [here]({% post_url /2007-03-22-bitter-sweet %}).
 
-### [All Mine - Portishead](zune://navigate/?trackID=05A42700-0500-11DB-89CA-0019B92A3933)
+### All Mine - Portishead
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72QLUv5gT0QiR4LUWza9vF?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 We'd already been listening to Portishead for awhile, but there was a bit of a rebirth of Portishead around this time. And none of it more than this song.
 
 Damn this song is sexy. It crawls, it bumps, it slides. But I'm amazed at how this live recording manages to carry more weight than the album recording. I guess that's what happens when you bring a 35-piece orchestra to your live show.
 
-### [Brick House - Commodores](zune://navigate/?trackID=655E0B00-0100-11DB-89CA-0019B92A3933)
+### Brick House - Commodores
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5VJjhHyG8NZ5xdgG6uTb3P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 My cousin Kelly got married some years before this. Halfway into their traditional first dance she and the groom broke into a surprise swing routine. It was highly entertaining, and provided the inspiration I needed to finally cave into Jessica and get some dance lessons.
 
@@ -39,7 +42,8 @@ So some time after that Jessica and I started partner dancing together. And then
 
 It's so perfect for a laid back sloppy west coast. It is impossible for this song to come on and for Jessica and I to not to dance to it. I couldn't even count how many times we've danced to this song, yet it's still awesome. It's a staple at most weddings, and there's a reason.
 
-### [Move Along - The All-American Rejects](zune://navigate/?trackID=69CE4200-0100-11DB-89CA-0019B92A3933)
+### Move Along - The All-American Rejects
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2l57cfmCnOkwNX1tky02n1?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I've already mentioned here all sorts of music and rhythm games. Singing to *Karaoke Revolution*; drumming to *Donkey Konga*, and strumming to *Guitar Hero*. I even once threw a party where we had all of the above available at the same time. Thankfully someone else thought this was just as awesome as I did, because *Rock Band* was released and made the world a better place.
 

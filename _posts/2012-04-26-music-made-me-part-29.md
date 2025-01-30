@@ -10,12 +10,14 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-86189033039326374
 blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-29.html
 ---
 
-### [September - Earth, Wind & Fire](zune://navigate/?trackID=E1050800-0100-11DB-89CA-0019B92A3933)
+### September - Earth, Wind & Fire
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nNmj1cLH3r4aA4XDJ2bgY?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 We celebrated Jessica's thirtieth birthday with a disco house party. We'd warmed up with a number of excellent New Years Eve events, but this disco party was where the house dance floor really hit solid gold. People dressed up and really got into it. Of course, disco is genetically engineered to speak directly to the booty, so there's no denying it.
 <!--more-->
 
-### [1901 - Phoenix](zune://navigate/?trackID=D98CB901-0100-11DB-89CA-0019B92A3933)
+### 1901 - Phoenix
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JtPGzRgrWxkXX9LoROq3d?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 There was this song on the radio that kept getting stuck in Jessica's head. She would try to sing it to me, but I had no idea what she was talking about. What the hell is "Lisztomania"?
 
@@ -27,13 +29,15 @@ Later we're at the wedding venue, but it's the day before. We're hanging out in 
 
 Okay, it was settled. I had to explore this band for real. Upon returning from the trip I completely absorbed myself in Phoenix's discography. Was. Not. Disappointed.
 
-### [Intro - The XX](zune://navigate/?trackID=0A378506-0100-11DB-89CA-0019B92A3933)
+### Intro - The XX
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0DAsxISzun85PbsqAfIzeC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 This is one of my all time favorite album intros. It's exactly how you should prepare someone for the musical journey that follows. Simple, building, ear catching, but not overwhelming.
 
 And what a solid album it is. A distinct point of view, and a refined sound. Generally super relaxed, but also completely capable of getting things moving in its own way. My only complaint with this album is that it's the only one. I demand more.
 
-### [Underneath the Sycamore - Death Cab For Cutie](zune://navigate/?trackID=B104CD06-0100-11DB-89CA-0019B92A3933)
+### Underneath the Sycamore - Death Cab For Cutie
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/38x5Xwz3mkH6iCghORp0gW?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I find that I paint best when I have music on. So when I sat down for the crazy task of painting every day for [thirty days](http://papasnewbag.deviantart.com/art/30-Days-of-Painting-December-2011-277274140), I needed a lot of music. Which made it a great time for a new Death Cab album. I don't think I would have listened to this album so much in immediate repeat if it hadn't been for the fact that I was spending hours painting every single evening. Not because it isn't excellent, because it is. I just generally try to space out my album listening more.
 

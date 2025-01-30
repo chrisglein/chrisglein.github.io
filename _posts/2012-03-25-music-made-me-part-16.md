@@ -10,16 +10,18 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-57061737307137615
 blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-16.html
 ---
 
-### [Ever So Lonely - Sheila Chandra](zune://navigate/?trackID=63500100-0100-11DB-89CA-0019B92A3933)
+### Ever So Lonely - Sheila Chandra
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vs2C1WKhxTMkGykiBgCG3?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I feel like I've been saying this a lot (and will continue to): this song is huddled inside, out of the cold and rain, in bed with Jessica. It sounds scandalous, but even though it's none of your business I feel like I need to say I'm not implying any impropriety. We just spent a lot of time in bed, cuddled up, listening to music. Let's be fair, we still do. But those first months were a huge injection of shared musical experiences. Some were new for just me, some were new for both. In this case it was an album from her roommate Erin, so we were processing it at the same time.
 <!--more-->
 
 It's noteworthy how not in-line with my style this is. It's all vocals, and there's not a lick of rhythm to most of it. It's more ambience than what I'd usually consider music. But it's also incredibly beautiful.
 
-Years later, Jessica and I were probably the only two people in the movie theater who perked up to a [song](zune://navigate/?trackID=1A185B00-0500-11DB-89CA-0019B92A3933) in The Two Towers to wonder "Is that Sheila Chandra?"
+Years later, Jessica and I were probably the only two people in the movie theater who perked up to a [song](https://open.spotify.com/track/6yyL0sXRaDi60eVEVJFyZo?si=f527ca46ea304dde) in The Two Towers to wonder "Is that Sheila Chandra?"
 
-### [Almost Done - Morcheeba](zune://navigate/?trackID=E14A0000-0100-11DB-89CA-0019B92A3933)
+### Almost Done - Morcheeba
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13ccsvjo5S9QqeSQORMKRy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I remember "Friction" off of *Big Calm* being the first Morcheeba song Jessica played for me. But it wasn't the one that first connected. Naturally, it was the stuff we listened to while laying around: *Who Can You Trust?*
 
@@ -29,7 +31,8 @@ Apparently the whole time we were listening to it Jessica was a little on edge. 
 
 I just want to breathe it in and live there. It's slow enough to leave you eagerly anticipating every next movement. This song is just so damned sexy. It's like the song is making love to my head.
 
-### [Shoulder Holster - Morcheeba](zune://navigate/?trackID=C1AB0D06-0100-11DB-89CA-0019B92A3933)
+### Shoulder Holster - Morcheeba
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qJx0XycjCfHFXnWpmH8lO?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 After *Who Can You Trust?* won me over, it was time to delve into *Big Calm*. The tone of was considerably more up-beat, but still ever so good. Where the previous album was down and gritty, this one immediately lifted me up with the crystal vocals of "The Sea".
 
@@ -37,7 +40,8 @@ But the song that stood out for me was "Shoulder Holster". And I couldn't immedi
 
 Dishonorable mention to the title track, "Big Calm". Pretty much every Morcheeba album had one truly awful song that never should have happened. How that became the title of the album is beyond me. Skip it, enjoy the rest.
 
-### [Criminal - Fiona Apple](zune://navigate/?trackID=6D3BD001-0100-11DB-89CA-0019B92A3933)
+### Criminal - Fiona Apple
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6PNvv1dmDbOWrAYwEcuKBX?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I had heard Fiona Apple before. I remembered seeing the [video](http://www.youtube.com/watch?v=FFOzayDpWoI&ob=av2e) for this song on the MTVs, with her all vignetted, emaciated, and red eyed. I also remember her legendary [acceptance speech](http://www.youtube.com/watch?v=GSLwYrPbuts). For as much as they tried to turn her into some weird heroine-chic sex object, there is some serious power in that tiny body. Her voice, her piano… so deep.
 

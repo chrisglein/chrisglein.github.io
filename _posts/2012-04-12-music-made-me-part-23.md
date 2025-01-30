@@ -10,7 +10,8 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-17183033499850082
 blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-23.html
 ---
 
-### [Transatlanticism - Death Cab for Cutie](zune://navigate/?trackID=8E7F6200-0500-11DB-89CA-0019B92A3933)
+### Transatlanticism - Death Cab for Cutie
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DDRPKLKFIvDbNSQmnz19Y?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I remember listening to this song, lying face-up on the floor of the townhouse we lived in at the time. Jessica had put on this album on and it was this song that first stood out to me. Which is saying something, because the song is pretty deep into the album, and there are a lot of great songs that come before it. But it was the one that operated on the wavelength I needed.
 <!--more-->
@@ -19,13 +20,15 @@ I think the reason for that is that this song isn't as concerned with being, wel
 
 Once my ear was cocked, I delved into Death Cab pretty deeply, and they quickly became a favorite. This was the bridge.
 
-### [Catch Me - Supreme Beings of Leisure](zune://navigate/?trackID=7B5A9100-0100-11DB-89CA-0019B92A3933)
+### Catch Me - Supreme Beings of Leisure
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ZizejJWyrqFtv1PEv2Zwc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I discovered Supreme Beings of Leisure in a bit of a roundabout way. I got the Animatrix DVD as a gift. I want to say that the soundtrack came with it, but it's possible I just followed up and checked it out later. Doesn't matter. There were a couple interesting tracks on it, but the one that matters here is called [Under the Gun](zune://navigate/?trackID=36526000-0500-11DB-89CA-0019B92A3933) by Supreme Beings of Leisure. I enjoyed it, but didn't immediately dig deeper.
+I discovered Supreme Beings of Leisure in a bit of a roundabout way. I got the Animatrix DVD as a gift. I want to say that the soundtrack came with it, but it's possible I just followed up and checked it out later. Doesn't matter. There were a couple interesting tracks on it, but the one that matters here is called ["Under the Gun"](https://open.spotify.com/track/55G3VZAmkOyyfKI189ayv1?si=001198e2377c4d8c) by Supreme Beings of Leisure. I enjoyed it, but didn't immediately dig deeper.
 
 It took hearing the name a second time, from Francis if I recall, to lead me to *Divine Operating System*. And with that came many things, but especially the excellent James Bond anthem that never was: "Catch Me". This band is one sexy, classy act.
 
-### [Somersault - Zero 7](zune://navigate/?trackID=9DDF1E00-0100-11DB-89CA-0019B92A3933)
+### Somersault - Zero 7
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6CgIaRVXNmpUgeVuHmA4a2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Ambient chill background music, it's a thing. Here is some more. But there's a bit of a story to go with this one.
 
@@ -35,7 +38,8 @@ Anyway, the culture guy had the subject put on this Zero 7 album in the backgrou
 
 The album actually has a number of good tracks on it. Super soft, super chill, but good.
 
-### [Panther Dash - The Go! Team](zune://navigate/?trackID=C3965000-0100-11DB-89CA-0019B92A3933)
+### Panther Dash - The Go! Team
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/30mhk0OylYYaNQLzEhZiV9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 This is something that my officemate Krishna brought to my attention. We would close our door, crank up the volume, and groove to Go Team.
 
