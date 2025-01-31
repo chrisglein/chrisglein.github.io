@@ -175,3 +175,15 @@
   content: '|';
   margin: 0em 0.5em;
 }
+
+.sidebar h3,
+.sidebar h4 {
+  padding: 0px 30px;
+  color: rgba(255, 255, 255, .6);
+}
+
+.sidebar li > * {
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  border: none;
+}

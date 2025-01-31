@@ -25,13 +25,16 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item{% if page.url == '/tags/board-games.html' %} active{% endif %}" href="{{ '/tags/board-games/' | absolute_url }}">Board Games</a>
-    <a class="sidebar-nav-item{% if page.url == '/tags/books.html' %} active{% endif %}" href="{{ '/tags/books/' | absolute_url }}">Books</a>
-    <a class="sidebar-nav-item{% if page.url == '/tags/guitar.html' %} active{% endif %}" href="{{ '/tags/guitar/' | absolute_url }}">Guitar</a>
-    <a class="sidebar-nav-item{% if page.url == '/tags/movies.html' %} active{% endif %}" href="{{ '/tags/movies/' | absolute_url }}">Movies</a>
-    <a class="sidebar-nav-item{% if page.url == '/tags/music.html' %} active{% endif %}" href="{{ '/tags/music/' | absolute_url }}">Music</a>
-    <a class="sidebar-nav-item{% if page.url == '/tags/television.html' %} active{% endif %}" href="{{ '/tags/television/' | absolute_url }}">Television</a>
-    <a class="sidebar-nav-item{% if page.url == '/tags/video-games.html' %} active{% endif %}" href="{{ '/tags/video-games/' | absolute_url }}">Video Games</a>
+    <h4>Blog topics</h4>
+    <ul>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/board-games.html' %} active{% endif %}" href="{{ '/tags/board-games/' | absolute_url }}">Board Games</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/books.html' %} active{% endif %}" href="{{ '/tags/books/' | absolute_url }}">Books</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/guitar.html' %} active{% endif %}" href="{{ '/tags/guitar/' | absolute_url }}">Guitar</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/movies.html' %} active{% endif %}" href="{{ '/tags/movies/' | absolute_url }}">Movies</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/music.html' %} active{% endif %}" href="{{ '/tags/music/' | absolute_url }}">Music</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/television.html' %} active{% endif %}" href="{{ '/tags/television/' | absolute_url }}">Television</a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/video-games.html' %} active{% endif %}" href="{{ '/tags/video-games/' | absolute_url }}">Video Games</a></li>
+    </ul>
 
   </nav>
 
