@@ -3,6 +3,23 @@ layout: base
 title: Home
 ---
 
+<div class="features">
+  <a class="feature" href="{{ '/games/' | absolute_url }}">
+    <h3>Game Design</h3>
+    <div>Board game design projects, from prototype to publish</div>
+  </a>
+
+  <a class="feature" href="{{ '/tags/music-made-me.html' | absolute_url }}">
+    <h3>Music Made Me</h3>
+    <div>An autobiography as told by music</div>
+  </a>
+
+  <a class="feature" href="{{ '/posts/' | absolute_url }}">
+    <h3>Posts</h3>
+    <div>Dig into a backlog of blog posts</div>
+  </a>
+</div>
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">

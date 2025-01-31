@@ -187,3 +187,34 @@
   margin-right: 0.5rem;
   border: none;
 }
+
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.feature {
+  background-color: #FFF8FF;
+  border-radius: 20px;
+  padding: 20px;
+}
+a.feature:hover {
+  background-color: #aa759f;
+  color: white;
+  text-decoration: none;
+}
+.feature h2,
+.feature h3 {
+  margin-top: 0em;
+}
+.feature:hover h2,
+.feature:hover h3 {
+  color: white;
+}
+.feature:hover h2 + div,
+.feature:hover h3 + div {
+  color: #FFF8FF;
+}
