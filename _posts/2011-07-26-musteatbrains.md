@@ -16,13 +16,13 @@ I present to you, my game for Windows Phone: [MustEatBrains](http://windowsphone
 <!--more-->
 
 The marketplace description:
-> Choose either to fight on the side of the living or the undead horde in this handcrafted action game.  It's an all out brawl!  How long will you last?
+> Choose either to fight on the side of the living or the undead horde in this handcrafted action game. It's an all out brawl!  How long will you last?
 > 
-> In the UNDEAD mode you play as a ravenous zombie.  Chase after those meddlesome warm blooded fools and end their poor excuse for an existence.  You score points for each heart stopped by your hand.  Whatever fleshy parts you can salvage will bolster your undead endurance.  But keep an eye out for tasty morsels of brain.  The rush will make you invulnerable for a short time!
+> In the UNDEAD mode you play as a ravenous zombie. Chase after those meddlesome warm blooded fools and end their poor excuse for an existence. You score points for each heart stopped by your hand. Whatever fleshy parts you can salvage will bolster your undead endurance. But keep an eye out for tasty morsels of brain. The rush will make you invulnerable for a short time!
 > 
-> In the LIVING mode you stand alone against the undead horde.  You score points for each undead soul laid to rest, and lose points for the unintentional death of innocents.  You have a firearm at your command to hold back those zombies.  But ammunition is limited, so keep an eye out for supplies to keep you blasting.  If you run out you'll have to depend on your _other_ guns...
+> In the LIVING mode you stand alone against the undead horde. You score points for each undead soul laid to rest, and lose points for the unintentional death of innocents. You have a firearm at your command to hold back those zombies. But ammunition is limited, so keep an eye out for supplies to keep you blasting. If you run out you'll have to depend on your _other_ guns...
 > 
-> MustEatBrains features over three hundred frames of hand-drawn animation.  Everything was crafted by one person - the art, the code, even the fonts.  It is truly an old fashioned labor of love.  I hope you enjoy it.
+> MustEatBrains features over three hundred frames of hand-drawn animation. Everything was crafted by one person - the art, the code, even the fonts. It is truly an old fashioned labor of love. I hope you enjoy it.
 
 The trailer:
 

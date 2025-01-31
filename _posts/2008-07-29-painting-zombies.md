@@ -34,7 +34,7 @@ The first step was to wash the minis. Apparently they have some residual stuff o
 
 [![Zombie Painting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHjHL3QIfOpsWizveJdSJTUdmcObJE0gUdliSaGMGhrfbA704N2y7pwgwIdEaja1yaC6EOQ-VojXSBT8wE-xE6i3KhrmY1SPmSISrTOylEJeieDi723xpvQcUdpXRxYdWo2n972UZLPlI/s320/ZombiePainting-5.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHjHL3QIfOpsWizveJdSJTUdmcObJE0gUdliSaGMGhrfbA704N2y7pwgwIdEaja1yaC6EOQ-VojXSBT8wE-xE6i3KhrmY1SPmSISrTOylEJeieDi723xpvQcUdpXRxYdWo2n972UZLPlI/s1600-h/ZombiePainting-5.jpg)
 
-The next step was to prime them.  I started with the zombies, because you've gotta screw up pretty fierce to make zombies look bad.  Two coats of black paint later, my zombies were looking like freaky little tar monsters. 
+The next step was to prime them. I started with the zombies, because you've gotta screw up pretty fierce to make zombies look bad. Two coats of black paint later, my zombies were looking like freaky little tar monsters. 
 
 [![Zombie Painting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7E_BaOZfBRqdGfU0AATWd8ml8EQcrWNlAiWVlo7AFzObzDf9U-jstz57ddZY4b1wf7TDEns4lLOs9fk4mXzaFkR4qb9zo9oshDUfiWA7Dt9NOD2QxfDiMGQb-xCfBDkaxGwvycKCCfds/s320/ZombiePainting-10.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7E_BaOZfBRqdGfU0AATWd8ml8EQcrWNlAiWVlo7AFzObzDf9U-jstz57ddZY4b1wf7TDEns4lLOs9fk4mXzaFkR4qb9zo9oshDUfiWA7Dt9NOD2QxfDiMGQb-xCfBDkaxGwvycKCCfds/s1600-h/ZombiePainting-10.jpg)
 
@@ -50,6 +50,6 @@ The final step was to apply a coat of matte varnish to make sure that the paint 
 
 [![Zombie Painting](http://farm4.static.flickr.com/3210/2715341435_cf1d92f5ec_o.jpg)](http://www.flickr.com/photos/chrisglein/2715341435/)
 
-You can see more photos of the final result [here](http://www.flickr.com/photos/chrisglein/tags/zombie/).  Personally, I'm extremely happy with how they turned out.  Now that I've cut my teeth on the zombies, the next step is to tackle the heroes. There's more detail to worry about with the heroes, but the core steps should be the same. I'll post photos when I'm done.
+You can see more photos of the final result [here](http://www.flickr.com/photos/chrisglein/tags/zombie/). Personally, I'm extremely happy with how they turned out. Now that I've cut my teeth on the zombies, the next step is to tackle the heroes. There's more detail to worry about with the heroes, but the core steps should be the same. I'll post photos when I'm done.
 
 [![Zombie Painting](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujz91YEN87WKmlRrLJg22mKc1yvH_v-CRvG3bMrvEm0BNDmBhgIllv-U79Qbi1Tte__Xfqge3Q-qo5vtSJ7C2ipL450e-ug0TMMt4edYmCPkCedLXIILu6DTQadK0cfpFnukxbwhSDLE/s320/ZombiePainting.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujz91YEN87WKmlRrLJg22mKc1yvH_v-CRvG3bMrvEm0BNDmBhgIllv-U79Qbi1Tte__Xfqge3Q-qo5vtSJ7C2ipL450e-ug0TMMt4edYmCPkCedLXIILu6DTQadK0cfpFnukxbwhSDLE/s1600-h/ZombiePainting.jpg)

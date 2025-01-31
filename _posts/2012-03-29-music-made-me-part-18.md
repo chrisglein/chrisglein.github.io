@@ -32,7 +32,7 @@ So Jessica listened to a lot of angry female vocalists. It's similar to how she 
 
 I have two memories related to Jessica's Ani mix tape. The first is her singing along to this song in the car, a bit too emphatically for my tastes. I mean, you really don't want your girlfriend singing "I abhor you" in the car with lots of ambiguous pointing. Sure, it also turns into "I adore you", but that whole love/hate blend wasn't exactly what I was looking for.
 
-The second memory is an argument. She's not wearing her seatbelt, and is refusing my pleas to put one on. I now have a vested interest in her safety, and mild discomfort is not an acceptable excuse. She's not budging, so I escalate. I take this cassette tape, her Ani mix, out of the stereo and threaten to throw it out the window if she doesn't put her seatbelt on. She tries to call my bluff, and I chuck it.  It’s lost forever.
+The second memory is an argument. She's not wearing her seatbelt, and is refusing my pleas to put one on. I now have a vested interest in her safety, and mild discomfort is not an acceptable excuse. She's not budging, so I escalate. I take this cassette tape, her Ani mix, out of the stereo and threaten to throw it out the window if she doesn't put her seatbelt on. She tries to call my bluff, and I chuck it. It’s lost forever.
 
 I don't think I've ever lived that one down. It was one of her favorite mixes. But I did eventually get her to start wearing her seatbelt.
 
@@ -45,7 +45,7 @@ I had gotten so used to Jessica introducing me to female artists that when she f
 
 We went to see him at Bumbershoot. We don’t go anymore, because it turns out all the other people at Bumbershoot are colossal pushy assholes. But I do remember that David Gray evening show fondly.
 
-I love the B-side of this album. Basically from "Silver Lining" on there's this lovely cohesive stretch. I don't know why they felt the need to include a second version of "Babylon" at the end of the album, because otherwise the close would be perfect.  When you can finish off with an album that has "Goodbye" in the title, you should.
+I love the B-side of this album. Basically from "Silver Lining" on there's this lovely cohesive stretch. I don't know why they felt the need to include a second version of "Babylon" at the end of the album, because otherwise the close would be perfect. When you can finish off with an album that has "Goodbye" in the title, you should.
 
 ### Into The Mystic - Van Morrison
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lh3iiiJeiBXHSZw6u0kh6?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

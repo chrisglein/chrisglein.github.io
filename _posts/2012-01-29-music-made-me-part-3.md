@@ -10,7 +10,7 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-58118389301974565
 blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-me-part-3.html
 ---
 
-I'm a child of the Seattle area, so even though I was too young and thoroughly uncool I was exposed to grunge music in real time. Of course at this age all music was essentially new to me so it's not as if I was aware that this particular sub-genre was of the local variety. But this next block of influential songs should show some not-so-subtle commonality. Welcome to the 90's.  
+I'm a child of the Seattle area, so even though I was too young and thoroughly uncool I was exposed to grunge music in real time. Of course at this age all music was essentially new to me so it's not as if I was aware that this particular sub-genre was of the local variety. But this next block of influential songs should show some not-so-subtle commonality. Welcome to the 90's. 
 <!--more-->
 
 ### Come As You Are - Nirvana

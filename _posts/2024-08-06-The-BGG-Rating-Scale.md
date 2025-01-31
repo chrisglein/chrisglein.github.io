@@ -10,15 +10,15 @@ Different rating systems may be preferred depending on how much time we spend wi
 
 The predominant resource on board games is [Board Game Geek](https://www.boardgamegeek.com), and BGG asks its users to rate games on a 10 point scale. Not only that, but they [provide suggested definitions](https://boardgamegeek.com/wiki/page/ratings) for those values.
 
-> 10 - Outstanding. Always want to play and expect this will never change.  
-9 - Excellent game. Always want to play it.  
-8 - Very good game. I like to play. Probably I'll suggest it and will never turn down a game.  
-7 - Good game, usually willing to play.  
-6 - Ok game, some fun or challenge at least, will play sporadically if in the right mood.  
-5 - Average game, slightly boring, take it or leave it.  
-4 - Not so good, it doesn't get me but could be talked into it on occasion.  
-3 - Likely won't play this again although could be convinced. Bad.  
-2 - Extremely annoying game, won't play this ever again.  
+> 10 - Outstanding. Always want to play and expect this will never change. 
+9 - Excellent game. Always want to play it. 
+8 - Very good game. I like to play. Probably I'll suggest it and will never turn down a game. 
+7 - Good game, usually willing to play. 
+6 - Ok game, some fun or challenge at least, will play sporadically if in the right mood. 
+5 - Average game, slightly boring, take it or leave it. 
+4 - Not so good, it doesn't get me but could be talked into it on occasion. 
+3 - Likely won't play this again although could be convinced. Bad. 
+2 - Extremely annoying game, won't play this ever again. 
 1 - Defies description of a game. You won't catch me dead playing this. Clearly broken.
 
 You may notice that this scale is mostly oriented around desire to play. That's a reasonable index, but not the only one. It'd be weird if we primarily reviewed movies based on your interest in seeing them again. We fully accept that a movie can be seen once and never returned to, but still be great. But as physical objects that take up space in your home, board games seem held to this standard of "how much value are you getting out that shelf space?"
