@@ -77,13 +77,13 @@ Each player chooses a card from their hand and places it face-down in front of t
 With the draft complete each player takes the face-down cards they drafted into their hand. Any draft ability cards are revealed and placed face-up in front of them. These cards will decide the first player in the following phases (with play continuing clockwise from them):
 
 ## 2) BUILD
-Starting with the “1st to Build” player, each player will add cards from their hand to their player board. Each machine card must be installed to one of the 6 available slots. If there is already a card in a slot then only a card of the same type may be installed in that slot.
+Starting with the "1st to Build" player, each player will add cards from their hand to their player board. Each machine card must be installed to one of the 6 available slots. If there is already a card in a slot then only a card of the same type may be installed in that slot.
 
 ### Example
 <mark>Instead of adding a card to their machine a player may immediately take a random pixel from the bag.</mark>
 
 ## 3) COLLECT
-Starting with the “1st to Collect” player, each player attempts to remove pixels from the 1st segment of the conveyer belt. The player takes the matching color and number of pixels that are on their machine card(s) in the matching slot in their machine board. The taken pixels are placed on that player’s machine board.
+Starting with the "1st to Collect" player, each player attempts to remove pixels from the 1st segment of the conveyer belt. The player takes the matching color and number of pixels that are on their machine card(s) in the matching slot in their machine board. The taken pixels are placed on that player’s machine board.
 
 > IMPORTANT: If there are fewer matching pixels on the segment than that player can take, then that player takes none!
 
@@ -103,7 +103,7 @@ All remaining un-stored pixels are returned to the supply. The phase is over whe
 <mark>Can you un-store pixels?</mark>
 
 ## 5) SCORE
-Starting with the “1st to Score” player, each player may spend pixels they have collected to fill a scanline in one of the image cards. The scanline must not already be filled, and the player must have all of the pixels needed by that scanline. The player places their pixels on the image cards and receives the scanline’s listed number of victory points (moving their score tracker up the victory track).
+Starting with the "1st to Score" player, each player may spend pixels they have collected to fill a scanline in one of the image cards. The scanline must not already be filled, and the player must have all of the pixels needed by that scanline. The player places their pixels on the image cards and receives the scanline’s listed number of victory points (moving their score tracker up the victory track).
 
 # END GAME
 The game ends at the end of a round if there are no more machine cards in the machine deck.
