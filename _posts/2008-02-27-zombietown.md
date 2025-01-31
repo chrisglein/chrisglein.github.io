@@ -1,0 +1,25 @@
+---
+layout: post
+title: ZombieTown
+date: '2008-02-27T11:07:00.000-08:00'
+author: Chris Glein
+tags: zombie board-games review
+modified_time: '2012-02-01T09:23:23.770-08:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-5746508045598827977
+blogger_orig_url: https://chrisglein.blogspot.com/2008/02/zombietown.html
+---
+
+In continuing my exploration into [zombie tabletop gaming]({% post_url /2008-01-16-zombie-board-game %}), I decided to give [ZombieTown](http://www.boardgamegeek.com/game/22019) a spin. From the reviews I knew that this was one best played with more people, and thankfully I had a set of patient friends willing to fill out a six player session. Unfortunately I didn't anticipate the poorly written rules that turned the entire night into one big confusing… something. I want to say "tornado," but that implies fast, *which it was not*.
+<!--more-->
+
+The primary objective of *ZombieTown* is territory control. The zombie hoard is spreading out from the cemetery, and you need to secure the homes of the town before they get overrun. At the end of the game, you get points for the number of homes you control. Unfortunately the rules for transferring control are confusing. It's not enough to be present in the home; you need to either erect a barricade or post a survivor in order to technically get credit. Survivors die quickly and barricades are easy for other players to bypass, so you'll definitely see control switching around a lot. Unfortunately the rules aren't so crisp about what happens in these scenarios. Intuitively I would think that control means you have a warm body in the house, and that barricades exist to keep it that way, but apparently it's not so simple.
+
+Combat is resolved by drawing cards instead of rolling dice. In theory the card determines the range of your shot, but in a six player game there are so many zombie moves between your turns that combat is almost always a reaction of a close range attack. And even if you are being aggressive, you're better off firing your gun in close quarters because the odds are against a ranged hit. Thematically it's a little odd to have all these guns, but not be able to pick off zombies before they're on top of you.
+
+The biggest flaw in *ZombieTown* is that there are no rules to keep defeated players in the game. If you die early in the evening you just have to sit and watch until the game is over. Given that the whole point of a board game is to give some friends something to do together, this is flat out unacceptable. Give the player a point penalty, bring them back as a zombie… just do anything to keep them involved. It's no fun to sit on your duff while everyone else keeps on playing.
+
+If there's one trend I'd like to kill, it would be games where the rules are in a book when they should be on the cards. There are cards in *ZombieTown* that have nothing but a picture on them. You have to go look at the rules sheet to figure out how that card works. There are also rules about "event" class cards, but there's no indication on the cards themselves about what's an event and what is not. Sure, after you've played the game many times you won't need to fish around the rules to figure out what a card means, but until then it's a huge barrier to entry.
+
+Some of the rules of *ZombieTown* seem a little half baked, with a great example being the barricades. These come in varying strength, with each given a number that determines how many zombies it can keep at bay. According to the official rules, you're supposed to keep that number hidden. I guess the goal is to prevent other players from strategizing about exactly how many zombies they need to divert to take down a house. The bizarre thing is that barricades can have traps as well, but if the strength number is hidden then the trap number is clearly visible. I'd think I was reading the rules wrong, but the cards are not designed in a way that would allow you to hide the trap number. This was the only rule that was so obviously impossible to follow that we immediately threw it out the window.
+
+I'm truthfully trying to be reserved with the criticism I'm giving here, because I don't think I can say with confidence that I've actually played *ZombieTown* yet. I've played some interpretation of it, but given the outcome I'm sure that we got several parts wrong. It's not like [Zombies!!!]({% post_url /2008-02-13-zombies %}), which was so broken out of the box that I had to go get alternate rules before it was any fun. No, *ZombieTown* may be awesome as it was intended, but I still need to go online to figure out exactly how to play it. I'm not ready to write it off entirely, as that I really do like a lot of the ideas behind it, but I'm going to let this one sit until I can do some hardcore research.

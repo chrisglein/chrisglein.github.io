@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'Warioware: Smooth Moves'
+date: '2007-03-12T10:16:00.000-07:00'
+author: Chris Glein
+tags: video-games review wii
+modified_time: '2008-04-01T10:55:17.340-07:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1149887256351931161
+blogger_orig_url: https://chrisglein.blogspot.com/2007/03/warioware-smooth-moves-wii.html
+---
+<p class="playLine top"><span class='playIcon wii'></span>Played on Wii</p>
+
+Warioware: Smooth Moves ([GameSpy](http://wii.gamespy.com/wii/warioware-smooth-moves/758022p1.html), [GameSpot](http://www.gamespot.com/wii/puzzle/wariowaresmoothmoves/review.html), [GameFly](http://www.gamefly.com/products/detail.asp?pid=122455)) is my fourth contact with the Warioware series. And it feels like all the previous iterations were just building up to this one. It [arrived on the GBA](http://gba.gamespy.com/gameboy-advance/wario-ware-inc-mega-microgame-/5867p1.html). Multiplayer was added when it was [ported to the GameCube](http://cube.gamespy.com/gamecube/wario-ware-inc-mega-party-game/504282p1.html). When it [hit the DS](http://ds.gamespy.com/nintendo-ds/wario-ware-ds/587485p1.html) it brought a more intuitive set of controls. And then it [revisited the GBA](http://gba.gamespy.com/gameboy-advance/mawaru-wario-ware/619291p1.html) to experiment with motion controls (which is the one title I missed). And now it's here on the Wii, and the Wiimote makes it the best yet.
+<!--more-->
+
+Warioware has always been crazy, and there's a group of people that have always found it appealing. But bringing the whole experience to life with the motion controller makes it far more approachable. Seeing some ambiguous one-word explanation and being expected to press a button or do something on the D-pad just wasn't that intuitive. But physically shaking that banana or turning that key is obvious. In the past, multiplayer with Warioware was a brutal matchup of those who knew the games and those who didn't. But the gap is much narrower with Smooth Moves, making party style multiplayer viable after only a quick introduction.
+
+I've said before that I want my games to be more exciting than reality. Warioware shows the exception to this rule. The microgames are generally the most mundane tasks imaginable (like vacuuming or sharpening a pencil). But throwing a set of these tasks at you in disorienting rapid succession somehow makes that all okay. And mixing those in with more fantastic tasks like throwing shurikens at impeding ninjas or lasering down giant monsters can't help but make you smile.
+
+The one complaint I have with Warioware is that although the controls are more intuitive they're decidedly more flakey. There are times when you tweak out the sensor and miss a round even though you were doing the right thing. And if the game were less fun this would be really aggravating. But before you have a chance to really get mad a new game is coming your way and you've forgotten all about it.

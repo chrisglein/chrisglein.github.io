@@ -1,0 +1,30 @@
+---
+layout: post
+title: Ghostbusters
+date: '2009-11-12T18:27:00.000-08:00'
+author: Chris Glein
+tags: xbox-360 video-games review
+modified_time: '2009-11-12T18:28:43.482-08:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-3686708859935106785
+blogger_orig_url: https://chrisglein.blogspot.com/2009/11/ghostbusters-xbox-360.html
+---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
+
+Like many, the first time I went roller skating I was timid and hugged the wall the whole time. But there was a turning point where I finally gained enough confidence to let go, power skate as fast as I could, and really enjoy myself. That point was when the Ghostbusters [theme song](http://social.zune.net/album/Various-Artists/Ghostbusters--Original-Soundtrack-Album/55422c00-0100-11db-89ca-0019b92a3933/details) came on. I remember later in my life, going to some skating birthday party where my mom told this little factoid to a girl I was crushing on. I was mortified, of course. But apparently it doesn't embarrass me now, as I sit freely blogging it to The Internet.
+<!--more-->
+
+The first time I saw the Ghostbusters [movie](http://www.netflix.com/Movie/Ghostbusters/541018) I obviously enjoyed it enough to inspire death defying confidence. I mean, bustin' makes you feel good, right? But of course I didn't really have a clue about most of what was going on (keymaster… why are the adults laughing?). As time passed and I returned to the movie it just became more and more awesome. But I'm not here today to talk about the movie. I'm here to talk about the video game. No, not [that one](http://www.gametrailers.com/video/angry-video-screwattack/17324). The [new one](http://www.gamefly.com/game/xbox-360/Ghostbusters/129475/). Yes, there's a new Ghostbusters game that features all the original voice talents.
+
+And really, that's what makes the game: the voice acting. You go around to familiar locales, fighting familiar ghosts, all the time listening to the chatter of Venkman, Stantz, Egon, and Winston. Dan Aykroyd and Harold Ramis do an awesome job; Ernie Hudson does good but has a more limited role; Bill Murray pretty much phones it in. Murray's obviously the more successful actor, but he just doesn't feel like the same Venkman from his Ghostbusting days. But in general the whole cast transports you right back to the 80's, living out your childhood dream of busting ghosts with the Ghostbusters.
+
+The core gameplay can be generally described as a first person shooter, but it doesn't really feel in any way like [Halo]({% post_url 2007-12-28-halo-3-xbox-360 %}) or anything. Because instead of packing a rifle you've got a freaking [proton pack](http://www.gbfans.com/equipment/). The developers did a great job of making the proton pack feel just right. It's got the sound, the look, and leaves just the right amount of carnage. You use the stream to wear down a ghost until it's weak enough for you to wrangle it, then you toss out a trap and suck that apparition in. It feels exactly how it should, and each capture is very satisfying.
+
+To mix things up you also have alternate modes for you weapon. The slime feels very appropriate for a Ghostbusters game, but the shotgun and machine gun modes are a little more of a stretch. It's not so far out of place to yank you out of the groove, they're there for the less traditional ghosts that you don't actually have to trap. It doesn't feel as satisfying as the classic ghost wrangling, but the game is probably better for having the variety.
+
+Basically the rest of the game rides on those two main strengths: the voice acting and the feeling of your proton pack. The rest is pretty standard for the genre. The environments aren't bad, but rarely are they particularly inspiring. The story is an appropriate vehicle for giving you an opportunity to return to classics like the [Stay Puft Marshmallow Man](http://traditionaldanimatio.deviantart.com/art/Ghostbusters-Stay-Puft-102152613), but it isn't particularly memorable beyond that.
+
+I'd say the biggest problem of the game is the uneven difficulty curve, which is exacerbated by the extremely long loading times. Every time you die you're dumped to the loading screen and treated to that ever so classic Ghostbusters theme. Every time. No, no, I mean every time. And it always starts at the beginning of the song, with the game finishing loading right about when you're going to find about "something strange, in the neighborhood." It's really amazing that no one realized how extremely annoying this would be. You get to some freakishly hard part in the game where some gargoyles are cheezing you, and you're going to listen to the first part of that theme a couple dozen times.
+
+The game does make it a little harder to die as that as long as one of your fellow Ghostbusters is still standing they can revive you. Well, they can… but they might die before they get to you. Of course you have the return the favor, reviving them when they get knocked down. Which you will be doing constantly. There are many fights where you will spend as much time fussing over your comrades as actually unloading with your proton pack. It's hardly heroic. I don't mean to say that the game is too hard, because it's not. It's just that it's uneven. You will coast by most of the time, but occasionally you'll hit an annoying snag, and then you'll have the Ghostbusters theme song stuck in your head for a couple days.
+
+Aggravating load times aside, I did truly enjoy this one. It's all about the source material. If you find the Ghostbusters movies hilarious, and you're okay with a light FPS, then this game is a nice short distraction.

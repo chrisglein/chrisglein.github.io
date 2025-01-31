@@ -183,7 +183,7 @@ If at any point a tile is no longer connected through a pathway to the colony en
 Instead of removing tiles to address invalid connections you may replace a tile in your colony with a _Patch_ tile from your reserve. _Patch_ tiles's edges are always considered to be valid (they may have mismatched edges types or have open edges that connect to closed edges). If you do not have any _Patch_ tiles you may choose to purchase one from the supply by returning a gem <img class="inline gemToken"/> token from your stash to the supply.
 
 ## 3. POPULATE PHASE
-During this phase you will place tokens from the supply and your stash onto tiles in your colony. Consult the “Tiles” appendix to know which which tiles populate which tokens.
+During this phase you will place tokens from the supply and your stash onto tiles in your colony. Consult the "Tiles" appendix to know which which tiles populate which tokens.
 
 Tiles that have any unconnected open edge do not populate any tokens.
 
@@ -241,7 +241,7 @@ Some notes:
 - Even if the invader is defeated any gold <img class="inline goldToken"/> collected by that invader prior to being defeated is lost.
 - When an invader leaves they are removed immediately. They do not traverse back towards the entrance.
 - If there is ever a tie in how an invader wants to traverse your dungeon (there are two options equal distance apart) you decide how to break that tie.
-- Both gold <img class="inline goldToken"/> tokens and gem <img class="inline gemToken"/> tokens are considered “treasure”.
+- Both gold <img class="inline goldToken"/> tokens and gem <img class="inline gemToken"/> tokens are considered "treasure".
 
 <mark>TODO: Example of resolving an invader (for now consult the video)</mark>
 

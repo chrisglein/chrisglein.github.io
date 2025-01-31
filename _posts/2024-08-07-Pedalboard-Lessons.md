@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pedalboard Lessons"
-tags: guitar
+tags: guitar pedalboard
+series: Pedalboard
 ---
 ![Transfering to the new board](/media/posts/pedalboard-transfer.png)
 

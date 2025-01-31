@@ -206,7 +206,7 @@ Leave the drawn chips in the center of the play area, alongside any other chips 
 - Increase your place on the job's contribution track by the <strong>payout</strong> value of the <span class="obstacle">obstacle</span>.
 
 ### 7. ADVANCE OBSTACLE
-If the <span class="obstacle">obstacle</span> is a "Finale Obstacle”:
+If the <span class="obstacle">obstacle</span> is a "Finale Obstacle":
 - Failure: Skip the rest of this step (the <span class="obstacle">obstacle</span> remains in play).
 - Success: The game is over. Continue to "End Game & Scoring" below.
 

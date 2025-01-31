@@ -1,0 +1,50 @@
+---
+layout: post
+title: Music Made Me - Part 23
+date: '2012-04-12T07:52:00.001-07:00'
+author: Chris Glein
+tags: music music-made-me
+series: Music Made Me
+modified_time: '2012-04-12T07:52:41.739-07:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-1718303349985008298
+blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-23.html
+---
+
+### Transatlanticism - Death Cab for Cutie
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DDRPKLKFIvDbNSQmnz19Y?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+I remember listening to this song, lying face-up on the floor of the townhouse we lived in at the time. Jessica had put on this album on and it was this song that first stood out to me. Which is saying something, because the song is pretty deep into the album, and there are a lot of great songs that come before it. But it was the one that operated on the wavelength I needed.
+<!--more-->
+
+I think the reason for that is that this song isn't as concerned with being, well, a song. It finds a space, and then it spends some time just existing there. Building without building. I can see myself lying there on the floor, listening, and then really starting to feel it as the song enters its latter half of pure jam. Then at 6:31 the vocals come on in this lifting way that's perfectly justified and made more powerful by what preceded them. And then of course it just expertly blends into the next track. Album planning for the win.
+
+Once my ear was cocked, I delved into Death Cab pretty deeply, and they quickly became a favorite. This was the bridge.
+
+### Catch Me - Supreme Beings of Leisure
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ZizejJWyrqFtv1PEv2Zwc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+I discovered Supreme Beings of Leisure in a bit of a roundabout way. I got the _Animatrix_ DVD as a gift. I want to say that the soundtrack came with it, but it's possible I just followed up and checked it out later. Doesn't matter. There were a couple interesting tracks on it, but the one that matters here is called ["Under the Gun"](https://open.spotify.com/track/55G3VZAmkOyyfKI189ayv1?si=001198e2377c4d8c) by Supreme Beings of Leisure. I enjoyed it, but didn't immediately dig deeper.
+
+It took hearing the name a second time, from Francis if I recall, to lead me to _Divine Operating System_. And with that came many things, but especially the excellent James Bond anthem that never was: "Catch Me". This band is one sexy, classy act.
+
+### Somersault - Zero 7
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6CgIaRVXNmpUgeVuHmA4a2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Ambient chill background music, it's a thing. Here is some more. But there's a bit of a story to go with this one.
+
+I remember hearing about this band on the pilot episode of _Queer Eye for the Straight Guy_. For those first couple episodes they had some other dude sitting in the questionable "culture" seat. I remember him riffling through the subject's CD collection and criticizing it. Making fun of a dude's clothes and lame bachelor apartment is one thing, but it's something else entirely to hate on their music. Sure, I think some music is less than worthy; not all of it is good. But it's ridiculous to think that you can take someone's entire music history, dump it in the trash, and replace it with something hip. They can't un-experience all of that. Maybe other people don't have the emotional nostalgic connection to music that I do, but I can't imagine completely changing my music tastes overnight. I mean, that's why I'm doing this whole thing - I consider music to be part of my identity.
+
+Anyway, the culture guy had the subject put on this Zero 7 album in the background during his date. It's odd how despite my negative reaction to the whole scene I actually looked up the album. The thing is, it's not the music recommendation that I found repulsive; it was the request that the subject also throw out their pass.
+
+The album actually has a number of good tracks on it. Super soft, super chill, but good.
+
+### Panther Dash - The Go! Team
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/30mhk0OylYYaNQLzEhZiV9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+This is something that my officemate Krishna brought to my attention. We would close our door, crank up the volume, and groove to Go Team.
+
+The entire album sounds like it was duct-taped together in a basement with bargain bin recording equipment. But there's so much energy in the music that it doesn't matter. Actually, I prefer it this way. It's *raw*. The only downside is that this makes it incredibly difficult to insert into a mix with more-produced music.
+
+I mean, this whole album is bat shit crazy. It's got this bizarre backbone of cheerleading chants. Mix that with funk, and pop, and hip hop. And a harmonica. And trashcan drums. And a string section. And... holy crap what the hell is happening and why is it so awesome? How did I get this huge grin on my face?
+
+The sort of raw delight that this music can induce is probably why they decided to use "Get It Together" as the theme for the adorable [Little Big Planet](http://www.youtube.com/watch?v=Taiurn541SE). Which is a good pairing. But despite that huge marketing association Go Team always takes me back to those times with in that office with Krishna.

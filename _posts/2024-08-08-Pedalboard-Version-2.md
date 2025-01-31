@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Pedalboard Version 2"
-tags: guitar
+tags: guitar pedalboard
+series: Pedalboard
 ---
 <style type="text/css" rel="stylesheet">
 img.left, img.right {

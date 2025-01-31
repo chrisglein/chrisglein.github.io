@@ -8,6 +8,11 @@ paginate:         5
 
 excerpt_separator:  <!--more-->
 
+related_by: tags                # Match on just tags
+related_limit: 5                # Include 5 related pages
+related_categories: 1           # Must match at least X categorys
+related_tags: 2                 # Must match at least X tags
+
 # About/contact
 author:
   name:           'Chris Glein'

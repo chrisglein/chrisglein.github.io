@@ -1,0 +1,27 @@
+---
+layout: post
+title: Electric Vehicle Limitations
+date: '2007-03-29T08:08:00.000-07:00'
+author: Chris Glein
+tags: technology
+modified_time: '2012-02-01T09:23:35.402-08:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-6300530319452130101
+blogger_orig_url: https://chrisglein.blogspot.com/2007/03/electric-vehicle-limitations.html
+---
+
+Continuing from my post [yesterday]({% post_url /2007-03-28-who-killed-electric-car %})...
+<!--more-->
+
+The electric vehicle doesn't come without its limitations. The researchers described their challenge as answering these questions: "How far, how long, how much?" As in: How far can I go on a single charge, how long does it take to charge, and how much does this thing cost?
+
+**How Far**: With the best battery technology out there there's enough to almost go from Seattle to Portland and back on one charge. Lower cost batteries can still get you to Tacoma and back. In other words, it's enough for your everyday commute, but it's not going to scale to a road trip. For that you'd want a separate vehicle (or maybe do something like [FlexCar](http://www.flexcar.com/)). Which means an electric vehicle not a comprehensive solution for your *all* your transportation needs, instead it's something that will satisfy the common case (daily commute, shopping, etc.).
+
+**How Long**: The numbers here vary wildly depending on the battery technology. Nothing is going to be as quick as pumping gas is today, although some of the non-linear recharges get pretty close (something like 80% charge in 10 minutes). But this is offset by the fact that you could charge anywhere there's electricity: home, work, wherever. You'd want charging stations for longer trips, but in your normal routine you could go indefinitely without having to divert to a fueling station (which depending on your viewpoint makes it *more* convenient). We've all become used to plugging in our cell phones every time we come home - it'd essentially be the same thing with your car.
+
+**How Much**: Definitely the cost is going to be higher as long as these are specialized hand-built automobiles. The real question is how much they could come down in mass production. And I haven't found reliable data on that yet. But as a hand-crafted vehicle (about 4 per day) the GM EV1 cost $40,000 (without subsidy). Which isn't a cheap car, but neither is it an overly expensive car. With manufacturing improvements it seems that could come down a decent amount. But regardless, you have to ask yourself if the bottom line is what's important about moving to electric vehicle technology, or if it's something else.
+
+Which is the real question, isn't it? What's the motivation?
+
+It can't be to find the most convenient and economic solution. That criteria leads us to where we are today. That logic will also lead you to live off of McDonald's and Top Ramen. No, the motivation has to be to find something that's better in the long term. And that's almost never the easy way. There are certainly compromises we'd have to make to adopt this technology. But in my opinion they're reasonable compromises, given the benefits.
+
+Anyway, check out [the movie](http://www.netflix.com/MovieDisplay?movieid=70052424). It was well presented and definitely promotes some discussion :)

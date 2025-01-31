@@ -1,0 +1,31 @@
+---
+layout: post
+title: Last Night On Earth
+date: '2008-01-22T09:17:00.000-08:00'
+author: Chris Glein
+tags: zombie board-games review
+modified_time: '2012-02-01T09:23:23.840-08:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7625978358555459512
+blogger_orig_url: https://chrisglein.blogspot.com/2008/01/last-night-on-earth.html
+---
+
+Let's face it, I'm a gamer geek. I stand today as a video game playing computer programmer… but that pales in comparison to the path I took to get to be who I am today. In my days I've done everything from D&D to [CCGs](http://en.wikipedia.org/wiki/Collectible_card_game). And the sad part is that I played most of them in my head. Fellow geeks are hard to come by when you're young, so I spent more time thinking about these games than actually playing them. I think that's what defines a real gamer: someone who can fuel themselves with the mere *idea* of a game.
+<!--more-->
+
+Everyone is familiar with board games. Whether it's Monopoly or Scrabble or Sorry, chances are you've played a board game with your family on a rainy day. In fact, for many people, this is what comes to mind when they hear the word "game." It's a socially approved, wholesome activity. But of course as you leave the nest the opportunity for family gaming disappears. So it is that I probably haven't played anything other than the odd game of Scrabble in a decade.
+
+That is, until now. After all this time I'm playing a new board game and I'm experiencing something fiercely nostalgic. This game isn't anything like the board games I played in my youth. But with the pieces and the dice it connects me with some of the same sensations - physical things that you don't get from a video game. For me board games have always been a family thing, and as such I had no idea this whole subculture of adult niche board gaming existed. Hell, there's even a [DOOM](http://www.boardgamegeek.com/game/10640) board game.
+
+But enough rambling. Let me actually talk about this specific zombie-themed romp (which I [mentioned]{% post_url /2008-01-16-zombie-board-game %}) called [Last Night On Earth](http://www.boardgamegeek.com/game/29368).
+
+The board is a small village with a town square and surrounding buildings. The pieces around the square are random for every game, so sometimes there will be a police station, sometimes a high school. There isn't really a lot of variety in the board arrangement, but it's enough to keep things fresh.
+
+The players are divided into two teams: zombies and heroes. The heroes are selected from a set of zombie movie stereotypes like the sheriff or the high school flirt. All of them have different attributes and abilities, making them feel more like characters than just board game pieces. Over the course of the game the heroes can accumulate guns, baseball bats, and other equipment to help them defend themselves, but of course the zombies make up for that in numbers.
+
+The gameplay involves a mixture of standard rules for moving, searching, and fighting, a hand of cards to spice things up, and dice rolling. The heroes are tasked with some overall objective. This could be to survive until sunset, or it could be to fight back and destroy the source of the zombie infestation. The zombies have one objective: eat the heroes.
+
+So, is it any fun? Definitely. The thematic element is key here, as that it wouldn't be the same game if you weren't living out some zombie movie survival scenario. As you play the cards and roll the dice you find yourself doing storytelling as well. That's where the real fun is, but the mechanics are just deep enough to keep you thinking about strategies for your next game, even if randomness is a large element.
+
+One of the differentiating aspects of this game is that it's asymmetric: the zombie team and hero team are not playing the same game. The heroes are concerned with searching buildings and keeping the zombies at range. The zombies play a slow strategic game of swarming and surprise. Depending on the scenario it's likely that one team has more of an edge than the other. But personally it doesn't really bother me because the thematic scenarios are engaging enough to keep the minute to minute gameplay interesting, even if the victory condition is sometimes skewed.
+
+I've definitely enjoyed the time I've spent with Last Night On Earth so far. I look forward to playing with more people, trying out other scenarios, and getting the first [expansion](http://www.flyingfrog.net/lastnightonearth/growinghunger.html) when it rolls around. But more than that this game has reminded me of a whole genre of gaming that I've neglected for years. I've always associated board gaming with "family time," which is good and all, but I'm excited to see that there's an industry making board games for quirky people just like me.

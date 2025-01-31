@@ -64,7 +64,7 @@ The primary path to victory in the game, these cards are worth victory points an
   - A pawn of their color that represents their position in space
   - 12 mission markers (🟢) of their color
   - A home planet sector tile of their color (these are double sided to be easier to find)
-  - A set of starter ship parts: "Engines", “Cargo Hold", and “Bridge” (these are also double sided).
+  - A set of starter ship parts: "Engines", "Cargo Hold", and "Bridge" (these are also double sided).
 
 <img class="card" alt="engines" src="rulebook/StarterShipEngines.png" style="width: 32%; margin-right: 5px;"/><img class="card" alt="cargo hold" src="rulebook/StarterShipCargoHold.png" style="width: 32%; margin-right: 5px;"/><img class="card" alt="bridge" src="rulebook/StarterShipBridge.png" style="width: 32%"/>
 
@@ -78,20 +78,20 @@ Note that the starter cards have the same back as other cards but have an icon i
 
 2. Return any remaining unused starter cards, player pawns, mission markers, rules reminder cards, and home sectors to the game box.
 
-3. Separate all of the resource cards into two decks based on the indicator in the lower left corner. Those marked with the rare icon will go together to form the “rare goods” deck; the rest will be the “common goods” deck.
+3. Separate all of the resource cards into two decks based on the indicator in the lower left corner. Those marked with the rare icon will go together to form the "rare goods" deck; the rest will be the "common goods" deck.
 
-> For your first game if you have experience with deck building games or collectible card games you’ll jump into all this no problem. But if you don’t, or if any of this sounds intimidating, for a simpler experience we recommend you return the rare goods cards back to the game box. Whenever a card refers to the “rare goods” deck use the common goods deck instead.
+> For your first game if you have experience with deck building games or collectible card games you’ll jump into all this no problem. But if you don’t, or if any of this sounds intimidating, for a simpler experience we recommend you return the rare goods cards back to the game box. Whenever a card refers to the "rare goods" deck use the common goods deck instead.
 
 4. Shuffle cards to create these face-down decks:
   - The common goods deck
-  - The rare goods deck (place the “RARE GOODS” two-sided card on top of this deck to differentiate it from the common goods deck)
+  - The rare goods deck (place the "RARE GOODS" two-sided card on top of this deck to differentiate it from the common goods deck)
   - The mission deck
   - The exploration deck
   - Each player's starting deck
 
 5. Create the galaxy
-  - **2 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 3 from the “mission” pile and deal 4 from the other pile. Shuffle these together to form a sector draw pile.
-  - **3 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled “mission” and ones labeled anything else. Deal 4 from the “mission” pile and deal 6 from the other pile. Shuffle these together to form a sector draw pile.
+  - **2 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled "mission" and ones labeled anything else. Deal 3 from the "mission" pile and deal 4 from the other pile. Shuffle these together to form a sector draw pile.
+  - **3 player game**: Separate the remaining (non-home) sector tiles into two face-down piles: ones labeled "mission" and ones labeled anything else. Deal 4 from the "mission" pile and deal 6 from the other pile. Shuffle these together to form a sector draw pile.
   - **4 player game**: Shuffle all remaining (non-home) sector tiles together to form a sector draw pile.
   - Place each player's home sector and a deal out a number of other random sectors face-down from the sector draw pile according to the number of players (see below). Return any remaining sector tiles to the game box. 
 
@@ -190,7 +190,7 @@ Some cards generate **resources** (✊, 🌀). These are used to activate ship p
 
 Other than the big icons that generate credits or resources, do whatever the text of the card instructs you to do, top to bottom.
 
-If a card has two options separated by the text “OR”, you must choose one option when playing the card and ignore the other text entirely.
+If a card has two options separated by the text "OR", you must choose one option when playing the card and ignore the other text entirely.
 
 Note that purchase cost displayed in the top right of a card is not part of the card text, and is not relevant after a card is acquired.
 
@@ -199,7 +199,7 @@ Some cards in play will have an **activated ability** phrased in the form:
 
 COST➡️EFFECT
 
-The text preceding the “➡️” represents a **cost** that must be paid before resolving the **effect**. The costs and effects can vary wildly, but here are some examples:
+The text preceding the "➡️" represents a **cost** that must be paid before resolving the **effect**. The costs and effects can vary wildly, but here are some examples:
 
 🌀➡️✊<br>
 Discard 2➡️🟨🟨🟨<br>
@@ -211,11 +211,11 @@ Unless otherwise specified, you may activate an ability as many times as you wan
 
 If the cost of an ability is 🟨, you pay a credit from your personal stash. You don’t need a card in hand with a 🟨 symbol on it.
 
-If the cost of an ability is “Discard” and a number (e.g. “Discard 2”), you choose that number of cards from your hand and add them to your discard pile. When you discard a card as part of the cost of an ability that card’s effects are not resolved (it is not the same as "playing" that card).
+If the cost of an ability is "Discard" and a number (e.g. "Discard 2"), you choose that number of cards from your hand and add them to your discard pile. When you discard a card as part of the cost of an ability that card’s effects are not resolved (it is not the same as "playing" that card).
 
 ### MOVING YOUR SHIP
 <img alt="diagram of powering engines with a 🌀 card" src="rulebook/DiagramPoweringEngines.png" style="float: left; max-height: 200px; margin-right: 10px"/>
-Your ship exists on one sector at a time (that sector is referred to as “your current sector”). There’s no innate ability to move your ship to other sectors; that comes through the activated abilities on your ship parts combined with cards you play from your hand. Most commonly you will move your ship by combining the “Engines” ship part you start with and the “Fuel” card that produces the 🌀 resource. These together allow you to move to an adjacent sector.
+Your ship exists on one sector at a time (that sector is referred to as "your current sector"). There’s no innate ability to move your ship to other sectors; that comes through the activated abilities on your ship parts combined with cards you play from your hand. Most commonly you will move your ship by combining the "Engines" ship part you start with and the "Fuel" card that produces the 🌀 resource. These together allow you to move to an adjacent sector.
 
 Two sectors are considered **adjacent** if they share an edge or a corner, so you are allowed to move diagonally when moving to an adjacent sector.
 
@@ -261,7 +261,7 @@ A completed mission is worth the victory points (🏆) listed on the card. After
 
 <img class="smallCard" alt="mission card" src="rulebook/MissionFirstContact.png" style="float: left; max-width: 120px; margin-right: 10px"/>
 
-Many missions have multiple activated abilities and state that you can only activate one of them per turn. If you activate ability “A” on a turn you cannot later activate “B” on the same turn.
+Many missions have multiple activated abilities and state that you can only activate one of them per turn. If you activate ability "A" on a turn you cannot later activate "B" on the same turn.
 
 <img class="smallCard" alt="mission card" src="rulebook/MissionInspections.png" style="float: right; max-width: 120px; margin-right: 10px"/>
 
@@ -286,7 +286,7 @@ When you are done with your turn the following happens in this order:
 
 If at any point you need to draw a card but your draw pile is empty first shuffle your discard pile and place it face-down as your new draw pile.
 
-4. Trigger any “when your turn ends” effects.
+4. Trigger any "when your turn ends" effects.
 
 # SHIP CONSTRUCTION
 Ship parts are placed face-up in front of the player and represent the various systems and upgrades on that player's ship. These cards have connectors on some or all of their edges, showing how they can fit together. Like connectors can only attach to like connectors.
@@ -295,7 +295,7 @@ Ship parts are placed face-up in front of the player and represent the various s
 
 When you acquire a ship part you must find a place to **install** it. You may rearrange your existing ship parts. You may also voluntarily remove any of your installed ship parts from the game to make room for a new ship part.
 
-The ship parts that you start with (“Engines”, “Cargo Hold”, and “Bridge”) may never be removed from the game.
+The ship parts that you start with ("Engines", "Cargo Hold", and "Bridge") may never be removed from the game.
 
 # ADVANCED RULES
 After a game or two with the rules above you may want to play with these additional rules:
@@ -318,7 +318,7 @@ Yes! You may move to and purchase cards from another player’s home sector just
 #### Can I move a docked card from one ship part to another?
 Docked cards are considered to be part of your hand, so you may move a resource card docked on one ship part to dock under a new card, assuming you meet all restrictions on the new target ship part.
 
-#### What does “X” mean?
+#### What does "X" mean?
 If a card refers to "X" with a cost then the value of X can be whatever number you choose. So if it says X✊ you can pay ✊, ✊✊✊, or even zero. Any "X" in the effect will have the same value you chose when paying the cost.
 
 Some activated values will tell you what "X" evaluates to, in which case you use that value, not one of your choice.
@@ -333,11 +333,11 @@ Sometimes activated abilities will allow you do something you couldn't normally 
 Face-up, and the order doesn't matter. Any other player may look at your discard pile if they want to.
 
 #### Can I choose to resolve only part of the text on a resource card when I play it?
-You must resolve all effects on the card top to bottom. The only exceptions are when the effect is phrased as a choice (“you may”) or part of a modal choice (the card will state “or” between two options).
+You must resolve all effects on the card top to bottom. The only exceptions are when the effect is phrased as a choice ("you may") or part of a modal choice (the card will state "or" between two options).
 
-Some cards may have a condition in the text (e.g. “Pay 🟨🟨 to remove a 🟢 from a mission in your current sector”). You must meet the condition before the “to” in order for the rest to resolve. 
+Some cards may have a condition in the text (e.g. "Pay 🟨🟨 to remove a 🟢 from a mission in your current sector"). You must meet the condition before the "to" in order for the rest to resolve. 
 
-#### What does “removed from the game” mean?
+#### What does "removed from the game" mean?
 When a card is removed from the game you may put it back in the game box. It no longer has any gameplay effect and can never come back.
 
 #### Moving sectors

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Journey to My First Pedalboard"
-tags: guitar
+tags: guitar pedalboard
+series: Pedalboard
 ---
 <style type="text/css" rel="stylesheet">
 iframe.video {

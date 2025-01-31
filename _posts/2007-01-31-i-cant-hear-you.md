@@ -1,0 +1,31 @@
+---
+layout: post
+title: I can't hear you
+date: '2007-01-31T08:05:00.000-08:00'
+author: Chris Glein
+tags: video-games game-design
+modified_time: '2008-04-01T10:55:17.353-07:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-2133258145394336143
+blogger_orig_url: https://chrisglein.blogspot.com/2007/01/i-cant-hear-you.html
+---
+
+I've noticed a bad trend in the [FPS](http://en.wikipedia.org/wiki/First-person_shooter) these days: I can't seem to hear what the hell is going on. Oh, I can hear the action all right. The sound of the gun rattling off. That grenade detonating right next to me (whoops). Those I can hear just fine. But that guy standing next to me giving me important plot details? Mumble mumble mumble. The guy on my radio telling me what to do next? No clue what he just said.
+
+There are two main causes of this:
+<!--more-->
+
+1) 3D Sound
+
+Sounds fancy, doesn't it? Games have this sound engine to make sure that when a rocket whizzes right by your virtual ear you hear the path via your speakers. Cool for rockets, bad for dialogue. If there's some guy in-game talking to you, in many shooters you won't be able to hear what they're saying unless you're standing right next to and looking directly at them. I don't know about you, but I'm capable of hearing someone talking to me even if they're behind me and across the room. Our ears are actually very capable receivers. And optimizing over the whiz bang effect leaves a poor experience for dialogue.
+
+I appreciate now the wisdom of Bungie for putting [Cortana](http://en.wikipedia.org/wiki/Cortana) in the Master Chief's head.
+
+2) No independent speech volume control
+
+It's so simple. It's a knob in settings that assigns a volume level for speech and only speech. Most games already have a category for "Music" versus "Effects". And to be fair some games were smart enough to call out a "Speech" category. But far too few.
+
+Maybe it's my sound setup. It's true, I had to neuter my 7.1 sound setup to 7.0. I live in the city, where neighbors are separated by walls, not fences. Removing the sub woofer wasn't quite enough - I also have to keep the volume at a reasonable level while I game. The catch is that people have a much higher tolerance for continuous sound over burst sound. That's why alarms beep in intervals to wake you up. Speech fits in the continuous sound bucket, which is why it's possible to tune someone out even as they're talking to you (not a good idea to let them know, however). The sounds of TV are accepted much more by neighbors than the sporadic explosion. I could happily crank up the speech volume in the game while leaving the rest of the sound low and not disturb anyone. If only someone gave me the option.
+
+Another option is subtitling. Which is certainly functional, but it has the side effect of being the most anti-immersive thing ever. Plus nothing really highlights the poor voice acting in so many games like being able to read the script side by side with them.
+
+The saving grace is that most shooters are light on plot as is, so you're probably not going to have your experienced ruined by missing out on the dialogue. But that's a trend I'd wouldn't exactly encourage. Either do it right or take the silent cue and do it [Gordon Freeman](http://en.wikipedia.org/wiki/Dr._Gordon_Freeman) style.

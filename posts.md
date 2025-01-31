@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: All Posts
 description: All blog posts
 layout: page
 ---

@@ -1,0 +1,22 @@
+<div class="posts">
+  {% capture posts_filter %}item.tags contains "{{ include.tag }}"{% endcapture %}
+  {% assign posts_with_tag = site.posts | where_exp:'item', posts_filter | sort: 'date' | reverse %}
+
+  {% for post in posts_with_tag %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.excerpt }}
+
+    <a href="{{ post.url | absolute_url }}">
+      More
+    </a>
+  </div>
+  {% endfor %}
+</div>

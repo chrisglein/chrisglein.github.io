@@ -1,0 +1,25 @@
+---
+layout: post
+title: The last metroid is in captivity...
+date: '2007-08-28T12:34:00.000-07:00'
+author: Chris Glein
+tags: video-games wii metroid
+modified_time: '2008-04-01T10:55:17.326-07:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-7876112234686128937
+blogger_orig_url: https://chrisglein.blogspot.com/2007/08/last-metroid-is-in-captivity.html
+---
+
+For someone who's such a Metroid fanboy, I'm actually not much of a fan of the [original](http://en.wikipedia.org/wiki/Metroid). I've been spending a decent amount of time on the [Virtual Console](http://en.wikipedia.org/wiki/Virtual_Console) lately, and the original Metroid hasn't aged nearly as well other big franchises (like Mario and Zelda). Even when I know where I'm going I invariably get lost in the repetitive environments. And entirely too much effort is spent farming energy to fill up your tanks. In Zelda you may have more heart containers (energy tanks), but each heart drop gives you back a full one (not 5/100) and there are both fairies and potions to give you big refills in times of need. I've never actually had the stomach to finish the original _Metroid_, although I try every now and then if only to experience it's historical significance.
+<!--more-->
+
+[Super Metroid](http://en.wikipedia.org/wiki/Super_Metroid), however, is one of the greatest games of all time. It is a timeless classic - the pinnacle of 2D action gaming. It may be 13 years old, but it still can r0x0r your b0x0rz.
+
+I was aware that these classic Metroid games were coming to the Virtual Console, but it was seeing the speed runs at PAX that really motivated me to try a run of _Super Metroid_ after all these years. Back in 1994 I worked my butt off to get the best ending (which requires beating the game in less than 3 hours). But do I still have what it takes?
+
+Turns out, yes. Stuffed away in the recesses of my brain is all the information I need to blaze through _Super Metroid_ (no [GameFaqs](http://www.gamefaqs.com/) crutch here). I can barely remember a movie I saw last week, but I know exactly what section of wall to shoot to reveal another coveted super missile tank. My run clocked in at 2:00 even (which was 50% items). There's a lot of time I could shave off there for sure: I stopped for way too many items, made and extra trip to [Brinstar](http://zebes.deviantart.com/art/Samus-Encounters-Spore-Spawn-44975037), and I got totally lost in [Maridia](http://jaquio.deviantart.com/art/Going-to-Maridia-49315980). I just might try for another run to see how low I can go, but I'm totally proud of the fact that I can still rock it after all these years.
+
+Now, by today's standards beating a game in 2 hours sounds crazy. We expect a bare minimum of 10-20 hours even from our action games. But I like the fact that _Super Metroid_ can be done in 2 hours. Instead of being a game padded with filler, this is pure gaming goodness that you don't mind playing again and again. But don't go thinking that my 2 hours is any sort of achievement. The [Speed Demos Archive](http://speeddemosarchive.com/GameList.html) clocks the record at [0:32](http://speeddemosarchive.com/demo.pl?SuperMetroid_SS_032). The skill involved in a run like that is crazy impressive, (on par from the jaw dropping [Quake Done Quick](http://www.gametrailers.com/player/usermovies/10865.html) runs). Super Metroid is a natural fit for speed running, as that the very nature of the gameplay impedes progress gated on movement enhancing upgrades (high jump, dash, grapple, etc.). Very clever and dexterous people can overcome those obstacles through other means, bypassing or at least speeding up large sections of the natural progression.
+
+Of course there's a reason that these titles are hitting the Virtual Console now, and that's the release of [Metroid Prime 3: Corruption](http://en.wikipedia.org/wiki/Metroid_Prime_3:_Corruption) this week for the Wii. From the [reviews](http://www.gametrailers.com/player/24117.html) it sounds just as awesome as I'd expect from its pedigree, and to get you up to speed GameTrailers has done an excellent retrospective on the entire Metroid series (parts [1](http://www.gametrailers.com/player/22771.html), [2](http://www.gametrailers.com/player/23047.html), [3](http://www.gametrailers.com/player/23387.html), [4](http://www.gametrailers.com/player/23700.html), [5](http://www.gametrailers.com/player/24118.html)).
+
+In the meantime, if you've got a Wii and some spare cycles, I highly recommend you go download _Super Metroid_. It won't disappoint.

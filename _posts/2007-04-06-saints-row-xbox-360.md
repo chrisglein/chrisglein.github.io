@@ -1,0 +1,26 @@
+---
+layout: post
+title: Saints Row
+date: '2007-04-06T09:17:00.000-07:00'
+author: Chris Glein
+tags: xbox-360 video-games review crime
+modified_time: '2008-04-01T10:55:17.336-07:00'
+blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-4224575278993552449
+blogger_orig_url: https://chrisglein.blogspot.com/2007/04/saints-row-xbox-360.html
+---
+<p class="playLine top"><span class='playIcon xbox360'></span>Played on Xbox360</p>
+
+I actually finished Saints Row a couple weeks ago, but I felt compelled to keep playing it because there was just so much extra stuff to do (links: [GameSpot](http://www.gamespot.com/pages/video_player/popup.php?sid=6156774&pid=928235), [GameSpy](http://xbox360.gamespy.com/xbox-360/saints-row/729563p1.html), [GameFly](http://www.gamefly.com/products/detail.asp?pid=116745)). The game is an unabashed [GTA](http://en.wikipedia.org/wiki/Grand_Theft_Auto_%28series%29) clone, but it's a pretty decent one. It nails all the core elements of driving and shooting, and gives you plenty of varied missions. It doesn't hit the strong thematic stride of [Vice City](http://en.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City) or [San Andreas](http://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas), making it feel more like GTA [III](http://en.wikipedia.org/wiki/GTA_III) but with more contemporary gameplay.
+<!--more-->
+
+In many areas the gameplay is even more polished than the latest GTA game. Your map is very interactive and lets you set waypoints that will actually map out driving directions. The customization allowed on your character is very impressive, enabling you to craft whatever thug your heart desires. But it's not all an upgrade - Saints Row definitely suffers from a lack of a mid-mission check point system. There's nothing more obnoxious than a difficult mission that starts over with a long cross-city drive every time.
+
+There was nothing particularly wrong with the story, character models, or voice actors. They were all passable, and sometimes even good. But the *dialogue* suffered from extreme Mountain Dew syndrome. It's as if someone decently talented wrote the script, but then afterwards marketing came through and marked it up with "cock sucker" this and "muthafucka" that. And I'm not even talking the casually swearing - that's a given. It's more the random Tourette's outbursts. Basically every cut scene had at least one, and it was totally unnecessary. As if a game revolving around gang violence wasn't "hardcore" enough.
+
+The radio stations have always been one of the most entertaining parts of the GTA series, and here Saints Row falls short. The track selection just isn't that good (and I mean in quality, not quantity). In Vice City I would find myself still grooving to a song even after the 20th time; in Saints Row most of the tracks grew tiring a couple seconds in. The one exception was the classical station - which is always perfect for gang banging. I have a great memory of toying with a policeman by letting him chase me on foot as I slowly backed up to the tune of "Ride of the Valkyries."
+
+The side missions in Saints Row are definitely noteworthy. These aren't just the tried and true taxi and ambulance circuits. There's ho stealing, drug running, depraved senator escorting, and much much more. But my favorite was "insurance fraud," where you throw yourself down stairs and in front of cars to make the most believable injury with the most witnesses. If that's not fun, I don't know what is.
+
+Saints Row is graphically pretty buggy. So much so that someone even wrote a [musical](http://www.youtube.com/watch?v=9l_YN-yRCVY) about it. I also thought it was odd that when your cars got beat up sometimes instead of a crumpled hood they looked more like a wrinkled shirt. But whatever - none of the bugs ever got in the way of the gameplay.
+
+Overall Saints Row was a pleasant experience. The content of this type of game is totally violent. And juvenile. And offensive. And socially backwards in about every way. But it's fun. It's true, I wish there were more game developers that picked up the [sandbox](http://en.wikipedia.org/wiki/Sandbox_%28video_games%29) format and applied it in a less delinquent way, as with [Simpsons Hit & Run](http://en.wikipedia.org/wiki/Simpsons_hit_and_run). But in the meantime since I personally am not in danger of gang banging in my real life, I'll gleefully continue pimping hos and rolling deep in my virtual one.

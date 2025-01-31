@@ -117,23 +117,23 @@ Add the revealed modifiers from tokens and assist cards to your talent score (th
 
 Some obstacles require multiple talents. You sum your scores from both talents.
 
-<mark>TODO: For “or” choice obstacles do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
+<mark>TODO: For "or" choice obstacles do you choose up front (before assists) or at the end? Or is it just whichever is higher, no choice required?</mark>
 
 #### FAILURE
 If you fail apply the failure effect of the obstacle (if any).
 
-Unless the obstacle says it is “Mandatory”, discard the obstacle card.
+Unless the obstacle says it is "Mandatory", discard the obstacle card.
 
 Discard any assist cards that were played.
 
-You may resolve the “Failure” (red bottom) effect of one trick card you played or of a trick card from your hand.
+You may resolve the "Failure" (red bottom) effect of one trick card you played or of a trick card from your hand.
 
 #### SUCCESS
 If you succeed apply the success effect of the obstacle (if any).
 
 Add the obstacle card to your score area.
 
-Any player who played an assist card adds that card to their score area (or resolve its “Success” (green bottom) effect).
+Any player who played an assist card adds that card to their score area (or resolve its "Success" (green bottom) effect).
 
 # END OF THE ROUND
 After each player has had a turn the round is over. Add the tokens for the current round number from the police track to the bag. If there are no more rounds on the track the game is over, proceed to End Game & Scoring.

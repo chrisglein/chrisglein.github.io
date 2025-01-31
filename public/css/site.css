@@ -54,6 +54,12 @@
   font-size: smaller;
   margin-bottom: 2rem;
 }
+.posts .playLine.top {
+  margin-bottom: 0.5rem;
+}
+.playLine.subheader {
+  margin-bottom: 0.5rem;
+}
 
 .playIcon {
   height: 1em;
@@ -75,6 +81,30 @@
 .playLine .xbox,
 .playIcon.xbox {
   background-image: url(/media/xbox.png);
+}
+.playLine .xbox360,
+.playIcon.xbox360 {
+  background-image: url(/media/xbox360.png);
+}
+.playLine .ds,
+.playIcon.ds {
+  background-image: url(/media/ds.png);
+}
+.playLine .wii,
+.playIcon.wii {
+  background-image: url(/media/wii.png);
+}
+.playLine .gba,
+.playIcon.gba {
+  background-image: url(/media/gba.png);
+}
+.playLine .ps2,
+.playIcon.ps2 {
+  background-image: url(/media/ps2.png);
+}
+.playLine .pc,
+.playIcon.pc {
+  background-image: url(/media/pc.png);
 }
 .playLine .hbo,
 .playIcon.hbo {
@@ -111,4 +141,80 @@
 .playLine .goodreads,
 .playIcon.goodreads {
   background-image: url(/media/goodreads.png);
+}
+
+.post-footer {
+  background-color: #FFF8FF;
+  padding-top: 1px;
+  padding-bottom: 10px;
+}
+
+.post-series .pagination {
+  margin: 1rem 0;
+  display: flex;
+}
+
+.post-related .related-post h4 {
+  margin-top: 0em;
+}
+
+.related-post .post-date,
+.post-series .post-date {
+  font-size: smaller;
+  margin-bottom: 0rem;
+}
+.post-series .pagination .post-date {
+  margin-top: 0rem;
+}
+
+.post-series .pagination-item {
+  align-content: center;
+}
+
+.post-tags .tag ~ .tag::before {
+  content: '|';
+  margin: 0em 0.5em;
+}
+
+.sidebar h3,
+.sidebar h4 {
+  padding: 0px 30px;
+  color: rgba(255, 255, 255, .6);
+}
+
+.sidebar li > * {
+  padding: 0.25rem 0.5rem;
+  margin-right: 0.5rem;
+  border: none;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.feature {
+  background-color: #FFF8FF;
+  border-radius: 20px;
+  padding: 20px;
+}
+a.feature:hover {
+  background-color: #aa759f;
+  color: white;
+  text-decoration: none;
+}
+.feature h2,
+.feature h3 {
+  margin-top: 0em;
+}
+.feature:hover h2,
+.feature:hover h3 {
+  color: white;
+}
+.feature:hover h2 + div,
+.feature:hover h3 + div {
+  color: #FFF8FF;
 }
