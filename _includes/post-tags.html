@@ -1,0 +1,14 @@
+<div class="post-tags">
+    <h3>Tags</h3>
+    {% for tag in page.tags %}
+        {% capture url %}/tags/{{ tag }}.html{% endcapture %}
+        {% assign file_exists = site.pages | where: "url", url  %}
+        <span class="tag">
+            {% if file_exists.size > 0 %}
+                <a href="{{ url | absolute_url }}">{{ tag }}</a>
+            {% else %}
+                {{ tag }}
+            {% endif %}
+        </span>
+    {% endfor %}
+</div>

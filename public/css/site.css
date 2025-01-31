@@ -170,3 +170,8 @@
 .post-series .pagination-item {
   align-content: center;
 }
+
+.post-tags .tag ~ .tag::before {
+  content: '|';
+  margin: 0em 0.5em;
+}
