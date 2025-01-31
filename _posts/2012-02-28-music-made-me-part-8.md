@@ -18,14 +18,14 @@ If I hadn't done my research I would have placed this much earlier in the timeli
 
 I don't think The Doors would be the same without the rampant substance abuse of Jim Morrison. Even though I was about as straight-laced of a kid as they make, there's something that appealed to me about Morrison's bat-shit-crazy forays off into the deep. I was oddly attracted to stupid bullshit like "The End". I don't know why I was so damned weird, but I was, and I liked weird things. Even though I was dead sober.
 
-I wanted to appear somewhat normal and pick something like [Riders on the Storm](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe?si=8050555a205d4f35) for this list, which is a song that I love. There are actually plenty of Doors songs that I both adore and are perfectly listenable. But they didn't punch through in the way that those lyrics about "the screams of the butterflies" did. Seriously, looking through my sketchbooks I was one fucked up kid. I don't know why they didn't lock me up.
+I wanted to appear somewhat normal and pick something like ["Riders on the Storm"](https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe?si=8050555a205d4f35) for this list, which is a song that I love. There are actually plenty of Doors songs that I both adore and are perfectly listenable. But they didn't punch through in the way that those lyrics about "the screams of the butterflies" did. Seriously, looking through my sketchbooks I appeared to be a very disturbed kid. I don't know why they didn't lock me up.
 
 ### Ramble On - Led Zeppelin
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MODES4TNtygekLl146Dxd?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I actually don't have a concrete time to put in Zeppelin. We're at the point in my story where I'm really delving into classic rock, but it's not like I can point to a Zeppelin record in the way that I can with The Doors. All of my exposure was via the radio, which makes it almost impossible to place.
 
-What I can concretely pinpoint is Lord of the Rings. The moment I started reading those books the evidence was legion in my sketch books. I can give exact dates for when I had hit Weathertop, Moria, Amon Hen, pretty much the whole journey to Mount Doom. I had finally got around to reading what Dragonlance and pretty much anything fantasy I had ever consumed was sourcing from, and I was not disappointed.
+What I can concretely pinpoint is _The Lord of the Rings_. The moment I started reading those books the evidence was legion in my sketch books. I can give exact dates for when I had hit Weathertop, Moria, Amon Hen, pretty much the whole journey to Mount Doom. I had finally got around to reading what Dragonlance and pretty much anything fantasy I had ever consumed was sourcing from, and I was not disappointed.
 
 So, what does this have to do with Zeppelin? Almost nothing, except the some lyrics in this song punched through to me over the radio. Did he just say "Mordor"? Is this a rock song that has a verse about Gollum? Awesome. Also, this song is great.
 
@@ -37,7 +37,7 @@ At this point should I just say "I discovered classic rock" and leave behind the
 ### Iris - Live
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7d9NhEPJ2x0taAJwdcNet7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Okay, enough of me blissfully exploring my rock roots. Time for something contemporary.  Time for some melodrama.
+Okay, enough of me blissfully exploring my rock roots. Time for something contemporary. Time for some melodrama.
 
 I was making friends. Some were rediscovered, but some were honestly new high school friends. Some of them were girls. And I didn't know it at the time, but I was totally going to develop some asymmetric crushes. Alas, no reciprocation for me quite yet. It will come eventually, don't worry.
 

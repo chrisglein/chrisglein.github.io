@@ -13,7 +13,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-20.
 ### Buena - Morphine
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2SSBJhvMsujY94GK5JAtKs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Oh Buena. So aptly titled. This song starts with such powerful elements, rolled out one at a time to slowly increase its hold on you. And when it stops it just drops you on the floor, ravaged.
+Oh "Buena". So aptly titled. This song starts with such powerful elements, rolled out one at a time to slowly increase its hold on you. And when it stops it just drops you on the floor, ravaged.
 <!--more-->
 
 I had been listening to *Cure for Pain* for awhile by this point. But I have a specific memory of gifting this song to Rob in the middle of the computer science lab. I'm wearing headphones, grooving on some Morphine, and Rob's sitting next to me. I hand him the headphones and queue up this song. I can see it washing over him in waves. After about a minute he's taking off the headphones and demanding to know what it is he's listening to and how he can get more.
@@ -36,9 +36,9 @@ The runner up here was ["Flake"](https://open.spotify.com/track/54S3uCvfZauNw8lV
 
 I graduated from college and got a job. With this came something called a paycheck. Those are handy for paying rent and utilities and such, but they can also be used to buy stuff. So it was that after getting some essentials out of the way I bought myself an Xbox.
 
-The Xbox had this nifty feature where you could rip music to the hard drive and use that as a soundtrack in certain games. Racing games in particular seemed more likely to support this feature. These games also happened to be something that Jessica and I could play together. I remember us dabbling with *Project Gotham Racing*, *Rallisport Challenge*, and especially *Quantum Redshift* (because racing games where you can shoot the guy in front of you are inherently more awesome).
+The Xbox had this nifty feature where you could rip music to the hard drive and use that as a soundtrack in certain games. Racing games in particular seemed more likely to support this feature. These games also happened to be something that Jessica and I could play together. I remember us dabbling with _Project Gotham Racing_, _Rallisport Challenge_, and especially _Quantum Redshift_ (because racing games where you can shoot the guy in front of you are inherently more awesome).
 
-The games had their own music. In fact I believe the first time I heard The Chemical Brothers was in *PGR*. But it was so much more awesome to drive along to your own music. One of the few discs I put in there was Dirty Vegas, and to this day when I hear those songs it makes me think of these games.
+The games had their own music. In fact I believe the first time I heard The Chemical Brothers was in _PGR_. But it was so much more awesome to drive along to your own music. One of the few discs I put in there was Dirty Vegas, and to this day when I hear those songs it makes me think of these games.
 
 I had thought ["Days Go By"](https://open.spotify.com/track/2RLpFEf6d0708O7Bqhjyxg?si=b85df49360e54498) would be the obvious pick here, but listening back on the album "Ghosts" actually better captures this time for me.
 

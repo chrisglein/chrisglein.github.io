@@ -16,7 +16,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-28.
 After nine years of courtship, I finally married Jessica. We had met so early in life, neither of us expected to find such perfection by then. So we felt no need to rush. Maybe we overshot a bit, but I'm much happier that we made our own decision on our own schedule, and walked into our wedding more confident and loving than ever.
 <!--more-->
 
-We walked down the aisle to "The Nearness Of You" by Norah Jones. And we walked out to "Yes" by Morphine. Not a typical choice, I know. But a song by a band we both loved that chanted "yes, yes, yes" seemed like the perfect song to start our marriage.
+We walked down the aisle to ["The Nearness Of You"](https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2?si=d818b368012d45dd) by Norah Jones. And we walked out to "Yes" by Morphine. Not a typical choice, I know. But a song by a band we both loved that chanted "yes, yes, yes" seemed like the perfect song to start our marriage.
 
 ### Moondance - Michael Bublé
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/25Yzff59UGjz7wNWmjM39h?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -32,7 +32,9 @@ Before the wedding Jessica's aunt Donna gifted her greatest piece of wisdom: pla
 
 We played it immediately after "Moondance". The idea that was that people would join us and start the dance floor. We'd even seeded certain people in advance to set up the whole transition. But in that moment far too many of them lost their nerve. Apparently dropping a dance number like that wasn't good for convincing the general crowd that it was time for them to dance too. Oh well, their loss. Great song.
 
-> "Our love is… \&#160; Our love is… \&#160; Our love is… slow dancing together."
+> Our love is… 
+> Our love is… 
+> Our love is… slow dancing together.
 
 ### Loud Pipes - Ratatat
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ZrrXIYTvjXPKVQMjqaumR?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -46,7 +48,7 @@ Ratatat filled a void that Daft Punk had left empty. Instrumental, tightly mixed
 ### Your Touch - The Black Keys
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5lJUXSjRjevVy7I3P87wuK?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I first heard the Black Keys while tooling around on Zune looking for new music. I believe I started with *Attack & Release*, since it was the new release, but it was when I traveled back in time that I found what I was looking for.
+I first heard the Black Keys while tooling around on Zune looking for new music. I believe I started with _Attack & Release_, since it was the new release, but it was when I traveled back in time that I found what I was looking for.
 
 Discovering The Black Keys felt a bit like unearthing one of my dad's old records. The band just doesn't sound like something from this era. Clearly this can't be music from the year 2006? What sorcery is this?
 

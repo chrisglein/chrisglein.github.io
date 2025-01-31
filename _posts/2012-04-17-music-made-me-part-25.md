@@ -28,7 +28,7 @@ There are lots of songs I could pick from this album. I was deeply considering "
 
 While we were playing games Rob put this on and introduced it as "Swedish Daft Punk". Well, they're technically Norwegian, but I guess that's close enough. It's a softer sound that Daft Punk for sure, but I could see what he was getting at.
 
-He burned me a sampler disc which I know now as a subset of *Melody A.M.*. It's odd when someone pre-filters an album for you. Because later you can come across the album in full and become curious about those unexplored tracks between. Are they undiscovered treasures, or awful that you were mercifully spared from? Do you trust your friend's taste or not?
+He burned me a sampler disc which I know now as a subset of _Melody A.M._. It's odd when someone pre-filters an album for you. Because later you can come across the album in full and become curious about those unexplored tracks between. Are they undiscovered treasures, or awful that you were mercifully spared from? Do you trust your friend's taste or not?
 
 I general I think Rob pulled out the high notes, but he maybe didn't need to filter so heavily. But it's all good, it just gave me some b-sides to search for later.
 

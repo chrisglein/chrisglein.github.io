@@ -30,9 +30,9 @@ I know this was one of the songs. I'm not positive, but I think the others were 
 ### New Slang - The Shins
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5oUV6yWdDM0R9Q2CizRhIt?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I was introduced to this song by [that scene](http://www.youtube.com/watch?v=Ziwr4f5eR0M) in "Garden State". And ever since The Shins have had this folksy throwback feel to me. Like that melancholy moment at the end of _The Graduate_ where "The Sounds of Silence" plays. I guess there's just something Simon and Garfunkel-y about them.
+I was introduced to this song by [that scene](http://www.youtube.com/watch?v=Ziwr4f5eR0M) in "Garden State". And ever since The Shins have had this folksy throwback feel to me. Like that melancholy moment [at the end of _The Graduate_](https://youtu.be/ahFARm2j38c?t=210) where "The Sounds of Silence" plays. I guess there's just something Simon and Garfunkel-y about them.
 
-The Shins have more versatility than I expect of them. "Kissing the Lipless" surprises me every time. And there's that the raw energy when "Sleeping Lessons" breaks through. I feel like I've put The Shins in a box, and I keep forgetting about how much more they have to offer. That initial association was so strong that it's hard to overcome for me.
+The Shins have more versatility than I expect of them. "Kissing the Lipless" surprises me every time. And there's that the raw energy when ["Sleeping Lessons"](https://open.spotify.com/track/3Bz3lj6E9VFBk1Wj1hC8vw?si=ea4842ba854d4145) breaks through. I feel like I've put The Shins in a box, and I keep forgetting about how much more they have to offer. That initial association was so strong that it's hard to overcome for me.
 
 ### Vultures - John Mayer
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1IdTIzkTK6CcpKKgMUGbg7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

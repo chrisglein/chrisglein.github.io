@@ -19,7 +19,7 @@ Okay, one more ambient track before we move on. Groovy, bluesy, relaxed, repetit
 ### Undress Me Now - Morcheeba
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3srs1LTSB8l74Gmbbl9B42?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Jessica finally made it out to a Morcheeba show, at the Moore. It was around the release of their album *Charango*, but I remember that we hadn't heard it. Either it wasn't out, or we hadn't picked it up yet, I can't remember which. What I definitely remember is that it was very fortunate that we caught this show. Shortly after the band split ways with the lead singer, Skye Edwards, in pretty much the Worst Idea Ever. I don't care if you have artistic differences and are miserable, it's your job to suffer through that and keep bringing me more music. I have needs.
+Jessica finally made it out to a Morcheeba show, at the Moore. It was around the release of their album _Charango_, but I remember that we hadn't heard it. Either it wasn't out, or we hadn't picked it up yet, I can't remember which. What I definitely remember is that it was very fortunate that we caught this show. Shortly after the band split ways with the lead singer, Skye Edwards, in pretty much the Worst Idea Ever. I don't care if you have artistic differences and are miserable, it's your job to suffer through that and keep bringing me more music. I have needs.
 
 I remember her singing this song at the show. She was entirely wrapped up in the performance. When the song was over it was as if she woke up and just then realized what she had been singing. "Undress me now, you know how / Using my mind". Suddenly she had returned to earth and was blushing and embarrassed. It was adorable.
 
@@ -43,7 +43,7 @@ Into this situation was born the music subscription. Pay a fixed fee for access 
 
 Another aspect of this newfound access is that I could dig into my back catalog of artists. Despite my love of Morphine I hadn't really had a chance to listen to their older albums. As soon as I hooked up to the music subscription fire hose I was able to check out everything else they had ever put out.
 
-This song is off of *Like Swimming*, and it's amazing. It's so deep and dirty. Soulful. I love how it rolls into the chorus with those paired sax hits. It's sexy, sultry, and oh so good.
+This song is off of _Like Swimming_, and it's amazing. It's so deep and dirty. Soulful. I love how it rolls into the chorus with those paired sax hits. It's sexy, sultry, and oh so good.
 
 ### Chicago - Groove Armada
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/46NYGEEQymBQm49ocs9eWs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

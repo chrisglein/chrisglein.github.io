@@ -11,10 +11,10 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-83189417643169647
 blogger_orig_url: https://chrisglein.blogspot.com/2012/02/music-made-me-interlude.html
 ---
 
+![MixTape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjau2YjAyxf9D-ixDmI9aLg9aoiQsTP9JIfUs4u8t2vYJRb7iup8RcpowZZj_MP1EmV2lZg-h0Ca700NjLJ2I7h-268Lt57LrOJ5pGi0hl2N6FI11YyUmmXnSYqKVHSdzzsv-zzotqK3E8/s320/MixTape_web.jpg)
+
 In this musical timeline we have now arrived at the end of middle school and are about to embark on the journey that is high school. This seems like a good time to stop for a moment and take stock of where we are.
 <!--more-->
-
-![MixTape](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjau2YjAyxf9D-ixDmI9aLg9aoiQsTP9JIfUs4u8t2vYJRb7iup8RcpowZZj_MP1EmV2lZg-h0Ca700NjLJ2I7h-268Lt57LrOJ5pGi0hl2N6FI11YyUmmXnSYqKVHSdzzsv-zzotqK3E8/s320/MixTape_web.jpg)
 
 ### Story
 

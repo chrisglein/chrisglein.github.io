@@ -13,7 +13,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-11.
 ### I Could Be Wrong - Seven Mary Three
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3QH4yqMfC4AB7q5qLCoOIn?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-There is a drum kit in my basement. There isn't normally, but today there is. That's because there's music brewing in the basement. Me and a collection of friends are recreating “I Could Be Wrong” to the best of our ability. Including drums. Including horns. This shit is happening.
+There is a drum kit in my basement. There isn't normally, but today there is. That's because there's music brewing in the basement. Me and a collection of friends are recreating "I Could Be Wrong" to the best of our ability. Including drums. Including horns. This shit is happening.
 <!--more-->
 
 I don't think we did a terribly good job of covering the song. But we tried, and it was fun. I remember going through the shared guitar/horn solo with Andy. I remember that feeling of a group of people working together to co-create. For as much time as I've spent on music in my life, not very much of it has been spent making music with other people. That's probably not very wise of me.
@@ -50,10 +50,10 @@ There's something about this album that makes me think of [Vampire: The Masquera
 ### #41 - Dave Matthews Band
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nklcPJ3YhYJfC2ibStXz9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Eventually I took a deeper look at The Dave Matthews Band. I can't remember what song brought me in, but it's safe to say that *Crash* was the album. I listened to *Under the Table and Dreaming* around this time too, and very much enjoyed it, but for whatever reason it didn't manage to form concrete memories like *Crash* did. *Crash* will have more contributions to this timeline than any other album, and that's on a list where I try hard to only pick one song per album unless absolutely necessary.
+Eventually I took a deeper look at The Dave Matthews Band. I can't remember what song brought me in, but it's safe to say that _Crash_ was the album. I listened to _Under the Table and Dreaming_ around this time too, and very much enjoyed it, but for whatever reason it didn't manage to form concrete memories like _Crash_ did. _Crash_ will have more contributions to this timeline than any other album, and that's on a list where I try hard to only pick one song per album unless absolutely necessary.
 
 Once I discovered The Dave Matthews Band I got into them a big way. The band was capable of a diverse sound from its unique combination of instruments, which I appreciated. But something that was particularly important to me was that Matthews could actually play the guitar. Well. And it was an acoustic guitar. These were not simple three chord jams hidden behind waves of distortion. Playing along to these songs demanded that I make significant growth as a guitarist.
 
 I can't imagine "#41" being played by any other band. It's a song that defies description, which is probably why it never got a name. It was most likely "Crash Into Me" that caused me to pick up the album, but it's the complexity behind something like "#41" that caused me to delve deep into this band for years.
 
-Although I also have a loving memory of my dad dancing around like a monkey to []"Proudest Monkey"](https://open.spotify.com/track/2wQrDUl5XnQFZJfgMGLAEN?si=6e35dfca40884fc7). That's good stuff too.
+Although I also have a loving memory of my dad dancing around like a monkey to ["Proudest Monkey"](https://open.spotify.com/track/2wQrDUl5XnQFZJfgMGLAEN?si=6e35dfca40884fc7). That's good stuff too.

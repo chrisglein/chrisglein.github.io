@@ -36,7 +36,7 @@ I listened to a lot of Dave Matthews Band in high school, as you know by now. Th
 
 I have many memories of doing Dave Matthews covers with my friends Dan and Billy in the dorms. Some of the residents loved that; others wanted us to shut up so they could go back to studying. Regardless I think of this as my high point in guitar-dom. Good music, good friends, simple times. One of us would continue on to take music more seriously. Sadly, it wasn't me; that honor goes to [Dan](http://danielkamasmusic.com/).
 
-My choice of One Sweet World here is pretty much arbitrary. It captures the feel of the album, but we pretty much played all of them and so much more.
+My choice of "One Sweet World" here is pretty much arbitrary. It captures the feel of the album, but we pretty much played all of them and so much more.
 
 ### Run On - Moby
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qDlo2g8QwkA36PNqWpDCz?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

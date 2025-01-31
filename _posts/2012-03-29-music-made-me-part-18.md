@@ -16,9 +16,9 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-18.
 I discovered John Mayer as a guitarist first. Yes, he was a singer/songwriter too, but for me it was his acoustic style that initially caught my attention. I scoured Napster for all sorts of bootlegs of his guitar work. Some of them were live recordings, some were apparently from this album. On Napster the metadata was always screwed so it was hard to know these things.
 <!--more-->
 
-Shortly after this he released *Room for Squares*, which was so overproduced that it made me sick to my stomach. It wasn't until he redeemed himself with his next album that I was truly able to forgive and return to *Room for Squares* to pick out the goodies.
+Shortly after this he released _Room for Squares_, which was so overproduced compared to what I had heard from him so far that it made me sick to my stomach. It wasn't until he redeemed himself with his next album that I was truly able to forgive and return to _Room for Squares_ to pick out the goodies.
 
-"Neon" is a great track to demonstrate what initially caught my ear. The riff in this song is incredibly powerful. And it comes across far stronger here than it does with the full wall of sound from *Room for Squares*.
+"Neon" is a great track to demonstrate what initially caught my ear. The riff in this song is incredibly powerful. And it comes across far stronger here than it does with the full wall of sound from _Room for Squares_.
 
 ### When Will I - Monte Montgomery
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5rUjDd6ZMj5ST7cAnno7r7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -45,7 +45,7 @@ I had gotten so used to Jessica introducing me to female artists that when she f
 
 We went to see him at Bumbershoot. We don’t go anymore, because it turns out all the other people at Bumbershoot are colossal pushy assholes. But I do remember that David Gray evening show fondly.
 
-I love the B-side of this album. Basically from "Silver Lining" on there's this lovely cohesive stretch. I don't know why they felt the need to include a second version of "Babylon" at the end of the album, because otherwise the close would be perfect.  When you can finish off with an album that has “Goodbye” in the title, you should.
+I love the B-side of this album. Basically from "Silver Lining" on there's this lovely cohesive stretch. I don't know why they felt the need to include a second version of "Babylon" at the end of the album, because otherwise the close would be perfect.  When you can finish off with an album that has "Goodbye" in the title, you should.
 
 ### Into The Mystic - Van Morrison
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lh3iiiJeiBXHSZw6u0kh6?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

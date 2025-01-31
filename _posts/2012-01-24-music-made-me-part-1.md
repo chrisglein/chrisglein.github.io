@@ -35,23 +35,23 @@ We begin at the stretches of memory. This is a song that I recognize instantly, 
 
 Like many of my generation, it was [Marty McFly](http://www.youtube.com/watch?v=xHgbUQnnDpA) that introduced me to this song. I have a memory of asking my dad to request it on the radio and eagerly waiting for it to come on. And when it did... dance party.
 
-Much later in life, by which I mean last year, I had the opportunity to play "Power of Love" for Rock Band 3 with some friends and it produced a similar moment of pure glee. That’s some impressive lasting impact for a 25 year span. Oh nostalgia…
+Much later in life, by which I mean last year, I had the opportunity to play "Power of Love" for _Rock Band 3_ with some friends and it produced a similar moment of pure glee. That’s some impressive lasting impact for a 25 year span. Oh nostalgia…
 
 ### Make Me Smile - Chicago
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7k0UY4Kabh7SUHXowyfKj7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-My dad loved his "Chicago Silver" record, aka Chicago II. My mom didn't so much like it, so in general I think he had to enjoy it in private, but I still managed to get a whiff from time to time.
+My dad loved his "Chicago Silver" record, aka _Chicago II_. My mom didn't so much like it, so in general I think he had to enjoy it in private, but I still managed to get a whiff from time to time.
 
 I like Chicago, but I don't think I realized how well they align with some of my future musical trajectories until I went back to pick a song for this list. This is an album that's meant to be listened as an album, where one song blends into the next, and I'm the sort of the person that wants to sit down and listen to a planned musical journey. I've long been mourning the atrophy of this standard as a la carte track purchasing has become the norm. It's also the case that Chicago is often less lyrical and more instrumental. They sing a bit, and then they jam. As someone with a terrible head for lyrics, this has always fit well with me. And then of course there are the horns. I'm such a sucker for a horn section. Take a good song, tactically add some horns, and it becomes a great song.
 
-I picked "Make Me Smile" because it filled that nostalgic criteria. I've probably heard "25 or 6 to 4" more over the years, but "Smile" leaps out to me with that older, deeper connection. It's the more human song to me. I'm also particularly fond of "Saturday in the Park" but it's not on this album, so it doesn't fit the criteria.
+I picked "Make Me Smile" because it filled that nostalgic criteria. I've probably heard "25 or 6 to 4" more over the years, but "Smile" leaps out to me with that older, deeper connection. It's the more human song to me. I'm also particularly fond of []"Saturday in the Park"](https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc?si=c1e81f5af9dc4ab8) but it's not on this album, so it doesn't fit the criteria.
 
 ### Barbara Ann - The Beach Boys
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KOt2JrCB720UxIbyzweQo?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I'd be remiss if I omitted the Beach Boys from the list of early influences. My dad played blues, jazz, and stuff like Chicago; my mom played the Beach Boys.
 
-When I hear the Beach Boys I think of family road trips. I have this fuzzy memory of us getting a series of cassette tapes they were selling at a gas station chain. It was probably the equivalent of the modern day "Now That's What I Call Music 13". But it made stopping to fill up the tank fun because we could get a new tape with new music. I find it hard to imagine my mom not owning her own copy, but those tapes are what I think of.
+When I hear the Beach Boys I think of family road trips. I have this fuzzy memory of us getting a series of cassette tapes they were selling at a gas station chain. It was probably the equivalent of the modern day _Now That's What I Call Music 13_"_. But it made stopping to fill up the tank fun because we could get a new tape with new music. I find it hard to imagine my mom not owning her own copy, but those tapes are what I think of.
 
 I had a devil of a time picking a Beach Boys song for this list. I know at that age I enjoyed the fun poppy lyrics. But now, well, not so much. So I went with a song that I remember having that car singing vibe.
 
@@ -60,4 +60,4 @@ I had a devil of a time picking a Beach Boys song for this list. I know at that 
 
 On weekends we'd occasionally have a family drive for breakfast or other activities. I'm not sure how long my dad had this album in the car's cassette player, but it left a lasting impression on me. He's always had a deep love for blues, which is something I happily adopted.
 
-This song in particular seemed to stick out in my memory. In my head it had more of a storytelling angle, like it was some spooky mystery or something. It's not, it's a break up song of sorts, but that was way beyond me. Other songs like "Nothing But a Woman" are more up beat, but "Still Around" crawled its way deeper into some memory pocket as I wondered why the singer could be so upset that this other person was still around. These are the things that would haunt me on the way to swim lessons.
+This song in particular seemed to stick out in my memory. In my head it had more of a storytelling angle, like it was some spooky mystery or something. It's not, it's a break up song of sorts, but that was way beyond me. Other songs like []"Nothing But a Woman"](https://open.spotify.com/track/7gPwkSlX7KPNPnfZskHwWO?si=309e4819ff554c86) are more up beat, but "Still Around" crawled its way deeper into some memory pocket as I wondered why the singer could be so upset that this other person was still around. These are the things that would haunt me on the way to swim lessons.

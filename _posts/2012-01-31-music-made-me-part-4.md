@@ -13,17 +13,15 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/01/music-made-me-part-4.h
 ### Sweating Bullets - Megadeth
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6i7IXg8j7ZngiEOgBYjkhw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-We just went through a rather cohesive set of grunge influences, where's this Megadeth thing coming from? It's certainly true that I never ended up a metal-head, but it's not as if I wasn't exposed to these things. We're entering a period here where there's a lot of divergent influences coming in from my brother and my brother's friends. I remember this song specifically. Something about the hardcore music combined with the funny voice just stuck with me. That and "[Symphony of Destruction](zune://navigate/?trackID=573E1E00-0100-11DB-89CA-0019B92A3933)".
+We just went through a rather cohesive set of grunge influences, where's this Megadeth thing coming from? It's certainly true that I never ended up a metal-head, but it's not as if I wasn't exposed to these things. We're entering a period here where there's a lot of divergent influences coming in from my brother and my brother's friends. I remember this song specifically. Something about the hardcore music combined with the funny voice just stuck with me. That and ["Symphony of Destruction"](https://open.spotify.com/track/5mR858YsHYG761aUqZoGkD?si=8093d87511214a42).
 <!--more-->
 
 ### Nuthin' But A 'G' Thang - Dr. Dre
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tbpp3OLLClPJF8t1DmrFD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 I'm guessing when most people hear this song they don’t think of stop motion LEGO movies. Yeah, didn't think so. Well my brother, his friend Justin, and I made a movie that had something to do with… time travel? I think. Damn I wish I could get a copy of that. It had an awesome driving sequence set to this song, with special effects that make seeing the strings seem professional. And then there were stop motion LEGO-men walking sequences. And then live action sequences of our awesomely awkward selves. Seriously, anyone have a copy of this? I need to see it again.
 
 ### Take Five - Dave Brubeck
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YQWosTIljIvxAgHWTp7KP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 This is what adolescence looks like. From metal to rap to jazz; all of the sudden I'm absorbing all these extremely different things at the same time.
 
 This one in particular is associated with making chili with my dad. It was a company picnic, and there was a chili cook-off. We made an entry and somehow won. I think it's mostly because people took some extremely creative interpretations on what chili is and I just stuck to tradition. I remember one of the chili competitors having fruit in it, for example. Anyway, winning made me feel kind of weird, because I was the bosses son. I mean, the voting was anonymous, but it still felt odd.

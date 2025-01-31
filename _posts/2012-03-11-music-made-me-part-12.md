@@ -20,7 +20,7 @@ It was the one time in my life that I ever really *drove*. I had delayed as long
 
 I have a distinct memory of driving to class at the community college when "Little Wing" came on. It created a dilemma. If I were to get out of my car right then (which is what I needed to do to be on time for class) I would miss the rest of the song. But this song was too good. I hung out in the parking lot to let the song play out. Finishing that song was clearly more important than my education.
 
-The thing is, that wasn't even my first time with the song. I had heard it plenty of times before, and knew I would again. That was kind of the problem; I knew exactly how good it was. It's pure bliss, beginning to end, and on a level that manages to make Jimi look like barely knew what he was doing with [the original](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5?si=76d9e86b17da4cca).
+The thing is, that wasn't even my first time with the song. I had heard it plenty of times before, and knew I would again. That was kind of the problem; I knew exactly how good it was. It's pure bliss, beginning to end, and on a level that manages to make Jimi look he was barely scratching the surface with [the original](https://open.spotify.com/track/1Eolhana7nKHYpcYpdVcT5?si=76d9e86b17da4cca).
 
 ### Lie in Our Graves - Dave Matthews Band
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3R8APSFlJuawCg1qi5Ed3E?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -40,7 +40,7 @@ It's not my favorite Dave Matthews song, but it is one that's special to me thro
 
 This song is Dave. He was a totally charismatic guy that would go through the halls and somehow be friends with everyone. I've never known anyone with as much school spirit as Dave. During Senior year he called everyone "All-Star". He was kind of a catch phrase kind of guy, but he somehow managed to make it sound personal for each person.
 
-We eventually became pretty good friends. We'd been around each other for all of high school and earlier, but it wasn't until Senior year that anything clicked. This was largely the result of shared proximity to Kristin, but Dave and I found our own ways to bond, like Starcraft.
+We eventually became pretty good friends. We'd been around each other for all of high school and earlier, but it wasn't until Senior year that anything clicked. This was largely the result of shared proximity to Kristin, but Dave and I found our own ways to bond, like _Starcraft_.
 
 Later we had a sort of a falling out. There was an incident involving a girl that Dave didn't approve of, but we never talked about it. We just allowed things to drift apart. When you've both left to different cities for college it's incredibly easy to just let things fade and die naturally.
 
@@ -60,7 +60,7 @@ This remains true until years later when they switch what channel MTV airs on an
 
 Pulling the plug on MTV was for the best, really. By then it had already started its transition from music television to teenage marketing. I was glad to be exposed to music videos at all, because the pairing of music to imagery can be extremely powerful. But in the long run I was better off without MTV.
 
-Okay, so given that story why am I talking about “Like a Prayer” now?
+Okay, so given that story why am I talking about "Like a Prayer" now?
 
 It's Senior prom. Not my school's prom, but that of a friend. A special friend who never really became a special friend. Look, it's too complicated to get into here.
 

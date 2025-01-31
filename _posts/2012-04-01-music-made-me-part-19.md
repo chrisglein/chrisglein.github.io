@@ -13,7 +13,7 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/04/music-made-me-part-19.
 ### I-76 - G. Love & Special Sauce
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/40c4Zo0r2HH9aKDgEsbsVA?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-The first time I heard G. Love I wasn't ready for it. Despite the title *Yeah, It's That Easy* was not an easy album to relax into. I know that Jessica tried to start me on "Willow Tree", but I didn't connect with that song. She was trying to pick a track with fewer of the hip-hop elements. But for me the pace didn’t feel right - it was too sloppy. The same idea is done better on the album in "Lay Down the Law" and "Take You There", which are both *great* songs.
+The first time I heard G. Love I wasn't ready for it. Despite the title _Yeah, It's That Easy_ was not an easy album to relax into. I know that Jessica tried to start me on "Willow Tree", but I didn't connect with that song. She was trying to pick a track with fewer of the hip-hop elements. But for me the pace didn’t feel right - it left too sloppy to me (at the time). The same idea is done better on the album in "Lay Down the Law" and "Take You There", which are both *great* songs.
 <!--more-->
 
 It took some warming up, but I did eventually fall for G. Love. It wasn't a vocal style I was accustomed too, and at first it sounded abrasive. But over time I could really feel how much fun they were having with the music and I started having fun too.
@@ -23,11 +23,11 @@ After some deliberation I chose "I-76" to represent my entry point into G. Love.
 ### Reckoning - Ani Difranco
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2kHK4PLfeUg3s8dmWiQKN3?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-Ah, at last an Ani album to fit in with the rest of what Jessica and I were listening to. This one has such a strong point of a view, a deliberate feeling. And it really comes across in this, the title track (well, one of the two title tracks) of *Reveling/Reckoning*.
+Ah, at last an Ani album to fit in with the rest of what Jessica and I were listening to. This one has such a strong point of a view, a deliberate feeling. And it really comes across in this, the title track (well, one of the two title tracks) of _Reveling/Reckoning_.
 
 The horns. Oh my god the horns. When they come in it completely changes the character of the song. It jumps from melancholy to uplifting immediately. The guitar and vocals sound cold and alone in the beginning, but there's this undeniable warmth that the horns bring that transforms everything at 1:13.
 
-Those parts later where the horns are walking up the scales really remind me of Bar Kokhba. And then there are parts where I can hear a bit of Chicago in this. I didn't think about these connections at the time; this is something I say now listening to it in close proximity to the rest of my musical journey. It's nice to see the context compressed like that and understand why I had particular affinity for certain songs.
+Those parts later where the horns are walking up the scales really remind me of _Bar Kokhba_. And then there are parts where I can hear a bit of Chicago in this. I didn't think about these connections at the time; this is something I say now listening to it in close proximity to the rest of my musical journey. It's nice to see the context compressed like that and understand why I had particular affinity for certain songs.
 
 This album changed Ani from something just Jessica listened to into something we would really listen to together. It's a magnificent collection of sound and feeling.
 
@@ -39,9 +39,9 @@ Every summer Jessica was away for one reason or another. Road trip, camp, whatev
 ### Papa's Got a Brand New Bag - James Brown
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6v4gV9s0pnwKbmF1yk5knO?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I hit college at the same time as the likes of *Quake 3 Arena* and *Unreal Tournament*. It was a new era, where multiplayer gaming was becoming so important that developers were releasing games with no singleplayer component at all. This was happening at the same time that I moved off of a dial-up modem and onto the blazing speed of college ethernet. Mind. Blown.
+I hit college at the same time as the likes of _Quake 3 Arena_ and _Unreal Tournament_. It was a new era, where multiplayer gaming was becoming so important that developers were releasing games with no singleplayer component at all. This was happening at the same time that I moved off of a dial-up modem and onto the blazing speed of college ethernet. Mind. Blown.
 
-Some other kids in the dorm were playing this game *Half-Life*, so I decided to check it out. In addition to its own multiplayer, *Half-Life* also had a vibrant mod community. After sampling many of them I eventually stumbled across one called *Science & Industry*.
+Some other kids in the dorm were playing this game _Half-Life_, so I decided to check it out. In addition to its own multiplayer, _Half-Life_ also had a vibrant mod community. After sampling many of them I eventually stumbled across one called _Science & Industry_.
 
 But first let me back up and explain something. There was nothing like a centralized gamertag back then, so whatever name you were known by was whatever you typed in. There was nothing to prevent you from changing it as much as you wanted. You could pick a name that matched your mood… or whatever song you were listening to at that particular moment.
 
@@ -54,7 +54,7 @@ Getting to know a new community meant I needed to keep a consistent face. So my 
 ### Harder, Better, Faster, Stronger - Daft Punk
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5W3cjX2J3tjhG8zb6u0qHn?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I started listening to Daft Punk during that same summer when I first started working on *Science & Industry*. Functionally and thematically the music was perfect suited for the large amount of programming I was doing. You need something driving, light on distracting vocals, and maybe even slightly repetitive. You know, like Daft Punk.
+I started listening to Daft Punk during that same summer when I first started working on _Science & Industry_. Functionally and thematically the music was perfect suited for the large amount of programming I was doing. You need something driving, light on distracting vocals, and maybe even slightly repetitive. You know, like Daft Punk.
 
 This song in particular was perfect. One of the things I was working on for the game was a new cybernetic implant system. I wanted to flesh out that part of the fiction to give new alternatives to weapons or device development. I wanted players to be able to become faster and succeed through raw agility. I wanted them to become stronger and overwhelm with in-your-face melee proficiency. For me this song, that development time, and the end product are all completely intertwined.
 

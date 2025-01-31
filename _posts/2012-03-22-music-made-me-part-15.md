@@ -13,12 +13,12 @@ blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-15.
 ### Say Goodbye - Dave Matthews Band
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2lDFZOo9ZxG7g7y1FDWx2k?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-I told you *Crash* was going to show up a lot on this list. This one's special though, trust me.
+I told you _Crash_ was going to show up a lot on this list. This one's special though, trust me.
 <!--more-->
 
-I'm in my dorm room, and it's raining outside.&#160; With me is my new friend Jessica, and we just had an unexpected and delightful make-out session. The sound of the rain... I can still hear it in the song. I swear it's part of the track.
+I'm in my dorm room, and it's raining outside. With me is my new friend Jessica, and we just had an unexpected and delightful make-out session. The sound of the rain... I can still hear it in the song. I swear it's part of the track.
 
-In that blissful moment we are listening to this song and drinking the lyrical kool-aid. “Tonight let's be lovers… and tomorrow go back to being friends.” I mean, this diversion was fun and all, but long-term it's a terrible idea. So we should just stick with the original plan and be friends. This is totally going to work. No problem.
+In that blissful moment we are listening to this song and drinking the lyrical kool-aid. "Tonight let's be lovers… and tomorrow go back to being friends." I mean, this diversion was fun and all, but long-term it's a terrible idea. So we should just stick with the original plan and be friends. This is totally going to work. No problem.
 
 Yeah.
 
