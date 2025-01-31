@@ -19,7 +19,7 @@ I was in Portland with Kevin for a show of this band I had been listening to cal
 This song has such a delicious slow groove. It has time to breathe before it opens up. And the tone of Paul Benoit's guitar… tasty. I bought an album from the band on the spot. I walked away far more interested in this small local band than the band that had actually brought me to the show.
 
 
-### Green Man - Hanuman
+### [Green Man - Hanuman](https://musicbrainz.org/recording/a4d4038b-24f7-499a-9496-b7f3da33d4a9)
 
 I tracked this Hanuman band down with the magic of the internet. I found some sample tracks of their music on their web site, which was the first time I'd seen such a reasonable discovery experience. Try before you buy… what? That may had been technology magic, but the purchase was decidedly low tech: I sent a check to a local Seattle mailing address and one of the dudes in the band sent me back a CD.
 

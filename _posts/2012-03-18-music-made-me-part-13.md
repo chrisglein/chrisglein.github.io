@@ -10,30 +10,36 @@ blogger_id: tag:blogger.com,1999:blog-2342422231079442130.post-73443626925569406
 blogger_orig_url: https://chrisglein.blogspot.com/2012/03/music-made-me-part-13.html
 ---
 
-Hmmm… I may have been a bit overzealous in zipping to the end of high school. These first two songs should be retroactively spliced in before prom and "Like A Prayer". I know, the academic sloppiness of being off by a couple months… you must be horrified.
-
-### Do What You Have To Do - Sarah McLachlan]
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5eu1iy9jJtpi2PiGhJfDUc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-I never owned this album. I say this not in an effort to protect my manliness (although this is probably the girliest entry on this list). I say this because it's noteworthy how well I know the album given that I never had personal access to it. This is the result of dating someone with a different musical history; you get a deep dive into their music tastes without even realizing that it's happening.
-<!--more-->
-
-As I built this list I often do research by listening to albums I remember being exposed to at the time. Sometimes I come back with memories, sometimes I don't. This one was a bit of a late addition, something I didn't even consider until a week ago. But I'm glad I acted on that idea. This album sounds like high school to me. It sounds like prom. And it sounds like the relationship I was in.
-
-I didn't go out of my way to select a song with any lyrical significance. But in listening through the album this song oddly stuck out to me, and then I noticed the lyrics of what I had chosen. "I don't know how to let you go." Wow, okay. Um, did I mention that this was a doomed relationship? It was the end of high school, and we were each going away to colleges in different states. The experiment had an undeniable fixed end point. It didn't really matter if it was going well, it was going to fall apart. It had to. That creates a very particular brew of emotions. And this song stirs those up.
-
-There were less heavy aspects to this album. ["Ice Cream"](https://open.spotify.com/track/0ZRmP2mcSxvAzqbYlGHpyh?si=c5c07794d5ab437f), for example. But I'm going to stick with my first instinct and go with the melodrama.
-
 ### They Can't Take That Away From Me - Diana Krall
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3nOHOVW2Ef8BhTiCYAzDpM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Okay, I feel terribly exposed talking about all these intimate details on the internet. When I started this project I didn't realize how personal it was going to get. I guess that's just the cost of telling my musical story. My relationship to music is intimate and steeped in memory. I'm apparently incapable of talking about one without the other.
+<!--more-->
 
 So, continuing...
 
 It's a unique kind of relationship that starts from an existing close friendship. There's an immediate intensity to it. Combine that with a fixed time limit, and it's even more so. In this song I clearly see the two of us, up late talking, listening to music, and just generally enjoying the moment. This memory must have taken time during high school, not the summer after, because I specifically remember hearing the lyric of "the way we dance 'til 3" and realizing that it was at least 3am at that very moment. On a school night. And I had to be up in only a few hours. Still, no regrets.
 
 For someone who isn't really into lyrics, I seem rather focused on them here. But the song doesn't lie, this was a person who really and truly changed my life. I would not be the same person if I had never met her. The memory of all that… no, you can't take that way from me.
+
+### Like a Prayer - Madonna
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2v7ywbUzCgcVohHaKUcacV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+There are two memories to go along with this song. The first is well before this moment in time, somewhere early 90's.
+
+It's dinner time, but MTV is playing in the adjacent living room. For some reason it just gets left on. My dad wanders over to watch what's going on over there. On MTV is Madonna, specifically "Like a Prayer". He seems a little overly fixated, or at least according to my mom's perception. Shortly thereafter a call is made to the cable company and we no longer have MTV.
+
+This remains true until years later when they switch what channel MTV airs on and instead we're blocked out of some other (far more harmless) channel. My brother and I neglect to inform my mom of the change.
+
+Pulling the plug on MTV was for the best, really. By then it had already started its transition from music television to teenage marketing. I was glad to be exposed to music videos at all, because the pairing of music to imagery can be extremely powerful. But in the long run I was better off without MTV.
+
+Okay, so given that story why am I talking about "Like a Prayer" now?
+
+It's Senior prom. Not my school's prom, but that of a friend. A special friend who never really became a special friend. Look, it's too complicated to get into here.
+
+Despite not knowing anyone there because it wasn't my school I still had a good time at the prom. When it's over we head to an after-party at one of her friend's house. Nothing rambunctious, just a small group of people hanging out, giggling, and signing karaoke.
+
+It was at this point that my friend completely transformed my interpretation of this song. She explained to all of us that this song is about fellatio, right before singing it, and dancing along. I remember laughing, a lot. She was quite convincing, and now that's all I hear from this song.
 
 ### Weapon and the Wound - Days of the New
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3aK2kWz8YJZKzfNr4VJnE5?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -46,7 +52,7 @@ The point is that I was listening to this interview and later the whole album as
 
 I struggled to pick the one song from the album to represent this connection. In the end it had to be "Weapon and the Wound", because I have a reaction to the orchestral beginning of this song that evokes *specific units* from the game. What I was doing and what I was listening to matched particularly poorly at that point in time. The song does not suggest mammoth tank carnage, but that's what was unfolding before my eyes. Yet now, they totally match for me, because that's how memory links everything together.
 
-### The Opera - The Jazz Mandolin Project
+### [The Opera - The Jazz Mandolin Project](https://www.amazon.com/Jazz-Mandolin-Project/dp/B0000059L0)
 
 Probably more than any other, this song represents what this list is about. Music memory.
 

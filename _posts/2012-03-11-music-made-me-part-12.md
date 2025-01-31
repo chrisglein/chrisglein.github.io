@@ -49,21 +49,13 @@ Later we had a sort of a falling out. There was an incident involving a girl tha
 
 Later in life Jessica (we'll get to her, but not quite yet) would be worried about exposing me to Morcheeba because of the record scratching and general mixed and/or electronic elements. I had become pretty strongly acoustic in my music listening habits, and she was worried about offending my gentle sensibilities. But she had nothing to fear, because years earlier I had been listening to the continually evolving and experimenting music of MMW. Although it was dormant then, I'd already adopted stuff like this to my vocabulary years earlier.
 
-### Like a Prayer - Madonna
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2v7ywbUzCgcVohHaKUcacV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Do What You Have To Do - Sarah McLachlan
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5eu1iy9jJtpi2PiGhJfDUc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-There are two memories to go along with this song. The first is well before this moment in time, somewhere early 90's.
+I never owned this album. I say this not in an effort to protect my manliness (although this is probably the girliest entry on this list). I say this because it's noteworthy how well I know the album given that I never had personal access to it. This is the result of dating someone with a different musical history; you get a deep dive into their music tastes without even realizing that it's happening.
 
-It's dinner time, but MTV is playing in the adjacent living room. For some reason it just gets left on. My dad wanders over to watch what's going on over there. On MTV is Madonna, specifically "Like a Prayer". He seems a little overly fixated, or at least according to my mom's perception. Shortly thereafter a call is made to the cable company and we no longer have MTV.
+As I built this list I often do research by listening to albums I remember being exposed to at the time. Sometimes I come back with memories, sometimes I don't. This one was a bit of a late addition, something I didn't even consider until a week ago. But I'm glad I acted on that idea. This album sounds like high school to me. It sounds like prom. And it sounds like the relationship I was in.
 
-This remains true until years later when they switch what channel MTV airs on and instead we're blocked out of some other (far more harmless) channel. My brother and I neglect to inform my mom of the change.
+I didn't go out of my way to select a song with any lyrical significance. But in listening through the album this song oddly stuck out to me, and then I noticed the lyrics of what I had chosen. "I don't know how to let you go." Wow, okay. Um, did I mention that this was a doomed relationship? It was the end of high school, and we were each going away to colleges in different states. The experiment had an undeniable fixed end point. It didn't really matter if it was going well, it was going to fall apart. It had to. That creates a very particular brew of emotions. And this song stirs those up.
 
-Pulling the plug on MTV was for the best, really. By then it had already started its transition from music television to teenage marketing. I was glad to be exposed to music videos at all, because the pairing of music to imagery can be extremely powerful. But in the long run I was better off without MTV.
-
-Okay, so given that story why am I talking about "Like a Prayer" now?
-
-It's Senior prom. Not my school's prom, but that of a friend. A special friend who never really became a special friend. Look, it's too complicated to get into here.
-
-Despite not knowing anyone there because it wasn't my school I still had a good time at the prom. When it's over we head to an after-party at one of her friend's house. Nothing rambunctious, just a small group of people hanging out, giggling, and signing karaoke.
-
-It was at this point that my friend completely transformed my interpretation of this song. She explained to all of us that this song is about fellatio, right before singing it, and dancing along. I remember laughing, a lot. She was quite convincing, and now that's all I hear from this song.
+There were less heavy aspects to this album. ["Ice Cream"](https://open.spotify.com/track/0ZRmP2mcSxvAzqbYlGHpyh?si=c5c07794d5ab437f), for example. But I'm going to stick with my first instinct and go with the melodrama.
