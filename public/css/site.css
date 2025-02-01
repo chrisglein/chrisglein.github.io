@@ -149,9 +149,31 @@
   padding-bottom: 10px;
 }
 
+.pagination {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  gap: 1em;
+}
+.pagination-item {
+  width: 100%;
+}
+.pagination-item:first-child {
+  margin-bottom: 0px;  
+}
+
+@media (max-width: 500px) {
+  .pagination {
+    font-size: small;
+    gap: 0em;
+  }
+  .pagination-item:first-child {
+    border-right: none;
+  }
+}
+
 .post-series .pagination {
   margin: 1rem 0;
-  display: flex;
 }
 
 .post-related .related-post h4 {
@@ -175,15 +197,6 @@
   content: '|';
   margin: 0em 0.5em;
 }
-
-@media (max-width: 500px) {
-  .pagination {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto;
-    font-size: small;
-  }
-}|
 
 @media (max-width: 500px) {
   .masthead {
