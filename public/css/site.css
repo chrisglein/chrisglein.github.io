@@ -177,6 +177,15 @@
 }
 
 @media (max-width: 500px) {
+  .pagination {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    font-size: small;
+  }
+}|
+
+@media (max-width: 500px) {
   .masthead {
     margin-bottom: 1rem;
   }
