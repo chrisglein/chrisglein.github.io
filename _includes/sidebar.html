@@ -26,7 +26,7 @@
     <h4>Blog topics</h4>
     <ul>
       {% assign post_count = site.posts.size %}
-      <li><a class="sidebar-nav-item{% if page.url == '/posts.html' %} active{% endif %}" href="{{ '/posts/' | absolute_url }}">All posts<span class="count"> ({{post_count}})</span></a></li>
+      <li><a class="sidebar-nav-item{% if page.url == '/posts.html' %} active{% endif %}" href="{{ '/posts.html' | absolute_url }}">All posts<span class="count"> ({{post_count}})</span></a></li>
 
       {% assign tag_pages = "video-games music movies board-games guitar television" | split: " " %}
       {% for tag in tag_pages %}
