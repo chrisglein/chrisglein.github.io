@@ -33,10 +33,9 @@
       {% assign tag_pages = "video-games music movies board-games guitar television" | split: " " %}
       {% for tag in tag_pages %}
         {% capture tag_page_url_html %}/tags/{{ tag }}.html{% endcapture %}
-        {% capture tag_page_url %}/tags/{{ tag }}/{% endcapture %}
         {% assign tag_page_name = tag | replace: "-", " " | capitalize %}
         {% assign tag_count = site.tags[tag].size %}
-        <li><a class="sidebar-nav-item{% if page.url == tag_page_url_html %} active{% endif %}" href="{{ tag_page_url | absolute_url }}">{{ tag_page_name }}<span class="count"> ({{tag_count}})</span></a></li>
+        <li><a class="sidebar-nav-item{% if page.url == tag_page_url_html %} active{% endif %}" href="{{ tag_page_url_html | absolute_url }}">{{ tag_page_name }}<span class="count"> ({{tag_count}})</span></a></li>
       {% endfor %}
     </ul>
 
