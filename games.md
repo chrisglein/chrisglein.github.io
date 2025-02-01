@@ -3,6 +3,7 @@ title: Game Design
 description: My game design projects
 layout: page
 thumbsurl: media/thumbnails
+sidebar_order: 1
 ---
 <style type="text/css" rel="stylesheet">
 img {

@@ -13,15 +13,13 @@
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
-      `layout: page` in the front-matter. See readme for usage.
+      `sidebar_order` set in the front-matter.
     {% endcomment %}
 
-    {% assign pages_list = site.pages | sort:"url" %}
+    {% assign pages_list = site.pages | sort:"sidebar_order" %}
     {% for node in pages_list %}
-      {% if node.title != null %}
-        {% if node.layout == "page" && node.url != 'posts.html' %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-        {% endif %}
+      {% if node.sidebar_order != null %}
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
       {% endif %}
     {% endfor %}
 
