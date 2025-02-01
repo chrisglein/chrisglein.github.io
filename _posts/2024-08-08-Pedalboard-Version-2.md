@@ -35,7 +35,7 @@ h2 {
 }
 </style>
 [![My first pedalboard](/media/posts/thumbnails/pedalboard-v2.png)](/media/posts/pedalboard-v2.png)
-After I [created my first pedalboard](../../../2024/07/28/My-First-Pedalboard.html), I [learned so much](../../../2024/08/07/Pedalboard-Lessons.html), and assembled a second board. Let me go over the contents of my second board, in signal chain order.
+After I [created my first pedalboard]({% post_url /2024-07-28-My-First-Pedalboard %}), I [learned so much]({% post_url /2024-08-07-Pedalboard-Lessons %}), and assembled a second board. Let me go over the contents of my second board, in signal chain order.
 <!--more-->
 
 ## [TC Electronic Polytune3 Mini](https://reverb.com/marketplace?query=TC%20Electronic%20Polytune%203%20Mini%20Polyphonic%20Tuning%20Pedal%202019)

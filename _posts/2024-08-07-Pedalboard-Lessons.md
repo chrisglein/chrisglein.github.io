@@ -6,7 +6,7 @@ series: Pedalboard
 ---
 ![Transfering to the new board](/media/posts/pedalboard-transfer.png)
 
-After [creating my first pedalboard](../../../2024/07/28/My-First-Pedalboard.html) and living it with it for a while, I had some lessons:
+After [creating my first pedalboard]({% post_url /2024-07-28-My-First-Pedalboard %}) and living it with it for a while, I had some lessons:
 <!--more-->
 
 - **Rail height**. The 3 rails of the Metro 24 is an awkward height. Most pedals are 2 rails worth of height, a wah or volume pedal is 3 rails high, but those are less central to me and I don't mind having those off the board. There are pedal switchers that are 1 rail height, but if you only have 1 row of pedals I'm not sure those are needed. So if you're just doing regular sized pedals on a 3 rail system you're going to end up with sideways pedals to use the whole space. I wanted to increase to 4 rails so I could get 2 parallel rows of regular sized pedals.
