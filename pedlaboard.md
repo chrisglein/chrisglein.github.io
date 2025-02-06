@@ -34,6 +34,7 @@ h2, h3, h4, h5 {
   clear: both;
 }
 </style>
+![Pedalboard](/media/pedalboard-header.png)
 For more of the story of how I got to this arrangement, check out [this series]({{ '/tags/pedalboard.html' | absolute_url }}).
 
 ### Input
@@ -70,7 +71,7 @@ For more of the story of how I got to this arrangement, check out [this series](
 
 ## Main Board
 
-[![My current pedalboard](/media/posts/thumbnails/pedalboard-v3.png)](/media/posts/pedalboard-v3.png)
+[![My current pedalboard](/media/thumbnails/pedalboard-main.png)](/media/pedalboard-main.png)
 
 ### [EHX Attack Decay](https://reverb.com/marketplace?query=Electro-Harmonix%20Attack%20Decay%20Reverse%20Tape%20Simulator%202019)
 <img src="/media/posts/pedalboard-v2-attackdecay.png" class="right"/>
@@ -139,7 +140,7 @@ I have this expression slider connected to the Afterneath's drag value, modifyin
 
 ## Baby Board
 
-[![The baby board](/media/posts/thumbnails/pedalboard-v3-babyboard.png)](/media/posts/pedalboard-v3-babyboard.png)
+[![The baby board](/media/thumbnails/pedalboard-babyboard.png)](/media/pedalboard-babyboard.png)
 
 
 ### [Wampler Triumph Overdrive](https://reverb.com/marketplace?query=Wampler%20Triumph%20Overdrive%202022)
@@ -163,6 +164,7 @@ This pedal is an "amp sim," which is to say it emulates the sonic qualities of v
 I feel like I'm underutilizing it. The main speaker I have in my practice space is an amp (a [Vox Mini Superbeetle](https://reverb.com/p/vox-msb25-mini-superbeetle-25-watt-1x10-mini-guitar-amp-stack)), and running an amp sim into an amp is sonic double dipping. I'd rather pair with a more neutral output, but my practice space hasn't otherwise warranted a PA system or monitors. However when I use the Iridium straight into my recording mixer or use it with headphones, everything's great.
 
 ## Input
+![Inputs](/media/pedalboard-input.png)
 
 ### [Art Tube MP Studio V3](https://reverb.com/p/art-tube-mp-studio-v3-tube-microphone-preamp-2010-2023)
 <img src="/media/posts/pedalboard-v3-mpstudio.png" class="right"/>
@@ -177,6 +179,7 @@ The goal of the board is to enable me to be creative in real time. When I have t
 I use this either as a quick mute or to do volume swells by cutting off the initial attack on what I'm playing. It lives off of the board because its big and doesn't need power so it might as well float on its own.
 
 ## Output
+![Outputs](/media/pedalboard-output.png)
 
 ### [Behringer XENYX 802S 8-Channel Mixer](https://reverb.com/p/behringer-xenyx-802s-8-channel-mixer-with-bluetooth-streaming)
 <img src="/media/posts/pedalboard-behringer-xenyx-802s-mixer.png" class="left"/>
