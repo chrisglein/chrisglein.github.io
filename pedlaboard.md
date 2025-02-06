@@ -162,7 +162,7 @@ This pedal is an "amp sim," which is to say it emulates the sonic qualities of v
 
 I feel like I'm underutilizing it. The main speaker I have in my practice space is an amp (a [Vox Mini Superbeetle](https://reverb.com/p/vox-msb25-mini-superbeetle-25-watt-1x10-mini-guitar-amp-stack)), and running an amp sim into an amp is sonic double dipping. I'd rather pair with a more neutral output, but my practice space hasn't otherwise warranted a PA system or monitors. However when I use the Iridium straight into my recording mixer or use it with headphones, everything's great.
 
-## Input Board
+## Input
 
 ### [Art Tube MP Studio V3](https://reverb.com/p/art-tube-mp-studio-v3-tube-microphone-preamp-2010-2023)
 <img src="/media/posts/pedalboard-v3-mpstudio.png" class="right"/>
