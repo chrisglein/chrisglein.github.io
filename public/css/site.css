@@ -269,3 +269,14 @@ a.feature:hover {
 .feature:hover h3 + div {
   color: #FFF8FF;
 }
+
+iframe.embeddedVideo {
+  width: 560px;
+  height: 315px;
+}
+@media (max-width: 480px) {
+  iframe.embeddedVideo {
+      width: 100%;
+      height: 270px;
+  }
+}

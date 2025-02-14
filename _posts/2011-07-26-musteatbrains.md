@@ -26,6 +26,6 @@ The marketplace description:
 
 The trailer:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MseOrMhWtyM?si=iKWPCYaJQ4nu1xp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="embeddedVideo" src="https://www.youtube.com/embed/MseOrMhWtyM?si=iKWPCYaJQ4nu1xp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Download it for your Windows Phone [here](http://windowsphone.com/s?appid=feabce8d-c6af-e011-a53c-78e7d1fa76f8).

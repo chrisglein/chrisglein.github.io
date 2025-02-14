@@ -17,7 +17,7 @@ pre {
 As I learned to play guitar first, my bass guitar playing is a but too... guitar-like. Poking around on YouTube I came across a video that goes through [50 songs to learn on bass](https://www.youtube.com/watch?v=vWXgxssar9M). I thought I'd try walking through that myself, grabbing tab for each. And as long as I'm doing that, I might as well share.
 <!--more-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWXgxssar9M?si=ggud8eh5Y09_yTeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="embeddedVideo" src="https://www.youtube.com/embed/vWXgxssar9M?si=ggud8eh5Y09_yTeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### 1. [Talking Heads - Psycho Killer (1977)](https://tabs.ultimate-guitar.com/tab/talking-heads/psycho-killer-bass-1065)
 
