@@ -19,7 +19,7 @@ As I learned to play guitar first, my bass guitar playing is a but too... guitar
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWXgxssar9M?si=ggud8eh5Y09_yTeP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### 1. Talking Heads - Psycho Killer (1977)
+### 1. [Talking Heads - Psycho Killer (1977)](https://tabs.ultimate-guitar.com/tab/talking-heads/psycho-killer-bass-1065)
 
 ```tab
 G|---------------------------------|
@@ -27,9 +27,8 @@ D|---------------------------------|
 A|---------------------------------|
 E|-5---5---5---5---5---5---5-0-3---|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/talking-heads/psycho-killer-bass-1065)
 
-### 2. Ozzy Osbourne - Crazy Train (1980)
+### 2. [Ozzy Osbourne - Crazy Train (1980)](https://tabs.ultimate-guitar.com/tab/ozzy-osbourne/crazy-train-bass-51699)
 
 ```tab
 G|---------------|---------------|---------------|---------------|
@@ -37,9 +36,8 @@ D|---------------|---------------|---------------|---------------|
 A|---------------|---------------|---------------|-5-5-----------|
 E|-2-2-----------|-5-5----0-0----|-2-2-----------|--------0-0----|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/ozzy-osbourne/crazy-train-bass-51699)
 
-### 3. CCR - Bad Moon Rising (1969)
+### 3. [CCR - Bad Moon Rising (1969)](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-bass-1095406)
 
 ```tab
 G|-----------------|-----------------|
@@ -47,9 +45,8 @@ D|-----------------|-----------------|
 A|-5---5-----------|-5---5---5---5---|
 E|---------5---3---|-----------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/bad-moon-rising-bass-1095406)
 
-### 4. The Cranberries - Zombie (1994)
+### 4. [The Cranberries - Zombie (1994)](https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-bass-16324)
 
 ```tab
 G|-----------------|-----------------|-----------------|-----------------|
@@ -57,9 +54,8 @@ D|-----------------|-----------------|-----------------|-----------------|
 A|-----------------|-3-3-3-3-3-3-5-3-|-----------------|-----------------|
 E|-0-0-0-0-0-0-3-0-|-----------------|-3-3-3-3-3-3-5-3-|-2-2-2-2-2-3-2-3-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-cranberries/zombie-bass-16324)
 
-### 5. The Pixies - Where Is My Mind (1988)
+### 5. [The Pixies - Where Is My Mind (1988)](https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-bass-49558)
 
 ```tab
 G|----------------------------------|
@@ -67,9 +63,8 @@ D|----------------------------------|
 A|---------4-4----------------------|
 E|-0-0-------------4-4-----5-5------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-bass-49558)
 
-### 6. U2 - With Or Without You (1987)
+### 6. [U2 - With Or Without You (1987)](https://tabs.ultimate-guitar.com/tab/u2/with-or-without-you-bass-20858)
 
 ```tab
 G|-------------------------|-----------------|
@@ -82,9 +77,8 @@ D|-----------------|-----------------|
 A|-----------------|-----------------|
 D|-9-9-9-9-9-9-9-9-|-5-5-5-5-5-5-5-5-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/u2/with-or-without-you-bass-20858)
 
-### 7. Green Day - 21 Guns (2009)
+### 7. [Green Day - 21 Guns (2009)](https://tabs.ultimate-guitar.com/tab/green-day/21-guns-bass-822499)
 
 ```tab
 G|------------------------------------------------------------|
@@ -92,9 +86,8 @@ D|------------------------------------------------------------|
 A|-------------5-5---3-3-3-3--1-1-1-1---------3-3-3-3-3-3-3-3-|
 E|-1-1---0-0--------------------------1-1-1-1-----------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/green-day/21-guns-bass-822499)
 
-### 8. Pink Floyd - Another Brick In The Wall (1980)
+### 8. [Pink Floyd - Another Brick In The Wall (1980)](https://tabs.ultimate-guitar.com/tab/pink-floyd/another-brick-in-the-wall-part-2-bass-142992)
 
 ```tab
 G|--------------------|---|----------------|
@@ -102,9 +95,8 @@ D|--------------------|---|----------------|
 A|----------3~~~~~~~~-|-5-|-3-5--5--5-0----|
 D|-3~~~~~~~~----------|---|--------------5-| 
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/pink-floyd/another-brick-in-the-wall-part-2-bass-142992)
 
-### 9. The Animals - House Of The Rising Sun (1964)
+### 9. [The Animals - House Of The Rising Sun (1964)](https://tabs.ultimate-guitar.com/tab/the-animals/house-of-the-rising-sun-bass-573808)
 
 ```tab
 G|-2-------2-----|---2-------2---2-|
@@ -112,9 +104,8 @@ D|-------3-----2-|-2-------3---2---|
 A|---3-5-----3---|-----3-5---------|
 E|---------------|-----------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-animals/house-of-the-rising-sun-bass-573808)
 
-### 10. The Beatles - All My Loving (1963)
+### 10. [The Beatles - All My Loving (1963)](https://tabs.ultimate-guitar.com/tab/the-beatles/all-my-loving-bass-23132)
 
 ```tab
 G|-------------|-------------|-------------|-------------|
@@ -127,9 +118,8 @@ D|----------2--|-4--4-----4--|-0--0--0--0--|-------------|
 A|-0--0--4-----|-------4-----|-------------|-2--2--2--2--|
 E|-------------|-------------|-------------|-------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-beatles/all-my-loving-bass-23132)
 
-### 11. Red Hot Chili Peppers - Otherside (1999)
+### 11. [Red Hot Chili Peppers - Otherside (1999)](https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-bass-3712)
 
 ```tab
 G|------------------------------------------------|
@@ -137,9 +127,8 @@ D|------------------------------------------------|
 A|------------------------3--3--3-3---------------|
 E|-5--5--5-3\--1--1--1-1------------0--3--3--3----|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/otherside-bass-3712)
 
-### 12. The Police - Roxanne (1978)
+### 12. [The Police - Roxanne (1978)](https://tabs.ultimate-guitar.com/tab/the-police/roxanne-bass-714162)
 
 ```tab
 G|------------------------------------------------------------|
@@ -147,9 +136,8 @@ D|------------------------------------------------------------|
 A|-10--10----8--8----6--6----5--5----3--3---------------------|
 E|-------------------------------------------1--1----1--3~~~--|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-police/roxanne-bass-714162)
 
-### 13. Spencer Davis Group - Gimme Some Lovin’ (1966)
+### 13. [Spencer Davis Group - Gimme Some Lovin’ (1966)](https://tabs.ultimate-guitar.com/tab/the-spencer-davis-group/gimme-some-lovin-bass-1687982)
 
 ```tab
 G|--------------| 
@@ -157,9 +145,8 @@ D|-55555--------|
 A|--------------| 
 E|--------3-----|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-spencer-davis-group/gimme-some-lovin-bass-1687982)
 
-### 14. Cream - Sunshine Of Your Love (1967)
+### 14. [Cream - Sunshine Of Your Love (1967)](https://tabs.ultimate-guitar.com/tab/cream/sunshine-of-your-love-bass-57986)
 
 ```tab
 G|------------------|---------------|
@@ -167,9 +154,8 @@ D|------------7---6-|---5-----3-----|
 A|--5-5-3-5---------|-------5----5--|
 E|------------------|---------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/cream/sunshine-of-your-love-bass-57986)
 
-### 15. Temptations - My Girl (1964)
+### 15. [Temptations - My Girl (1964)](https://tabs.ultimate-guitar.com/tab/the-temptations/my-girl-bass-942639)
 
 ```tab
 G|---|---------------|---------------|---------------|---------------|
@@ -177,9 +163,8 @@ D|-5-|------5------5-|------5------5-|------5------5-|------5------5-|
 A|---|-3-3----3-3----|-3-3----3-3----|-3-3----3-3----|-3-3----3-3----|
 E|---|---------------|---------------|---------------|---------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-temptations/my-girl-bass-942639)
 
-### 16. Coldplay - Yellow (2000)
+### 16. [Coldplay - Yellow (2000)](https://tabs.ultimate-guitar.com/tab/coldplay/yellow-bass-16497)
 
 ```tab
 G|--------------------------|
@@ -187,9 +172,8 @@ D|-----------9/6-6----------|
 A|-7-7-7/9-9-------9---9-9-9|
 E|--------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/coldplay/yellow-bass-16497)
 
-### 17. Ben E. King - Stand By Me (1961)
+### 17. [Ben E. King - Stand By Me (1961)](https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-bass-31070)
 
 ```tab
 G|-----------------|-----------------|-----------------|-----------------|
@@ -202,9 +186,8 @@ D|---------------4-|---------------6-|-7-----7-------6-|-7-----7-------6-|
 A|-5-----5-----5---|-7-----7-----7---|-------------7---|-------------7---|
 E|-----------------|-----------------|-----------------|-----------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/ben-e-king/stand-by-me-bass-31070)
 
-### 18. Nirvana - Come As You Are (1991)
+### 18. [Nirvana - Come As You Are (1991)](https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-bass-28131)
 
 ```tab
 G|----------------------------------------------|
@@ -212,9 +195,8 @@ D|--------------5-----5--------------7-------7--|
 A|--5--5--6--7-----7-----7--7--6--5----5--5-----|
 E|----------------------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-bass-28131)
 
-### 19. White Stripes - Seven Nation Army (2003)
+### 19. [White Stripes - Seven Nation Army (2003)](https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-bass-50374)
 
 ```tab
 G|-------------------|
@@ -222,9 +204,8 @@ D|------5------------|
 A|-7--7---7--5-3--2--|
 E|-------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-white-stripes/seven-nation-army-bass-50374)
 
-### 20. AC/DC - Thunderstruck (1990)
+### 20. [AC/DC - Thunderstruck (1990)](https://tabs.ultimate-guitar.com/tab/acdc/thunderstruck-bass-127883)
 
 ```tab
 G|----------|----------|----------|----------|
@@ -232,9 +213,8 @@ D|----------|----------|----------|----------|
 A|2--2--2--2|2--2--2--2|2--2--2--2|2--2--2--2|
 E|----------|----------|----------|----------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/acdc/thunderstruck-bass-127883)
 
-### 21. Ramones - Blitzkrieg Bop (1976)
+### 21. [Ramones - Blitzkrieg Bop (1976)](https://tabs.ultimate-guitar.com/tab/ramones/blitzkrieg-bop-bass-33948)
 
 ```tab
 G|----------------------------------|
@@ -247,9 +227,8 @@ D|----------------------------------|
 A|---------5-5-5-5------------------|
 E|-5-5-5-5---------5-5-5-5-5-5-5-5--|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/ramones/blitzkrieg-bop-bass-33948)
 
-### 22. CCR - Have You Ever Seen The Rain (1970)
+### 22. [CCR - Have You Ever Seen The Rain (1970)](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/have-you-ever-seen-the-rain-bass-136268)
 
 ```tab
 G|-5-4--2--0-0-|-----------|-----------|-----------|----------|
@@ -257,9 +236,8 @@ D|-------------|--------/5-|--------/5-|--------/5-|------2-3-|
 A|-------------|-3--3-3----|-3--3-3----|-3--3-3----|-3--3-----|
 E|-------------|-----------|-----------|-----------|----------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/creedence-clearwater-revival/have-you-ever-seen-the-rain-bass-136268)
 
-### 23. Pink Floyd - Money (1973)
+### 23. [Pink Floyd - Money (1973)](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-bass-5206)
 
 ```tab
 G|-----4---------------------------4-----------------------|
@@ -267,9 +245,8 @@ D|-------4-----------------0---------4-----------------0---|
 A|-2-------2-r-----0---2-r-----2-------2-r-----0---2-r-----|
 E|-------------2---------------------------2---------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/pink-floyd/money-bass-5206)
 
-### 24. Bon Jovi - Livin’ On A Prayer (1986)
+### 24. [Bon Jovi - Livin’ On A Prayer (1986)](https://tabs.ultimate-guitar.com/tab/bon-jovi/livin-on-a-prayer-bass-17533)
 
 ```tab
 G|-----------------|-----------------|-----------------|-----------------|
@@ -277,9 +254,8 @@ D|-----------------|-------------2-4-|-5---------------|-----------------|
 A|-------3---2-3-4-|-5-5-5-5-5-5-----|---5-2-3---2-3-4-|-5-5-5-5-5-------|
 E|-0-2-3-----------|-----------------|-----------------|-----------003-2-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/bon-jovi/livin-on-a-prayer-bass-17533)
 
-### 25. The Beatles - Come Together (1969)
+### 25. [The Beatles - Come Together (1969)](https://tabs.ultimate-guitar.com/tab/the-beatles/come-together-bass-27919)
 
 ```tab
 G|--------------10^-------|
@@ -287,9 +263,8 @@ D|------------------12\5--|
 A|--------10h12-----------|
 E|--10-10-----------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-beatles/come-together-bass-27919)
 
-### 26. Bob Marley - Three Little Birds (1977)
+### 26. [Bob Marley - Three Little Birds (1977)](https://tabs.ultimate-guitar.com/tab/bob-marley/three-little-birds-bass-8222)
 
 ```tab
 G|---------------------|---------------------|
@@ -297,9 +272,8 @@ D|---------------------|-------------7-4--7--|
 A|-------------7-4--7--|---5-5-5--55---------|
 E|-5-5-5-55------------|---------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/bob-marley/three-little-birds-bass-8222)
 
-### 27. The Clash - Should I Stay Or Should I Go (1982)
+### 27. [The Clash - Should I Stay Or Should I Go (1982)](https://tabs.ultimate-guitar.com/tab/the-clash/should-i-stay-or-should-i-go-bass-436391)
 
 ```tab
 G|--------------------------|-----------------------|
@@ -307,9 +281,8 @@ D|--------------------------|-----------------------|
 A|--5--5--5--------3--4--5--|-----------------------|
 E|-----------3--3-----------|--3--3--3--1--1--1-2-3-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-clash/should-i-stay-or-should-i-go-bass-436391)
 
-### 28. Queen - Crazy Little Thing Called Love (1979)
+### 28. [Queen - Crazy Little Thing Called Love (1979)](https://tabs.ultimate-guitar.com/tab/queen/crazy-little-thing-called-love-bass-966137)
 
 ```tab
 G|----------4-|----------4-|----4--7--9-|-5--5--4----|
@@ -322,9 +295,8 @@ D|----4--7----|------------|----4--7----|------------|
 A|-5----------|------------|-5----------|------------|
 E|------------|-6--6--8--8-|------------|------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/queen/crazy-little-thing-called-love-bass-966137)
 
-### 29. Fleetwood Mac - The Chain (1977)
+### 29. [Fleetwood Mac - The Chain (1977)](https://tabs.ultimate-guitar.com/tab/fleetwood-mac/the-chain-bass-13592)
 
 ```tab
 G|---------------------|
@@ -332,9 +304,8 @@ D|---------------------|
 A|-0-0-2-3-2-0---0-2---|
 E|-------------3-----0-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/fleetwood-mac/the-chain-bass-13592)
 
-### 30. James Brown - I Got You (I Feel Good) (1965)
+### 30. [James Brown - I Got You (I Feel Good) (1965)](https://tabs.ultimate-guitar.com/tab/james-brown/i-got-you-i-feel-good-bass-750182)
 
 ```tab
 G|------7-6-7-6-7-6-7------7--5----------|
@@ -347,9 +318,8 @@ D|---7--7----5--5-------4--7----------|
 A|-------------------5----------------|
 E|------------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/james-brown/i-got-you-i-feel-good-bass-750182)
 
-### 31. Black Sabbath - Iron Man (1971)
+### 31. [Black Sabbath - Iron Man (1971)](https://tabs.ultimate-guitar.com/tab/black-sabbath/iron-man-bass-160739)
 
 ```tab
 G|----------------------------------|
@@ -357,9 +327,8 @@ D|---------------5-4-5-4-54---------|
 A|------5--5-7-7------------5-5-7-7-|
 E|--7-------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/black-sabbath/iron-man-bass-160739)
 
-### 32. Queen/Bowie - Under Pressure (1981)
+### 32. [Queen/Bowie - Under Pressure (1981)](https://tabs.ultimate-guitar.com/tab/queen/under-pressure-bass-621276)
 
 ```tab
 G|-----------------------|
@@ -377,9 +346,8 @@ D|----------------------------------|
 A|--2-2-2-222-0x--0-0-0-0-2x0x2x0x--|
 E|----------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/queen/under-pressure-bass-621276)
 
-### 33. Red Hot Chili Peppers - Give It Away (1991)
+### 33. [Red Hot Chili Peppers - Give It Away (1991)](https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/give-it-away-bass-202825)
 
 ```tab
 G|--------------12---------------12/----------------|
@@ -387,9 +355,8 @@ D|-----------/14--------------/14-------------------|
 A|-----0-------------3-3-0----------------0h3-0-----|
 E|--------------------------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/give-it-away-bass-202825)
 
-### 34. Jimi Hendrix - Hey Joe (1967)
+### 34. [Jimi Hendrix - Hey Joe (1967)](https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-bass-1402111)
 
 ```tab
 G|----------------|-----------------|------------------|
@@ -397,9 +364,8 @@ D|----------------|-----------------|------------------|
 A|-3--------2-3-4-|-5---------4-5-6-|-7-7--7--5----5-6-|
 E|--0-1-2-3-------|---2-3-4-5-------|--------7---7-----|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/jimi-hendrix/hey-joe-bass-1402111)
 
-### 35. Queen - Another One Bites The Dust (1980)
+### 35. [Queen - Another One Bites The Dust (1980)](https://tabs.ultimate-guitar.com/tab/queen/another-one-bites-the-dust-bass-4729)
 
 ```tab
 G|---------------------|------------------------|
@@ -407,9 +373,8 @@ D|---------------------|------------------------|
 A|---------------------|------------------------|
 E|-0----0----0-------0-|-0--0--3--0-5-------5-3-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/queen/another-one-bites-the-dust-bass-4729)
 
-### 36. Earth, Wind & Fire - September (1978)
+### 36. [Earth, Wind & Fire - September (1978)](https://tabs.ultimate-guitar.com/tab/earth-wind-fire/september-bass-93429)
 
 ```tab
 G|--------------------------|
@@ -422,9 +387,8 @@ D|-----------------------------------|
 A|-0-0-------0-0-------0-0-------0-1-|
 E|-----------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/earth-wind-fire/september-bass-93429)
 
-### 37. Deep Purple - Smoke On The Water (1972)
+### 37. [Deep Purple - Smoke On The Water (1972)](https://tabs.ultimate-guitar.com/tab/deep-purple/smoke-on-the-water-bass-15212)
 
 ```tab
 G|---------|---------|-----------------|---------------|
@@ -432,9 +396,8 @@ D|---------|---------|-----------------|---------------|
 A|-3-------|---------|-----1---1-------|-----1---1-----|
 E|---------|-4-------|-3-3---3---3-1-3-|-3-3---3---3-1-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/deep-purple/smoke-on-the-water-bass-15212)
 
-### 38. Gorillaz - Feel Good Inc. (2005)
+### 38. [Gorillaz - Feel Good Inc. (2005)](Gorillaz - Feel Good Inc.)
 
 ```tab
 Gb|--------------|----------|--------------|-----------|
@@ -442,9 +405,8 @@ Db|--------------|----------|--------------|-----------|
 Ab|------------3-|-2--------|-0---0-3-2----|-----------|
 Eb|-0---0-2-3----|----------|------------3-|--0--------|
 ```
-[Source](Gorillaz - Feel Good Inc.)
 
-### 39. Metallica - Enter Sandman (1991)
+### 39. [Metallica - Enter Sandman (1991)](https://tabs.ultimate-guitar.com/tab/metallica/enter-sandman-bass-121103)
 
 ```tab
 G|---------------|-----------------|-----------------|--------------------|
@@ -452,9 +414,8 @@ D|---------------|-----------------|-----------------|--------------------|
 A|-------3-2-2---|---------3-2-2---|---------3-2-2---|--------5---7-5-----|
 E|-2-2-2-------2-|-2-2-2-2-------2-|-2-2-2-2-------0-|(0)-5/7---7-----7-5-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/metallica/enter-sandman-bass-121103)
 
-### 40. Radiohead - Creep (1993)
+### 40. [Radiohead - Creep (1993)](https://tabs.ultimate-guitar.com/tab/radiohead/creep-bass-595503)
 
 ```tab
 G|----------------------------|----------------------------|
@@ -467,9 +428,8 @@ D|----------------------------|----------------------------|
 A|--3----3-3----3----3-3---2--|--3----3-3----3--5--6-------|
 E|------3------3----3---------|------3------3---------1----|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/radiohead/creep-bass-595503)
 
-### 41. Journey - Don’t Stop Believin’ (1981)
+### 41. [Journey - Don’t Stop Believin’ (1981)](https://tabs.ultimate-guitar.com/tab/journey/dont-stop-believin-bass-106600)
 
 ```tab
 G|-----------------|-----------------|----------------|-----------------|
@@ -477,9 +437,8 @@ D|-----------------|-----------------|----------------|-----------------|
 A|---------------2-|-----------4-6-4-|----------4-7---|-----------6-7---|
 E|-0---------2-4---|-----------------|--------------5-|---------------0-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/journey/dont-stop-believin-bass-106600)
 
-### 42. Nirvana - Smells Like Teen Spirit (1991)
+### 42. [Nirvana - Smells Like Teen Spirit (1991)](https://tabs.ultimate-guitar.com/tab/nirvana/smells-like-teen-spirit-bass-202718)
 
 ```tab
 G|----------------------------|
@@ -487,9 +446,8 @@ D|----------------------------|
 A|-------1-1---------4-4-3----|
 E|-1-1-1-----1-4-4-4----------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/nirvana/smells-like-teen-spirit-bass-202718)
 
-### 43. Chic - Good Times (1974)
+### 43. [Chic - Good Times (1974)](https://tabs.ultimate-guitar.com/tab/chic/good-times-bass-1071800)
 
 ```tab
 G|-------------------------------------------------------------------|
@@ -497,9 +455,8 @@ D|-----------------------------0h2-------------4-5p4-----------------|
 A|--------------------0--2--4-------0--0--0x-00-0---0-0h2------------|
 E|-0--0--0x--0-0h2-3---------------------------------------3---------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/chic/good-times-bass-1071800)
 
-### 44. Jet - Are You Gonna Be My Girl (2003)
+### 44. [Jet - Are You Gonna Be My Girl (2003)](https://tabs.ultimate-guitar.com/tab/jet/are-you-gonna-be-my-girl-bass-202612)
 
 ```tab
 G|--------------------|---------------------|
@@ -512,9 +469,8 @@ D|--------------------|-------------------|
 A|------------------3-|---3-5b--5-3-------|
 E|-5-5-5--5-5--0h3h5--|-5----------5--5-3-|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/jet/are-you-gonna-be-my-girl-bass-202612)
 
-### 45. Guns N’ Roses - Sweet Child O‘ Mine (1987)
+### 45. [Guns N’ Roses - Sweet Child O‘ Mine (1987)](https://tabs.ultimate-guitar.com/tab/guns-n-roses/sweet-child-o-mine-bass-129094)
 
 ```tab
 Gb|------11----11-12--14-16-14/12-11-------|----12-----10-9----10-9-----|
@@ -522,9 +478,8 @@ Db|----12----12----------------------12-0--|-10-----10------10-----10-0-|
 Ab|--12------------------------------------|----------------------------|
 Eb|----------------------------------------|----------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/guns-n-roses/sweet-child-o-mine-bass-129094)
 
-### 46. The Beatles - Something (1969)
+### 46. [The Beatles - Something (1969)](https://tabs.ultimate-guitar.com/tab/the-beatles/something-bass-758704)
 
 ```tab
 G|-------5-5-5-5-5-5--------------|------------------------------|
@@ -532,9 +487,8 @@ D|-------------------------2---3--|-5----------5H7-5-------------|
 A|-3------------------------------|---------------------------5--|
 E|--------------------------------|------------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/the-beatles/something-bass-758704)
 
-### 47. Rage Against The Machine - Killing In The Name (1992)
+### 47. [Rage Against The Machine - Killing In The Name (1992)](https://tabs.ultimate-guitar.com/tab/rage-against-the-machine/rage-against-the-machine-bass-333378)
 
 ```tab
 G|----------------------------------------------------|
@@ -542,9 +496,8 @@ D|-------------------------------4--2-----------------|
 A|------------------------------------4-3-2-----------|
 E|-2-2-0--2-2-2-2--5^-2-2-0-2-0-------------5---------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/rage-against-the-machine/rage-against-the-machine-bass-333378)
 
-### 48. Red Hot Chili Peppers - Under The Bridge (1991)
+### 48. [Red Hot Chili Peppers - Under The Bridge (1991)](https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-bass-119530)
 
 ```tab
 G|---------------------------------------------------|
@@ -552,9 +505,8 @@ D|--11---------9--------------9----------------------|
 A|--9----7--7------7---------------7----9----9--9----|
 E|--------------------9---7--------------------------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/red-hot-chili-peppers/under-the-bridge-bass-119530)
 
-### 49. Michael Jackson - Billie Jean (1982)
+### 49. [Michael Jackson - Billie Jean (1982)](https://www.songsterr.com/a/wsa/michael-jackson-billie-jean-bass-tab-s10586)
 
 ```tab
 G|---------------------------------------------------|
@@ -562,9 +514,8 @@ D|------2-4-2----------------------------------------|
 A|----4-------4-2-4----------------------------------|
 E|--2------------------------------------------------|
 ```
-[Source](https://www.songsterr.com/a/wsa/michael-jackson-billie-jean-bass-tab-s10586)
 
-### 50. Muse - Hysteria (2003)
+### 50. [Muse - Hysteria (2003)](https://tabs.ultimate-guitar.com/tab/muse/hysteria-bass-96516)
 
 ```tab
 G|-----------------------------------------------------------------|
@@ -572,4 +523,3 @@ D|-----5---5h7---5-------------------------------5-------5-5---5-7-|
 A|-0-0---0-----0---0-7-0-8-8-7-5-7-----5---5h7-------7-------7-----|
 E|---------------------------------0-0---0-----0---0---0-----------|
 ```
-[Source](https://tabs.ultimate-guitar.com/tab/muse/hysteria-bass-96516)
