@@ -14,9 +14,9 @@
       "type": "image/png"
     },
     {
-      "src": "/public/favicon.png",
+      "src": "/public/favicon.ico",
       "sizes": "32x32",
-      "type": "image/png"
+      "type": "image/ico"
     }
   ],
   "start_url": ".",
