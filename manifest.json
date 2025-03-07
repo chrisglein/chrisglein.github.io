@@ -5,6 +5,22 @@
   "short_name": "Chris Glein",
   "id": "chris-glein",
   "description": "This website is a collection of in-progress and published game design projects, as well as a blog for whatever other topics seem relevant.",
+  "dir": "ltr",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/public/apple-touch-icon-144-precomposed.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/public/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
   "categories": [
     "entertainment",
     "games",
