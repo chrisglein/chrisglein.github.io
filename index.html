@@ -3,6 +3,12 @@ layout: base
 title: Home
 ---
 
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
+
 <div class="features">
   <a class="feature" href="{{ '/games.html' | absolute_url }}">
     <h3>Game Design</h3>
