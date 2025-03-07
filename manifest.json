@@ -4,5 +4,10 @@
   "background_color": "#ffffff",
   "short_name": "Chris Glein",
   "id": "chris-glein",
-  "description": "This website is a collection of in-progress and published game design projects, as well as a blog for whatever other topics seem relevant."
+  "description": "This website is a collection of in-progress and published game design projects, as well as a blog for whatever other topics seem relevant.",
+  "categories": [
+    "entertainment",
+    "games",
+    "music"
+  ]
 }
