@@ -114,8 +114,12 @@ Billy Idol's "Cradle of Love" was a major hit that showcased his signature blend
 ### The Power - SNAP! (1990)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3P5dVXm98CgVuEpcW2HsUk?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+https://en.wikipedia.org/wiki/The_Power_(Snap!_song)
+
 ### We Didn't Start The Fire - Billy Joel (1989)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Cx4yrFaX8CeHwBMReOWXI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+https://en.wikipedia.org/wiki/We_Didn%27t_Start_the_Fire
 
 ### Love Shack - B-52s (1989)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4W4wYHtsrgDiivRASVOINL?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -163,3 +167,8 @@ https://en.wikipedia.org/wiki/The_Humpty_Dance
 Drum loop samples from "Sing a Simple Song" by Sly and the Family Stone and adds other elements.
 The vocal sample that happens in the song's chorus sections is from Parliament's "Let's Play House".
 
+1989
+https://en.wikipedia.org/wiki/Janie%27s_Got_a_Gun
+
+1989
+https://en.wikipedia.org/wiki/Free_Fallin%27
