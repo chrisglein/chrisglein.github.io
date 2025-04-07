@@ -15,6 +15,8 @@ series: Music Education
 - Original writer of song left (kicked out) of band before they hit it big, and shortly after committed suicide
 - Original recording worse, faster and less polished
 - Jangly 
+https://en.wikipedia.org/wiki/Hey_Jealousy
+https://en.wikipedia.org/wiki/Found_Out_About_You
 
 ### Hunger Strike - Temple of the Dog (1991)
 - Tribute to Mother Love Bone
@@ -50,20 +52,25 @@ https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
 - Sinister synth pop
 https://en.wikipedia.org/wiki/Enjoy_the_Silence
 
-https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1991
-
-1991
+### (Everything I Do) I Do It for You - Bryan Adams (1991)
+- _AI Generated_
+- Featured in the movie Robin Hood: Prince of Thieves
+- Spent 16 consecutive weeks at number one on the UK Singles Chart
+- Known for its sweeping ballad style and emotional lyrics
 https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You
 
-1991
-https://en.wikipedia.org/wiki/Motownphilly
-1992
-https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
-
-1991
+### I Wanna Sex You Up - Color Me Badd (1991)
+- _AI Generated_
+- New jack swing hit with a provocative title
+- Featured in the movie New Jack City
+- Controversial for its explicit lyrics but became a massive chart success
 https://en.wikipedia.org/wiki/I_Wanna_Sex_You_Up
 
-1991
+### Good Vibrations - Marky Mark and the Funky Bunch (1991)
+- _AI Generated_
+- Mark Wahlberg's brief music career before acting
+- Features a sample of Loleatta Holloway's "Love Sensation"
+- High-energy dance track with a rap-pop crossover appeal
 https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
 
 1991
@@ -79,10 +86,6 @@ https://en.wikipedia.org/wiki/Silent_Lucidity
 1991
 https://en.wikipedia.org/wiki/O.P.P._(song)
 
-
-https://en.wikipedia.org/wiki/Billboard_Year-End_Hot_100_singles_of_1992
-
-
 1992
 https://en.wikipedia.org/wiki/Baby_Got_Back
 
@@ -95,19 +98,8 @@ https://en.wikipedia.org/wiki/Tears_in_Heaven
 1992
 https://en.wikipedia.org/wiki/Baby-Baby-Baby
 
-1992
-https://en.wikipedia.org/wiki/Under_the_Bridge
-
 1991
 https://en.wikipedia.org/wiki/I%27m_Too_Sexy
-
-1991
-https://en.wikipedia.org/wiki/Black_or_White
-1992
-https://en.wikipedia.org/wiki/Remember_the_Time
-
-1992
-https://en.wikipedia.org/wiki/Achy_Breaky_Heart
 
 ### November Rain - Guns N' Roses (1992)
 - Music video, 1.5M
@@ -143,11 +135,12 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Linda Perry went on to write for other major pop stars
 - Gen X anthem? Pre grunge 
 - Sound of Mother Love Bone
+https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
 
 ### End of the Road - Boyz II Men (1992)
 - New edition reference, kicked out Bobby Brown, source of Bell Biv DeVoe 
 - Beat Elvis for hop 1 for 13 weeks
-- Motown Philly
+- Motownphilly
   - Origin story
   - New Jack swing - r&b over hip hop
   - Audition with Biv, alongside Will Smith, Kid n Play, others at show in Philly 
@@ -155,6 +148,9 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - End of the Road for movie Boomerang, retroactively applied to album
 - R&b slow jams 
 - Jodeci Freakin' You 
+https://en.wikipedia.org/wiki/Motownphilly
+https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
+
 
 ### C.R.E.A.M. - Wu-Tang Clan (1993)
 - Group named after an 83 kung fu movie
@@ -181,6 +177,10 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Nirvana will overtake on charts 
 - Cut last part of the video in response to complaints 
 - Album starts with Jam, Michael Jordan video right?
+1991
+https://en.wikipedia.org/wiki/Black_or_White
+1992
+https://en.wikipedia.org/wiki/Remember_the_Time
 
 ### Achy Breaky Heart - Billy Ray Cyrus (1992)
 - Alan Jackson: Chattahoochee, Blue Blooded Women, Bologna, New Traditionalists
@@ -193,6 +193,7 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Bragged it made him 40m in one year 
 - Overplayed, tops many worst song lists 
 - Weird Al, Achy Breaky Song
+https://en.wikipedia.org/wiki/Achy_Breaky_Heart
 
 ### Return of the Mack - Mark Morrison (1996)
 - Slick Rick and shaker back scratch 
@@ -201,7 +202,7 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Tap influenced r&b 
 - One hit wonders
 
-### Under the Bridge - Red Hot Chili Peppers (1991)
+### Under the Bridge - Red Hot Chili Peppers (1992)
 - Blood Sugar Sex Magik
 - No shame, immature, dancing naked in socks, vulgar and pornographic 
 - Flea, legendary bassist
@@ -213,6 +214,7 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Mellowship Slinky
 - Under the bridge doing heroin
 - Trying to get clean while new guitarist and bassist are bonding over weed 
+https://en.wikipedia.org/wiki/Under_the_Bridge
 
 ### Friends in Low Places - Garth Brooks (1990)
 - Dad rock, Bob Seger, Eagles
@@ -249,6 +251,7 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Tuesday Night Music Club, album name and literal club
 - All I Wanna Do, from a poem she found, breakout hit but not first release or second
 - Second album very separated from music club, solo all over the place
+https://en.wikipedia.org/wiki/All_I_Wanna_Do_(Sheryl_Crow_song)
 
 ### Birdhouse in Your Soul - They Might Be Giants (1990)
 - Unapologetically nerdy
@@ -256,3 +259,186 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - John and John
 - Accordion
 - Don’t Let’s Start
+
+### I Will Always Love You - Whitney Houston (1993)
+- _AI Generated_
+- Originally written and recorded by Dolly Parton in 1973
+- Whitney's version became a global phenomenon after being featured in The Bodyguard
+- Spent 14 weeks at number one on the Billboard Hot 100
+- Known for its powerful vocal performance and emotional depth
+https://en.wikipedia.org/wiki/I_Will_Always_Love_You#Whitney_Houston_version
+
+### Whoomp! (There It Is) - Tag Team (1993)
+- _AI Generated_
+- Party anthem with a catchy hook and call-and-response style
+- Became a pop culture staple, appearing in movies and commercials
+- Known for its infectious energy and danceability
+https://en.wikipedia.org/wiki/Whoomp!_(There_It_Is)
+
+### Nuthin' but a 'G' Thang - Dr. Dre featuring Snoop Dogg (1993)
+- _AI Generated_
+- West Coast hip-hop classic from Dre's album The Chronic
+- Introduced Snoop Dogg to a wider audience
+- Smooth G-funk production with laid-back delivery
+https://en.wikipedia.org/wiki/Nuthin%27_but_a_%27G%27_Thang
+
+### Runaway Train - Soul Asylum (1993)
+- _AI Generated_
+- Known for its music video highlighting missing children
+- Won a Grammy for Best Rock Song
+- Emotional lyrics about feeling lost and searching for direction
+https://en.wikipedia.org/wiki/Runaway_Train_(Soul_Asylum_song)
+
+### Two Princes - Spin Doctors (1993)
+- _AI Generated_
+- Infectious pop-rock hit with a funky groove
+- Lyrics about competing for someone's love
+- Became a staple of 90s alternative rock radio
+https://en.wikipedia.org/wiki/Two_Princes
+
+### Mr. Wendal - Arrested Development (1993)
+- _AI Generated_
+- Socially conscious hip-hop track addressing homelessness
+- Nominated for a Grammy for Best Rap Performance
+- Features a laid-back groove and thought-provoking lyrics
+https://en.wikipedia.org/wiki/Mr._Wendal
+
+### All That She Wants - Ace of Base (1993)
+- _AI Generated_
+- Swedish pop group’s breakout hit
+- Reggae-inspired beat with melancholic lyrics
+- Helped define the Eurodance sound of the 90s
+https://en.wikipedia.org/wiki/All_That_She_Wants
+
+### The Sign - Ace of Base (1994)
+- _AI Generated_
+- Follow-up hit to "All That She Wants"
+- Topped charts worldwide and became a 90s pop anthem
+- Lyrics about self-empowerment and moving on
+https://en.wikipedia.org/wiki/The_Sign_(song)
+
+### Real Love - Mary J. Blige (1993)
+- _AI Generated_
+- Blends hip-hop beats with soulful vocals, defining the "hip-hop soul" genre
+- From her debut album What's the 411?
+- Lyrics about searching for genuine love
+https://en.wikipedia.org/wiki/Real_Love_(Mary_J._Blige_song)
+
+### Cryin' - Aerosmith (1993)
+- _AI Generated_
+- Power ballad with a bluesy edge
+- Music video featured Alicia Silverstone, launching her acting career
+- Helped revitalize Aerosmith's popularity in the 90s
+https://en.wikipedia.org/wiki/Cryin%27
+
+### Crazy - Aerosmith (1994)
+- _AI Generated_
+- Another hit featuring Alicia Silverstone in the music video, alongside Liv Tyler
+- Bluesy rock ballad about infatuation and longing
+- Won a Grammy for Best Rock Performance by a Duo or Group
+https://en.wikipedia.org/wiki/Crazy_(Aerosmith_song)
+
+### Insane in the Brain - Cypress Hill (1993)
+- _AI Generated_
+- Iconic hip-hop track with a funky beat and nasal delivery
+- Became a crossover hit, appealing to both rap and rock audiences
+- Known for its rebellious and humorous lyrics
+https://en.wikipedia.org/wiki/Insane_in_the_Brain
+
+### Cat's in the Cradle - Ugly Kid Joe (1993)
+- _AI Generated_
+- Cover of Harry Chapin's 1974 classic
+- Hard rock version with a grungy edge
+- Lyrics about strained father-son relationships
+https://en.wikipedia.org/wiki/Cat%27s_in_the_Cradle
+
+### Stay (I Missed You) - Lisa Loeb (1994)
+- _AI Generated_
+- Acoustic pop hit featured in the movie Reality Bites
+- First number-one single by an artist without a record deal
+- Known for its heartfelt lyrics and minimalist production
+https://en.wikipedia.org/wiki/Stay_(I_Missed_You)
+
+### What a Man - Salt-N-Pepa and En Vogue (1994)
+- _AI Generated_
+- Celebrates strong, respectful men
+- Collaboration between two iconic female groups
+- Funky beat and empowering lyrics
+https://en.wikipedia.org/wiki/What_a_Man_(song)#Salt-N-Pepa_and_En_Vogue_version
+
+### Shoop - Salt-N-Pepa (1994)
+- _AI Generated_
+- Flirty and confident hip-hop track
+- Known for its catchy hook and playful lyrics
+- Helped solidify Salt-N-Pepa's status as hip-hop pioneers
+https://en.wikipedia.org/wiki/Shoop
+
+### Fantastic Voyage - Coolio (1994)
+- _AI Generated_
+- Funky hip-hop track sampling Lakeside's 1980 hit of the same name
+- Lyrics about escaping life's struggles and enjoying good times
+- Became one of Coolio's early hits
+https://en.wikipedia.org/wiki/Fantastic_Voyage_(Coolio_song)
+
+### Shine - Collective Soul (1994)
+- _AI Generated_
+- Breakout hit for the band, blending grunge and southern rock
+- Known for its uplifting chorus and guitar riff
+- Became a staple of 90s alternative rock
+https://en.wikipedia.org/wiki/Shine_(Collective_Soul_song)
+
+### Mmm Mmm Mmm Mmm - Crash Test Dummies (1994)
+- _AI Generated_
+- Quirky alternative rock hit with a deep baritone vocal
+- Lyrics tell strange, melancholic stories
+- Divisive song often parodied but still memorable
+https://en.wikipedia.org/wiki/Mmm_Mmm_Mmm_Mmm
+
+### I'd Do Anything for Love (But I Won't Do That) - Meat Loaf (1994)
+- _AI Generated_
+- Epic rock ballad with theatrical flair
+- Features a duet with Lorraine Crosby
+- Won a Grammy for Best Rock Vocal Performance
+https://en.wikipedia.org/wiki/I%27d_Do_Anything_for_Love_(But_I_Won%27t_Do_That)
+
+### Come to My Window - Melissa Etheridge (1994)
+- _AI Generated_
+- Emotional rock ballad about longing and love
+- Won a Grammy for Best Female Rock Vocal Performance
+- Became an anthem for the LGBTQ+ community
+https://en.wikipedia.org/wiki/Come_to_My_Window
+
+### Loser - Beck (1994)
+- _AI Generated_
+- Slacker anthem blending folk, hip-hop, and alternative rock
+- Lyrics are self-deprecating and surreal
+- Helped establish Beck as a genre-defying artist
+https://en.wikipedia.org/wiki/Loser_(Beck_song)
+
+### Gin and Juice - Snoop Dogg (1994)
+- _AI Generated_
+- West Coast hip-hop classic from Snoop's debut album Doggystyle
+- Lyrics about partying and carefree living
+- G-funk production with a laid-back vibe
+https://en.wikipedia.org/wiki/Gin_and_Juice
+
+### Groove Thang - Zhané (1994)
+- _AI Generated_
+- Smooth R&B track with a funky groove
+- Celebrates good times and positive vibes
+- Helped establish Zhané as a 90s R&B duo
+https://en.wikipedia.org/wiki/Groove_Thang
+
+### Mary Jane's Last Dance - Tom Petty and the Heartbreakers (1994)
+- _AI Generated_
+- Bluesy rock track with ambiguous lyrics about love and loss
+- Features a memorable harmonica riff
+- Music video starred Kim Basinger as a corpse
+https://en.wikipedia.org/wiki/Mary_Jane%27s_Last_Dance
+
+### I Wanna Be Down - Brandy (1994)
+- _AI Generated_
+- Debut single that launched Brandy's career
+- Smooth R&B track with a laid-back groove
+- Lyrics about romantic interest and admiration
+https://en.wikipedia.org/wiki/I_Wanna_Be_Down
