@@ -73,32 +73,109 @@ https://en.wikipedia.org/wiki/I_Wanna_Sex_You_Up
 - High-energy dance track with a rap-pop crossover appeal
 https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
 
-1991
+### Losing My Religion - R.E.M. (1991)
+- _AI Generated_
+- Breakout hit for the band, featuring mandolin-driven melody
+- Lyrics about unrequited love and obsession
+- Iconic music video with religious and surreal imagery
 https://en.wikipedia.org/wiki/Losing_My_Religion
+
+### Shiny Happy People - R.E.M. (1991)
+- _AI Generated_
+- Collaboration with Kate Pierson of The B-52's
+- Contrasts upbeat melody with ironic undertones
+- Divisive among fans for its poppy sound
 https://en.wikipedia.org/wiki/Shiny_Happy_People
 
-1991
+### Summertime - DJ Jazzy Jeff & The Fresh Prince (1991)
+- _AI Generated_
+- Laid-back anthem celebrating summer vibes
+- Won a Grammy for Best Rap Performance by a Duo or Group
+- Features smooth production and nostalgic lyrics
 https://en.wikipedia.org/wiki/Summertime_(DJ_Jazzy_Jeff_%26_The_Fresh_Prince_song)
 
-1991
+### Silent Lucidity - Queensrÿche (1991)
+- _AI Generated_
+- Progressive rock ballad with orchestral elements
+- Lyrics explore lucid dreaming and self-awareness
+- Nominated for a Grammy for Best Rock Performance
 https://en.wikipedia.org/wiki/Silent_Lucidity
 
-1991
+### O.P.P. - Naughty by Nature (1991)
+- _AI Generated_
+- Catchy hip-hop track with a Jackson 5 sample
+- Lyrics cleverly explore infidelity and relationships
+- Became a crossover hit, reaching mainstream audiences
 https://en.wikipedia.org/wiki/O.P.P._(song)
 
-1992
+### Life Is a Highway - Tom Cochrane (1991)
+- _AI Generated_
+- Canadian rock anthem about life's journey
+- Became a global hit and later covered by Rascal Flatts for the movie Cars
+- Known for its uplifting lyrics and driving rhythm
+https://en.wikipedia.org/wiki/Life_Is_a_Highway
+
+### Smells Like Teen Spirit - Nirvana (1991)
+- _AI Generated_
+- Grunge anthem that defined the 90s alternative rock scene
+- From the album Nevermind, which catapulted Nirvana to fame
+- Lyrics are cryptic but resonate with teenage angst
+https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
+
+### Ain't 2 Proud 2 Beg - TLC (1991)
+- _AI Generated_
+- Debut single showcasing TLC's bold and confident style
+- Lyrics promote sexual empowerment and independence
+- Features a blend of hip-hop and R&B
+https://en.wikipedia.org/wiki/Ain%27t_2_Proud_2_Beg
+
+### 2 Legit 2 Quit - MC Hammer (1991)
+- _AI Generated_
+- High-energy track with an iconic hand gesture dance
+- Lyrics emphasize perseverance and determination
+- Known for its elaborate music video featuring celebrity cameos
+https://en.wikipedia.org/wiki/2_Legit_2_Quit
+
+### I Can't Dance - Genesis (1991)
+- _AI Generated_
+- Tongue-in-cheek rock track with a minimalist groove
+- Lyrics mock superficiality and consumer culture
+- Features a memorable music video with humorous choreography
+https://en.wikipedia.org/wiki/I_Can%27t_Dance
+
+### Baby Got Back - Sir Mix-a-Lot (1992)
+- _AI Generated_
+- Iconic hip-hop track celebrating curvy women
+- Known for its humorous and provocative lyrics
+- Won a Grammy for Best Rap Solo Performance
 https://en.wikipedia.org/wiki/Baby_Got_Back
 
-1992
+### Jump - Kris Kross (1992)
+- _AI Generated_
+- Catchy hip-hop hit by the teenage duo
+- Known for their signature backward clothing style
+- Topped the Billboard Hot 100 for eight weeks
 https://en.wikipedia.org/wiki/Jump_(Kris_Kross_song)
 
-1992
+### Tears in Heaven - Eric Clapton (1992)
+- _AI Generated_
+- Heartfelt ballad written after the tragic death of Clapton's son
+- Won three Grammy Awards, including Song of the Year
+- Lyrics explore grief and hope for reunion in the afterlife
 https://en.wikipedia.org/wiki/Tears_in_Heaven
 
-1992
+### Baby-Baby-Baby - TLC (1992)
+- _AI Generated_
+- Smooth R&B track about love and devotion
+- Became one of TLC's early hits, reaching number two on the Billboard Hot 100
+- Showcases the group's vocal harmonies and style
 https://en.wikipedia.org/wiki/Baby-Baby-Baby
 
-1991
+### I'm Too Sexy - Right Said Fred (1991)
+- _AI Generated_
+- Quirky dance-pop hit with tongue-in-cheek lyrics
+- Became a global sensation and a pop culture staple
+- Known for its minimalist beat and humorous delivery
 https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 
 ### November Rain - Guns N' Roses (1992)
@@ -108,23 +185,18 @@ https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 - Axl Rose is an abusive jerk
 https://en.wikipedia.org/wiki/November_Rain
 
-1991
-https://en.wikipedia.org/wiki/Life_Is_a_Highway
-
-1991
-https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
-
-1991
-https://en.wikipedia.org/wiki/Ain%27t_2_Proud_2_Beg
-
-1991
-https://en.wikipedia.org/wiki/2_Legit_2_Quit
-
-1991
-https://en.wikipedia.org/wiki/I_Can%27t_Dance
-
-1992
+### One - U2 (1992)
+- _AI Generated_
+- Emotional rock ballad from the album "Achtung Baby"
+- Lyrics explore themes of unity and reconciliation
+- Became one of U2's most iconic songs
 https://en.wikipedia.org/wiki/One_(U2_song)
+
+### Mysterious Ways - U2 (1992)
+- _AI Generated_
+- Funk-influenced rock track with a danceable groove
+- Lyrics inspired by spirituality and love
+- Known for its innovative guitar effects
 https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 
 ### What’s Up? - 4 Non Blondes (1992)
@@ -177,9 +249,7 @@ https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
 - Nirvana will overtake on charts 
 - Cut last part of the video in response to complaints 
 - Album starts with Jam, Michael Jordan video right?
-1991
 https://en.wikipedia.org/wiki/Black_or_White
-1992
 https://en.wikipedia.org/wiki/Remember_the_Time
 
 ### Achy Breaky Heart - Billy Ray Cyrus (1992)
@@ -201,6 +271,7 @@ https://en.wikipedia.org/wiki/Achy_Breaky_Heart
 - Fantasy remix with Mariah from Genius of Love
 - Tap influenced r&b 
 - One hit wonders
+https://en.wikipedia.org/wiki/Return_of_the_Mack
 
 ### Under the Bridge - Red Hot Chili Peppers (1992)
 - Blood Sugar Sex Magik
@@ -442,3 +513,304 @@ https://en.wikipedia.org/wiki/Mary_Jane%27s_Last_Dance
 - Smooth R&B track with a laid-back groove
 - Lyrics about romantic interest and admiration
 https://en.wikipedia.org/wiki/I_Wanna_Be_Down
+
+### Gangsta's Paradise - Coolio (1995)
+- _AI Generated_
+- Grammy-winning rap track featuring L.V.
+- Lyrics reflect on struggles and redemption
+- Featured in the movie "Dangerous Minds"
+https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
+
+### Waterfalls - TLC (1995)
+- _AI Generated_
+- Socially conscious R&B hit addressing issues like HIV and drug addiction
+- Known for its iconic music video and heartfelt lyrics
+- Became one of TLC's signature songs
+https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)
+
+### Creep - TLC (1995)
+- _AI Generated_
+- R&B track about infidelity and self-respect
+- Won a Grammy for Best R&B Performance by a Duo or Group
+- Features a smooth, jazzy production
+https://en.wikipedia.org/wiki/Creep_(TLC_song)
+
+### Kiss from a Rose - Seal (1995)
+- _AI Generated_
+- Romantic ballad with poetic lyrics and lush orchestration
+- Featured in the movie Batman Forever
+- Won three Grammy Awards, including Record of the Year
+https://en.wikipedia.org/wiki/Kiss_from_a_Rose
+
+### Fantasy - Mariah Carey (1995)
+- _AI Generated_
+- Pop hit blending R&B and hip-hop, featuring a Tom Tom Club sample
+- First song by a female artist to debut at number one on the Billboard Hot 100
+- Known for its infectious melody and carefree vibe
+https://en.wikipedia.org/wiki/Fantasy_(Mariah_Carey_song)
+
+### This Is How We Do It - Montell Jordan (1995)
+- _AI Generated_
+- Party anthem blending R&B and hip-hop
+- Known for its smooth vocals and catchy hook
+- Topped the Billboard Hot 100 for seven weeks
+https://en.wikipedia.org/wiki/This_Is_How_We_Do_It
+
+### Run-Around - Blues Traveler (1995)
+- _AI Generated_
+- Grammy-winning rock track with a harmonica-driven melody
+- Lyrics reflect on unrequited love and frustration
+- Became the band's breakthrough hit
+https://en.wikipedia.org/wiki/Run-Around_(song)
+
+### Total Eclipse of the Heart (Nicki French version) - Nicki French (1995)
+- _AI Generated_
+- Dance-pop cover of Bonnie Tyler's 1983 classic
+- Gave the song a modern, upbeat twist
+- Charted internationally, reaching the top 5 in several countries
+https://en.wikipedia.org/wiki/Total_Eclipse_of_the_Heart#Nicki_French_version
+
+### Hold My Hand - Hootie & the Blowfish (1995)
+- _AI Generated_
+- Feel-good rock track with uplifting lyrics
+- Helped establish the band's mainstream success
+- Featured on their multi-platinum debut album
+https://en.wikipedia.org/wiki/Hold_My_Hand_(Hootie_%26_the_Blowfish_song)
+
+### Let Her Cry - Hootie & the Blowfish (1995)
+- _AI Generated_
+- Emotional ballad about heartbreak and regret
+- Won a Grammy for Best Pop Performance by a Duo or Group
+- Showcases the band's soulful and melodic style
+https://en.wikipedia.org/wiki/Let_Her_Cry_(song)
+
+### Only Wanna Be with You - Hootie & the Blowfish (1995)
+- _AI Generated_
+- Upbeat rock track with nostalgic lyrics
+- References Bob Dylan's "Idiot Wind" in its verses
+- Became one of the band's signature songs
+https://en.wikipedia.org/wiki/Only_Wanna_Be_with_You
+
+### One More Chance - The Notorious B.I.G. (1995)
+- _AI Generated_
+- Smooth hip-hop track with a soulful R&B hook
+- Features a remix that became a massive hit
+- Lyrics explore themes of love and relationships
+https://en.wikipedia.org/wiki/One_More_Chance_(The_Notorious_B.I.G._song)
+
+### Big Poppa - The Notorious B.I.G. (1995)
+- _AI Generated_
+- Laid-back hip-hop track with a G-funk influence
+- Known for its iconic hook and luxurious themes
+- Helped solidify Biggie's status as a rap icon
+https://en.wikipedia.org/wiki/Big_Poppa
+
+### Strong Enough - Sheryl Crow (1995)
+- _AI Generated_
+- Acoustic ballad with introspective lyrics
+- Explores themes of vulnerability and resilience
+- Featured on her Grammy-winning debut album
+https://en.wikipedia.org/wiki/Strong_Enough_(Sheryl_Crow_song)
+
+### December - Collective Soul (1995)
+- _AI Generated_
+- Alternative rock track with a haunting melody
+- Lyrics reflect on loss and moving on
+- Became one of the band's most popular songs
+https://en.wikipedia.org/wiki/December_(Collective_Soul_song)
+
+### I'll Be There for You/You're All I Need to Get By - Method Man & Mary J. Blige (1995)
+- _AI Generated_
+- Hip-hop and R&B collaboration blending gritty rap with soulful vocals
+- Won a Grammy for Best Rap Performance by a Duo or Group
+- Lyrics celebrate love and loyalty
+https://en.wikipedia.org/wiki/I%27ll_Be_There_for_You/You%27re_All_I_Need_to_Get_By
+
+1995
+https://en.wikipedia.org/wiki/I%27m_the_Only_One
+
+
+### Dear Mama - 2Pac (1995)
+- _AI Generated_
+- Heartfelt tribute to Tupac's mother, Afeni Shakur
+- Lyrics explore themes of love, struggle, and gratitude
+- Widely regarded as one of Tupac's most personal songs
+https://en.wikipedia.org/wiki/Dear_Mama
+
+### Cotton Eye Joe - Rednex (1995)
+- _AI Generated_
+- Dance remix of a traditional American folk song
+- Became a global hit with its catchy beat and quirky style
+- Known for its energetic fiddle and techno influences
+https://en.wikipedia.org/wiki/Cotton_Eye_Joe_(Rednex_song)
+
+### Brown Sugar - D'Angelo (1995)
+- _AI Generated_
+- Smooth neo-soul track with jazzy influences
+- Lyrics celebrate love and sensuality
+- Title track from D'Angelo's debut album
+https://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_song)
+
+1996
+https://en.wikipedia.org/wiki/Macarena
+
+### Give Me One Reason - Tracy Chapman (1996)
+- _AI Generated_
+- Bluesy rock track with soulful vocals
+- Won a Grammy for Best Rock Song
+- Lyrics about love and longing
+https://en.wikipedia.org/wiki/Give_Me_One_Reason
+
+### Tha Crossroads - Bone Thugs-n-Harmony (1996)
+- _AI Generated_
+- Tribute to deceased loved ones, including Eazy-E
+- Won a Grammy for Best Rap Performance by a Duo or Group
+- Features the group's signature harmonized rap style
+https://en.wikipedia.org/wiki/Tha_Crossroads
+
+### Ironic - Alanis Morissette (1996)
+- _AI Generated_
+- Iconic track from the album "Jagged Little Pill"
+- Lyrics describe ironic and unexpected situations
+- Known for its conversational tone and catchy melody
+https://en.wikipedia.org/wiki/Ironic_(song)
+
+### Follow You Down - Gin Blossoms (1996)
+- _AI Generated_
+- Upbeat rock track with jangly guitars
+- Lyrics explore themes of loyalty and love
+- Became one of the band's biggest hits
+https://en.wikipedia.org/wiki/Follow_You_Down
+
+### Sittin' Up in My Room - Brandy (1996)
+- _AI Generated_
+- R&B hit featured on the "Waiting to Exhale" soundtrack
+- Lyrics about longing and unspoken love
+- Produced by Babyface
+https://en.wikipedia.org/wiki/Sittin%27_Up_in_My_Room
+
+### Who Will Save Your Soul - Jewel (1996)
+- _AI Generated_
+- Folk-pop track with introspective lyrics
+- Debut single that launched Jewel's career
+- Lyrics explore themes of morality and self-reflection
+https://en.wikipedia.org/wiki/Who_Will_Save_Your_Soul
+
+### No Diggity - Blackstreet featuring Dr. Dre (1996)
+- _AI Generated_
+- Smooth R&B track with a hip-hop influence
+- Won a Grammy for Best R&B Performance by a Duo or Group
+- Features a memorable piano riff and catchy hook
+https://en.wikipedia.org/wiki/No_Diggity
+
+### 1979 - The Smashing Pumpkins (1996)
+- _AI Generated_
+- Nostalgic alternative rock track with dreamy production
+- Lyrics reflect on youth and suburban life
+- One of the band's most commercially successful songs
+https://en.wikipedia.org/wiki/1979_(song)
+
+### Diggin' on You - TLC (1996)
+- _AI Generated_
+- Smooth R&B track with romantic lyrics
+- From the album "CrazySexyCool"
+- Showcases the group's vocal harmonies
+https://en.wikipedia.org/wiki/Diggin%27_on_You
+
+### Wonderwall - Oasis (1996)
+- _AI Generated_
+- Britpop anthem with heartfelt lyrics
+- One of the band's most iconic songs
+- Features a memorable acoustic guitar riff
+https://en.wikipedia.org/wiki/Wonderwall
+
+### Hook - Blues Traveler (1996)
+- _AI Generated_
+- Rock track with a catchy harmonica riff
+- Lyrics critique the music industry's focus on hooks
+- Became one of the band's signature songs
+https://en.wikipedia.org/wiki/Hook_(song)
+
+### Doin' It - LL Cool J (1996)
+- _AI Generated_
+- Sensual hip-hop track with a smooth beat
+- Lyrics celebrate romance and intimacy
+- Features a duet with LeShaun
+https://en.wikipedia.org/wiki/Doin%27_It_(LL_Cool_J_song)
+
+### Just a Girl - No Doubt (1996)
+- _AI Generated_
+- Feminist anthem with a ska-punk influence
+- Lyrics critique gender stereotypes
+- Helped establish No Doubt's mainstream success
+https://en.wikipedia.org/wiki/Just_a_Girl
+
+### Pony - Ginuwine (1996)
+- _AI Generated_
+- R&B track with a futuristic beat
+- Lyrics are playful and provocative
+- Produced by Timbaland
+https://en.wikipedia.org/wiki/Pony_(Ginuwine_song)
+
+### I Believe I Can Fly - R. Kelly (1997)
+- _AI Generated_
+- Inspirational ballad featured in the movie "Space Jam"
+- Won three Grammy Awards
+- Lyrics about self-empowerment and achieving dreams
+https://en.wikipedia.org/wiki/I_Believe_I_Can_Fly
+
+### Wannabe - Spice Girls (1997)
+- _AI Generated_
+- Debut single that launched the Spice Girls' career
+- Lyrics promote friendship and girl power
+- Became a global pop phenomenon
+https://en.wikipedia.org/wiki/Wannabe
+
+### MMMBop - Hanson (1997)
+- _AI Generated_
+- Infectious pop track by the teenage sibling trio
+- Lyrics reflect on the fleeting nature of relationships
+- Topped charts worldwide
+https://en.wikipedia.org/wiki/MMMBop
+
+### Semi-Charmed Life - Third Eye Blind (1997)
+- _AI Generated_
+- Upbeat alternative rock track with dark lyrics
+- Lyrics explore themes of addiction and self-destruction
+- Became the band's breakout hit
+https://en.wikipedia.org/wiki/Semi-Charmed_Life
+
+### The Freshmen - The Verve Pipe (1997)
+- _AI Generated_
+- Emotional alternative rock ballad about regret and loss
+- Lyrics reflect on youthful mistakes and their consequences
+- Became the band's biggest hit
+https://en.wikipedia.org/wiki/The_Freshmen_(song)
+
+### Hypnotize - The Notorious B.I.G. (1997)
+- _AI Generated_
+- Chart-topping hip-hop track with a smooth, hypnotic beat
+- Released shortly before Biggie's tragic death
+- Known for its catchy hook and luxurious themes
+https://en.wikipedia.org/wiki/Hypnotize_(The_Notorious_B.I.G._song)
+
+### Tubthumping - Chumbawamba (1997)
+- _AI Generated_
+- Anthemic pop-punk track about resilience and perseverance
+- Known for its infectious chorus and pub-like energy
+- Became a global one-hit wonder
+https://en.wikipedia.org/wiki/Tubthumping
+
+### Naked Eye - Luscious Jackson (1997)
+- _AI Generated_
+- Alternative rock track with a funky, laid-back groove
+- Lyrics explore self-discovery and introspection
+- Became the band's most successful single
+https://en.wikipedia.org/wiki/Naked_Eye_(Luscious_Jackson_song)
+
+### On & On - Erykah Badu (1997)
+- _AI Generated_
+- Neo-soul track blending jazz, R&B, and hip-hop influences
+- Lyrics reflect spirituality and self-awareness
+- Won a Grammy for Best Female R&B Vocal Performance
+https://en.wikipedia.org/wiki/On_%26_On_(Erykah_Badu_song)
