@@ -5,6 +5,55 @@ tags: music
 series: Music Education
 ---
 
+### November Rain - Guns N' Roses (1992)
+- Music video, 1.5M
+- Slash looking cool
+- Overblown overwrought end of life of big hair metal band
+- Axl Rose is an abusive jerk
+https://en.wikipedia.org/wiki/November_Rain
+
+### Hunger Strike - Temple of the Dog (1991)
+- Tribute to Mother Love Bone
+- Chloe Crown of Thorns
+- Eddie Vedder before Pearl Jam
+- Also Cornell and Grohl 
+- No second verse so just change singer
+- Broody and problematic dark grunge vibes
+
+### Smells Like Teen Spirit - Nirvana (1991)
+- _AI Generated_
+- Grunge anthem that defined the 90s alternative rock scene
+- From the album Nevermind, which catapulted Nirvana to fame
+- Lyrics are cryptic but resonate with teenage angst
+https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
+
+### Black or White - Michael Jackson (1991)
+- Separate art from the artist
+- Thriller from 82 sold 70M best selling worldwide album ever
+- Dangerous is 30th best selling of all time ever
+- Monoculture
+- Teddy Riley, producer of new jack swing, harsher aggressive sound
+- Media picking up on weirdness, vitiligo skin condition, chimp, plastic surgery 
+- Famous since 1969 
+- 500M people watched video debut, 11/14/91, aired on music channels and Fox
+- Originally included promo by Bart Simpson, between soap box and Flaming Moe week, Macaulay Culkin intro 
+- From worshipped pop star to… complicated
+- Nirvana will overtake on charts 
+- Cut last part of the video in response to complaints 
+- Album starts with Jam, Michael Jordan video right?
+https://en.wikipedia.org/wiki/Black_or_White
+https://en.wikipedia.org/wiki/Remember_the_Time
+
+### What’s Up? - 4 Non Blondes (1992)
+- Not named What’s Going On? Because of conflict with Marvin Gaye
+- Voted 10th worst song of the 90’s
+- One hit wonder, one album
+- One of the first 5 90s songs to hit 1 billion YouTube views
+- Linda Perry went on to write for other major pop stars
+- Gen X anthem? Pre grunge 
+- Sound of Mother Love Bone
+https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
+
 ### You Oughta Know - Alanis Morissette (1995)
 - Censorship of fuck 
 - Angry white female
@@ -17,14 +66,6 @@ series: Music Education
 - Jangly 
 https://en.wikipedia.org/wiki/Hey_Jealousy
 https://en.wikipedia.org/wiki/Found_Out_About_You
-
-### Hunger Strike - Temple of the Dog (1991)
-- Tribute to Mother Love Bone
-- Chloe Crown of Thorns
-- Eddie Vedder before Pearl Jam
-- Also Cornell and Grohl 
-- No second verse so just change singer
-- Broody and problematic dark grunge vibes
 
 ### No Scrubs - TLC (1999)
 - Not the original C in Chilli
@@ -116,13 +157,6 @@ https://en.wikipedia.org/wiki/O.P.P._(song)
 - Known for its uplifting lyrics and driving rhythm
 https://en.wikipedia.org/wiki/Life_Is_a_Highway
 
-### Smells Like Teen Spirit - Nirvana (1991)
-- _AI Generated_
-- Grunge anthem that defined the 90s alternative rock scene
-- From the album Nevermind, which catapulted Nirvana to fame
-- Lyrics are cryptic but resonate with teenage angst
-https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
-
 ### Ain't 2 Proud 2 Beg - TLC (1991)
 - _AI Generated_
 - Debut single showcasing TLC's bold and confident style
@@ -179,13 +213,6 @@ https://en.wikipedia.org/wiki/Baby-Baby-Baby
 - Known for its minimalist beat and humorous delivery
 https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 
-### November Rain - Guns N' Roses (1992)
-- Music video, 1.5M
-- Slash looking cool
-- Overblown overwrought end of life of big hair metal band
-- Axl Rose is an abusive jerk
-https://en.wikipedia.org/wiki/November_Rain
-
 ### One - U2 (1992)
 - _AI Generated_
 - Emotional rock ballad from the album "Achtung Baby"
@@ -199,16 +226,6 @@ https://en.wikipedia.org/wiki/One_(U2_song)
 - Lyrics inspired by spirituality and love
 - Known for its innovative guitar effects
 https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
-
-### What’s Up? - 4 Non Blondes (1992)
-- Not named What’s Going On? Because of conflict with Marvin Gaye
-- Voted 10th worst song of the 90’s
-- One hit wonder, one album
-- One of the first 5 90s songs to hit 1 billion YouTube views
-- Linda Perry went on to write for other major pop stars
-- Gen X anthem? Pre grunge 
-- Sound of Mother Love Bone
-https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
 
 ### End of the Road - Boyz II Men (1992)
 - New edition reference, kicked out Bobby Brown, source of Bell Biv DeVoe 
@@ -234,23 +251,6 @@ https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
 - Q-Tip and Phife
 - Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
 - Bonita Applebum rap love song
-
-### Black or White - Michael Jackson (1991)
-- Separate art from the artist
-- Thriller from 82 sold 70M best selling worldwide album ever
-- Dangerous is 30th best selling of all time ever
-- Monoculture
-- Teddy Riley, producer of new jack swing, harsher aggressive sound
-- Media picking up on weirdness, vitiligo skin condition, chimp, plastic surgery 
-- Famous since 1969 
-- 500M people watched video debut, 11/14/91, aired on music channels and Fox
-- Originally included promo by Bart Simpson, between soap box and Flaming Moe week, Macaulay Culkin intro 
-- From worshipped pop star to… complicated
-- Nirvana will overtake on charts 
-- Cut last part of the video in response to complaints 
-- Album starts with Jam, Michael Jordan video right?
-https://en.wikipedia.org/wiki/Black_or_White
-https://en.wikipedia.org/wiki/Remember_the_Time
 
 ### Achy Breaky Heart - Billy Ray Cyrus (1992)
 - Alan Jackson: Chattahoochee, Blue Blooded Women, Bologna, New Traditionalists
