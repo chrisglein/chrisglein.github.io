@@ -5,12 +5,24 @@ tags: music
 series: Music Education
 ---
 
-### November Rain - Guns N' Roses (1992)
-- Music video, 1.5M
+### November Rain - Guns N' Roses (1991)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3YRCqOhFifThpSRFJ1VWFM?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- Music video, 1.5M (1992)
 - Slash looking cool
 - Overblown overwrought end of life of big hair metal band
 - Axl Rose is an abusive jerk
 https://en.wikipedia.org/wiki/November_Rain
+
+### Enter Sandman - Metallica (1991)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VqHuw0wFlIHcIPWkhIbdQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- Black Album sold 16 million in US
+- Alongside Slayer, Anthrax, and Megadeth as thrash metal
+- Master or Puppets, One
+- Tour bus crashed and killed Cliff Burton (bass player)
+- Built to be more popular, pivot point between old and new
+- Sold out to be more popular, make metal more popular
+
+### Chloe Dancer Crown of Thorns - Mother Love Bone
 
 ### Hunger Strike - Temple of the Dog (1991)
 - Tribute to Mother Love Bone
@@ -21,11 +33,86 @@ https://en.wikipedia.org/wiki/November_Rain
 - Broody and problematic dark grunge vibes
 
 ### Smells Like Teen Spirit - Nirvana (1991)
-- _AI Generated_
-- Grunge anthem that defined the 90s alternative rock scene
-- From the album Nevermind, which catapulted Nirvana to fame
-- Lyrics are cryptic but resonate with teenage angst
+- Story of living under the bridge
+- Story of buying first guitar from mom’s boyfriend (uncle?) guns
+- First concert not black Flag
+- Aberdeen to Olympia
+- Fist album 1988. Kurt left handed guitar. Nova Celtic bass.
+- 1989 bleach.
+- Married Courtney love in 1992 and had a daughter.
+- Committed suicide in 1994.
+- Smells like Nirvana, Weird Al.
+- Punk rock attitude. Rejected fame but also wanted it.
+- In Utero. 1992?
+- Unplugged album released 6 months after suicide. Meat puppets.
 https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
+
+### Would? - Alice In Chains (1992)
+- Heaviest of Seattle’s early grunge bands
+- Bands name was “Sleez”, then “Alice ‘n Chainz” (Guns ‘n Roses?)
+- From the origins of hair metal, Motley Crue and poison and warrant and all that
+- Suburban metal band
+- Jerry and Lane, often harmonizing
+- Lots of songs about heroin
+- Lane died of a drug overdose in 2002
+- Mad season, album of heroin rehab group
+- Need to listen to Alice In Chains unplugged
+
+### Yellow Ledbetter - Pearl Jam (1992)
+- First album Ten (1991). Second is Versus.
+- Jeremy CD single had Yellow Ledbetter on it.
+- Mudhoney and Mother Love Bone.
+- Andrew Wood dies of heroin overdose prior to album release in 1990.
+
+### What’s Up? - 4 Non Blondes (1992)
+- Not named What’s Going On? Because of conflict with Marvin Gaye
+- Voted 10th worst song of the 90’s
+- One hit wonder, one album
+- One of the first 5 90s songs to hit 1 billion YouTube views
+- Linda Perry went on to write for other major pop stars
+- Gen X anthem? Pre grunge 
+- Sound of Mother Love Bone
+https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
+
+### Black Hole Sun - Soundgarden (1994)
+- Has a Strong Songs episode…
+- Disturbing music video
+- Wearing fork from Shannon from Blind Melon, and something from Andy Wood from Mother Love Bone, too many dead guys things
+- Contrived shirtlessness
+- Suicide in 2017
+- First album in 1987
+- Between metal band and punk band
+- Rusty cage from 91 album
+- Later collaboration with Rage to make Audioslave
+
+### Plush - Stone Temple Pilots (1992)
+
+### Nearly Lost You - Screaming Trees (1992)
+
+### No Rain - Blind Melon (1992)
+- Bee girl video, hit single
+- Died of a cocaine overdose on tour in 1995
+
+### Hey Jealousy - Gin Blossoms (1992)
+- Original writer of song left (kicked out) of band before they hit it big, and shortly after committed suicide
+- Original recording worse, faster and less polished
+- Jangly 
+https://en.wikipedia.org/wiki/Hey_Jealousy
+https://en.wikipedia.org/wiki/Found_Out_About_You
+
+### Runaway Train - Soul Asylum (1993)
+- _AI Generated_
+- Known for its music video highlighting missing children
+- Won a Grammy for Best Rock Song
+- Emotional lyrics about feeling lost and searching for direction
+https://en.wikipedia.org/wiki/Runaway_Train_(Soul_Asylum_song)
+
+### Shine - Collective Soul (1994)
+- _AI Generated_
+- Breakout hit for the band, blending grunge and southern rock
+- Known for its uplifting chorus and guitar riff
+- Became a staple of 90s alternative rock
+https://en.wikipedia.org/wiki/Shine_(Collective_Soul_song)
 
 ### Black or White - Michael Jackson (1991)
 - Separate art from the artist
@@ -44,28 +131,19 @@ https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
 https://en.wikipedia.org/wiki/Black_or_White
 https://en.wikipedia.org/wiki/Remember_the_Time
 
-### What’s Up? - 4 Non Blondes (1992)
-- Not named What’s Going On? Because of conflict with Marvin Gaye
-- Voted 10th worst song of the 90’s
-- One hit wonder, one album
-- One of the first 5 90s songs to hit 1 billion YouTube views
-- Linda Perry went on to write for other major pop stars
-- Gen X anthem? Pre grunge 
-- Sound of Mother Love Bone
-https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
+
+### Shiny Happy People - R.E.M. (1991)
+- _AI Generated_
+- Collaboration with Kate Pierson of The B-52's
+- Contrasts upbeat melody with ironic undertones
+- Divisive among fans for its poppy sound
+https://en.wikipedia.org/wiki/Shiny_Happy_People
 
 ### You Oughta Know - Alanis Morissette (1995)
 - Censorship of fuck 
 - Angry white female
 - Dry vocals to be intimate and maybe unsettling
 - Crazy successful album like 30 M copies
-
-### Hey Jealousy - Gin Blossoms (1992)
-- Original writer of song left (kicked out) of band before they hit it big, and shortly after committed suicide
-- Original recording worse, faster and less polished
-- Jangly 
-https://en.wikipedia.org/wiki/Hey_Jealousy
-https://en.wikipedia.org/wiki/Found_Out_About_You
 
 ### No Scrubs - TLC (1999)
 - Not the original C in Chilli
@@ -76,6 +154,13 @@ https://en.wikipedia.org/wiki/Found_Out_About_You
 - Epic attitude, song about don’t approach me
 https://overcast.fm/+AA7Be_aIyAA
 https://en.wikipedia.org/wiki/No_Scrubs
+
+### (Everything I Do) I Do It for You - Bryan Adams (1991)
+- _AI Generated_
+- Featured in the movie Robin Hood: Prince of Thieves
+- Spent 16 consecutive weeks at number one on the UK Singles Chart
+- Known for its sweeping ballad style and emotional lyrics
+https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You
 
 ### Gonna Make You Sweat (Everybody Dance Now) - C+C Music Factory (1990)
 - Uncredited Martha Wash (more than once), and credited model/singer talking about lip syncing
@@ -93,13 +178,6 @@ https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
 - Poppy and then sad
 - Sinister synth pop
 https://en.wikipedia.org/wiki/Enjoy_the_Silence
-
-### (Everything I Do) I Do It for You - Bryan Adams (1991)
-- _AI Generated_
-- Featured in the movie Robin Hood: Prince of Thieves
-- Spent 16 consecutive weeks at number one on the UK Singles Chart
-- Known for its sweeping ballad style and emotional lyrics
-https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You
 
 ### I Wanna Sex You Up - Color Me Badd (1991)
 - _AI Generated_
@@ -122,20 +200,6 @@ https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_so
 - Iconic music video with religious and surreal imagery
 https://en.wikipedia.org/wiki/Losing_My_Religion
 
-### Shiny Happy People - R.E.M. (1991)
-- _AI Generated_
-- Collaboration with Kate Pierson of The B-52's
-- Contrasts upbeat melody with ironic undertones
-- Divisive among fans for its poppy sound
-https://en.wikipedia.org/wiki/Shiny_Happy_People
-
-### Summertime - DJ Jazzy Jeff & The Fresh Prince (1991)
-- _AI Generated_
-- Laid-back anthem celebrating summer vibes
-- Won a Grammy for Best Rap Performance by a Duo or Group
-- Features smooth production and nostalgic lyrics
-https://en.wikipedia.org/wiki/Summertime_(DJ_Jazzy_Jeff_%26_The_Fresh_Prince_song)
-
 ### Silent Lucidity - Queensrÿche (1991)
 - _AI Generated_
 - Progressive rock ballad with orchestral elements
@@ -157,19 +221,6 @@ https://en.wikipedia.org/wiki/O.P.P._(song)
 - Known for its uplifting lyrics and driving rhythm
 https://en.wikipedia.org/wiki/Life_Is_a_Highway
 
-### Ain't 2 Proud 2 Beg - TLC (1991)
-- _AI Generated_
-- Debut single showcasing TLC's bold and confident style
-- Lyrics promote sexual empowerment and independence
-- Features a blend of hip-hop and R&B
-https://en.wikipedia.org/wiki/Ain%27t_2_Proud_2_Beg
-
-### 2 Legit 2 Quit - MC Hammer (1991)
-- _AI Generated_
-- High-energy track with an iconic hand gesture dance
-- Lyrics emphasize perseverance and determination
-- Known for its elaborate music video featuring celebrity cameos
-https://en.wikipedia.org/wiki/2_Legit_2_Quit
 
 ### I Can't Dance - Genesis (1991)
 - _AI Generated_
@@ -199,12 +250,6 @@ https://en.wikipedia.org/wiki/Jump_(Kris_Kross_song)
 - Lyrics explore grief and hope for reunion in the afterlife
 https://en.wikipedia.org/wiki/Tears_in_Heaven
 
-### Baby-Baby-Baby - TLC (1992)
-- _AI Generated_
-- Smooth R&B track about love and devotion
-- Became one of TLC's early hits, reaching number two on the Billboard Hot 100
-- Showcases the group's vocal harmonies and style
-https://en.wikipedia.org/wiki/Baby-Baby-Baby
 
 ### I'm Too Sexy - Right Said Fred (1991)
 - _AI Generated_
@@ -240,17 +285,6 @@ https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 - Jodeci Freakin' You 
 https://en.wikipedia.org/wiki/Motownphilly
 https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
-
-### C.R.E.A.M. - Wu-Tang Clan (1993)
-- Group named after an 83 kung fu movie
-- Staten Island, referred to as Shao-Lin
-- 9 member crew, hip hop avengers
-
-### Scenario - A Tribe Called Quest (1991)
-- Can I Kick It Lou Reed
-- Q-Tip and Phife
-- Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
-- Bonita Applebum rap love song
 
 ### Achy Breaky Heart - Billy Ray Cyrus (1992)
 - Alan Jackson: Chattahoochee, Blue Blooded Women, Bologna, New Traditionalists
@@ -294,27 +328,6 @@ https://en.wikipedia.org/wiki/Under_the_Bridge
 - 9 diamond albums, this is a record
 - One of 3 recordings of the song released at that time 
 - Arena rock
-
-### Juicy - Notorious B.I.G. (1995)
-- Produced by Puff Daddy
-- Dealing drugs, mashed potatoes crack
-- Mom has rebutted many of his claims in the song
-- Shot and killed in 1997, by time second album hit shelves
-- New York (as opposed to West coast, NWA and Snoop)
-
-### California Love - Tupac (1996)
-- Filthy 15 in 1985, led to PA sticker
-- This is off the 1996 album called All Eyes on Me
-- Murdered
-- Parents were Black Panthers, mom in prison while pregnant with him 
-- Started with Digital Underground (Humpty Hump) before going solo
-- Thug life tattoo
-- No place in our society (Dan Quayle), then sampled and turned into song
-- Multiple law entanglements.
-- Survived being shot 5 times, allegedly Biggie and Puff Daddy. East coast vs. west coast. Me against the world. 
-- Death Row Records. Dr. Dre, Snoop Dogg, Suge Knight, Tupac. Crumbled after. 
-- Dr. Dre on song, no Tupac for first 2 minutes 
-- Actor. Juice. 
 
 ### If It Makes You Happy - Sheryl Crow (1996)
 - Strong Enough

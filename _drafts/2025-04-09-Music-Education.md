@@ -20,20 +20,6 @@ https://en.wikipedia.org/wiki/I_Will_Always_Love_You#Whitney_Houston_version
 - Known for its infectious energy and danceability
 https://en.wikipedia.org/wiki/Whoomp!_(There_It_Is)
 
-### Nuthin' but a 'G' Thang - Dr. Dre featuring Snoop Dogg (1993)
-- _AI Generated_
-- West Coast hip-hop classic from Dre's album The Chronic
-- Introduced Snoop Dogg to a wider audience
-- Smooth G-funk production with laid-back delivery
-https://en.wikipedia.org/wiki/Nuthin%27_but_a_%27G%27_Thang
-
-### Runaway Train - Soul Asylum (1993)
-- _AI Generated_
-- Known for its music video highlighting missing children
-- Won a Grammy for Best Rock Song
-- Emotional lyrics about feeling lost and searching for direction
-https://en.wikipedia.org/wiki/Runaway_Train_(Soul_Asylum_song)
-
 ### Two Princes - Spin Doctors (1993)
 - _AI Generated_
 - Infectious pop-rock hit with a funky groove
@@ -125,13 +111,6 @@ https://en.wikipedia.org/wiki/Shoop
 - Became one of Coolio's early hits
 https://en.wikipedia.org/wiki/Fantastic_Voyage_(Coolio_song)
 
-### Shine - Collective Soul (1994)
-- _AI Generated_
-- Breakout hit for the band, blending grunge and southern rock
-- Known for its uplifting chorus and guitar riff
-- Became a staple of 90s alternative rock
-https://en.wikipedia.org/wiki/Shine_(Collective_Soul_song)
-
 ### Mmm Mmm Mmm Mmm - Crash Test Dummies (1994)
 - _AI Generated_
 - Quirky alternative rock hit with a deep baritone vocal
@@ -160,13 +139,6 @@ https://en.wikipedia.org/wiki/Come_to_My_Window
 - Helped establish Beck as a genre-defying artist
 https://en.wikipedia.org/wiki/Loser_(Beck_song)
 
-### Gin and Juice - Snoop Dogg (1994)
-- _AI Generated_
-- West Coast hip-hop classic from Snoop's debut album Doggystyle
-- Lyrics about partying and carefree living
-- G-funk production with a laid-back vibe
-https://en.wikipedia.org/wiki/Gin_and_Juice
-
 ### Groove Thang - Zhané (1994)
 - _AI Generated_
 - Smooth R&B track with a funky groove
@@ -187,13 +159,6 @@ https://en.wikipedia.org/wiki/Mary_Jane%27s_Last_Dance
 - Smooth R&B track with a laid-back groove
 - Lyrics about romantic interest and admiration
 https://en.wikipedia.org/wiki/I_Wanna_Be_Down
-
-### Gangsta's Paradise - Coolio (1995)
-- _AI Generated_
-- Grammy-winning rap track featuring L.V.
-- Lyrics reflect on struggles and redemption
-- Featured in the movie "Dangerous Minds"
-https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
 
 ### Waterfalls - TLC (1995)
 - _AI Generated_
