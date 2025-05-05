@@ -58,3 +58,12 @@ series: Music Education
 - Tom’s diner, do do do in the fade out
 - Miss you
 - Bayside boys remix
+
+### Semi Charmed Life - Third Eye Blind (97)
+- Stevan  Jenkins
+- Living breathing walking cheese 
+- Somebody hates you is about him
+- Net negative as a person
+- Song about snorting speed and getting blow jobs
+- Rap duo
+- Sonic man spreading (motorcycle backwards chair)

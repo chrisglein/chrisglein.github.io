@@ -97,3 +97,40 @@ https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
 - Death Row Records. Dr. Dre, Snoop Dogg, Suge Knight, Tupac. Crumbled after. 
 - Dr. Dre on song, no Tupac for first 2 minutes 
 - Actor. Juice. 
+
+### Tha crossroads - Bone Thugs-n-harmony 1995
+- Pete rock, Troy, saxophone sample from Tom and Jefferson airplane, rap songs about loss and grief
+- Fast rapping over slow beats 
+- All named bone things
+- Took one way bus trip 2000 miles from Cleveland to California to take a call with easy E and try to get signed, only to meet him back in Cleveland
+- First of the month 
+- Tribute to band aid Wally
+- Then easy E too and others for tha Crossroads
+
+### Real Love - Mary J Blige (1992)
+- Method man solo album 94, from wutang, song Bring the Pain, Mary waking up every day to that
+- Hip hop love song duo with Method Man. I’ll be there for you 95, watch video
+- Grew up in the projects, molested as a child, hard life “not in the sunshine”
+- Got signed from a mall karaoke recorded demo
+- I’m going Down 
+
+### I’ll be Missing You - Shawn Puffy Combs (1997)
+- Dedicated to Notorious BIG, from Puffs label
+- Remix Jodece song with beat, Come and Talk To Me, R&B with a hip hop beat
+- Internship at Uptown Records, loves drama, fired in 1993
+- Bad Boy Records
+- Juicy Fruit original sample for Juicy
+- If you were just looking you weren’t really working 
+- Murmuring in the background 
+- 730k per year in royalties for Sting
+- Didn’t write his rap verses 
+- Faith Evan’s. Biggie’s wife. Singing   
+    
+### Gangsta’s Paradise - Coolio
+- Wild thing was a Van Halen sample
+- Asthma, book worm, then criminal activity and crack, religion
+- Fantastic Voyage 
+- White savior Dangerous Minds
+- Pastimes Paradise, Stevie Wonder, no swearing, 95% of production?
+- Biggest song of 95. First for rap song. 
+- Amish Paradise, Coolio didn’t actually give approval, not happy with it

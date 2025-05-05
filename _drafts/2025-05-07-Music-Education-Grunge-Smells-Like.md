@@ -19,3 +19,22 @@ series: Music Education
 - In Utero. 1992?
 - Unplugged album released 6 months after suicide. Meat puppets.
 https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
+
+### Doll Parts - Hole (19XX)
+- There is a hole they pierced right through me
+- Gutless on second album, 1994
+- Courtney Love, guitar vocals
+- LA band
+- Berry from first album 1991
+- Awful from Celebrity skin 1998
+- Husband Kurt committed suicide at age of 27 in April 1994, had daughter one year old
+- “It is better to burn out than fade away” - “Don’t remember this because it’s a fucking lie”
+- Kurt wanted to be a rock star but didn’t want to and it didn’t make him feel the way he thought it should feel
+- Written in 20 minutes in a bathroom before a show to convince Kurt she was better than the other girls he was sleeping with
+- Signed for big deal when dating Kurt 
+- Violet, take everything  
+- Original bassist died of heroin overdose
+- Gutless
+- Doll parts
+- Boys on the radio
+- Lots of spats
