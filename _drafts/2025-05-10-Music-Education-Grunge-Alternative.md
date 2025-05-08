@@ -34,3 +34,10 @@ https://en.wikipedia.org/wiki/Runaway_Train_(Soul_Asylum_song)
 - Known for its uplifting chorus and guitar riff
 - Became a staple of 90s alternative rock
 https://en.wikipedia.org/wiki/Shine_(Collective_Soul_song)
+
+### December - Collective Soul (1995)
+- _AI Generated_
+- Alternative rock track with a haunting melody
+- Lyrics reflect on loss and moving on
+- Became one of the band's most popular songs
+https://en.wikipedia.org/wiki/December_(Collective_Soul_song)

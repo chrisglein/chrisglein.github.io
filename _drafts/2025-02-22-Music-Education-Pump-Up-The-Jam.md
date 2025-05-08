@@ -43,3 +43,17 @@ https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 - Features a sample of Loleatta Holloway's "Love Sensation"
 - High-energy dance track with a rap-pop crossover appeal
 https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
+
+### All That She Wants - Ace of Base (1993)
+- _AI Generated_
+- Swedish pop group’s breakout hit
+- Reggae-inspired beat with melancholic lyrics
+- Helped define the Eurodance sound of the 90s
+https://en.wikipedia.org/wiki/All_That_She_Wants
+
+### The Sign - Ace of Base (1994)
+- _AI Generated_
+- Follow-up hit to "All That She Wants"
+- Topped charts worldwide and became a 90s pop anthem
+- Lyrics about self-empowerment and moving on
+https://en.wikipedia.org/wiki/The_Sign_(song)

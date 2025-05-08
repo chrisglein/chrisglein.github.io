@@ -5,12 +5,26 @@ tags: music
 series: Music Education
 ---
 
+### I Wanna Be Down - Brandy (1994)
+- _AI Generated_
+- Debut single that launched Brandy's career
+- Smooth R&B track with a laid-back groove
+- Lyrics about romantic interest and admiration
+https://en.wikipedia.org/wiki/I_Wanna_Be_Down
+
 ### Brown Sugar - D'Angelo (1995)
 - _AI Generated_
 - Smooth neo-soul track with jazzy influences
 - Lyrics celebrate love and sensuality
 - Title track from D'Angelo's debut album
 https://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_song)
+
+### Kiss from a Rose - Seal (1995)
+- _AI Generated_
+- Romantic ballad with poetic lyrics and lush orchestration
+- Featured in the movie Batman Forever
+- Won three Grammy Awards, including Record of the Year
+https://en.wikipedia.org/wiki/Kiss_from_a_Rose
 
 ### One in a Million - Aaliyah (1996)
 - First album produced by R Kelly (and wrote most songs) when she was 15, age ain’t but a number
@@ -63,3 +77,8 @@ https://en.wikipedia.org/wiki/I_Believe_I_Can_Fly
 - Lyrics reflect spirituality and self-awareness
 - Won a Grammy for Best Female R&B Vocal Performance
 https://en.wikipedia.org/wiki/On_%26_On_(Erykah_Badu_song)
+
+### Make Em Say Uhh - Master P (1997)
+- Business savvy, better business than rapper
+- Owns masters, 80:20 deal
+- Created an empire

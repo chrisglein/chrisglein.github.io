@@ -20,37 +20,23 @@ Was a love letter to ex girlfriend
 More sung than spoken
 So identifiably by my generation, one day later song was quoted
 
-### Ice Ice Baby - Vanilla Ice (1990)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3XVozq1aeqsJwpXrEZrDJ9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/Ice_Ice_Baby
-
-Stolen vs. sampled
-
-### U Can't Touch This - MC Hammer (1990)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1B75hgRqe7A4fwee3g3Wmu?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/U_Can%27t_Touch_This
-
-YouTube link
-reverand
-clothing item
-Stop...
-
-### The Humpty Dance - Digital Underground (1990)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0YEC3pNS0uIKvZb5u4lgsu?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/The_Humpty_Dance
-
-Drum loop samples from "Sing a Simple Song" by Sly and the Family Stone and adds other elements.
-The vocal sample that happens in the song's chorus sections is from Parliament's "Let's Play House".
-
-
 ### I Wanna Sex You Up - Color Me Badd (1991)
 - _AI Generated_
 - New jack swing hit with a provocative title
 - Featured in the movie New Jack City
 - Controversial for its explicit lyrics but became a massive chart success
 https://en.wikipedia.org/wiki/I_Wanna_Sex_You_Up
+
+### End of the Road - Boyz II Men (1992)
+- New edition reference, kicked out Bobby Brown, source of Bell Biv DeVoe 
+- Beat Elvis for hop 1 for 13 weeks
+- Motownphilly
+  - Origin story
+  - New Jack swing - r&b over hip hop
+  - Audition with Biv, alongside Will Smith, Kid n Play, others at show in Philly 
+- Styled as preppy, more chaste
+- End of the Road for movie Boomerang, retroactively applied to album
+- R&b slow jams 
+- Jodeci Freakin' You 
+https://en.wikipedia.org/wiki/Motownphilly
+https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
