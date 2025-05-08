@@ -70,13 +70,6 @@ https://en.wikipedia.org/wiki/Baby-Baby-Baby
 - G-funk production with a laid-back vibe
 https://en.wikipedia.org/wiki/Gin_and_Juice
 
-### Gangsta's Paradise - Coolio (1995)
-- _AI Generated_
-- Grammy-winning rap track featuring L.V.
-- Lyrics reflect on struggles and redemption
-- Featured in the movie "Dangerous Minds"
-https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
-
 ### Juicy - Notorious B.I.G. (1995)
 - Produced by Puff Daddy
 - Dealing drugs, mashed potatoes crack
@@ -126,7 +119,7 @@ https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
 - Didn’t write his rap verses 
 - Faith Evan’s. Biggie’s wife. Singing   
     
-### Gangsta’s Paradise - Coolio
+### Gangsta’s Paradise - Coolio (1995)
 - Wild thing was a Van Halen sample
 - Asthma, book worm, then criminal activity and crack, religion
 - Fantastic Voyage 
@@ -134,3 +127,14 @@ https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
 - Pastimes Paradise, Stevie Wonder, no swearing, 95% of production?
 - Biggest song of 95. First for rap song. 
 - Amish Paradise, Coolio didn’t actually give approval, not happy with it
+https://en.wikipedia.org/wiki/Gangsta%27s_Paradise
+
+### No Scrubs - TLC (1999)
+- Not the original C in Chilli
+- Most successful female group ever
+- Crazy sexy cool is in all women, misunderstood
+- Didn’t make money off their own success 
+- Burned house down response to domestic abuse 
+- Epic attitude, song about don’t approach me
+https://overcast.fm/+AA7Be_aIyAA
+https://en.wikipedia.org/wiki/No_Scrubs

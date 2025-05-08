@@ -60,16 +60,6 @@ https://en.wikipedia.org/wiki/Shiny_Happy_People
 - Dry vocals to be intimate and maybe unsettling
 - Crazy successful album like 30 M copies
 
-### No Scrubs - TLC (1999)
-- Not the original C in Chilli
-- Most successful female group ever
-- Crazy sexy cool is in all women, misunderstood
-- Didn’t make money off their own success 
-- Burned house down response to domestic abuse 
-- Epic attitude, song about don’t approach me
-https://overcast.fm/+AA7Be_aIyAA
-https://en.wikipedia.org/wiki/No_Scrubs
-
 ### (Everything I Do) I Do It for You - Bryan Adams (1991)
 - _AI Generated_
 - Featured in the movie Robin Hood: Prince of Thieves
