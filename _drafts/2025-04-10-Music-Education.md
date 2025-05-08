@@ -5,13 +5,6 @@ tags: music
 series: Music Education
 ---
 
-### Everybody (Backstreet's Back) - Backstreet Boys (1998)
-- _AI Generated_
-- Iconic pop anthem from the boy band era
-- Known for its Halloween-themed music video
-- Helped solidify Backstreet Boys as global superstars
-https://en.wikipedia.org/wiki/Everybody_(Backstreet%27s_Back)
-
 ### I Don't Want to Miss a Thing - Aerosmith (1998)
 - _AI Generated_
 - Power ballad featured in the movie Armageddon
@@ -25,20 +18,6 @@ https://en.wikipedia.org/wiki/I_Don%27t_Want_to_Miss_a_Thing
 - Lyrics evoke a sense of youthful rebellion and nostalgia
 - Became a staple of 90s alternative radio
 https://en.wikipedia.org/wiki/Sex_and_Candy
-
-### I Want You Back - *NSYNC (1998)
-- _AI Generated_
-- Debut single that launched *NSYNC's career
-- Catchy pop tune with tight harmonies and danceable beats
-- Helped define the late 90s boy band craze
-https://en.wikipedia.org/wiki/I_Want_You_Back_(NSYNC_song)
-
-### Make 'Em Say Uhh! - Master P (1998)
-- _AI Generated_
-- Southern hip-hop anthem with a memorable hook
-- Features a posse cut with No Limit Records artists
-- Known for its over-the-top music video and cultural impact
-https://en.wikipedia.org/wiki/Make_%27Em_Say_Uhh!
 
 ### One Week - Barenaked Ladies (1998)
 - _AI Generated_
@@ -75,22 +54,6 @@ https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony
 - Helped establish her as a leading voice in 90s folk music
 https://en.wikipedia.org/wiki/You_Were_Meant_for_Me_(Jewel_song)
 
-### ...Baby One More Time - Britney Spears (1999)
-- _AI Generated_
-- Breakout debut single for Britney Spears, launching her into pop stardom
-- Iconic music video featuring the schoolgirl outfit became a cultural phenomenon
-- Written by Max Martin, a key figure in late 90s pop music
-- Topped charts worldwide and became one of the best-selling singles of all time
-https://en.wikipedia.org/wiki/...Baby_One_More_Time
-
-### Genie in a Bottle - Christina Aguilera (1999)
-- _AI Generated_
-- Debut single that established Christina Aguilera as a pop powerhouse
-- Lyrics explore themes of desire and self-expression
-- Won a Grammy for Best New Artist in 2000
-- Helped define the late 90s teen pop era
-https://en.wikipedia.org/wiki/Genie_in_a_Bottle
-
 ### Every Morning - Sugar Ray (1999)
 - _AI Generated_
 - Catchy pop-rock hit that marked Sugar Ray's transition to mainstream success
@@ -114,13 +77,6 @@ https://en.wikipedia.org/wiki/Livin%27_la_Vida_Loca
 - Became one of the band's most enduring and popular songs
 - Frequently featured in late 90s pop culture and media
 https://en.wikipedia.org/wiki/Slide_(Goo_Goo_Dolls_song)
-
-### I Want It That Way - Backstreet Boys (1999)
-- _AI Generated_
-- Iconic boy band ballad, defining the late 90s pop era
-- Known for its catchy melody and heartfelt lyrics
-- Became a global hit and a staple of 90s nostalgia
-https://en.wikipedia.org/wiki/I_Want_It_That_Way
 
 ### All Star - Smash Mouth (1999)
 - _AI Generated_

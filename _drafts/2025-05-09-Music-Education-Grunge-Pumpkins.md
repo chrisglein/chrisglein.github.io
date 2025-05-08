@@ -14,3 +14,10 @@ series: Music Education
 - Billy recorded most non drum parts
 - Malfunctioning guitar squeal 
 - Over focused on competing with nirvana because they got their first and Kurt was better on image than Billy 
+
+### 1979 - The Smashing Pumpkins (1996)
+- _AI Generated_
+- Nostalgic alternative rock track with dreamy production
+- Lyrics reflect on youth and suburban life
+- One of the band's most commercially successful songs
+https://en.wikipedia.org/wiki/1979_(song)

@@ -74,11 +74,6 @@ Paula Abdul's "Straight Up" was a major hit that showcased her talents as both a
 
 Billy Idol's "Cradle of Love" was a major hit that showcased his signature blend of punk rock and pop. The song's success was bolstered by its memorable music video and helped maintain Idol's popularity into the '90s. It was featured in the soundtrack of the movie "The Adventures of Ford Fairlane," further increasing its exposure. "Cradle of Love" remains one of Idol's most recognizable and enduring songs.
 
-### Wild Thing - Tone-Loc (1988)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0gljI0CtjpdZK6ecidfxto?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-"Wild Thing" was a breakthrough hit for Tone-Loc and one of the first rap songs to achieve mainstream success. The song's catchy beat and humorous lyrics helped pave the way for the integration of hip-hop into popular music. Its success marked a significant moment in the acceptance of rap music in the mainstream. "Wild Thing" remains a classic example of early hip-hop's crossover appeal.
-
 ### You Got It (The Right Stuff) - New Kids on the Block (1988)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4buDeg67vos7KP1yHrS9wl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 [I'll Be Loving You (Forever)](https://open.spotify.com/track/1cy5US2dffz6QGBAIzOGkq?si=2c3ec6fe44c34c44)
@@ -108,14 +103,6 @@ Billy Idol's "Cradle of Love" was a major hit that showcased his signature blend
 ### Escapade - Janet Jackson (1990)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5HAv1Ckfe50DUjv8ghwTrz?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### Pump Up The Jam - Technotronic (1989)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21qnJAMtzC6S5SESuqQLEK?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-### The Power - SNAP! (1990)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3P5dVXm98CgVuEpcW2HsUk?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/The_Power_(Snap!_song)
-
 ### We Didn't Start The Fire - Billy Joel (1989)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Cx4yrFaX8CeHwBMReOWXI?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -129,43 +116,6 @@ https://en.wikipedia.org/wiki/Roam
 
 ### Roam - B-52s (1989)
 https://open.spotify.com/track/5fqcIHU6DhQtFKVO5XSdQs?si=65f78597b6b94918
-
-### Poison - Bell Biv DeVoe (1990)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6m59VvDUi0UQsB2eZ9wVbH?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/Poison_(Bell_Biv_DeVoe_song)
-
-New jack swing
-Was a love letter to ex girlfriend
-More sung than spoken
-So identifiably by my generation, one day later song was quoted
-
-### Ice Ice Baby - Vanilla Ice (1990)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3XVozq1aeqsJwpXrEZrDJ9?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/Ice_Ice_Baby
-
-Stolen vs. sampled
-
-### U Can't Touch This - MC Hammer (1990)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1B75hgRqe7A4fwee3g3Wmu?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/U_Can%27t_Touch_This
-
-YouTube link
-reverand
-clothing item
-Stop...
-
-### The Humpty Dance - Digital Underground (1990)
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0YEC3pNS0uIKvZb5u4lgsu?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-https://en.wikipedia.org/wiki/The_Humpty_Dance
-
-Drum loop samples from "Sing a Simple Song" by Sly and the Family Stone and adds other elements.
-The vocal sample that happens in the song's chorus sections is from Parliament's "Let's Play House".
 
 1989
 https://en.wikipedia.org/wiki/Janie%27s_Got_a_Gun

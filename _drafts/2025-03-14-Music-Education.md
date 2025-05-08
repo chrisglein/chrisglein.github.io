@@ -29,30 +29,19 @@ https://en.wikipedia.org/wiki/November_Rain
 https://en.wikipedia.org/wiki/Hey_Jealousy
 https://en.wikipedia.org/wiki/Found_Out_About_You
 
-### Black or White - Michael Jackson (1991)
-- Separate art from the artist
-- Thriller from 82 sold 70M best selling worldwide album ever
-- Dangerous is 30th best selling of all time ever
-- Monoculture
-- Teddy Riley, producer of new jack swing, harsher aggressive sound
-- Media picking up on weirdness, vitiligo skin condition, chimp, plastic surgery 
-- Famous since 1969 
-- 500M people watched video debut, 11/14/91, aired on music channels and Fox
-- Originally included promo by Bart Simpson, between soap box and Flaming Moe week, Macaulay Culkin intro 
-- From worshipped pop star to… complicated
-- Nirvana will overtake on charts 
-- Cut last part of the video in response to complaints 
-- Album starts with Jam, Michael Jordan video right?
-https://en.wikipedia.org/wiki/Black_or_White
-https://en.wikipedia.org/wiki/Remember_the_Time
-
-
 ### Shiny Happy People - R.E.M. (1991)
 - _AI Generated_
 - Collaboration with Kate Pierson of The B-52's
 - Contrasts upbeat melody with ironic undertones
 - Divisive among fans for its poppy sound
 https://en.wikipedia.org/wiki/Shiny_Happy_People
+
+### Losing My Religion - R.E.M. (1991)
+- _AI Generated_
+- Breakout hit for the band, featuring mandolin-driven melody
+- Lyrics about unrequited love and obsession
+- Iconic music video with religious and surreal imagery
+https://en.wikipedia.org/wiki/Losing_My_Religion
 
 ### You Oughta Know - Alanis Morissette (1995)
 - Censorship of fuck 
@@ -67,57 +56,12 @@ https://en.wikipedia.org/wiki/Shiny_Happy_People
 - Known for its sweeping ballad style and emotional lyrics
 https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You
 
-### Gonna Make You Sweat (Everybody Dance Now) - C+C Music Factory (1990)
-- Uncredited Martha Wash (more than once), and credited model/singer talking about lip syncing
-- Hip-house, dance scene
-- Some Simpsons reference with Everybody dance now
-- Crossover hit with rock guitar, rap, dance music
-- Blossom episode?
-- Related: Deee-Lite Groove is in the Heart, Everybody Everybody 
-https://en.wikipedia.org/wiki/Gonna_Make_You_Sweat_(Everybody_Dance_Now)
-https://en.wikipedia.org/wiki/Everybody_Everybody
-https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
-
-### Enjoy the Silence - Depeche Mode (1990)
-- Punk rock but with synths 
-- Poppy and then sad
-- Sinister synth pop
-https://en.wikipedia.org/wiki/Enjoy_the_Silence
-
-### I Wanna Sex You Up - Color Me Badd (1991)
-- _AI Generated_
-- New jack swing hit with a provocative title
-- Featured in the movie New Jack City
-- Controversial for its explicit lyrics but became a massive chart success
-https://en.wikipedia.org/wiki/I_Wanna_Sex_You_Up
-
-### Good Vibrations - Marky Mark and the Funky Bunch (1991)
-- _AI Generated_
-- Mark Wahlberg's brief music career before acting
-- Features a sample of Loleatta Holloway's "Love Sensation"
-- High-energy dance track with a rap-pop crossover appeal
-https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
-
-### Losing My Religion - R.E.M. (1991)
-- _AI Generated_
-- Breakout hit for the band, featuring mandolin-driven melody
-- Lyrics about unrequited love and obsession
-- Iconic music video with religious and surreal imagery
-https://en.wikipedia.org/wiki/Losing_My_Religion
-
 ### Silent Lucidity - Queensrÿche (1991)
 - _AI Generated_
 - Progressive rock ballad with orchestral elements
 - Lyrics explore lucid dreaming and self-awareness
 - Nominated for a Grammy for Best Rock Performance
 https://en.wikipedia.org/wiki/Silent_Lucidity
-
-### O.P.P. - Naughty by Nature (1991)
-- _AI Generated_
-- Catchy hip-hop track with a Jackson 5 sample
-- Lyrics cleverly explore infidelity and relationships
-- Became a crossover hit, reaching mainstream audiences
-https://en.wikipedia.org/wiki/O.P.P._(song)
 
 ### Life Is a Highway - Tom Cochrane (1991)
 - _AI Generated_
@@ -126,7 +70,6 @@ https://en.wikipedia.org/wiki/O.P.P._(song)
 - Known for its uplifting lyrics and driving rhythm
 https://en.wikipedia.org/wiki/Life_Is_a_Highway
 
-
 ### I Can't Dance - Genesis (1991)
 - _AI Generated_
 - Tongue-in-cheek rock track with a minimalist groove
@@ -134,34 +77,12 @@ https://en.wikipedia.org/wiki/Life_Is_a_Highway
 - Features a memorable music video with humorous choreography
 https://en.wikipedia.org/wiki/I_Can%27t_Dance
 
-### Baby Got Back - Sir Mix-a-Lot (1992)
-- _AI Generated_
-- Iconic hip-hop track celebrating curvy women
-- Known for its humorous and provocative lyrics
-- Won a Grammy for Best Rap Solo Performance
-https://en.wikipedia.org/wiki/Baby_Got_Back
-
-### Jump - Kris Kross (1992)
-- _AI Generated_
-- Catchy hip-hop hit by the teenage duo
-- Known for their signature backward clothing style
-- Topped the Billboard Hot 100 for eight weeks
-https://en.wikipedia.org/wiki/Jump_(Kris_Kross_song)
-
 ### Tears in Heaven - Eric Clapton (1992)
 - _AI Generated_
 - Heartfelt ballad written after the tragic death of Clapton's son
 - Won three Grammy Awards, including Song of the Year
 - Lyrics explore grief and hope for reunion in the afterlife
 https://en.wikipedia.org/wiki/Tears_in_Heaven
-
-
-### I'm Too Sexy - Right Said Fred (1991)
-- _AI Generated_
-- Quirky dance-pop hit with tongue-in-cheek lyrics
-- Became a global sensation and a pop culture staple
-- Known for its minimalist beat and humorous delivery
-https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 
 ### One - U2 (1992)
 - _AI Generated_
@@ -177,41 +98,6 @@ https://en.wikipedia.org/wiki/One_(U2_song)
 - Known for its innovative guitar effects
 https://en.wikipedia.org/wiki/Mysterious_Ways_(song)
 
-### End of the Road - Boyz II Men (1992)
-- New edition reference, kicked out Bobby Brown, source of Bell Biv DeVoe 
-- Beat Elvis for hop 1 for 13 weeks
-- Motownphilly
-  - Origin story
-  - New Jack swing - r&b over hip hop
-  - Audition with Biv, alongside Will Smith, Kid n Play, others at show in Philly 
-- Styled as preppy, more chaste
-- End of the Road for movie Boomerang, retroactively applied to album
-- R&b slow jams 
-- Jodeci Freakin' You 
-https://en.wikipedia.org/wiki/Motownphilly
-https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
-
-### Achy Breaky Heart - Billy Ray Cyrus (1992)
-- Alan Jackson: Chattahoochee, Blue Blooded Women, Bologna, New Traditionalists
-- Is it country enough. Awards ceremony with John Denver winning, lit envelope on fire. 
-- Garth Brooks not on Spotify but yes 90s. 
-- Winner in 1993 American Music Awards
-- Miley Cyrus born 92
-- Marcy boys played first but broke up. Achy breaking. Written by Don. 
-- Rejuvenated line dancing craze
-- Bragged it made him 40m in one year 
-- Overplayed, tops many worst song lists 
-- Weird Al, Achy Breaky Song
-https://en.wikipedia.org/wiki/Achy_Breaky_Heart
-
-### Return of the Mack - Mark Morrison (1996)
-- Slick Rick and shaker back scratch 
-- This Is How We Do It
-- Fantasy remix with Mariah from Genius of Love
-- Tap influenced r&b 
-- One hit wonders
-https://en.wikipedia.org/wiki/Return_of_the_Mack
-
 ### Under the Bridge - Red Hot Chili Peppers (1992)
 - Blood Sugar Sex Magik
 - No shame, immature, dancing naked in socks, vulgar and pornographic 
@@ -225,14 +111,6 @@ https://en.wikipedia.org/wiki/Return_of_the_Mack
 - Under the bridge doing heroin
 - Trying to get clean while new guitarist and bassist are bonding over weed 
 https://en.wikipedia.org/wiki/Under_the_Bridge
-
-### Friends in Low Places - Garth Brooks (1990)
-- Dad rock, Bob Seger, Eagles
-- 1991 Travis call someone who cares
-- Reba 1990 Fancy
-- 9 diamond albums, this is a record
-- One of 3 recordings of the song released at that time 
-- Arena rock
 
 ### If It Makes You Happy - Sheryl Crow (1996)
 - Strong Enough
