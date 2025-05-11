@@ -11,12 +11,14 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 
 ### Scenario - A Tribe Called Quest (1991)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0301nLjG0ti26rx5ZmfqtP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - Q-Tip and Phife
 - Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
 - [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9?si=aaf8f859f4da4dff) rap love song
 
 ### Fuck Tha Polica - NWA (1988)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5n8Aro6j1bEGIy7Tpo7FV7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - NWA gangsta rap: Ice Cube, Eazy-E, Dr. Dre, more; *Boyz-n-the-Hood* produced by Dre
 - NWA hit *F*** the Police*
 - *Straight Outta Compton*
@@ -24,6 +26,7 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 
 ### It was a good day - Ice Cube (1992)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dN0re4Ux685ZzJdBjM4Wq?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - Giving up the nappy dugout, crude
 - NWA 
 - Footsteps in the dark
@@ -47,6 +50,7 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 
 ### Nuthin' But a 'G' Thang - Dr. Dre (1992)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tbpp3OLLClPJF8t1DmrFD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - *The Chronic*
 - Snoop Doggy Dogg
 - Many allegations of violence against women and more, look up details
@@ -62,17 +66,20 @@ https://en.wikipedia.org/wiki/Nuthin%27_but_a_%27G%27_Thang
 
 ### Gin and Juice - Snoop Dogg (1993)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/39QBkWKnap8wRSW4WB9OK0?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - ["Who am I"](https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF?si=17fc0b6ebe3e4af4), "Bow wow wow yippie yo yippie yay"
 https://en.wikipedia.org/wiki/Gin_and_Juice
 
 ### C.R.E.A.M. - Wu-Tang Clan (1993)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/119c93MHjrDLJTApCVGpvx?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - Group named after an 83 kung fu movie
 - Staten Island, referred to as Shao-Lin
 - 9 member crew, hip hop avengers
 
 ### Gangsta’s Paradise - Coolio (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1DIXPcTDzTj8ZMHt3PDt8p?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - Wild thing was a Van Halen sample
 - Asthma, book worm, then criminal activity and crack, religion
 - ["Fantastic Voyage"](https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k?si=425e7fc9ea3f4afe), samples [Lakeside "Fantastic Voyage"](https://open.spotify.com/track/6lFQTBeL6VQcQ1ztAYPekp?si=37c6bdcd05c44d2c)
