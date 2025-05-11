@@ -28,6 +28,8 @@ https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
 - Emotional lyrics about feeling lost and searching for direction
 https://en.wikipedia.org/wiki/Runaway_Train_(Soul_Asylum_song)
 
+### Say It Ain't So - Weezer (1995)
+
 ### Shine - Collective Soul (1994)
 - _AI Generated_
 - Breakout hit for the band, blending grunge and southern rock

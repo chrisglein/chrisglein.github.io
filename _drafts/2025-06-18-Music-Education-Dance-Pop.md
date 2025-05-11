@@ -19,6 +19,10 @@ https://en.wikipedia.org/wiki/Fantasy_(Mariah_Carey_song)
 - Charted internationally, reaching the top 5 in several countries
 https://en.wikipedia.org/wiki/Total_Eclipse_of_the_Heart#Nicki_French_version
 
+### Walking on Broken Glass - Annie Lennox (1992)
+
+### The Way - Meshell Ndegeocello (1996)
+
 ### Wannabe - Spice Girls (1997)
 - _AI Generated_
 - Debut single that launched the Spice Girls' career

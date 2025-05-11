@@ -20,6 +20,8 @@ https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You
 - Known for its powerful vocal performance and emotional depth
 https://en.wikipedia.org/wiki/I_Will_Always_Love_You#Whitney_Houston_version
 
+### Lovefool - The Cardigans (1996)
+
 ### Walking on the Sun - Smash Mouth (1997)
 - Heavily returned record because the single and the rest of album are very different
 - Unpredictable rock band, reinvent to be more poppy, similar to Red Hot Chili Peppers and Sugar Ray

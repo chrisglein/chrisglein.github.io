@@ -28,3 +28,5 @@ https://en.wikipedia.org/wiki/November_Rain
 - Lyrics explore lucid dreaming and self-awareness
 - Nominated for a Grammy for Best Rock Performance
 https://en.wikipedia.org/wiki/Silent_Lucidity
+
+### Symphony of Destruction - Megadeth (1992)
