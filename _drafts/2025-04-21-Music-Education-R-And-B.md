@@ -5,37 +5,25 @@ tags: music
 series: Music Education
 ---
 
+### End of the Road - Boyz II Men (1992)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3l3xTXsUXeWlkPqzMs7mPD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- Styled as preppy, more chaste
+- End of the Road for movie Boomerang, retroactively applied to album
+- R&b slow jams 
+- Contrast with raw sexyness of Jodeci [Freak'n You](https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ?si=7629e059303f4f45) 
+https://en.wikipedia.org/wiki/Motownphilly
+https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
+
+### Freak'N You - Jodeci (1995)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/43sNw9nvGYGLYnNiwI8oMZ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+- The bad boys of R&B
+
 ### Real Love - Mary J Blige (1992)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3XG801WWhqC753dekEBkMt?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 - Method man solo album 94, from wutang, song Bring the Pain, Mary waking up every day to that
 - Hip hop love song duo with Method Man. I’ll be there for you 95, watch video
 - Grew up in the projects, molested as a child, hard life “not in the sunshine”
 - Got signed from a mall karaoke recorded demo
-- I’m going Down 
-### Real Love - Mary J. Blige (1993)
-- _AI Generated_
-- Blends hip-hop beats with soulful vocals, defining the "hip-hop soul" genre
-- From her debut album What's the 411?
-- Lyrics about searching for genuine love
-https://en.wikipedia.org/wiki/Real_Love_(Mary_J._Blige_song)
 
-### I'll Be There for You/You're All I Need to Get By - Method Man & Mary J. Blige (1995)
-- _AI Generated_
-- Hip-hop and R&B collaboration blending gritty rap with soulful vocals
-- Won a Grammy for Best Rap Performance by a Duo or Group
-- Lyrics celebrate love and loyalty
-https://en.wikipedia.org/wiki/I%27ll_Be_There_for_You/You%27re_All_I_Need_to_Get_By
-
-### This Is How We Do It - Montell Jordan (1995)
-- _AI Generated_
-- Party anthem blending R&B and hip-hop
-- Known for its smooth vocals and catchy hook
-- Topped the Billboard Hot 100 for seven weeks
-https://en.wikipedia.org/wiki/This_Is_How_We_Do_It
-
-### Return of the Mack - Mark Morrison (1996)
-- Slick Rick and shaker back scratch 
-- This Is How We Do It
-- Fantasy remix with Mariah from Genius of Love
-- Tap influenced r&b 
-- One hit wonders
-https://en.wikipedia.org/wiki/Return_of_the_Mack
+### I'm Going Down - Mary J Blige (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0I5mUa3CZPcsrWwlUmTWkV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
