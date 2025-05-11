@@ -11,6 +11,28 @@ series: Music Education
 - Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
 - Bonita Applebum rap love song
 
+### It was a good day - Ice Cube (1992)
+- Giving up the nappy dugout, crude
+- NWA 
+- Footsteps in the dark
+- Oshay, nicknamed to Ice Cube
+- Compton, bussed to nicer neighborhood as part of desegregation effort, contrast eye opening
+- Boys in the hood 87
+- Straight outta Compton 88, fuck the police
+- Drive by  song sound effects
+- Angry all the time
+- Storytelling in music, turning into script writing
+- Regressive racist machismo mysogeny 
+- Yo-yo on cube record
+- 1991 change in scan sales tracking showed rap and country dominance
+- No gasoline, homophobic anti antisemitism
+- “You can do Jack swing on my nuts“
+- “You see the anger, but you don’t understand the anger ““
+- Song “it was a good day” was about how uncommon it was to have a good day 
+- Blogger deciding that the day was Jan 20th
+- Reality rap, not gangster
+- Made it for black kids, white kids are “eavesdropping“ 
+
 ### Nuthin' But a 'G' Thang - Dr. Dre (1992)
 - *The Chronic*
 - Snoop Doggy Dogg
