@@ -15,16 +15,16 @@ series: Music Education
 - Pivotal album between desire to innovate (Bono and Edge) vs. stick with what works (rhythm section). One is the compromise.
 - Achtung baby transitional album
 - Need to watch Numb video and disco tech video
-- _AI Generated_
-- Emotional rock ballad from the album "Achtung Baby"
-- Lyrics explore themes of unity and reconciliation
-- Became one of U2's most iconic songs
+> - _AI Generated_
+> - Emotional rock ballad from the album "Achtung Baby"
+> - Lyrics explore themes of unity and reconciliation
+> - Became one of U2's most iconic songs
 https://en.wikipedia.org/wiki/One_(U2_song)
 
 ### Mysterious Ways - U2 (1992)
 
-- _AI Generated_
-- Funk-influenced rock track with a danceable groove
-- Lyrics inspired by spirituality and love
-- Known for its innovative guitar effects
+> - _AI Generated_
+> - Funk-influenced rock track with a danceable groove
+> - Lyrics inspired by spirituality and love
+> - Known for its innovative guitar effects
 https://en.wikipedia.org/wiki/Mysterious_Ways_(song)

@@ -34,19 +34,19 @@ series: Music Education
 ### Big Poppa - The Notorious B.I.G. (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dbCYM0LJR8tiL0W1XXmpK?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- _AI Generated_
-- Laid-back hip-hop track with a G-funk influence
-- Known for its iconic hook and luxurious themes
-- Helped solidify Biggie's status as a rap icon
+> _AI Generated_
+> - Laid-back hip-hop track with a G-funk influence
+> - Known for its iconic hook and luxurious themes
+> - Helped solidify Biggie's status as a rap icon
 https://en.wikipedia.org/wiki/Big_Poppa
 
 ### Dear Mama - Tupac (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6tDxrq4FxEL2q15y37tXT9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- _AI Generated_
-- Heartfelt tribute to Tupac's mother, Afeni Shakur
-- Lyrics explore themes of love, struggle, and gratitude
-- Widely regarded as one of Tupac's most personal songs
+> _AI Generated_
+> - Heartfelt tribute to Tupac's mother, Afeni Shakur
+> - Lyrics explore themes of love, struggle, and gratitude
+> - Widely regarded as one of Tupac's most personal songs
 https://en.wikipedia.org/wiki/Dear_Mama
 
 ### Tha crossroads - Bone Thugs-N-Harmony (1995)
@@ -63,10 +63,10 @@ https://en.wikipedia.org/wiki/Tha_Crossroads
 ### Hypnotize - The Notorious B.I.G. (1997)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Tsu3OsuMz4KEGKbOYd6A0?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- _AI Generated_
-- Chart-topping hip-hop track with a smooth, hypnotic beat
-- Released shortly before Biggie's tragic death
-- Known for its catchy hook and luxurious themes
+> _AI Generated_
+> - Chart-topping hip-hop track with a smooth, hypnotic beat
+> - Released shortly before Biggie's tragic death
+> - Known for its catchy hook and luxurious themes
 https://en.wikipedia.org/wiki/Hypnotize_(The_Notorious_B.I.G._song)
 
 ### I’ll be Missing You - Shawn Puffy Combs (1997)
@@ -81,4 +81,4 @@ https://en.wikipedia.org/wiki/Hypnotize_(The_Notorious_B.I.G._song)
 - Murmuring in the background 
 - 730k per year in royalties for Sting (["Every Breath You Take])(https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1?si=6d27231d95f1424a)
 - Didn’t write his rap verses 
-- Faith Evan’s. Biggie’s wife. Singing   
+- Faith Evan’s. Biggie’s wife. Singing

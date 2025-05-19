@@ -24,8 +24,8 @@ series: Music Education
 
 ### Loser - Beck (1994)
 
-- _AI Generated_
-- Slacker anthem blending folk, hip-hop, and alternative rock
-- Lyrics are self-deprecating and surreal
-- Helped establish Beck as a genre-defying artist
-https://en.wikipedia.org/wiki/Loser_(Beck_song)
+> _AI Generated_
+> - Slacker anthem blending folk, hip-hop, and alternative rock
+> - Lyrics are self-deprecating and surreal
+> - Helped establish Beck as a genre-defying artist
+> https://en.wikipedia.org/wiki/Loser_(Beck_song)

@@ -7,10 +7,11 @@ series: Music Education
 
 ### Come to My Window - Melissa Etheridge (1994)
 
-- _AI Generated_
-- Emotional rock ballad about longing and love
-- Won a Grammy for Best Female Rock Vocal Performance
-- Became an anthem for the LGBTQ+ community
+> _AI Generated_
+> - Emotional rock ballad about longing and love
+> - Won a Grammy for Best Female Rock Vocal Performance
+> - Became an anthem for the LGBTQ+ community
+
 https://en.wikipedia.org/wiki/Come_to_My_Window
 
 ### You Oughta Know - Alanis Morissette (1995)
@@ -22,10 +23,11 @@ https://en.wikipedia.org/wiki/Come_to_My_Window
 
 ### Strong Enough - Sheryl Crow (1995)
 
-- _AI Generated_
-- Acoustic ballad with introspective lyrics
-- Explores themes of vulnerability and resilience
-- Featured on her Grammy-winning debut album
+> _AI Generated_
+> - Acoustic ballad with introspective lyrics
+> - Explores themes of vulnerability and resilience
+> - Featured on her Grammy-winning debut album
+
 https://en.wikipedia.org/wiki/Strong_Enough_(Sheryl_Crow_song)
 
 1995
@@ -42,8 +44,9 @@ https://en.wikipedia.org/wiki/All_I_Wanna_Do_(Sheryl_Crow_song)
 
 ### Ironic - Alanis Morissette (1996)
 
-- _AI Generated_
-- Iconic track from the album "Jagged Little Pill"
-- Lyrics describe ironic and unexpected situations
-- Known for its conversational tone and catchy melody
+> _AI Generated_
+> - Iconic track from the album "Jagged Little Pill"
+> - Lyrics describe ironic and unexpected situations
+> - Known for its conversational tone and catchy melody
+
 https://en.wikipedia.org/wiki/Ironic_(song)

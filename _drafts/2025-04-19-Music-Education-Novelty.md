@@ -7,10 +7,10 @@ series: Music Education
 
 ### Cotton Eye Joe - Rednex (1995)
 
-- _AI Generated_
-- Dance remix of a traditional American folk song
-- Became a global hit with its catchy beat and quirky style
-- Known for its energetic fiddle and techno influences
+> - _AI Generated_
+> - Dance remix of a traditional American folk song
+> - Became a global hit with its catchy beat and quirky style
+> - Known for its energetic fiddle and techno influences
 https://en.wikipedia.org/wiki/Cotton_Eye_Joe_(Rednex_song)
 
 ### Macarena - Los Del Rio (1996)
@@ -23,8 +23,8 @@ https://en.wikipedia.org/wiki/Cotton_Eye_Joe_(Rednex_song)
 
 ### Tubthumping - Chumbawamba (1997)
 
-- _AI Generated_
-- Anthemic pop-punk track about resilience and perseverance
-- Known for its infectious chorus and pub-like energy
-- Became a global one-hit wonder
+> - _AI Generated_
+> - Anthemic pop-punk track about resilience and perseverance
+> - Known for its infectious chorus and pub-like energy
+> - Became a global one-hit wonder
 https://en.wikipedia.org/wiki/Tubthumping

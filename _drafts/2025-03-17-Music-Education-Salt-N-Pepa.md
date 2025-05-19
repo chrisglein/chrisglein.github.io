@@ -31,10 +31,10 @@ series: Music Education
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7sJN693sYKEIEMu7fc5VnJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - What a man, costarring En Vogue, Herbie wrote
-- _AI Generated_
-- Celebrates strong, respectful men
-- Collaboration between two iconic female groups
-- Funky beat and empowering lyrics
+> _AI Generated_
+> - Celebrates strong, respectful men
+> - Collaboration between two iconic female groups
+> - Funky beat and empowering lyrics
 https://en.wikipedia.org/wiki/What_a_Man_(song)#Salt-N-Pepa_and_En_Vogue_version
 
 ### Shoop - Salt-N-Pepa (1993)

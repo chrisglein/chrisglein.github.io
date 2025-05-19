@@ -26,10 +26,10 @@ https://en.wikipedia.org/wiki/November_Rain
 
 ### Silent Lucidity - Queensrÿche (1991)
 
-- _AI Generated_
-- Progressive rock ballad with orchestral elements
-- Lyrics explore lucid dreaming and self-awareness
-- Nominated for a Grammy for Best Rock Performance
+> _AI Generated_
+> - Progressive rock ballad with orchestral elements
+> - Lyrics explore lucid dreaming and self-awareness
+> - Nominated for a Grammy for Best Rock Performance
 https://en.wikipedia.org/wiki/Silent_Lucidity
 
 ### Symphony of Destruction - Megadeth (1992)
