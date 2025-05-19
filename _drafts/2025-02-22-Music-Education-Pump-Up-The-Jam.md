@@ -6,12 +6,22 @@ series: Music Education
 ---
 
 ### Pump Up The Jam - Technotronic (1989)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21qnJAMtzC6S5SESuqQLEK?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21qnJAMtzC6S5SESuqQLEK?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+> - _AI Generated_
+> - One of the first mainstream hits of the house music genre
+> - High-energy dance track with infectious beats and catchy lyrics
+> - Helped popularize electronic dance music globally
+> https://en.wikipedia.org/wiki/Pump_Up_the_Jam
 
 ### The Power - SNAP! (1990)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3P5dVXm98CgVuEpcW2HsUk?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3P5dVXm98CgVuEpcW2HsUk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-https://en.wikipedia.org/wiki/The_Power_(Snap!_song)
+> - _AI Generated_
+> - Iconic hip-house track blending rap and dance music
+> - Known for its powerful vocals and memorable "I've got the power!" hook
+> - Became a defining anthem of the early 90s dance scene
+> https://en.wikipedia.org/wiki/The_Power_(Snap!_song)
 
 ### Gonna Make You Sweat (Everybody Dance Now) - C+C Music Factory (1990)
 
@@ -34,32 +44,36 @@ https://en.wikipedia.org/wiki/Enjoy_the_Silence
 
 ### I'm Too Sexy - Right Said Fred (1991)
 
-- _AI Generated_
-- Quirky dance-pop hit with tongue-in-cheek lyrics
-- Became a global sensation and a pop culture staple
-- Known for its minimalist beat and humorous delivery
-https://en.wikipedia.org/wiki/I%27m_Too_Sexy
+- Pretty sure this is a parody, right? Not a real band
+- I'm too sexy for my cat. I'm too sexy for this song.
+> - _AI Generated_
+> - Quirky dance-pop hit with tongue-in-cheek lyrics
+> - Became a global sensation and a pop culture staple
+> - Known for its minimalist beat and humorous delivery
+> https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 
 ### Good Vibrations - Marky Mark and the Funky Bunch (1991)
 
-- _AI Generated_
-- Mark Wahlberg's brief music career before acting
-- Features a sample of Loleatta Holloway's "Love Sensation"
-- High-energy dance track with a rap-pop crossover appeal
-https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
+- Mark Wahlberg the series actor will always be known to us who lived through this time as Marky Mark
+- Later in life completely crushes the role in Rock Start, and this song plays over the credits
+> - _AI Generated_
+> - Mark Wahlberg's brief music career before acting
+> - Features a sample of Loleatta Holloway's "Love Sensation"
+> - High-energy dance track with a rap-pop crossover appeal
+> https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
 
 ### All That She Wants - Ace of Base (1993)
 
-- _AI Generated_
-- Swedish pop group’s breakout hit
-- Reggae-inspired beat with melancholic lyrics
-- Helped define the Eurodance sound of the 90s
-https://en.wikipedia.org/wiki/All_That_She_Wants
+> - _AI Generated_
+> - Swedish pop group’s breakout hit
+> - Reggae-inspired beat with melancholic lyrics
+> - Helped define the Eurodance sound of the 90s
+> https://en.wikipedia.org/wiki/All_That_She_Wants
 
 ### The Sign - Ace of Base (1994)
 
-- _AI Generated_
-- Follow-up hit to "All That She Wants"
-- Topped charts worldwide and became a 90s pop anthem
-- Lyrics about self-empowerment and moving on
-https://en.wikipedia.org/wiki/The_Sign_(song)
+> - _AI Generated_
+> - Follow-up hit to "All That She Wants"
+> - Topped charts worldwide and became a 90s pop anthem
+> - Lyrics about self-empowerment and moving on
+> https://en.wikipedia.org/wiki/The_Sign_(song)
