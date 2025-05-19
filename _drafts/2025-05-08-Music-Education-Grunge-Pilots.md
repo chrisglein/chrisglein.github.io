@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Plush - Stone Temple Pilots (1992)
+
 - San Diego
 - Mighty Joe Young, fist album contained yodeling?
 - Named band STP after the motor oil logo

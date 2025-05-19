@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Semi Charmed Life - Third Eye Blind (97)
+
 - Stevan  Jenkins
 - Living breathing walking cheese 
 - Somebody hates you is about him
@@ -16,6 +17,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Semi-Charmed_Life
 
 ### Jumper - Third Eye Blind (1999)
+
 - _AI Generated_
 - Alternative rock hit addressing themes of suicide and empathy
 - Known for its emotional lyrics and catchy chorus
@@ -23,6 +25,7 @@ https://en.wikipedia.org/wiki/Semi-Charmed_Life
 https://en.wikipedia.org/wiki/Jumper_(Third_Eye_Blind_song)
 
 ### Back 2 Good - Matchbox Twenty (1999)
+
 - _AI Generated_
 - Reflective track about regret and relationships
 - Known for its smooth vocals and melancholic tone
@@ -30,6 +33,7 @@ https://en.wikipedia.org/wiki/Jumper_(Third_Eye_Blind_song)
 https://en.wikipedia.org/wiki/Back_2_Good
 
 ### Every Morning - Sugar Ray (1999)
+
 - _AI Generated_
 - Catchy pop-rock hit that marked Sugar Ray's transition to mainstream success
 - Features a laid-back vibe with a blend of acoustic and electronic elements

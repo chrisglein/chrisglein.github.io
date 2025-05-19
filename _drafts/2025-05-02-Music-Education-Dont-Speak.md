@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Just a Girl - No Doubt (1995)
+
 - Reel big fish 96 sell out, beer
 - Ska
 - Mighty might Boston’s Impression that I get, someday I suppose

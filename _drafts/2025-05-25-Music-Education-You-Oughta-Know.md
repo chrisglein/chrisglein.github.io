@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Come to My Window - Melissa Etheridge (1994)
+
 - _AI Generated_
 - Emotional rock ballad about longing and love
 - Won a Grammy for Best Female Rock Vocal Performance
@@ -13,12 +14,14 @@ series: Music Education
 https://en.wikipedia.org/wiki/Come_to_My_Window
 
 ### You Oughta Know - Alanis Morissette (1995)
+
 - Censorship of fuck 
 - Angry white female
 - Dry vocals to be intimate and maybe unsettling
 - Crazy successful album like 30 M copies
 
 ### Strong Enough - Sheryl Crow (1995)
+
 - _AI Generated_
 - Acoustic ballad with introspective lyrics
 - Explores themes of vulnerability and resilience
@@ -29,6 +32,7 @@ https://en.wikipedia.org/wiki/Strong_Enough_(Sheryl_Crow_song)
 https://en.wikipedia.org/wiki/I%27m_the_Only_One
 
 ### If It Makes You Happy - Sheryl Crow (1996)
+
 - Strong Enough
 - 4th grade school teacher, bar bands, McDonald’s jingle, MJ backup singer
 - Tuesday Night Music Club, album name and literal club
@@ -37,6 +41,7 @@ https://en.wikipedia.org/wiki/I%27m_the_Only_One
 https://en.wikipedia.org/wiki/All_I_Wanna_Do_(Sheryl_Crow_song)
 
 ### Ironic - Alanis Morissette (1996)
+
 - _AI Generated_
 - Iconic track from the album "Jagged Little Pill"
 - Lyrics describe ironic and unexpected situations

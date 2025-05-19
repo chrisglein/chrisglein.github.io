@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Cryin' - Aerosmith (1993)
+
 - _AI Generated_
 - Power ballad with a bluesy edge
 - Music video featured Alicia Silverstone, launching her acting career
@@ -13,6 +14,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Cryin%27
 
 ### Crazy - Aerosmith (1994)
+
 - _AI Generated_
 - Another hit featuring Alicia Silverstone in the music video, alongside Liv Tyler
 - Bluesy rock ballad about infatuation and longing
@@ -20,6 +22,7 @@ https://en.wikipedia.org/wiki/Cryin%27
 https://en.wikipedia.org/wiki/Crazy_(Aerosmith_song)
 
 ### Cat's in the Cradle - Ugly Kid Joe (1993)
+
 - _AI Generated_
 - Cover of Harry Chapin's 1974 classic
 - Hard rock version with a grungy edge
@@ -27,6 +30,7 @@ https://en.wikipedia.org/wiki/Crazy_(Aerosmith_song)
 https://en.wikipedia.org/wiki/Cat%27s_in_the_Cradle
 
 ### I'd Do Anything for Love (But I Won't Do That) - Meat Loaf (1994)
+
 - _AI Generated_
 - Epic rock ballad with theatrical flair
 - Features a duet with Lorraine Crosby

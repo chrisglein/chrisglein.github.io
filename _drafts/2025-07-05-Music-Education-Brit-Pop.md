@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Wonderwall - Oasis (1996)
+
 - _AI Generated_
 - Britpop anthem with heartfelt lyrics
 - One of the band's most iconic songs
@@ -13,6 +14,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Wonderwall
 
 ### The Freshmen - The Verve Pipe (1997)
+
 - _AI Generated_
 - Emotional alternative rock ballad about regret and loss
 - Lyrics reflect on youthful mistakes and their consequences
@@ -20,6 +22,7 @@ https://en.wikipedia.org/wiki/Wonderwall
 https://en.wikipedia.org/wiki/The_Freshmen_(song)
 
 ### Bitter Sweet Symphony - The Verve (1998)
+
 - _AI Generated_
 - Britpop anthem with a sweeping orchestral arrangement
 - Controversy over the use of a Rolling Stones sample
@@ -27,6 +30,7 @@ https://en.wikipedia.org/wiki/The_Freshmen_(song)
 https://en.wikipedia.org/wiki/Bitter_Sweet_Symphony
 
 ### Sex and Candy - Marcy Playground (1998)
+
 - _AI Generated_
 - Alt-rock hit with a sultry and minimalist vibe
 - Lyrics evoke a sense of youthful rebellion and nostalgia

@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Livin' la Vida Loca - Ricky Martin (1999)
+
 - _AI Generated_
 - Latin pop anthem that brought Ricky Martin international fame
 - High-energy track with a mix of Latin rhythms and pop-rock elements
@@ -14,6 +15,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Livin%27_la_Vida_Loca
 
 ### Smooth - Santana featuring Rob Thomas (1999)
+
 - _AI Generated_
 - Grammy-winning collaboration blending rock and Latin influences
 - Revitalized Santana's career and introduced him to a new generation

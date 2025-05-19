@@ -14,6 +14,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/The_Power_(Snap!_song)
 
 ### Gonna Make You Sweat (Everybody Dance Now) - C+C Music Factory (1990)
+
 - Uncredited Martha Wash (more than once), and credited model/singer talking about lip syncing
 - Hip-house, dance scene
 - Some Simpsons reference with Everybody dance now
@@ -25,12 +26,14 @@ https://en.wikipedia.org/wiki/Everybody_Everybody
 https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
 
 ### Enjoy the Silence - Depeche Mode (1990)
+
 - Punk rock but with synths 
 - Poppy and then sad
 - Sinister synth pop
 https://en.wikipedia.org/wiki/Enjoy_the_Silence
 
 ### I'm Too Sexy - Right Said Fred (1991)
+
 - _AI Generated_
 - Quirky dance-pop hit with tongue-in-cheek lyrics
 - Became a global sensation and a pop culture staple
@@ -38,6 +41,7 @@ https://en.wikipedia.org/wiki/Enjoy_the_Silence
 https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 
 ### Good Vibrations - Marky Mark and the Funky Bunch (1991)
+
 - _AI Generated_
 - Mark Wahlberg's brief music career before acting
 - Features a sample of Loleatta Holloway's "Love Sensation"
@@ -45,6 +49,7 @@ https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_song)
 
 ### All That She Wants - Ace of Base (1993)
+
 - _AI Generated_
 - Swedish pop group’s breakout hit
 - Reggae-inspired beat with melancholic lyrics
@@ -52,6 +57,7 @@ https://en.wikipedia.org/wiki/Good_Vibrations_(Marky_Mark_and_the_Funky_Bunch_so
 https://en.wikipedia.org/wiki/All_That_She_Wants
 
 ### The Sign - Ace of Base (1994)
+
 - _AI Generated_
 - Follow-up hit to "All That She Wants"
 - Topped charts worldwide and became a 90s pop anthem

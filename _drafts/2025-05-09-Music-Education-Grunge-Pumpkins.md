@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Mayonaise - The Smashing Pumpkins (19XX)
+
 - Here is no why
 - Gish in 1991, first album
 - Prog rock vibes 
@@ -16,6 +17,7 @@ series: Music Education
 - Over focused on competing with nirvana because they got their first and Kurt was better on image than Billy 
 
 ### 1979 - The Smashing Pumpkins (1996)
+
 - _AI Generated_
 - Nostalgic alternative rock track with dreamy production
 - Lyrics reflect on youth and suburban life

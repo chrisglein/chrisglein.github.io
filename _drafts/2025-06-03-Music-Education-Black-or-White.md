@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Black or White - Michael Jackson (1991)
+
 - Separate art from the artist
 - Thriller from 82 sold 70M best selling worldwide album ever
 - Dangerous is 30th best selling of all time ever

@@ -8,6 +8,7 @@ series: Music Education
 ### Chloe Dancer Crown of Thorns - Mother Love Bone
 
 ### Hunger Strike - Temple of the Dog (1991)
+
 - Tribute to Mother Love Bone
 - Chloe Crown of Thorns
 - Eddie Vedder before Pearl Jam
@@ -16,6 +17,7 @@ series: Music Education
 - Broody and problematic dark grunge vibes
 
 ### Yellow Ledbetter - Pearl Jam (1992)
+
 - First album Ten (1991). Second is Versus.
 - Jeremy CD single had Yellow Ledbetter on it.
 - Mudhoney and Mother Love Bone.

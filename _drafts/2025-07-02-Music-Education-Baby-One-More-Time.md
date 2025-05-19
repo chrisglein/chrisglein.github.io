@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### ...Baby One More Time - Britney Spears (1999)
+
 - _AI Generated_
 - Breakout debut single for Britney Spears, launching her into pop stardom
 - Iconic music video featuring the schoolgirl outfit became a cultural phenomenon
@@ -14,6 +15,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/...Baby_One_More_Time
 
 ### Genie in a Bottle - Christina Aguilera (1999)
+
 - _AI Generated_
 - Debut single that established Christina Aguilera as a pop powerhouse
 - Lyrics explore themes of desire and self-expression

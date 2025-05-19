@@ -13,6 +13,7 @@ series: Music Education
 
 ### Under the Bridge - Red Hot Chili Peppers (1991)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3d9DChrdc6BOeFsbrZ3Is0?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - Blood Sugar Sex Magik
 - No shame, immature, dancing naked in socks, vulgar and pornographic 
 - Flea, legendary bassist
@@ -33,6 +34,7 @@ https://en.wikipedia.org/wiki/Under_the_Bridge
 
 ### Scar Tissue - Red Hot Chili Peppers (1999)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2QOMGq8wVTZbLmh7McrvgF?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 - _AI Generated_
 - Grammy-winning track from the album "Californication"
 - Known for its introspective lyrics and melodic guitar solo

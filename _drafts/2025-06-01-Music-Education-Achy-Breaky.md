@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Friends in Low Places - Garth Brooks (1990)
+
 - Dad rock, Bob Seger, Eagles
 - 1991 Travis call someone who cares
 - Reba 1990 Fancy
@@ -14,6 +15,7 @@ series: Music Education
 - Arena rock
 
 ### Achy Breaky Heart - Billy Ray Cyrus (1992)
+
 - Alan Jackson: Chattahoochee, Blue Blooded Women, Bologna, New Traditionalists
 - Is it country enough. Awards ceremony with John Denver winning, lit envelope on fire. 
 - Garth Brooks not on Spotify but yes 90s. 

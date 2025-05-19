@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Black Hole Sun - Soundgarden (1994)
+
 - Has a Strong Songs episode…
 - Disturbing music video
 - Wearing fork from Shannon from Blind Melon, and something from Andy Wood from Mother Love Bone, too many dead guys things

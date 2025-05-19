@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Smells Like Teen Spirit - Nirvana (1991)
+
 - Story of living under the bridge
 - Story of buying first guitar from mom’s boyfriend (uncle?) guns
 - First concert not black Flag
@@ -21,6 +22,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
 
 ### Doll Parts - Hole (19XX)
+
 - There is a hole they pierced right through me
 - Gutless on second album, 1994
 - Courtney Love, guitar vocals

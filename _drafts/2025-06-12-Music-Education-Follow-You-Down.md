@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Follow You Down - Gin Blossoms (1996)
+
 - _AI Generated_
 - Upbeat rock track with jangly guitars
 - Lyrics explore themes of loyalty and love
@@ -13,6 +14,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Follow_You_Down
 
 ### Iris - Goo Goo Dolls (1999)
+
 - _AI Generated_
 - Breakout hit from the "City of Angels" soundtrack
 - Known for its soaring melody and heartfelt lyrics
@@ -20,6 +22,7 @@ https://en.wikipedia.org/wiki/Follow_You_Down
 https://en.wikipedia.org/wiki/Iris_(song)
 
 ### Slide - Goo Goo Dolls (1999)
+
 - _AI Generated_
 - Alternative rock hit with heartfelt lyrics about love and life choices
 - Showcases the Goo Goo Dolls' signature blend of acoustic and electric guitars

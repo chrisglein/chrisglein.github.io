@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Closer - Nine Inch Nails (1994)
+
 - Downward Spiral 1994
 - Hurt
 - Whip edit

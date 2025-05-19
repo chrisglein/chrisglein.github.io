@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Loser - Beck (93)
+
 - Butthole Surfers - Pepper
 - Pedigree of artists
 - Not rapping weird stuff
@@ -22,6 +23,7 @@ series: Music Education
 - Midnight Vultures 99
 
 ### Loser - Beck (1994)
+
 - _AI Generated_
 - Slacker anthem blending folk, hip-hop, and alternative rock
 - Lyrics are self-deprecating and surreal
