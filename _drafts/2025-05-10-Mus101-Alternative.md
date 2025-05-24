@@ -34,6 +34,15 @@ https://en.wikipedia.org/wiki/What%27s_Up%3F_(4_Non_Blondes_song)
 ### Far Behind - Candlebox (1993)
 https://open.spotify.com/track/3mhOmh4tRKsMfnRmgZfeBm?si=d93f5a51dce443ed
 
+### Last Goodbye - Jeff Buckley (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0y5CnV2idm2KkQEudDjfDT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Anything - Seven Mary Three (1995)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0pM4if7Z6D5VZRP8JJlQBT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- ["Cumbersome"](https://open.spotify.com/track/6u1yKoh00WaoSpNp46RzKF?si=a233af3f39d54b4d)
+- ["Lucky"](https://open.spotify.com/track/12RSkRD6HoDw5x4LMC7CmY?si=7e8b992d1f384be0)
+
 ### Say It Ain't So - Weezer (1995)
 
 ### Shine - Collective Soul (1994)

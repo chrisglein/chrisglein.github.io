@@ -9,6 +9,9 @@ series: Music Education
 
 https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0?si=55f05a4d194146a2
 
+### Sick of Myself - Matthew Sweet (1995)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4inXYz8i3xRpNbxZJ99Clo?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### If You Could Only See - Tonic (1996)
 
 https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6?si=1862afa8b3ec4f7d
