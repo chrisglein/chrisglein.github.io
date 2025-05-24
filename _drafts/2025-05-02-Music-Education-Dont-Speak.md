@@ -14,7 +14,7 @@ series: Music Education
 - Just a girl 95
 - Gwen Stefani 
 - Took nearly a decade to become an overnight success
-- Gwen first performed “on my radio”, obsessed with Sound of Music
+- Gwen first performed "on my radio", obsessed with Sound of Music
 - John Spence was front man and took own like 1987, had been dating Gwen
 - Bigger brother Eric is main songwriter 
 - Sublime

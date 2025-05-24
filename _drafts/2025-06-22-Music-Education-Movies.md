@@ -26,6 +26,21 @@ https://en.wikipedia.org/wiki/I_Will_Always_Love_You#Whitney_Houston_version
 
 ### Lovefool - The Cardigans (1996)
 
+- Diversion
+  - "Kissing you" by Desiree
+  - "Wishing Well" by Terrance Trent Darby
+  - "Delicate" duet with Desiree
+  - "Feel so high" first breakout single for Desiree
+  - "You gotta be" 1994 hit
+- Soundtrack for 1996 Romeo + Juliet, Baz Luhrmann film with Leonardo DiCaprio and Claire Danes.
+- Soundtrack also had ["Talk Show Host"](https://open.spotify.com/track/3cMuGOGSaTWbwOurTS4b3Y?si=10c82c97296d47dd) by Radiohead
+- What's with the trend of Swedish bands? ABBA, Roxette, Ace of Base, Cardigans, Bjork, Max Martin and various teen boy/girl groups
+- Cardigans formed in 92 started out playing metal but got tired of metal and wanted to play pop
+- "Black letter day"
+- Cover "Sabbath bloody Sabbath" by Black Sabbath, and later "Iron Man" (on First Band on the Moon)
+- Band didn’t identify with mega superhit "Love Fool"
+- Nina sang the following to a dead bat that she found and nailed to the wall
+
 ### I Don't Want to Miss a Thing - Aerosmith (1998)
 
 > _AI Generated_
@@ -35,13 +50,16 @@ https://en.wikipedia.org/wiki/I_Will_Always_Love_You#Whitney_Houston_version
 
 https://en.wikipedia.org/wiki/I_Don%27t_Want_to_Miss_a_Thing
 
+### My Heart Will Go On - Celine Dion (1997)
+https://en.wikipedia.org/wiki/My_Heart_Will_Go_On
+
 ### Walking on the Sun - Smash Mouth (1997)
 
 - Heavily returned record because the single and the rest of album are very different
 - Unpredictable rock band, reinvent to be more poppy, similar to Red Hot Chili Peppers and Sugar Ray
 - Guitar tone
-- Leads to… “All Star”, Shrek, then later turned to memes
-- “Shrek is a daily occurrence for us”
+- Leads to… "All Star", Shrek, then later turned to memes
+- "Shrek is a daily occurrence for us"
 
 ### All Star - Smash Mouth (1999)
 

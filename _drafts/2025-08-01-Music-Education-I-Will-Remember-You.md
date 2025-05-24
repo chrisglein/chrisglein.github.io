@@ -17,10 +17,17 @@ series: Music Education
 
 ### Stay (I Missed You) - Lisa Loeb (1994)
 
-> _AI Generated_
-> - Acoustic pop hit featured in the movie Reality Bites
-> - First number-one single by an artist without a record deal
-> - Known for its heartfelt lyrics and minimalist production
+- Singer songwriter 
+- First song from independent artist to hit #1, next was Macklemore’s Thrift Shop
+- Over time has made 9 albums for adults, 6 for kids
+- Purple tape, open mic vibes, deliberately childlike vocabulary and imagery
+- Lives across the street from Ethan Hawk, who passes on recording to Ben Stiller, it goes in the 1994 movie Reality Bites over the credits and is on the soundtrack 
+- Movie is about the authentic jerk vs. nice sellout 
+- Song recorded by band in a bedroom
+- Odd song structure, no chorus
+- Video shot in one take by Ethan Hawk
+- Studio album Tails 95
+- First song most popular, and cool with that 
 https://en.wikipedia.org/wiki/Stay_(I_Missed_You)
 
 ### Who Will Save Your Soul - Jewel (1996)
@@ -65,6 +72,10 @@ https://en.wikipedia.org/wiki/You_Were_Meant_for_Me_(Jewel_song)
 
 ### Angel - Sarah McLachlan (1999)
 
+- Sarah McLaughlin wrote the song "possession" about stalkers writing her letters 
+- Industrial-strength, melancholy: that’s actually a pretty good band name
+- "Angel" 1997
+- Started Lilith fair
 > _AI Generated_
 > - Emotional ballad featured in ASPCA commercials
 > - Known for its haunting melody and heartfelt lyrics
@@ -78,3 +89,8 @@ https://en.wikipedia.org/wiki/Angel_(Sarah_McLachlan_song)
 > - Known for its poignant lyrics and emotional delivery
 > - Became a popular choice for memorials and tributes
 https://en.wikipedia.org/wiki/I_Will_Remember_You_(Sarah_McLachlan_song)
+
+### Cornflake Girl - Tori Amos (199X)
+### Not a Pretty Girl - Ani DiFranco (1995)
+### Lauryn Hill "Doo Wop" (1998)
+### K.d. Lang "Nowhere to Stand" (1989)

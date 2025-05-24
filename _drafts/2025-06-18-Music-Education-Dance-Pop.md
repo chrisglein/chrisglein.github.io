@@ -27,13 +27,18 @@ https://en.wikipedia.org/wiki/Total_Eclipse_of_the_Heart#Nicki_French_version
 
 ### The Way - Meshell Ndegeocello (1996)
 
-### Wannabe - Spice Girls (1997)
+### Wannabe - Spice Girls (1996)
 
-> _AI Generated_
-> - Debut single that launched the Spice Girls' career
-> - Lyrics promote friendship and girl power
-> - Became a global pop phenomenon
-
+- Formed in London 
+- England had its own parallel boy band thing in the 90s although with few crossovers to the US. But producers were interested in finding a girl group in order to appeal to both girl audiences and boy audiences and make more money.
+- Group had designed personas, like sitcom Friends
+- Mel C Sporty, Emma Baby, Mel B Scary, Geri Ginger, Veronica Posh
+- Baby regularly voted favorite spice girl, least offensive
+- Nicknames come from some journalist who couldn’t remember their names
+- No standout star, intentionally
+- Sleepover antics turned career
+- Spice world movie 
+- Girl power
 https://en.wikipedia.org/wiki/Wannabe
 
 ### Ray of Light - Madonna (1998)

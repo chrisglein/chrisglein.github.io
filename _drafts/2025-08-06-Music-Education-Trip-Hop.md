@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Music Education"
+tags: music
+series: Music Education
+---
+
+### Teardrop - Massive Attack  (1998)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/67Hna13dNDkZvBpTXRIaOJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- Massive Attack album Blue Lines 1991, ["Safe From Harm"](https://open.spotify.com/track/1vNNfTgHsrpOXeiaXQBlH7?si=50482dbd443b496d), Singer Shara Nelson, Dudes rapping, Tricky
+- ["Unfinished Sympathy"](https://open.spotify.com/track/0j5FJJOmmnXPd0XajFWkMF?si=bdca825f11ce401f) (TODO: look up video)
+- Album Protection, ["Protection"](https://open.spotify.com/track/30zdnn2RvVHgIrsoNRvO9Z?si=a0df0d5afd724c84), Tracy from Everything But the Girl 
+- Album Mezzanine in 98 ["Angel"](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg?si=c057ac194a1e48c0), "Teardrop" used as theme for House, sung by Elizabeth from Cocteau Twins
+- Martina Topley Bird on Tricky’s 95 album, "Black Steel" (she had a great solo album)
+
+### Glory Box - Portishead  (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Ty7OTBNSigGEpeW2PqcsC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- 1997 filmed Roseland concert and 98 live album
+- ["Roads"](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW?si=f30e369ddbfc40aa) which prominently features a Rhodes piano
+- Lead singer Beth Gibbons, voice gets more powerful as it gets more frail
+- 1994 album Dummy
+- ["Midnight in a Perfect World"(https://open.spotify.com/track/1a9maLxqpx3cxjY1lTj62B?si=80ed1e1dc8864a36)] by DJ Shadow, Entroducing 
+- Industrial moping
+- Tricky samples Isaac Hayes in "Hell is Around The Corner" in 95, but Portishead sampled in 94 for "Glory Box"
+- First collab "It Could Be Sweet"
+- ["A Girl Like You"](https://open.spotify.com/track/0MteK167vtyb6hoJNC3Uz3?si=0a3b507db6a34a3d)
+- "Strangers", "wandering Star"
+- Third album 10 year delay "Machine Gun"
+
+### Porcelain - Moby (1999)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5fJAYWoFgXm26HLNViFiUh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

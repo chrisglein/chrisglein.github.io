@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
 - Berry from first album 1991
 - Awful from Celebrity skin 1998
 - Husband Kurt committed suicide at age of 27 in April 1994, had daughter one year old
-- “It is better to burn out than fade away” - “Don’t remember this because it’s a fucking lie”
+- "It is better to burn out than fade away" - "Don’t remember this because it’s a fucking lie"
 - Kurt wanted to be a rock star but didn’t want to and it didn’t make him feel the way he thought it should feel
 - Written in 20 minutes in a bathroom before a show to convince Kurt she was better than the other girls he was sleeping with
 - Signed for big deal when dating Kurt 

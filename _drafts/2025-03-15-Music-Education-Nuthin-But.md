@@ -43,10 +43,10 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 - No gasoline, homophobic anti antisemitism
 - "You can New Jack swing on my nuts"
 - "You see the anger, but you don’t understand the anger"
-- Song “it was a good day” was about how uncommon it was to have a good day 
+- Song "it was a good day" was about how uncommon it was to have a good day 
 - Blogger deciding that the day was Jan 20th
 - Reality rap, not gangster
-- Made it for black kids, white kids are “eavesdropping“ 
+- Made it for black kids, white kids are "eavesdropping" 
 
 ### Nuthin' But a 'G' Thang - Dr. Dre (1992)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tbpp3OLLClPJF8t1DmrFD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

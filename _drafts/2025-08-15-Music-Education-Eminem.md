@@ -19,7 +19,22 @@ series: Music Education
 - Mysogeny and homophobia
 - 97. Bonnie and Clyde: song about fantasizing killing babies, mother. Used actual baby sounds from actual baby.
 - 8 mile movie
-- “Better gave shut that will get a reaction or you will not be accepted when you’re on the mic… saying stuff just to get that reaction. Maybe u took it too far sometimes“
+- "Better gave shut that will get a reaction or you will not be accepted when you’re on the mic… saying stuff just to get that reaction. Maybe u took it too far sometimes"
 - Charisma, technical ability, silly and nasty 
-- “Role model”
-- “Renegade” and “ether”
+- "Role model"
+- "Renegade" and "ether"
+
+### Ruff Ryder’s Album - DMX (XXXX)
+
+- First album 98, and second also 98
+- First five albums debuted at #1
+- Dark Man X, rough childhood. Given crack laced blunt at age of 14
+- Died in 2021, drug related
+- Armed robbery years
+- Menace, violence, homophobia
+- Prayer at the end of every album
+- "Get at me dog" first single
+- "Ruff Ryder’s Album", not hip hop beat, not good enough
+- "Crime story"
+- "Slipping" prettiest
+- "Damien" songs talk with devil 

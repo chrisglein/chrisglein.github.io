@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)
 
 - Method man solo album 94, from wutang, song Bring the Pain, Mary waking up every day to that
 - Hip hop love song duo with Method Man. I’ll be there for you 95, watch video
-- Grew up in the projects, molested as a child, hard life “not in the sunshine”
+- Grew up in the projects, molested as a child, hard life "not in the sunshine"
 - Got signed from a mall karaoke recorded demo
 
 ### I'm Going Down - Mary J Blige (1994)

@@ -5,7 +5,7 @@ tags: music
 series: Music Education
 ---
 
-What even is grunge? It’s a term largely rejected by those it most clearly describes. And it abuts the super-unhelpful term “alternative rock” (alternative to what? this is all old enough to be “classic rock” now, who are we kidding?). Grunge refers to a time period, a region, and an aesthetic. It is simultaneously not caring and also caring too much. It is inherently a reaction to what came before; inspired by punk and metal, and rejecting of overblown glam rock. It’s obsessed with authenticity. It is not desiring if nor compatible with the popularity it eventually attracts. It is Big Feelings. It is a self-conflicting enigma. 
+What even is grunge? It’s a term largely rejected by those it most clearly describes. And it abuts the super-unhelpful term "alternative rock" (alternative to what? this is all old enough to be "classic rock" now, who are we kidding?). Grunge refers to a time period, a region, and an aesthetic. It is simultaneously not caring and also caring too much. It is inherently a reaction to what came before; inspired by punk and metal, and rejecting of overblown glam rock. It’s obsessed with authenticity. It is not desiring if nor compatible with the popularity it eventually attracts. It is Big Feelings. It is a self-conflicting enigma. 
 
 Which is to say it was absolute candy for an adolescent in the Pacific Northwest in the 90s, like myself. So this one, this one is personal. 
 

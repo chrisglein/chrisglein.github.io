@@ -5,6 +5,9 @@ tags: music
 series: Music Education
 ---
 
+### Killing in the Name - Rage Against the Machine (1992)
+https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp?si=59dcff066f5c41cc
+
 ### Closer - Nine Inch Nails (1994)
 
 - Downward Spiral 1994
@@ -28,4 +31,5 @@ series: Music Education
 - Drums played by computers 
 
 ### Beautiful People - Marilyn Manson (1996)
+https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR?si=e4f6c560fdc14d06
 https://en.wikipedia.org/wiki/The_Beautiful_People_(song)
