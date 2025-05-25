@@ -67,8 +67,5 @@ https://en.wikipedia.org/wiki/Zombie_(The_Cranberries_song)
 ### Gycerine - Bush (1994)
 https://open.spotify.com/track/5buITai6eMzU8rJonMEI6e?si=54c03c0ea4e44f63
 
-### The Distance - Cake (1996)
-https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE?si=5c725f49ab8a4bbe
-
 ### Everlong - Foo Fighters (1997)
 https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=02757915b1374ca9
