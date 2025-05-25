@@ -6,17 +6,33 @@ series: Music Education
 ---
 
 ### Round Here - The Counting Crows (1993)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/35qwJUKVy1OIt0wQ3xEXi0?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+- ["A Long December"](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi?si=6f20598073994f85) (1996)
 https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0?si=55f05a4d194146a2
+
+### Last Goodbye - Jeff Buckley (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0y5CnV2idm2KkQEudDjfDT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Sick of Myself - Matthew Sweet (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4inXYz8i3xRpNbxZJ99Clo?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### If You Could Only See - Tonic (1996)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KoNBTm9a55KgLMtEaf3n6?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 https://open.spotify.com/track/4KoNBTm9a55KgLMtEaf3n6?si=1862afa8b3ec4f7d
 
+### Hey Jealousy - Gin Blossoms (1992)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4o7ZPI2fmEi3piRe0Hrfpy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+- Original writer of song left (kicked out) of band before they hit it big, and shortly after committed suicide
+- Original recording worse, faster and less polished
+- Jangly 
+https://en.wikipedia.org/wiki/Hey_Jealousy
+https://en.wikipedia.org/wiki/Found_Out_About_You
+
 ### Follow You Down - Gin Blossoms (1996)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6rqkwoZu5oX5hugeyiJCM8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > _AI Generated_
 > - Upbeat rock track with jangly guitars
