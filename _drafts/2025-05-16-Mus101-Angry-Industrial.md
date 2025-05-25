@@ -6,9 +6,10 @@ series: Music Education
 ---
 
 ### Killing in the Name - Rage Against the Machine (1992)
-https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp?si=59dcff066f5c41cc
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59WN2psjkt1tyaxjspN8fp?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Closer - Nine Inch Nails (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5mc6EyF1OIEOhAkD0Gg9Lc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Downward Spiral 1994
 - Hurt
@@ -31,5 +32,6 @@ https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp?si=59dcff066f5c41cc
 - Drums played by computers 
 
 ### Beautiful People - Marilyn Manson (1996)
-https://open.spotify.com/track/2aIB1CdRRG7YLBu9hNw9nR?si=e4f6c560fdc14d06
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2aIB1CdRRG7YLBu9hNw9nR?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 https://en.wikipedia.org/wiki/The_Beautiful_People_(song)

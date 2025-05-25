@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Just a Girl - No Doubt (1995)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5lWRaa0fBxDE5yU91npPq7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Reel big fish 96 sell out, beer
 - Ska
@@ -27,4 +28,8 @@ series: Music Education
 - Feeling hella good so just keep on dancing, holla back girl
 https://en.wikipedia.org/wiki/Just_a_Girl
 
+### Sell Out - Reel Big Fish (1996)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6SJ1hWFVBIiUgGgHKvwXCQ?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ### The Impression That I Get - Mighty Mighty Bosstones (1997)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3a3EDrWejkryzeGFkPypOR?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
