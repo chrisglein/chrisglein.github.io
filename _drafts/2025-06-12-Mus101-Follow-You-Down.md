@@ -8,6 +8,13 @@ series: Music Education
 ### Round Here - The Counting Crows (1993)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/35qwJUKVy1OIt0wQ3xEXi0?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+- [David Lee Roth soundboard](https://www.realmofdarkness.net/sb/dlr/)
+- Fun fact: 6th Avenue heartbreak backup vocals from Adam Duritz!
+- 30 years old time of first album
+- Play Van Morrison‘s “Caravan“ at the rock ‘n’ roll Hall of Fame induction ceremony because Van Morrison wasn’t gonna show
+- “Mr. Jones” mega hit
+- “Round Here”
+- Second album is essentially about how he doesn’t like stardom or touring or any of that
 - ["A Long December"](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi?si=6f20598073994f85) (1996)
 https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0?si=55f05a4d194146a2
 

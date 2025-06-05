@@ -7,6 +7,15 @@ series: Music Education
 
 ### Say It Ain't So - Weezer (1995)
 
+- Blue album
+- Sweater song
+- Not taking themselves too seriously, at least in comparison to grunge. More playful.
+- Buddy Holly, happy days music video
+- Say it any so. About biological dad who left family at 4. Discovering beer in fridge and worried step dad will leave too. 
+- Show me the smile
+- Rivers Cuomo. Moves to LA. Kiss fanatic discovers the pixies
+- Loved nirvana song “Sliver”
+
 ### Shine - Collective Soul (1994)
 
 > _AI Generated_

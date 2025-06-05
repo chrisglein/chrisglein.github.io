@@ -33,3 +33,17 @@ https://en.wikipedia.org/wiki/Just_a_Girl
 
 ### The Impression That I Get - Mighty Mighty Bosstones (1997)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3a3EDrWejkryzeGFkPypOR?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+### Santeria - Sublime (1996)
+
+- Song “date rape”
+- Brad died of heroin overdose in 1996 at 28
+- Ska punk
+- “Caress me down”
+- As a kid had a family trip to the Virgin Islands and fell in love with reggae music
+- Influences: Sugar mynot. Shaka Dimas and pliers song “murder she wrote“  reverend doctor tenant something, “west your size”.
+- Podcast “Bandsplain“ on sublime
+- “Bad fish”
+- Radio DJ at KROQ in LA happens to play “date rape“ on the radio and it explodes and that’s how Santeria gets a big break and a major record company deal. Record self titled sublime outfit album, Brad in rehab, but by time of release Brad is dead from heroin overdose.
+- “What I got” and it’s not riot guitar solo, but memorable.
+- 311 “all mixed up” “beautiful disaster”  
