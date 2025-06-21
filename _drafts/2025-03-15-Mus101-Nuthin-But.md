@@ -16,13 +16,22 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 - Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
 - [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9?si=aaf8f859f4da4dff) rap love song
 
-### Fuck Tha Polica - NWA (1988)
+### Fuck Tha Police - NWA (1988)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5n8Aro6j1bEGIy7Tpo7FV7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - NWA gangsta rap: Ice Cube, Eazy-E, Dr. Dre, more; *Boyz-n-the-Hood* produced by Dre
 - NWA hit *F*** the Police*
 - *Straight Outta Compton*
 - NWA breaks apart for diverging interests
+
+
+### Mind playing tricks on me – Geto Boys (1991)
+
+- Houston rap
+- Album cover at hospital with eyepatch pulled down to show gunshot wound
+- Beastie Boys producer convinces them to re-spell ghetto to GETO
+- Record is not carried by distributor due to content concerns around murder and necrophilia
+
 
 ### It was a good day - Ice Cube (1992)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dN0re4Ux685ZzJdBjM4Wq?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
