@@ -92,11 +92,11 @@ Modifier chips
 1. For each job randomly select a 20 point, 10 point, and 5 point food item and place it next to the track.
 
 <mark>
-Alternate setup option: Separate obstacle cards by difficulty and shuffle each difficulty tier into a pile. For each job randomly deal out deal out:
-- 1 difficulty 1
-- 3 difficulty 2
-- 1 difficulty 3
-- 1 finale.
+Alternate setup option: Separate obstacle cards by difficulty and shuffle each difficulty tier into a pile. For each job randomly deal out deal out (from bottom to top):
+- 1 difficulty 🐀🐀🐀🐀
+- 1 difficulty 🐀🐀🐀
+- 3 difficulty 🐀🐀
+- 1 difficulty 🐀
 </mark>
 
 ### Skill market
@@ -106,17 +106,29 @@ Alternate setup option: Separate obstacle cards by difficulty and shuffle each d
 ### The rest
 1. Put the remaining <span class="trash">trash</span> in a central supply.
 1. Place all modifier chips in the bag.
-1. Randomly determine a starting player (you can use the player contribution markers for this). That player takes the bag.
+1. Randomly determine a starting player (you can use the player contribution markers for this). That player takes the active job marker and the bag.
 
 # GOAL
 You are all attempting to pull off jobs to score food for your colony. Each job has a sequence of obstacles, which will test each player's skill and luck. When the game ends players are each paid out in food according to how much they contributed. The player with the highest value food stash wins.
 
 ## Contribution
 
-Each job has a contribution track. When you contribute to the success of that job (by directly overcoming obstacles or by assisting others), you will add your player-colored contribution marker to that track. The player with the most markers on the track will receive the most points. When adding to the track, add to the next available spot on the track, indicating who contributed last (which will break ties). 
+Each job has a contribution track. When you contribute to the success of that job by overcoming obstacles you will add your player-colored marker to that track. The player with the most markers on the track will receive the highest value food. When adding to the track, add to the next available spot on the track, indicating who contributed last (which will break ties in their favor).
 
+## Obstacles
+<img class="card" alt="obstacle card" style="float: right; max-width: 300px" src="new-rulebook/obstacle.png"/>
+
+Each job has a stack of <span class="obstacle">obstacles</span>. Each of these will have the following elements:
+- A **target rating** number
+- Zero or more associated skill icons (e.g. <mark>🤚🦵👄</mark>)
+
+There are a couple of extra pieces of information only used for setup (they have no effect during gameplay):
+- Difficulty (Number of 🐀 icons)
+- Associated job and order in that job (e.g. "B1")
 
 ## Skills
+<img class="card" alt="skill card" style="float: right; max-width: 150px" src="new-rulebook/trick.png"/> 
+
 You begin the game with 3 <span class="skill">skills</span> that can be used to help you overcome obstacles. You can gain more skills as the game progresses. Each skill is either in a **ready** state (face-up) or **exhausted** state (face-down). 
 
 To **use** a skill card, it must be ready. Execute the text on the card. Then flip it face-down.
@@ -128,21 +140,9 @@ To **ready** a skill, flip it face-up.
 To **learn** a skill, choose an upgrade skill from the market. Add it face-up in front of you alongside your other skills. Deal out a new skill card from the deck face-up to the market.
 
 # YOUR TURN
-Players each take a turn in clockwise order. On a player's turn they are considered the **testing player**. Any reference to "you" is to the testing player.
+Players each take a turn in clockwise order. Any reference to "you" is to the active player (who is currently taking their turn).
 
-On your turn you will resolve a test against an <span class="obstacle">obstacle</span>. 
-
-<img class="card" alt="obstacle card" style="float: right; max-width: 300px" src="new-rulebook/obstacle.png"/>
-
-Each <span class="obstacle">obstacle</span> will have the following elements:
-- A <strong>target rating</strong> number
-- Zero or more associated skill icons (e.g. <mark>🤚🦵👄</mark>)
-
-There are a couple of extra pieces of information only used for setup (they have no effect during gameplay):
-- Difficulty (e.g. 🐀🐀🐀)
-- Associated job and order in that job (e.g. "B1")
-
-Resolving a test is done with the following steps:
+On your turn you will test against an <span class="obstacle">obstacle</span> with the following steps:
 
 1. Select Obstacle
 2. Others May Assist
@@ -155,10 +155,10 @@ Resolving a test is done with the following steps:
 
 ### 1. SELECT OBSTACLE
 
-Choose an <span class="obstacle">obstacle</span> and place <mark>some sort of marker</mark> on that obstacle to let other players know where you will be testing. 
+Choose an <span class="obstacle">obstacle</span> and place the active job marker on it to let everyone know where you will be testing. 
 
 ### 2. OTHERS MAY ASSIST
-Everyone else (each non-testing player) has an opportunity to bet on the outcome of your upcoming test. They may choose to exhaust one of their <span class="skill">skill</span> cards in order for a reward if the test is successful. Players choose to do this simultaneously, and must do so before the testing player proceeds. Any player who pays this exhaust cost is considered to be as **assisting** player. 
+Everyone else has an opportunity to bet on the outcome of your upcoming test. They may choose to exhaust one of their <span class="skill">skill</span> cards in order to gain a reward _if the test is successful_. Players choose to do this simultaneously, and must do so before the active player proceeds. Any player who pays this exhaust cost is considered to be as **assisting** player. 
 
 ### 3. DRAW CHIPS
 You now draw 2 chips from the bag without looking, at place them on the table.
@@ -169,9 +169,9 @@ At times you may need to draw a chip when there are no chips remaining in the ba
 
 ### 4. USE SKILLS
 
-<img class="card" alt="skill card" style="max-width: 150px" src="new-rulebook/trick.png"/> 
-
 At this time you may use any number of ready skills one at a time to modify the chip results. Skill effects could involve flipping chips (to change which modifier value is showing), drawing additional chips, adding numeric modifiers, or any number of effects.
+
+<img class="card" alt="skill icon" style="max-width: 50px" src="new-rulebook/skillFoot.png"/><img class="card" alt="skill icon" style="max-width: 50px" src="new-rulebook/skillPaw.png"/><img class="card" alt="skill icon" style="max-width: 50px" src="new-rulebook/skillTeeth.png"/> 
 
 Note that some skills will indicate that they only have an effect when activated for <span class="obstacle">obstacles</span> that have a matching skill icon. <mark>TODO: Provide an example</mark>
 
@@ -185,28 +185,26 @@ Add the following together:
 
 This value is your **test rating**. 
 
-If the test rating is less than the target rating you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
+### 6. RESOLVE (SUCCESS OR FAILURE)
 
-### 6. RESOLVE
+If the test rating is less than the obstacle's **target rating** you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
 #### FAILURE
 - Ready all of your skill cards
-- Take 1 <span class="trash">trash</span> token from the supply.
+- Take 1 <span class="trash">trash</span> from the supply.
 
 #### SUCCESS
-- Add one of your contribution markers to job's track.
+- Add one of your contribution markers to the job's track.
 - All assisting players take 1 <span class="trash">trash</span> from the supply.
+- Return the <span class="obstacle">obstacle</span> to the game box.
 
 ### 7. BUY A SKILL
 You may optionally return 1 <span class="trash">trash</span> to the supply in order to learn a skill from the market.
 
 ### 8. CLEANUP
-If the <span class="obstacle">obstacle</span> is a "Finale Obstacle":
-- Failure: Skip the rest of this step (the <span class="obstacle">obstacle</span> remains in play).
-- Success: The game is over. Continue to "End Game & Scoring" below.
+If the there are no more <span class="obstacle">obstacles</span> remaining for the job then the game is over. Continue to "End Game & Scoring" below.
 
-Otherwise
-- Return the <span class="obstacle">obstacle</span> to the game box.
+Otherwise:
 - Move all other chips drawn for this test to the center play area (alongside with any chips drawn from previous tests).
 - Pass the bag to the next player in clockwise order.
 
@@ -216,7 +214,7 @@ The end game is triggered when one of the jobs has been completed (there are no 
 ## Distribute food
 For each job, players claim food tokens according to their number of contribution markers on the track. The player with the most markers gets 1st choice of food token, the 2nd place will choose next, and so on. Ties are broken by whoever among the tied players has a token furthest ahead on the track.
 
-If all food tokens have been claimed for that job, any player with at least one contribution marker will instead take 1 <span class="trash">trash</span> instead.
+If all food tokens have been claimed for that job, any player with at least one contribution marker will instead take 1 <span class="trash">trash</span>.
 
 ## Most points wins
 Each player calculates their total score from their tokens:
