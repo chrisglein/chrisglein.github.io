@@ -35,3 +35,11 @@ series: Music Education
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2aIB1CdRRG7YLBu9hNw9nR?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 https://en.wikipedia.org/wiki/The_Beautiful_People_(song)
+
+### Stinkfist - Tool (19XX)
+
+- 13 minute "3 eye"
+- Four person progressive metal band from Los Angeles
+- Break out hit "sober" scary, claymation music video
+- Song "Stinkfist" MTV would not refer to my name, but instead as track one as it was the first track of the album enema, which was their second, I think
+- "46 and 2" bass intro

@@ -74,4 +74,4 @@ https://en.wikipedia.org/wiki/Achy_Breaky_Heart
 - "You’re still the one"
 - "From this Moment On" reached #2 on charts 
 - "That don’t impress me much" sparked to response to story about naked Brad Pitt, [video](https://youtu.be/mqFLXayD6e8?si=hK1_JxPhplQEsy30)
-- "Man! I Feel Like a Woman" [video](https://youtu.be/ZJL4UGSbeFg?si=Sv6OdyAGi_xG_LUA)
+- "Man! I Feel Like a Woman" [video](https://youtu.be/ZJL4UGSbeFg?si=Sv6OdyAGi_xG_LUA), homage to ["Addicted to Love"](https://www.youtube.com/watch?v=XcATvu5f9vE)

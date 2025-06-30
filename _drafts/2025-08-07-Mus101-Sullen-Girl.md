@@ -12,13 +12,13 @@ series: Music Education
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1300POeOaj8qho30FRHjgf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - "Crucify"
-- Cover of “smells like teen spirit”, performed night after he died
-- Kicked out of prestigious school for “musical insubordination”. Loved The Doors and Led Zeppelin 
-- Move to LA and started a band called why can’t Tori read, song “faith“
-- “Silent all these years“
-- “Winter“ when you gonna make up your mind
-- “Me and a gun “song about rape, personal story
-- In discussing talking about rape as a public figure, Fiona Apple says some things in an article, doesn’t like how that’s captured articulated. Writes a poem about it, “when the pawn…“
+- Cover of "smells like teen spirit", performed night after he died
+- Kicked out of prestigious school for "musical insubordination". Loved The Doors and Led Zeppelin 
+- Move to LA and started a band called why can’t Tori read, song "faith"
+- "Silent all these years"
+- "Winter" when you gonna make up your mind
+- "Me and a gun" song about rape, personal story
+- In discussing talking about rape as a public figure, Fiona Apple says some things in an article, doesn’t like how that’s captured articulated. Writes a poem about it, "when the pawn…"
 - Tori becomes spokesperson for RAIN, rape and incest network
 
 ### Shadow Boxer - Fiona Apple (1996)

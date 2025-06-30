@@ -91,6 +91,13 @@ Billy Idol's "Cradle of Love" was a major hit that showcased his signature blend
 ### Vogue - Madonna (1990)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27QvYgBk0CHOVHthWnkuWt?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+- Had a role in Warren Beatty‘s dick Tracy movie, songs, "Sooner or Later"
+- Boy, this lady sure makes my parents uncomfortable
+- Not the best singer or the best dancer, but worked harder
+- Vogue-ing was already a thing. Racial and sexual Minorities in ballrooms inspired by fashion. Documentary Paris is burning. Madonna eraced important context. 
+- Truth or dare documentary. Romantically involves with Warren Beatty. Also, Dennis Rodman, that happened.
+
+
 ### Nothing Compares 2 U - Sinead O'Connor (1990)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GHY1DFWKz3Prg2V0Iodqo?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
