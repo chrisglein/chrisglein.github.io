@@ -45,7 +45,7 @@ Starting with the first player each player takes a turn in clockwise order until
 
 # CORE CONCEPTS
 
-## TILES PRODUCE RESOURCES 
+## TILE RESOURCES 
 Each tile has a resource that it produces:
 
 | Tile | Resource |
@@ -55,8 +55,8 @@ Each tile has a resource that it produces:
 | Ocean | Pearl (blue) |
 | Town | Gold |
 
-## DRAGONS EAT RESOURCES
-Each dragon has a preferred resource it wants to eat.
+## DRAGONS EAT
+Each dragon has preferred resources it wants to eat.
 
 | Dragon | Resource |
 | --- | --- |
@@ -65,7 +65,7 @@ Each dragon has a preferred resource it wants to eat.
 | Blue | Pearl / Gold |
 | Gold | Gold |
 
-All dragons will accept gold (it is a "wild" resource).
+Note that all dragons will accept gold (it is a "wild" resource).
 
 ## YOUR NEST
 
@@ -75,7 +75,7 @@ To **feed** a dragon you move 1 resource from your nest's supply and place it to
 
 A dragon with 3 resources on it is considered fully grown and ready to create a **lair**.
 
-# TERRITORY
+## TERRITORY
 
 A **territory** is a set of contiguous tiles of the same type.
 
@@ -87,7 +87,7 @@ It is possibile to add a lair to a territory that is already controled, however 
 
 Town tiles can never have lairs in them and thus can never be controled.
 
-## EXAMPLE
+### EXAMPLE
 <img src="rulebook\ScoringExample.png"/>
 
 This map has 5 potential territories. There is one forest territory with 4 tiles, one mountain in the West with 2 and another in the East with 1. There are two separate ocean territories, the North with 2 and the North East with 1 (they are separate because they don’t share a water edge). No player can ever claim the town.
