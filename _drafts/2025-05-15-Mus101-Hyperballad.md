@@ -13,6 +13,6 @@ series: Music Education
 - Sugar Cubes, album 1988
 - Video eaten by bear
 - Bachelorette music video
-- Trip hop, “Sour Times”, “All Mine”
-- Massive attack “Unfinished Sympathy”
+- Trip hop, "Sour Times", "All Mine"
+- Massive attack "Unfinished Sympathy"
 - Dated Tricky, told him Never learn to sing

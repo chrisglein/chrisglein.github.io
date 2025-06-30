@@ -38,8 +38,8 @@ https://en.wikipedia.org/wiki/The_Beautiful_People_(song)
 
 ### Stinkfist - Tool (19XX)
 
-- 13 minute “3 eye”
+- 13 minute "3 eye"
 - Four person progressive metal band from Los Angeles
-- Break out hit “sober“ scary, claymation music video
-- Song “Stinkfist“ MTV would not refer to my name, but instead as track one as it was the first track of the album enema, which was their second, I think
-- “46 and 2” bass intro
+- Break out hit "sober" scary, claymation music video
+- Song "Stinkfist" MTV would not refer to my name, but instead as track one as it was the first track of the album enema, which was their second, I think
+- "46 and 2" bass intro

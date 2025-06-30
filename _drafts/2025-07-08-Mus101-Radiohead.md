@@ -16,9 +16,9 @@ series: Music Education
 - Band basically stopped playing the song cause they didn’t like it.
 - Unexpected court change in chorus from G major to B major. Then C major to C minor
 - The bends 1995
-- “My iron lung“
+- "My iron lung"
 - OK computer 1997
-- “Let Down”
+- "Let Down"
 
 
 ### High and Dry - Radiohead (1995)

@@ -36,14 +36,14 @@ https://en.wikipedia.org/wiki/Just_a_Girl
 
 ### Santeria - Sublime (1996)
 
-- Song “date rape”
+- Song "date rape"
 - Brad died of heroin overdose in 1996 at 28
 - Ska punk
-- “Caress me down”
+- "Caress me down"
 - As a kid had a family trip to the Virgin Islands and fell in love with reggae music
-- Influences: Sugar mynot. Shaka Dimas and pliers song “murder she wrote“  reverend doctor tenant something, “west your size”.
-- Podcast “Bandsplain“ on sublime
-- “Bad fish”
-- Radio DJ at KROQ in LA happens to play “date rape“ on the radio and it explodes and that’s how Santeria gets a big break and a major record company deal. Record self titled sublime outfit album, Brad in rehab, but by time of release Brad is dead from heroin overdose.
-- “What I got” and it’s not riot guitar solo, but memorable.
-- 311 “all mixed up” “beautiful disaster”  
+- Influences: Sugar mynot. Shaka Dimas and pliers song "murder she wrote"  reverend doctor tenant something, "west your size".
+- Podcast "Bandsplain" on sublime
+- "Bad fish"
+- Radio DJ at KROQ in LA happens to play "date rape" on the radio and it explodes and that’s how Santeria gets a big break and a major record company deal. Record self titled sublime outfit album, Brad in rehab, but by time of release Brad is dead from heroin overdose.
+- "What I got" and no it’s not a muther-f-ing riot guitar solo, but it is memorable.
+- 311 "all mixed up" "beautiful disaster"  
