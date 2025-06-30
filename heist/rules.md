@@ -58,13 +58,13 @@ Modifier chips
 </table>
 
 <table class="components">
-<tr><td><img class="card smallPortrait" alt="identity card" src="new-rulebook/identity.png"/></td><td></td><td><img alt="contribution marker" src="new-rulebook/contributionMarker.png"/></td></tr>
-<tr><td>18 starting skill cards<br>(3 of each player color)</td><td><br>(1 of each player color)</td><td>24 contribution markers<br>(8 of each player color)</td></tr>
+<tr><td><img class="card smallPortrait" alt="identity card" src="new-rulebook/identity.png"/></td><td><img alt="active job marker" src="new-rulebook/activeJob.png"/></td></td><td><img alt="contribution marker" src="new-rulebook/contributionMarker.png"/></td></tr>
+<tr><td>18 starting skill cards<br>(3 of each player color)</td><td>Active job marker</td><td>24 contribution markers<br>(8 of each player color)</td></tr>
 </table>
 
 
 <table class="components">
-<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="trash token" src="new-rulebook/cheeseToken.png"/></td><td><img alt="bag" src="new-rulebook/bag.png"/></td></tr>
+<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="trash token" src="new-rulebook/trashToken.png"/></td><td><img alt="bag" src="new-rulebook/bag.png"/></td></tr>
 <tr><td>12 food tokens<br>(4 each in values 20, 10, and 5)</td><td>20 trash tokens</td><td>1 opaque bag</td></tr>
 </table>
 
