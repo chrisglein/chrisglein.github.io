@@ -25,7 +25,7 @@ table.components {
   color: #5e7196;
   font-weight: bold;
 }
-.cheese {
+.trash {
   color: #ffdd99;
   font-weight: bold;
 }
@@ -58,14 +58,14 @@ Modifier chips
 </table>
 
 <table class="components">
-<tr><td><img class="card smallPortrait" alt="identity card" src="new-rulebook/identity.png"/></td><td><img class="chip" alt="player chip" src="rulebook/YellowPlus1.png"/><br><mark>Image needed</mark></td><td><img alt="contribution marker" src="new-rulebook/contributionMarker.png"/></td></tr>
-<tr><td>18 starting skill cards<br>(3 of each player color)</td><td>6 player chips<br>(1 of each player color)</td><td>24 contribution markers<br>(4 of each player color)</td></tr>
+<tr><td><img class="card smallPortrait" alt="identity card" src="new-rulebook/identity.png"/></td><td></td><td><img alt="contribution marker" src="new-rulebook/contributionMarker.png"/></td></tr>
+<tr><td>18 starting skill cards<br>(3 of each player color)</td><td><br>(1 of each player color)</td><td>24 contribution markers<br>(8 of each player color)</td></tr>
 </table>
 
 
 <table class="components">
-<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="cheese token" src="new-rulebook/cheeseToken.png"/></td><td><img alt="bag" src="new-rulebook/bag.png"/></td></tr>
-<tr><td>12 food tokens<br>(4 each in values 12, 6, and 3)</td><td>40 cheese tokens</td><td>1 opaque bag</td></tr>
+<tr><td><img alt="food token" src="new-rulebook/foodToken.png"/></td><td><img alt="trash token" src="new-rulebook/cheeseToken.png"/></td><td><img alt="bag" src="new-rulebook/bag.png"/></td></tr>
+<tr><td>12 food tokens<br>(4 each in values 20, 10, and 5)</td><td>20 trash tokens</td><td>1 opaque bag</td></tr>
 </table>
 
 
@@ -73,14 +73,13 @@ Modifier chips
 
 ### Player Components
 <img alt="player components" src="new-rulebook/playerComponents.png"/>
+<mark>Update image to remove player chips</mark>
 
-1. Randomly distribute a player chip to each player to determine their player color.
-1. Each player takes the components that match their player chip color and image.
+1. Randomly assign each player one of available the player colors.
+1. Each player takes the components that match their player color and image.
    - 3 starting <span class="skill">skill</span> cards
-   - 4 contribution markers
-   - 1 player chip
+   - 8 contribution markers
 1. Return the remaining player components to the game box.
-1. Each player takes 3 <span class="cheese">cheese</span> to start their stash.
 
 ### Jobs
 <img alt="setup diagram" src="new-rulebook/setup.png"/>
@@ -90,39 +89,43 @@ Modifier chips
 1. Separate the <span class="obstacle">obstacle</span> cards by job set letter (e.g. "A") displayed in the top right corner (e.g. set "A" has cards A1-A5).
 1. Sort each in numeric order so that the lowest number is on top (e.g. for job A obstacle A1 will be on top and A5 will be on the bottom).
 1. Place each sorted stack on top of a contribution track.
-1. For each job randomly select a 12 point, 6 point, and 3 point food item and place it next to the track.
+1. For each job randomly select a 20 point, 10 point, and 5 point food item and place it next to the track.
+
+<mark>
+Alternate setup option: Separate obstacle cards by difficulty and shuffle each difficulty tier into a pile. For each job randomly deal out deal out:
+- 1 difficulty 1
+- 3 difficulty 2
+- 1 difficulty 3
+- 1 finale.
+</mark>
 
 ### Skill market
 1. Shuffle the upgrade <span class="skill">skill</span> cards to form a face-down deck.
 1. Deal out 4 cards from the deck and place them next to the deck as a face-up market.
 
 ### The rest
-1. Put the remaining <span class="cheese">cheese</span> in a central supply.
+1. Put the remaining <span class="trash">trash</span> in a central supply.
 1. Place all modifier chips in the bag.
-1. Randomly determine a starting player (you can use the player chips for this). That player takes the bag.
+1. Randomly determine a starting player (you can use the player contribution markers for this). That player takes the bag.
 
 # GOAL
 You are all attempting to pull off jobs to score food for your colony. Each job has a sequence of obstacles, which will test each player's skill and luck. When the game ends players are each paid out in food according to how much they contributed. The player with the highest value food stash wins.
 
 ## Contribution
 
-Each job has a contribution track. When you contribute to the success of that job (by directly overcoming obstacles or by assisting others), you will increase your position on that track. Changes to your position on the track are represented by the 🐀 icon.
+Each job has a contribution track. When you contribute to the success of that job (by directly overcoming obstacles or by assisting others), you will add your player-colored contribution marker to that track. The player with the most markers on the track will receive the most points. When adding to the track, add to the next available spot on the track, indicating who contributed last (which will break ties). 
 
-### Increasing contribution (+🐀)
-
-To increase your place on the contribution track, take your player-colored contribution marker and move it up that many spaces on the track. If you are not already on the track, start counting from the first track space. If your marker's final position would land on an already occupied space, instead move to the next available space. If you have reached the end of the track and there are no more available spaces, land on the highest value available space.
-
-### Decreasing contribution (-🐀)
-
-To decrease your place on the contribution track, move backwards as above. However if you would land on an occupied space you instead move to the next available _lower value_ space. If there are no lower available spaces then remove your marker from the track entirely.
 
 ## Skills
-You begin the game with 3 <span class="skill">skills</span> that can be activated with <span class="cheese">cheese</span> to help you overcome obstacles. You can gain <span class="skill">skills</span> more as the game progresses. Each <span class="skill">skill</span> is either available (uncovered) or unavailable (covered). 
+You begin the game with 3 <span class="skill">skills</span> that can be used to help you overcome obstacles. You can gain more skills as the game progresses. Each skill is either in a **ready** state (face-up) or **exhausted** state (face-down). 
 
-### Learning a skill
-When you are prompted to learn a <span class="skill">skill</span> (typically after failing a test), choose an upgrade <span class="skill">skill</span> from the market. Add it in front of you alongside your other <span class="skill">skills</span>. You may have up to a maximum of 6 at a time, so if you would learn a new <span class="skill">skill</span> when you already have 6 first return one of your <span class="skill">skills</span> to the game box.
+To **use** a skill card, it must be ready. Execute the text on the card. Then flip it face-down.
 
-After taking a <span class="skill">skill</span> from the market, deal out a new one from the deck to replace it.
+To **exhaust** a skill card, it must be ready. Flip it face-down but ignore the text on the card.
+
+To **ready** a skill, flip it face-up.
+
+To **learn** a skill, choose an upgrade skill from the market. Add it face-up in front of you alongside your other skills. Deal out a new skill card from the deck face-up to the market.
 
 # YOUR TURN
 Players each take a turn in clockwise order. On a player's turn they are considered the **testing player**. Any reference to "you" is to the testing player.
@@ -134,33 +137,28 @@ On your turn you will resolve a test against an <span class="obstacle">obstacle<
 Each <span class="obstacle">obstacle</span> will have the following elements:
 - A <strong>target rating</strong> number
 - Zero or more associated skill icons (e.g. <mark>🤚🦵👄</mark>)
-- Payout (e.g. 🐀🐀🐀)
+
+There are a couple of extra pieces of information only used for setup (they have no effect during gameplay):
+- Difficulty (e.g. 🐀🐀🐀)
 - Associated job and order in that job (e.g. "B1")
 
 Resolving a test is done with the following steps:
 
 1. Select Obstacle
-2. Get Help
+2. Others May Assist
 3. Draw Chips
-4. Activate Skills
+4. Use Skills
 5. Calculate Result
 6. Resolve (Success or Failure)
-7. Advance Obstacle
+7. Buy a Skill
 8. Cleanup
 
 ### 1. SELECT OBSTACLE
 
-Choose an <span class="obstacle">obstacle</span> and place your player chip on that <span class="obstacle">obstacle</span> card. 
+Choose an <span class="obstacle">obstacle</span> and place <mark>some sort of marker</mark> on that obstacle to let other players know where you will be testing. 
 
-### 2. GET HELP
-Everyone else (each non-testing player) has an opportunity to bet on the outcome of your upcoming test. They will choose and hold zero or more <span class="cheese">cheese</span> in a closed fist. This <span class="cheese">cheese</span> may come from either their personal stash or from their covered <span class="skill">skill</span> cards. You (the testing player) will call on everyone to simultaneously reveal how many <span class="cheese">cheese</span> they bet.
-
-#### Assisting
-Any player who reveals one or more <span class="cheese">cheese</span> is considered to be an **assisting player**. Stack that <span class="cheese">cheese</span> on the assisting player's chip and put it in front of you until the test is resolved.
-<mark>This cheese should go in your stash, but you also need to remember how much they bet...</mark>
-
-#### Abstaining
-Any player who reveals no <span class="cheese">cheese</span> is considered to be an **abstaining player**. They may return one <span class="cheese">cheese</span> from one of their covered <span class="skill">skills</span> to their stash.
+### 2. OTHERS MAY ASSIST
+Everyone else (each non-testing player) has an opportunity to bet on the outcome of your upcoming test. They may choose to exhaust one of their <span class="skill">skill</span> cards in order for a reward if the test is successful. Players choose to do this simultaneously, and must do so before the testing player proceeds. Any player who pays this exhaust cost is considered to be as **assisting** player. 
 
 ### 3. DRAW CHIPS
 You now draw 2 chips from the bag without looking, at place them on the table.
@@ -169,59 +167,60 @@ The chips have mismatched sides. Do not look and choose the sides of the chips a
 
 At times you may need to draw a chip when there are no chips remaining in the bag. When this happens, return all chips from the play area _except the ones already drawn for this test_ to the bag. Then proceed drawing.
 
-### 4. ACTIVATE SKILLS
+### 4. USE SKILLS
 
 <img class="card" alt="skill card" style="max-width: 150px" src="new-rulebook/trick.png"/> 
 
-At this time you may activate any number of <span class="skill">skills</span> one at a time to modify the chip results. These could involve flipping chips (to change which modifier value is showing), drawing additional chips, adding numeric modifiers, or any number of effects.
+At this time you may use any number of ready skills one at a time to modify the chip results. Skill effects could involve flipping chips (to change which modifier value is showing), drawing additional chips, adding numeric modifiers, or any number of effects.
 
-To activate a <span class="skill">skill</span>, it must available (uncovered). Pay a <span class="cheese">cheese</span> from your personal stash onto the <span class="skill">skill</span> card, covering it. Then resolve its effect.
-
-Note that some <span class="skill">skills</span> will indicate that they only have an effect when activated for <span class="obstacle">obstacles</span> that have a matching skill icon.
+Note that some skills will indicate that they only have an effect when activated for <span class="obstacle">obstacles</span> that have a matching skill icon. <mark>TODO: Provide an example</mark>
 
 ### 5. CALCULATE RESULT
 
+<img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
+
 Add the following together:
 - The modifiers on all chips drawn for this test
-- The modifiers on any <span class="skill">skills</span> activated for this test.
+- The modifiers granted by any skills used for this test.
 
 This value is your **test rating**. 
 
-### 6. RESOLVE
-
-<img class="card" alt="mandatory obstacle card" style="float: right; max-width: 300px" src="new-rulebook/mandatoryObstacle.png"/>
-
 If the test rating is less than the target rating you <strong>failed</strong>. Otherwise you <strong>succeeded</strong>.
 
-Leave the drawn chips in the center of the play area, alongside any other chips drawn for previous tests.
+### 6. RESOLVE
 
 #### FAILURE
-- Each assisting player takes one <span class="cheese">cheese</span> from the supply.
-- You may learn one <span class="skill">skill</span> from market.
-- Increase your place on the job's contribution track by 1.
+- Ready all of your skill cards
+- Take 1 <span class="trash">trash</span> token from the supply.
 
 #### SUCCESS
-- Take any <span class="cheese">cheese</span> on the <span class="obstacle">obstacle</span> into your stash.
-- All assisting players increase their place on the job's contribution track by the number of <span class="cheese">cheese</span> they bet. These increases are resolved one player at a time in clockwise order.
-- Increase your place on the job's contribution track by the <strong>payout</strong> value of the <span class="obstacle">obstacle</span>.
+- Add one of your contribution markers to job's track.
+- All assisting players take 1 <span class="trash">trash</span> from the supply.
 
-### 7. ADVANCE OBSTACLE
+### 7. BUY A SKILL
+You may optionally return 1 <span class="trash">trash</span> to the supply in order to learn a skill from the market.
+
+### 8. CLEANUP
 If the <span class="obstacle">obstacle</span> is a "Finale Obstacle":
 - Failure: Skip the rest of this step (the <span class="obstacle">obstacle</span> remains in play).
 - Success: The game is over. Continue to "End Game & Scoring" below.
 
-Otherwise, return the <span class="obstacle">obstacle</span> to the game box. Any <span class="cheese">cheese</span> on it are returned to the central supply.
-
-### 9. CLEANUP
-- Return all player chips to their owning players.
+Otherwise
+- Return the <span class="obstacle">obstacle</span> to the game box.
 - Move all other chips drawn for this test to the center play area (alongside with any chips drawn from previous tests).
 - Pass the bag to the next player in clockwise order.
 
 # END GAME & SCORING
 The end game is triggered when one of the jobs has been completed (there are no more <span class="obstacle">obstacles</span> in its stack).
 
-## Jobs pay out
-For each job, players claim food tokens according to their place on the contribution track. The player in 1st place on the track gets first choice, the 2nd place will choose next, and so on. If all food tokens have been claimed for that job, that player will claim a single <span class="cheese">cheese</span> token instead.
+## Distribute food
+For each job, players claim food tokens according to their number of contribution markers on the track. The player with the most markers gets 1st choice of food token, the 2nd place will choose next, and so on. Ties are broken by whoever among the tied players has a token furthest ahead on the track.
 
-## Most cheese wins
-Each player adds the value of their food tokens to the number of <span class="cheese">cheese</span> in their stash. The player with the largest total is the winner. If there is a tie the player with the most <span class="cheese">cheese</span> is the winner. If there’s still a tie the players share the victory.
+If all food tokens have been claimed for that job, any player with at least one contribution marker will instead take 1 <span class="trash">trash</span> instead.
+
+## Most points wins
+Each player calculates their total score from their tokens:
+- Food
+- Trash (2 points each)
+
+The player with the largest total is the winner. If there is a tie the player with the most <span class="trash">trash</span> is the winner. If there’s still a tie the players share the victory.
