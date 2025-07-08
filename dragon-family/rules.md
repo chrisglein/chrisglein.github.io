@@ -4,7 +4,7 @@ description: Rulebook
 categories: rules
 ---
 # SUMMARY
-Your goal is to raise dragons to controling large territories. You will do this by exploring the world, hatching eggs, gathering your hatchling’s favorite foods to help them grow, and finally helping them stake out a lair.
+Your goal is to raise dragons to controlling large territories. You will do this by exploring the world, hatching eggs, gathering your hatchling’s favorite foods to help them grow, and finally helping them stake out a lair.
 
 # COMPONENTS
 
@@ -81,11 +81,11 @@ A **territory** is a set of contiguous tiles of the same type.
 
 Ocean territories are a bit tricky and must be connected by matching water edges. If the ocean tiles touch only based on their land edge and not a water edge then they are two separate territories.
 
-At the end of the game players will earn points based on the size of the territories they **control**. Territories are controled by the player who has the most lairs in that territory. If there is a tie for most lairs then all tied players share control.
+At the end of the game players will earn points based on the size of the territories they **control**. Territories are controlled by the player who has the most lairs in that territory. If there is a tie for most lairs then all tied players share control.
 
-It is possibile to add a lair to a territory that is already controled, however this requires paying a gold **tithe** for existing lairs. Note that if two separate territories are later joined into one by placing tiles, no tithe needs to be paid.
+It is possible to add a lair to a territory that is already controlled, however this requires paying a gold **tithe** for existing lairs. Note that if two separate territories are later joined into one by placing tiles, no tithe needs to be paid.
 
-Town tiles can never have lairs in them and thus can never be controled.
+Town tiles can never have lairs in them and thus can never be controlled.
 
 ### EXAMPLE
 <img src="rulebook\ScoringExample.png"/>
