@@ -16,6 +16,17 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 - Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
 - [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9?si=aaf8f859f4da4dff) rap love song
 
+### A roller skating jam named Saturday – De La Soul (19XX)
+
+- Stage names of plug 1, 2, 3 based on inputs to a mixer
+- "Me myself and I" from 1989. They hate playing this song.
+- Dismissed as hip-hop hippies
+- Second album in 1991 after their 1989 breakout hit, second album titled _De La Soul is Dead_
+- "The magic number"
+- "I know" sibling, Steely Dan, and Otis Redding
+- "Bitties in the BK lounge"
+- "Millie"
+
 ### Fuck Tha Police - NWA (1988)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5n8Aro6j1bEGIy7Tpo7FV7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

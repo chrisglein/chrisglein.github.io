@@ -27,3 +27,14 @@ series: Music Education
 > - Lyrics explore self-discovery and introspection
 > - Became the band's most successful single
 https://en.wikipedia.org/wiki/Naked_Eye_(Luscious_Jackson_song)
+
+### Fuck and Run - Liz Phair (19XX)
+
+- Album _Exile in Guyville_, response to Rolling Stone's album _Exile on Main Street_
+- Girly tapes
+- "Slave"
+- Radio, friendly "she said" and "supernova"
+- "What makes you happy"
+- Self described as "messy crazy do what I want"
+- Commenting on later albums: can’t make the 26 year-old perspective album at 36 or whatever and still be authentic
+
