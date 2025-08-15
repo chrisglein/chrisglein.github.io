@@ -31,5 +31,3 @@ https://en.wikipedia.org/wiki/Run-Around_(song)
 > - Became one of the band's signature songs
 
 https://en.wikipedia.org/wiki/Hook_(song)
-
-### Phish

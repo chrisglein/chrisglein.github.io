@@ -5,12 +5,26 @@ tags: music
 series: Music Education
 ---
 
+[Pick it up! Ska in the 90s](https://l.plex.tv/zCtQqkd)
+- Origins in 1950s Jamaica, jazz R&B and reggae 
+- Dance music, fancy dress
+- Popular in the 90s, by 2000s a bit of a joke
+- My Boy Lollypop, 007, One Step Beyond
+- Came to England and got the attention of working class whites. Bands, the specials, operation ivy, two tone.
+- Intersection of jazz rock punk big band
+- In short, slow reggae. But that’s incorrect because reggae actually originated as slowed down scar music.
+- Not as economically viable given groups 2x to 3x size of rock bands but same amount of money to go around
+- Save Ferris, Dancehall something, women in ska
+- Fishbone. Boss tones. 
+- Skanking.
+- Sell out song. Impression that I get. Ska hits. 
+- Tony Hawk ska in game, raised awareness in new way. Good burger, included in movie opening or something.
+- Aquabats decided to make kids show Yo Gabba Gabba
+- Ska quickly went from raising in popularity and experience in a huge bubble to that bubble, bursting and being viewed as silly and overblown
+
 ### Just a Girl - No Doubt (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5lWRaa0fBxDE5yU91npPq7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-- Reel big fish 96 sell out, beer
-- Ska
-- Mighty might Boston’s Impression that I get, someday I suppose
 - Goldfinger, here in your bedroom
 - Just a girl 95
 - Gwen Stefani 
@@ -18,7 +32,6 @@ series: Music Education
 - Gwen first performed "on my radio", obsessed with Sound of Music
 - John Spence was front man and took own like 1987, had been dating Gwen
 - Bigger brother Eric is main songwriter 
-- Sublime
 - Eric left band between second and third album, gets job animating for Simpsons 
 - 11 million people in us buy album
 - Will marry Gavin from Bush
@@ -26,6 +39,15 @@ series: Music Education
 - Spiderwebs, pop punk
 - Don’t speak, power ballad, video focuses on Gwen at expense of other band members
 - Feeling hella good so just keep on dancing, holla back girl
+- [NO DOUBT - Behind The Music VH1 Special The history of No Doubt](https://youtu.be/EgzR1YFmHUM?si=AjgmVHcwknoDG7AW)
+  - One step Beyond by Madness, ska
+  - Formed by Stefani siblings, brother opted out later after getting sick of major label meddling
+  - First 1992 album bombed, recorded a second on their own to release in 1995
+  - Just a Girl caught attention on third album in 1996, album eventually sold 10 million copies, diamond
+  - Video for Don’t Speak created to capture tension in the band over Gwen’s stardom
+  - Gwen collab with Moby and Eve
+  - Hella Good, Underneath it All
+N
 https://en.wikipedia.org/wiki/Just_a_Girl
 
 ### Sell Out - Reel Big Fish (1996)
