@@ -9,15 +9,18 @@ Electronic music in the 1990s wasn’t just a genre—it was a **movement**. It 
 
 This post isn’t trying to summarize the whole scene—good luck with that. Instead, it’s a sampler platter of six tracks that shaped the decade for me (and for many). These aren’t necessarily the deepest cuts, but they each mark a **moment** where electronic music shifted something—whether in style, reach, or emotional tone.
 
-### Little Fluffy Clouds - Orb (1991)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7H8OEVxkCgIvAvWp1MZBxw?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Little Fluffy Clouds – The Orb (1990)  
+<iframe src="https://open.spotify.com/embed/track/PLACEHOLDER1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-A dreamy, layered track that built an entire genre off a single quirky interview sample. “Little Fluffy Clouds” is **ambient house at its finest**, mixing chill beats, wide sonic space, and strange nostalgia. It made electronic music feel **expansive instead of aggressive**—like floating in a weather pattern.
+A dreamy, layered track that built an entire genre off a single quirky interview sample. *Little Fluffy Clouds* is ambient house at its finest—mixing chill beats, wide sonic space, and strange nostalgia. It made electronic music feel **expansive instead of aggressive**—like floating in a weather pattern.
 
-### Firestarter - The Prodigy (1997)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1auX4gkGe7hbrOH0BXdpV4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Firestarter – The Prodigy (1996)
+<iframe src="https://open.spotify.com/embed/track/PLACEHOLDER3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Equal parts punk and rave, “Firestarter” turned Keith Flint into a household name (and a nightmare for your parents). With snarling vocals and distorted synths, it captured the **rebellious energy** of the UK rave scene and brought it to MTV. Unapologetically noisy, and still electric.
+Equal parts punk and rave, “Firestarter” turned Keith Flint into a household name. With snarling vocals, distorted synths, and that iconic dancer sporting a reverse mohawk, it captured the rebellious energy of UK raves. Electronic wasn’t just sound—it was **attitude and visuals** too.
+
+[The Prodigy – Firestarter (Official Video)](https://www.youtube.com/watch?v=wmin5WkOuPw&utm_source=chatgpt.com)
+
 
 #### Raw Notes
 - Four guys from England, one of who is a dancer only?
@@ -37,10 +40,13 @@ Equal parts punk and rave, “Firestarter” turned Keith Flint into a household
 - This is the real punk of the 90s, including the problematic parts
 - Firestarter: https://youtu.be/wmin5WkOuPw?si=ShOXvJ6SL77i3J8r
 
-### Around the World - Daft Punk (1997)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1pKYYY0dkg23sQQXi0Q5zN?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Around the World – Daft Punk (1997)
+<iframe src="https://open.spotify.com/embed/track/PLACEHOLDER4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-The entire lyric is literally just “around the world” repeated 144 times—and yet, it’s a masterpiece. Daft Punk’s clean, funky **French house aesthetic** is fully realized here: robot voices, groovy bass, and disco reimagined through a circuit board. The Michel Gondry music video is worth watching too—each instrument represented by a different group of dancers in a giant circular stage.
+[Daft Punk – Around the World (Official Music Video)](https://www.youtube.com/watch?v=K0HSD_i2DvA&utm_source=chatgpt.com)
+
+The entire lyric is literally just “around the world” repeated—144 times. Yet it is a **masterpiece**. Daft Punk’s clean, funky French house aesthetic shines through: robot vocals, groovy bass, disco reimagined via a circuit board. The Gondry video is genius—different groups of dancers turn on and off with each musical element, showing how electronic tracks are constructed.
+
 
 #### Raw Notes
 - "Pump up the jam "statistically the most repetitive song of the 80s. Next funky "Funkytown" next "I’ve got my mind set on you"
@@ -54,18 +60,16 @@ The entire lyric is literally just “around the world” repeated 144 times—a
 - "Around the world" video set directed by same director as Eternal Sunshine of the Spotless Mind. Dancers act out specific musical aspects of the song
 - Tomas from Daft Punk hooked up with some other people to form band Stardust and put out one song ["Music sounds better with you"](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt?si=7347aaf79e154627)
 
-### Hey Boy Hey Girl - Chemical Brothers (1999)
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kXmJwrZGIhDaLT9sNo3ut?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+### Hey Boy Hey Girl – The Chemical Brothers (1999)
+<iframe src="https://open.spotify.com/embed/track/PLACEHOLDER2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 A banger from the **Big Beat era**, this track is all distorted bass, vocal loops, and hammering rhythms. It’s a song that made sense in sweaty clubs but still found its way onto radio and TV. A gateway drug into harder-edged dance music for a lot of kids in oversized pants.
+### Praise You – Fatboy Slim (1999)
+<iframe src="https://open.spotify.com/embed/track/PLACEHOLDER5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### Praise You – Fatboy Slim (1999)  
-*[Spotify embed placeholder]*  
+Messy, joyful, and sample-heavy—exactly what made Fatboy Slim stand out. Built from layers of lo-fi bits, it felt handcrafted in the best possible way. Someone even recreated it on a \$5 phone app called Koala, proving how much the tools have changed—and how accessible this music has become.
 
-This track is messy, joyful, and sample-heavy—exactly what made **Fatboy Slim** stand out. Built on layers of lo-fi samples and beat loops, it felt handcrafted in the best possible way. That *Praise You* could be made with a sampler in a bedroom is something that **today’s iPhone producers** owe a lot to.
+### Run On – Moby (1999)
+<iframe src="https://open.spotify.com/embed/track/PLACEHOLDER6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-### Run On – Moby (1999)  
-*[Spotify embed placeholder]*  
-
-From the breakout album *Play*, this track fused old gospel and blues samples with downtempo electronics. Moby’s ability to **sample with soul** helped make *Play* the first album to license *every track* for use in ads and TV. "Run On" is a standout: moody, haunting, modern, and reverent all at once.
-
+From the album *Play*, this track fused old gospel and blues samples with downtempo electronics. I love how it sounds **both dated and modern**—the clip feeling old while the beat feels new. Moby leaned into sampling songs with soul and building beats around them. *Play* was the first album to license every track to ads and TV—and *Run On* stands out as *gorgeous, haunting, modern, and reverent* all at once.
