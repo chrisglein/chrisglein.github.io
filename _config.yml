@@ -4,7 +4,7 @@ tagline:          'Game Design and Life'
 description:      'Game design, and musings on life in general'
 baseurl:          /
 url:              https://chrisglein.com
-paginate:         5
+paginate:         3
 
 excerpt_separator:  <!--more-->
 
