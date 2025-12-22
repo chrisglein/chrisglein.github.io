@@ -280,3 +280,15 @@ iframe.embeddedVideo {
       height: 270px;
   }
 }
+iframe.embeddedVideo.short {
+  width: 180px;
+  height: 180px;
+  float: left;
+  margin-right: 1em;
+}
+@media (max-width: 480px) {
+  iframe.embeddedVideo.short {
+    width: 180px;
+    height: 180px;
+  }
+}
