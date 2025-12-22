@@ -50,6 +50,7 @@ I had no idea where I wanted to take this loop. But I wanted moody distortion. S
 
 ### Loop 8
 <iframe class="embeddedVideo" src="https://youtube.com/embed/Ha7LeXhZMtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+That's a Q-tron envelope filter. Then some western-sounding big tremolo chords on top. Sure, why not? 
 
 ### Loop 9
 <iframe class="embeddedVideo" src="https://youtube.com/embed/h1dpoUms7Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
