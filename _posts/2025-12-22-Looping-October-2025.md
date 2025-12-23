@@ -12,6 +12,7 @@ h2, h3, h4, h5 {
 Here are the loop jams I captured from the month of October.
 
 <!--more-->
+<iframe class="embeddedVideo" src="https://www.youtube.com/embed/JElNeuAmLvU?si=wdLCaSwVNtEhhnND" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Loop 1
 <iframe class="embeddedVideo short" src="https://youtube.com/embed/mAYPEXkUH_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -47,5 +48,4 @@ That's a Q-tron envelope filter. Then some western-sounding big tremolo chords o
 
 ### Loop 9
 <iframe class="embeddedVideo short" src="https://youtube.com/embed/h1dpoUms7Pk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-That's a Q-tron envelope filter. Then some western-sounding big tremolo chords on top. Sure, why not? 
 I started with a more opinionated base layer. That means whatever is played on top as a "lead" layer needs to fit, and be a little more spacious. When it works well it works, this one is… reasonable.
