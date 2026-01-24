@@ -12,7 +12,7 @@ h2, h3, h4, h5 {
 Here are the loop jams I captured from month of December.
 
 <!--more-->
-<iframe class="embeddedVideo" src="https://www.youtube.com/embed/JElNeuAmLvU?si=wdLCaSwVNtEhhnND" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="embeddedVideo" src="https://www.youtube.com/embed/NbAgWm6G4fI?si=PRzmiuDcehIhoC_S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Loop 1
 <iframe class="embeddedVideo short" src="https://youtube.com/embed/V5uyqnG_g28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
