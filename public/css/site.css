@@ -114,6 +114,10 @@
 .playIcon.netflix {
   background-image: url(/media/netflix.png);
 }
+.playLine .appletv,
+.playIcon.appletv {
+  background-image: url(/media/appletv.png);
+}
 .playLine .amazon,
 .playIcon.amazon {
   background-image: url(/media/amazon.png);
