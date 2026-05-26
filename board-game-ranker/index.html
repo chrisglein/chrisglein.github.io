@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Board Game Ranker</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Board Game Ranker</h1>
+    <p class="subtitle">Pick the game you'd rather play in each matchup. Games land in tiers by wins.</p>
+  </header>
+
+  <main>
+    <section id="setup-section">
+      <h2>Setup</h2>
+      <p><span id="game-count">0</span> games loaded</p>
+      <div class="setting-row">
+        <label for="round-slider">Rounds</label>
+        <input type="range" id="round-slider" min="2" max="8" value="4" />
+        <span id="round-display">4</span>
+      </div>
+      <p id="comparison-estimate" class="hint"></p>
+      <button id="start-btn">Start Ranking</button>
+    </section>
+
+    <section id="progress-section" class="hidden">
+      <div id="progress-text"></div>
+      <div id="progress-bar"></div>
+    </section>
+
+    <section id="matchup-section" class="hidden">
+      <h2>Which would you rather play?</h2>
+      <p id="round-info" class="hint"></p>
+      <div id="matchup">
+        <button class="game-card" id="card-a"></button>
+        <div class="vs">vs</div>
+        <button class="game-card" id="card-b"></button>
+      </div>
+    </section>
+
+    <section id="standings-section" class="hidden">
+      <h2>Current Standings</h2>
+      <div id="standings"></div>
+    </section>
+
+    <section id="results-section" class="hidden">
+      <h2>Final Ranking</h2>
+      <div id="final-tiers"></div>
+      <h3>JSON Output</h3>
+      <textarea id="json-output" readonly rows="14"></textarea>
+      <button id="copy-json">Copy JSON</button>
+      <button id="restart">Start Over</button>
+    </section>
+  </main>
+
+  <script src="games.js"></script>
+  <script src="game-art-cache.js" onerror="window.GAME_ART={}"></script>
+  <script src="script.js"></script>
+</body>
+</html>
