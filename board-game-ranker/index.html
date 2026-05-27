@@ -24,6 +24,10 @@ layout: page
   box-sizing: border-box;
 }
 
+#board-game-ranker strong {
+  color: var(--bgr-text);
+}
+
 #board-game-ranker .bgr-header {
   max-width: 900px;
   margin: 0 auto 2rem;
@@ -138,7 +142,7 @@ layout: page
   background: #2f2f36;
   border: 2px solid transparent;
   border-radius: 10px;
-  padding: 1.5rem;
+  padding: 0.5rem;
   color: var(--bgr-text);
   text-align: left;
   cursor: pointer;
@@ -146,8 +150,9 @@ layout: page
   transition: all 0.15s ease;
   min-height: 130px;
   display: flex;
-  gap: 1rem;
+  gap: 0.5rem;
   align-items: center;
+  position: relative;
 }
 
 #board-game-ranker .card-art {
@@ -166,6 +171,7 @@ layout: page
   flex-direction: column;
   gap: 0.1rem;
   line-height: 1.1;
+  padding-bottom: 1.6rem;
 }
 
 #board-game-ranker .game-card:hover {
@@ -175,7 +181,7 @@ layout: page
 }
 
 #board-game-ranker .game-card .title {
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-weight: 600;
   margin-bottom: 0.1rem;
   display: -webkit-box;
@@ -186,7 +192,27 @@ layout: page
 
 #board-game-ranker .game-card .meta {
   color: var(--bgr-muted);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+}
+
+#board-game-ranker .bgg-link {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.5rem;
+  font-size: 0.7rem;
+  color: var(--bgr-accent);
+  text-decoration: none;
+  border: 1px solid rgba(232, 185, 35, 0.45);
+  border-radius: 999px;
+  padding: 0.2rem 0.5rem;
+  line-height: 1.2;
+}
+
+#board-game-ranker .bgg-link:hover,
+#board-game-ranker .bgg-link:focus-visible {
+  background: rgba(232, 185, 35, 0.15);
+  border-color: var(--bgr-accent);
+  outline: none;
 }
 
 #board-game-ranker .list-meta {
@@ -363,9 +389,9 @@ layout: page
       <h2>Which would you rather play?</h2>
       <p id="round-info" class="hint"></p>
       <div id="matchup">
-        <button class="game-card" id="card-a"></button>
+        <div class="game-card" id="card-a" role="button" tabindex="0" aria-label="Choose game A"></div>
         <div class="vs">vs</div>
-        <button class="game-card" id="card-b"></button>
+        <div class="game-card" id="card-b" role="button" tabindex="0" aria-label="Choose game B"></div>
       </div>
     </section>
 

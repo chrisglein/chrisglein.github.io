@@ -132,11 +132,47 @@ function cardMeta(game) {
   return parts.join(' \u00B7 ');
 }
 
+function gameBggUrl(game) {
+  if (game.bggUrl) {
+    return game.bggUrl;
+  }
+  if (game.bggId) {
+    return `https://boardgamegeek.com/boardgame/${encodeURIComponent(String(game.bggId))}`;
+  }
+  return `https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=${encodeURIComponent(game.title)}`;
+}
+
+function cardHtml(game) {
+  return `${artImg(game, 'card-art')}<div class="card-text"><div class="title">${esc(game.title)}</div><div class="meta">${cardMeta(game)}</div></div><a class="bgg-link" href="${gameBggUrl(game)}" target="_blank" rel="noopener noreferrer" aria-label="Open ${esc(game.title)} on BoardGameGeek">BGG</a>`;
+}
+
 function renderMatchup(a, b) {
-  cardA.innerHTML = `${artImg(a, 'card-art')}<div class="card-text"><div class="title">${esc(a.title)}</div><div class="meta">${cardMeta(a)}</div></div>`;
-  cardB.innerHTML = `${artImg(b, 'card-art')}<div class="card-text"><div class="title">${esc(b.title)}</div><div class="meta">${cardMeta(b)}</div></div>`;
+  cardA.innerHTML = cardHtml(a);
+  cardB.innerHTML = cardHtml(b);
+
+  cardA.setAttribute("aria-label", `Choose ${a.title}`);
+  cardB.setAttribute("aria-label", `Choose ${b.title}`);
+
   cardA.onclick = () => choose(a);
   cardB.onclick = () => choose(b);
+
+  cardA.onkeydown = (e) => {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      choose(a);
+    }
+  };
+  cardB.onkeydown = (e) => {
+    if (e.key === "Enter" || e.key === " ") {
+      e.preventDefault();
+      choose(b);
+    }
+  };
+
+  for (const link of [cardA.querySelector(".bgg-link"), cardB.querySelector(".bgg-link")]) {
+    if (!link) continue;
+    link.addEventListener("click", (e) => e.stopPropagation());
+  }
 }
 
 function choose(game) {
