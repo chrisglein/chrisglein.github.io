@@ -174,10 +174,12 @@ layout: page
   padding-bottom: 1.6rem;
 }
 
-#board-game-ranker .game-card:hover {
-  background: var(--bgr-hover);
-  border-color: var(--bgr-accent);
-  transform: translateY(-2px);
+@media (hover: hover) and (pointer: fine) {
+  #board-game-ranker .game-card:hover {
+    background: var(--bgr-hover);
+    border-color: var(--bgr-accent);
+    transform: translateY(-2px);
+  }
 }
 
 #board-game-ranker .game-card .title {
