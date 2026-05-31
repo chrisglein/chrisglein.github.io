@@ -39,6 +39,8 @@ https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
 ### Enjoy the Silence - Depeche Mode (1990)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1JekRMGQ8iN4G1AAdh0SBa?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+🎙️ One Song: [Depeche Mode, Part 2: Enjoy The Silence](https://podcasts.apple.com/us/podcast/depeche-mode-part-2-enjoy-the-silence/id1696154359?i=1000671636450&uo=4)
+
 - Punk rock but with synths 
 - Poppy and then sad
 - Sinister synth pop

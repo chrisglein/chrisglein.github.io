@@ -12,6 +12,8 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 ### Scenario - A Tribe Called Quest (1991)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0301nLjG0ti26rx5ZmfqtP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+🎙️ One Song: [A Tribe Called Quest — Scenario](https://podcasts.apple.com/us/podcast/a-tribe-called-quests-scenario/id1696154359?i=1000698997950&uo=4)
+
 - Q-Tip and Phife
 - Posse cut (compare to Make 'Em Say Uhh!) by tonight Lil' Kim, Flavor in Your Ear 
 - [Bonita Applebum](https://open.spotify.com/track/5N5fp1lYSORdZbWanACki9?si=aaf8f859f4da4dff) rap love song
@@ -70,6 +72,8 @@ Samples ["Walk On The Wild Side"](https://open.spotify.com/track/5p3JunprHCxClJj
 
 ### Nuthin' But a 'G' Thang - Dr. Dre (1992)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Tbpp3OLLClPJF8t1DmrFD?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+🎙️ One Song: [Dr. Dre — Nuthin' But A 'G' Thang](https://podcasts.apple.com/us/podcast/dr-dres-nuthin-but-a-g-thang/id1696154359?i=1000664003294&uo=4)
 
 - *The Chronic*
 - Snoop Doggy Dogg

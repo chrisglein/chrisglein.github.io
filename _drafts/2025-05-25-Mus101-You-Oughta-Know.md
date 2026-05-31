@@ -19,6 +19,8 @@ https://en.wikipedia.org/wiki/Come_to_My_Window
 ### You Oughta Know - Alanis Morissette (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Dw9z44gXhplDh5HCWZIxP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+🎙️ One Song: [Alanis Morissette — You Oughta Know](https://podcasts.apple.com/us/podcast/alanis-morissettes-you-oughta-know/id1696154359?i=1000754805871&uo=4)
+
 - Censorship of fuck 
 - Angry white female
 - Dry vocals to be intimate and maybe unsettling

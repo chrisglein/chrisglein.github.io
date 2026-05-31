@@ -8,6 +8,8 @@ series: Music Education
 ### Smells Like Teen Spirit - Nirvana (1991)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6y1etHPLRsgA467gLBOgBm?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+🎙️ One Song: [Nirvana — Smells Like Teen Spirit](https://podcasts.apple.com/us/podcast/nirvana-smells-like-teen-spirit/id1696154359?i=1000628662186&uo=4)
+
 - Story of living under the bridge
 - Story of buying first guitar from mom’s boyfriend (uncle?) guns
 - First concert not black Flag

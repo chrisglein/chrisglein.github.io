@@ -21,6 +21,8 @@ https://open.spotify.com/track/35qwJUKVy1OIt0wQ3xEXi0?si=55f05a4d194146a2
 ### Last Goodbye - Jeff Buckley (1994)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0y5CnV2idm2KkQEudDjfDT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+🎙️ Strong Songs: [Last Goodbye by Jeff Buckley](https://podcasts.apple.com/us/podcast/last-goodbye-by-jeff-buckley/id1443417194?i=1000472984572&uo=4)
+
 ### Sick of Myself - Matthew Sweet (1995)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4inXYz8i3xRpNbxZJ99Clo?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -50,6 +52,8 @@ https://en.wikipedia.org/wiki/Follow_You_Down
 
 ### Iris - The Goo Goo Dolls (1998)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Qyc6fS4DsZjB2mRW9DsQs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+🎙️ Song Exploder: [Goo Goo Dolls — Iris](https://podcasts.apple.com/us/podcast/goo-goo-dolls-iris/id788236947?i=1000716504742&uo=4)
 
 - Movie High Fidelity, flawed yearning protagnoist
 - Power pop yearning

@@ -8,6 +8,8 @@ series: Music Education
 ### Silent All These Years - Tori Amos (1992)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3IZXUxoL1Q7yUj5mh3Tmqp?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+🎙️ Strong Songs: [Silent All These Years by Tori Amos](https://podcasts.apple.com/us/podcast/silent-all-these-years-by-tori-amos/id1443417194?i=1000566722120&uo=4)
+
 ### Cornflake Girl - Tori Amos (199X)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1300POeOaj8qho30FRHjgf?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
