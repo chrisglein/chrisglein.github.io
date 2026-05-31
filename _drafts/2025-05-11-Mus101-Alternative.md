@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Say It Ain't So - Weezer (1995)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7vhhU4SsMDV8uSQlCxf1Lk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Blue album
 - Sweater song
@@ -17,6 +18,7 @@ series: Music Education
 - Loved nirvana song "Sliver"
 
 ### Shine - Collective Soul (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/77YKoNCjP5hWqiXMRG2839?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > _AI Generated_
 > - Breakout hit for the band, blending grunge and southern rock
@@ -25,6 +27,7 @@ series: Music Education
 > https://en.wikipedia.org/wiki/Shine_(Collective_Soul_song)
 
 ### December - Collective Soul (1995)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7GNLvWRG9itrCk0zarYKmQ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > _AI Generated_
 > - Alternative rock track with a haunting melody
@@ -33,15 +36,18 @@ series: Music Education
 > https://en.wikipedia.org/wiki/December_(Collective_Soul_song)
 
 ### Zombie - The Cranberies (1994)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ARWHtYnjLfOKkwLmlBVRK?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 https://en.wikipedia.org/wiki/Zombie_(The_Cranberries_song)
 
 ### Gycerine - Bush (1994)
-https://open.spotify.com/track/5buITai6eMzU8rJonMEI6e?si=54c03c0ea4e44f63
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5buITai6eMzU8rJonMEI6e?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Everlong - Foo Fighters (1997)
-https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=02757915b1374ca9
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5UWwZ5lm5PKu6eKsHAGxOk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Cannonball – The Breeders (199X)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1KdwPeY1WRWQGHCmRJTveb?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - The pixies "where is my mind"
 - "Gigantic" did the pixies invent alternative rock?
@@ -50,6 +56,7 @@ https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=02757915b1374ca9
 - Kim’s identical twin sister played guitar
 
 ### Been Caught Stealing - Jane’s Addiction (199X)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51Gkc1TxvyQ9K8y0pQRmQM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - 1990
 - "In the meantime" space hog
@@ -67,6 +74,7 @@ https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk?si=02757915b1374ca9
 - Founded lollapalooza
 
 ### Are you gonna go my way - Lenny Kravitz (1993)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/45Ia1U4KtIjAPPU7Wv1Sea?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - John Mellencamp 1995 (?) Finn Morrison‘s "wild night"
 - Bass by Meshell Ndegeocello

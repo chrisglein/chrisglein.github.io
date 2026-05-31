@@ -6,8 +6,10 @@ series: Music Education
 ---
 
 ### Chloe Dancer Crown of Thorns - Mother Love Bone
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7rBMZvgeWnOTHWUh3Pvw51?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Hunger Strike - Temple of the Dog (1991)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/35SiNV5YHBDsuiTtD0CIwc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Tribute to Mother Love Bone
 - Chloe Crown of Thorns
@@ -17,6 +19,7 @@ series: Music Education
 - Broody and problematic dark grunge vibes
 
 ### Yellow Ledbetter - Pearl Jam (1992)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Opz537W1MCVHShk0CgJHA?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - First album Ten (1991). Second is Versus.
 - Jeremy CD single had Yellow Ledbetter on it.

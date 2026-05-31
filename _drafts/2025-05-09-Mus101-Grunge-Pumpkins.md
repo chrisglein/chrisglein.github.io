@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Mayonaise - The Smashing Pumpkins (19XX)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0jmKzJmUEKNbC7eU8YfOiA?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Here is no why
 - Gish in 1991, first album
@@ -17,6 +18,7 @@ series: Music Education
 - Over focused on competing with nirvana because they got their first and Kurt was better on image than Billy 
 
 ### 1979 - The Smashing Pumpkins (1996)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3h5zik31hTTat9jmpCZZNC?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > _AI Generated_
 > - Nostalgic alternative rock track with dreamy production

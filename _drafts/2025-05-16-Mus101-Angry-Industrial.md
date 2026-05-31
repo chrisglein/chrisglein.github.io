@@ -37,6 +37,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/The_Beautiful_People_(song)
 
 ### Stinkfist - Tool (19XX)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0pwObEOHolQZSldJ2q1wpy?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - 13 minute "3 eye"
 - Four person progressive metal band from Los Angeles

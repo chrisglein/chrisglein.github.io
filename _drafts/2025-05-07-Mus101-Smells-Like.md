@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Smells Like Teen Spirit - Nirvana (1991)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6y1etHPLRsgA467gLBOgBm?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Story of living under the bridge
 - Story of buying first guitar from mom’s boyfriend (uncle?) guns
@@ -22,6 +23,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Smells_Like_Teen_Spirit
 
 ### Doll Parts - Hole (19XX)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/49t1GWE6ZiEoBgN92oMDdM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - There is a hole they pierced right through me
 - Gutless on second album, 1994

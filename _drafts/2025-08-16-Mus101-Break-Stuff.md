@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Nookie - Limp Bizkit (199X)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1TEZWG1FdjzDdercCguTwj?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Rap and metal
 - Climbed out of a giant toilet

@@ -24,6 +24,7 @@ series: Music Education
 > https://en.wikipedia.org/wiki/The_Power_(Snap!_song)
 
 ### Gonna Make You Sweat (Everybody Dance Now) - C+C Music Factory (1990)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7eheoW4hxrH51ww2QePVwF?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Uncredited Martha Wash (more than once), and credited model/singer talking about lip syncing
 - Hip-house, dance scene
@@ -36,6 +37,7 @@ https://en.wikipedia.org/wiki/Everybody_Everybody
 https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
 
 ### Enjoy the Silence - Depeche Mode (1990)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1JekRMGQ8iN4G1AAdh0SBa?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Punk rock but with synths 
 - Poppy and then sad
@@ -43,6 +45,7 @@ https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart
 https://en.wikipedia.org/wiki/Enjoy_the_Silence
 
 ### I'm Too Sexy - Right Said Fred (1991)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wmnubOPY1hyR4fSaZ9o1T?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Pretty sure this is a parody, right? Not a real band
 - I'm too sexy for my cat. I'm too sexy for this song.
@@ -53,6 +56,7 @@ https://en.wikipedia.org/wiki/Enjoy_the_Silence
 > https://en.wikipedia.org/wiki/I%27m_Too_Sexy
 
 ### Good Vibrations - Marky Mark and the Funky Bunch (1991)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5hWdgGVcfTeLPAiHM6EZG9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Mark Wahlberg the series actor will always be known to us who lived through this time as Marky Mark
 - Later in life completely crushes the role in Rock Start, and this song plays over the credits

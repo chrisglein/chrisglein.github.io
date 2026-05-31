@@ -6,6 +6,7 @@ series: Music Education
 ---
 
 ### Say My Name - Destiny's Child (19XX)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7H6ev70Weq6DdpZyyTmUXk?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Shanice competing on show star search at age of 11
 - 1987 album Discovery at age of 14. "He’s so cute"
@@ -24,6 +25,7 @@ series: Music Education
 - Too many ballads, "No no no part 2"
 
 ### ...Baby One More Time - Britney Spears (1999)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MjUtNVVq3C8Fn0MP3zhXa?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > _AI Generated_
 > - Breakout debut single for Britney Spears, launching her into pop stardom
@@ -33,6 +35,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/...Baby_One_More_Time
 
 ### Genie in a Bottle - Christina Aguilera (1999)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11mwFrKvLXCbcVGNxffGyP?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 > _AI Generated_
 > - Debut single that established Christina Aguilera as a pop powerhouse

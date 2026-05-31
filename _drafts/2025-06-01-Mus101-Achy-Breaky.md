@@ -6,12 +6,13 @@ series: Music Education
 ---
 
 ### k.d.lang "Nowhere to Stand" (1989)
-https://open.spotify.com/track/3qIV1ApAvExmodBJKWEpSJ?si=425d775163ba4d65
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3qIV1ApAvExmodBJKWEpSJ?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Fancy - Reba McEntire (1990)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0FtV0YbnnjD7PXpLHFHPhn?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### Friends in Low Places - Garth Brooks (1990)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6edCj6jvE6Xs5ECmhMsSxp?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Dad rock, Bob Seger, Eagles
 - 1991 Travis call someone who cares

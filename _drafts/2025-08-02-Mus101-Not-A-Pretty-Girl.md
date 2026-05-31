@@ -29,6 +29,7 @@ series: Music Education
 https://en.wikipedia.org/wiki/Naked_Eye_(Luscious_Jackson_song)
 
 ### Fuck and Run - Liz Phair (19XX)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4MSdFtD1JPc2W3J13uJPeS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 - Album _Exile in Guyville_, response to Rolling Stone's album _Exile on Main Street_
 - Girly tapes
