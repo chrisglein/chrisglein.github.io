@@ -1,0 +1,50 @@
+# Local fast-iteration overrides — NOT used for the production / GitHub Pages build.
+# Serve with:
+#   bundle exec jekyll serve --config _config.yml,_config.dev.yml
+#
+# Speeds up rebuilds while editing the static chrome (sidebar, home, about,
+# categories, pagination) by skipping the large game-project media folders.
+# Run a plain `bundle exec jekyll serve` when you need the game-page imagery.
+#
+# NOTE: we deliberately do NOT set `limit_posts` here — the home page links to a
+# specific 2011 post via `{% post_url %}`, which fails to resolve if that post is
+# pruned from the build.
+
+# Skips the O(n^2) "related posts" computation in footer.html, which is the
+# dominant build cost (it scans every document for every post). Production builds
+# leave this unset, so related posts still render on the live site.
+fast_dev: true
+
+# `exclude` replaces Jekyll's defaults, so the standard entries are repeated here
+# alongside the heavy media directories we don't need for static-content work.
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - .github
+  - gemfiles
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  # Large game-project media (full-resolution art + thumbnails)
+  - media
+  - portfolio
+  - studies-in-sorcery
+  - rum-runner
+  - heist
+  - dragon-family
+  - heroes-beware
+  - undiscovered
+  - ark-ship
+  - deeper
+  - fridge-feast
+  - pixel-pusher
+  - slither
+
+# Force-include the few specific images used by the static chrome (home tiles),
+# which would otherwise be pruned by the directory excludes above.
+include:
+  - media/thumbnails/index_DegreesOfDarkness.c2a9b531.jpg
+  - media/posts/postal-service.jpg
+  - media/posts/sinners.jpg

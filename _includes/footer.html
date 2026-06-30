@@ -4,7 +4,7 @@
   <div class="container">
     {% include post-series.html %}
     {% include post-tags.html %}
-    {% include post-related.html %}
+    {% unless site.fast_dev %}{% include post-related.html %}{% endunless %}
   </div>
 </div>
 {% endif %}
