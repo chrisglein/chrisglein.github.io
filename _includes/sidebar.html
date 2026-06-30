@@ -12,29 +12,44 @@
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
     {% comment %}
-      The code below dynamically generates a sidebar nav of pages with
-      `sidebar_order` set in the front-matter.
+      Top-level pages with `sidebar_order` set in front matter. Topic/tag pages
+      are excluded here (they carry `sidebar: true` and appear under Topics below).
     {% endcomment %}
-
     {% assign pages_list = site.pages | sort:"sidebar_order" %}
     {% for node in pages_list %}
-      {% if node.sidebar_order != null %}
+      {% if node.sidebar_order != null and node.sidebar != true %}
         <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
       {% endif %}
     {% endfor %}
 
-    <h4>Blog topics</h4>
-    <ul>
+    {% comment %}
+      Topics: generated from tag pages flagged with `sidebar: true` in their front
+      matter, ordered by `sidebar_order`. To surface a new topic in the sidebar,
+      add those fields to its page in /tags/ — no edit to this file required.
+    {% endcomment %}
+    <h4 class="sidebar-heading"><a href="{{ '/topics.html' | absolute_url }}">Topics</a></h4>
+    <ul class="sidebar-list">
       {% assign post_count = site.posts.size %}
       <li><a class="sidebar-nav-item{% if page.url == '/posts.html' %} active{% endif %}" href="{{ '/posts.html' | absolute_url }}">All posts<span class="count"> ({{post_count}})</span></a></li>
 
-      {% assign tag_pages = "video-games music movies board-games guitar television" | split: " " %}
-      {% for tag in tag_pages %}
-        {% capture tag_page_url_html %}/tags/{{ tag }}.html{% endcapture %}
-        {% assign tag_page_name = tag | replace: "-", " " | capitalize %}
-        {% assign tag_count = site.tags[tag].size %}
-        <li><a class="sidebar-nav-item{% if page.url == tag_page_url_html %} active{% endif %}" href="{{ tag_page_url_html | absolute_url }}">{{ tag_page_name }}<span class="count"> ({{tag_count}})</span></a></li>
+      {% assign topic_pages = site.pages | where: "sidebar", true | sort: "sidebar_order" %}
+      {% for node in topic_pages %}
+        {% assign tag_count = site.tags[node.tag] | size %}
+        <li><a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}<span class="count"> ({{tag_count}})</span></a></li>
       {% endfor %}
+    </ul>
+
+    {% comment %}
+      Series: a short, curated highlight of prominent multi-part series.
+      "Music Made Me" links to the first post in that series.
+    {% endcomment %}
+    <h4 class="sidebar-heading">Series</h4>
+    <ul class="sidebar-list">
+      {% assign music_made_me = site.posts | where: "series", "Music Made Me" | sort: "date" | first %}
+      {% if music_made_me %}
+        <li><a class="sidebar-nav-item" href="{{ music_made_me.url | absolute_url }}">Music Made Me</a></li>
+      {% endif %}
+      <li><a class="sidebar-nav-item{% if page.url == '/tags/year-in-review.html' %} active{% endif %}" href="{{ '/tags/year-in-review.html' | absolute_url }}">Year in Review</a></li>
     </ul>
 
   </nav>

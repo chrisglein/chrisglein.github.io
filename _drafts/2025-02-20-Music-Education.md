@@ -21,7 +21,7 @@ Honorable mention: [New Sensation](https://open.spotify.com/track/2bxY1baYlyXNzm
 
 "Never Gonna Give You Up" became a global phenomenon, topping the charts in 25 countries. The song gained a second life in the 2000s with the "Rickrolling" internet meme, making it a timeless piece of pop culture history. Its catchy melody and Astley's distinctive deep voice have made it a perennial favorite at parties and events. The song's unexpected resurgence in the digital age highlights its enduring appeal.
 
-https://songexploder.net/rick-astley
+🎙️ Podcast: [Song Exploder: Rick Astley — Never Gonna Give You Up](https://songexploder.net/rick-astley)
 
 ### Kokomo - The Beach Boys (1988)
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qHYXcVvc9xsFB2uH7GpMN?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
