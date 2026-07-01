@@ -162,6 +162,28 @@
 .pagination-item {
   width: 100%;
 }
+
+/* Index/post-list pagination: two equal "Older | Newer" boxes with centered
+   text, each filling its half of the row (matches the spec mockup). */
+.index-pagination .pagination-item {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  padding: 2rem 1rem;
+  color: #aa759f;
+}
+.index-pagination a.pagination-item:hover {
+  background-color: #aa759f;
+  border-color: #aa759f;
+  color: #fff;
+  text-decoration: none;
+}
+.index-pagination span.pagination-item {
+  color: #bbb;
+}
 .pagination-item:first-child {
   margin-bottom: 0px;  
 }
@@ -173,6 +195,15 @@
   }
   .pagination-item:first-child {
     border-right: none;
+  }
+}
+
+@media (max-width: 500px) {
+  .index-pagination {
+    gap: 0.5em;
+  }
+  .index-pagination .pagination-item {
+    padding: 1.25rem 0.5rem;
   }
 }
 
@@ -230,6 +261,69 @@
   color: rgba(255, 255, 255, .6);
 }
 
+/* Section headings (Topics, Series) — visually separated from the main nav and
+   from each other with a divider rule and a small uppercase label. */
+.sidebar .sidebar-heading {
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, .15);
+  text-transform: uppercase;
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+}
+.sidebar-list {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+}
+.sidebar-heading a {
+  color: inherit;
+}
+.sidebar-heading a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Topics index page — a wrapped set of topic pills with post counts. */
+.topic-index {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+.topic-index li {
+  background-color: #FFF8FF;
+  border-radius: 12px;
+  padding: 0.4rem 0.85rem;
+}
+.topic-index li:hover {
+  background-color: #f3e8f0;
+}
+.topic-index .count {
+  color: #9b8a97;
+  font-size: 0.85em;
+}
+.topic-index .topic-plain {
+  color: #777;
+}
+
+/* About page portrait — floats beside the bio on desktop, stacks on mobile. */
+.about-photo {
+  float: right;
+  width: 12rem;
+  max-width: 40%;
+  border-radius: 12px;
+  margin: 0 0 1rem 1.5rem;
+}
+@media (max-width: 500px) {
+  .about-photo {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 1rem 0;
+  }
+}
+
 .features {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -248,6 +342,15 @@
   background-color: #FFF8FF;
   border-radius: 20px;
   padding: 20px;
+}
+.feature img {
+  display: block;
+  float: none;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 12px;
+  margin: 0 0 0.75em 0;
 }
 @media (max-width: 500px) {
   .feature {

@@ -45,6 +45,7 @@ exclude:
 # Force-include the few specific images used by the static chrome (home tiles),
 # which would otherwise be pruned by the directory excludes above.
 include:
-  - media/thumbnails/index_DegreesOfDarkness.c2a9b531.jpg
-  - media/posts/postal-service.jpg
-  - media/posts/sinners.jpg
+  - media/home/game-design.jpg
+  - media/home/music-made-me.jpg
+  - media/home/year-in-review.jpg
+  - media/about/chris-glein.jpg
