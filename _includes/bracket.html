@@ -1,0 +1,47 @@
+{% comment %}
+  Shared bracket-ranker markup. Element labels (item noun, matchup prompt)
+  and the rounds default are filled in at runtime by the engine from the
+  page's window.BRACKET config, so this markup is identical for every ranker.
+{% endcomment %}
+<div class="bracket-main">
+  <section id="setup-section">
+    <h2>Setup</h2>
+    <p><span id="item-count">0</span> <span id="item-noun">items</span> loaded</p>
+    <div class="setting-row">
+      <label for="round-slider">Rounds</label>
+      <input type="range" id="round-slider" min="2" max="8" value="5" />
+      <span id="round-display">5</span>
+    </div>
+    <p id="comparison-estimate" class="hint"></p>
+    <button id="start-btn">Start Ranking</button>
+  </section>
+
+  <section id="progress-section" class="hidden">
+    <div id="progress-text"></div>
+    <div id="progress-bar"></div>
+  </section>
+
+  <section id="matchup-section" class="hidden">
+    <h2 id="matchup-prompt">Which do you prefer?</h2>
+    <p id="round-info" class="hint"></p>
+    <div id="matchup">
+      <div class="card" id="card-a" role="button" tabindex="0" aria-label="Choose option A"></div>
+      <div class="vs">vs</div>
+      <div class="card" id="card-b" role="button" tabindex="0" aria-label="Choose option B"></div>
+    </div>
+  </section>
+
+  <section id="standings-section" class="hidden">
+    <h2>Current Standings</h2>
+    <div id="standings"></div>
+  </section>
+
+  <section id="results-section" class="hidden">
+    <h2>Final Ranking</h2>
+    <div id="final-tiers"></div>
+    <h3>JSON Output</h3>
+    <textarea id="json-output" readonly rows="14"></textarea>
+    <button id="copy-json">Copy JSON</button>
+    <button id="restart">Start Over</button>
+  </section>
+</div>

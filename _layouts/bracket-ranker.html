@@ -1,0 +1,16 @@
+---
+layout: page
+---
+{% comment %}
+  Layout for bracket rankers. Imports the shared engine + styles once so each
+  ranker page only needs to supply its unique window.BRACKET config and data
+  scripts (as the page body). Set `posters: true` in front matter for portrait
+  poster art. Load order: shared markup, then the page's config + data scripts,
+  then the engine last.
+{% endcomment %}
+<link rel="stylesheet" href="{{ '/assets/bracket/bracket.css' | relative_url }}">
+<div class="bracket{% if page.posters %} bracket--posters{% endif %}">
+  {% include bracket.html %}
+</div>
+{{ content }}
+<script src="{{ '/assets/bracket/bracket.js' | relative_url }}"></script>
