@@ -11,7 +11,7 @@
 //             fetch-art.js uses it instead of looking the title up in the
 //             saved collection HTML. Handy for games on pages of your BGG
 //             collection you didn't save.
-const GAMES = [
+window.ITEMS = [
   { id: "space-base",             title: "Space Base",              players: "2-4", time: 45,  bggId: 242302 },
   { id: "skull",                  title: "Skull",                   players: "3-6", time: 45,  bggId: 92415 },
   { id: "quacks",                 title: "The Quacks of Quedlinburg", players: "2-4", time: 45,  bggId: 244521 },

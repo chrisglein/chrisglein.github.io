@@ -20,22 +20,11 @@ layout: page
   margin: 1rem 0;
 }
 
-#album-ranker strong {
-  color: var(--ar-text);
-}
-
 #album-ranker *, #album-ranker *::before, #album-ranker *::after {
   box-sizing: border-box;
 }
 
-#album-ranker .ar-header {
-  max-width: 900px;
-  margin: 0 auto 2rem;
-  text-align: center;
-}
-
-#album-ranker .ar-header h2 { margin: 0 0 0.25rem; font-size: 2rem; color: var(--ar-text); }
-#album-ranker .subtitle { color: var(--ar-muted); margin: 0; }
+#album-ranker strong { color: var(--ar-text); }
 
 #album-ranker .ar-main {
   max-width: 900px;
@@ -48,7 +37,7 @@ layout: page
 #album-ranker section {
   background: var(--ar-panel);
   border-radius: 12px;
-  padding: 0.5rem;
+  padding: 1.5rem;
 }
 
 #album-ranker h2 { margin: 0 0 1rem; font-size: 1.25rem; color: var(--ar-text); }
@@ -102,11 +91,11 @@ layout: page
   gap: 1rem;
 }
 
-#album-ranker .album-card {
+#album-ranker .card {
   background: #2f2f36;
   border: 2px solid transparent;
   border-radius: 10px;
-  padding: 0.5rem;
+  padding: 0.75rem;
   color: var(--ar-text);
   text-align: left;
   cursor: pointer;
@@ -114,9 +103,11 @@ layout: page
   transition: all 0.15s ease;
   min-height: 130px;
   display: flex;
-  gap: 0.5rem;
+  gap: 0.75rem;
   align-items: center;
+  position: relative;
 }
+#album-ranker .card--link .card-text { padding-bottom: 1.6rem; }
 #album-ranker .card-art {
   width: 100px;
   height: 100px;
@@ -131,15 +122,21 @@ layout: page
   display: flex;
   flex-direction: column;
   gap: 0.1rem;
-  line-height: 1.1;
+  line-height: 1.15;
 }
-#album-ranker .album-card:hover {
-  background: var(--ar-hover);
+@media (hover: hover) and (pointer: fine) {
+  #album-ranker .card:hover {
+    background: var(--ar-hover);
+    border-color: var(--ar-accent);
+    transform: translateY(-2px);
+  }
+}
+#album-ranker .card:focus-visible {
+  outline: none;
   border-color: var(--ar-accent);
-  transform: translateY(-2px);
 }
-#album-ranker .album-card .title {
-  font-size: 1.0rem;
+#album-ranker .card .title {
+  font-size: 1.05rem;
   font-weight: 600;
   margin-bottom: 0.1rem;
   display: -webkit-box;
@@ -147,13 +144,26 @@ layout: page
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-#album-ranker .album-card .artist {
-  color: var(--ar-text);
-  font-size: 0.8rem;
+#album-ranker .card .sub { color: var(--ar-text); font-size: 0.85rem; }
+#album-ranker .card .meta { color: var(--ar-muted); font-size: 0.85rem; }
+
+#album-ranker .ext-link {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.5rem;
+  font-size: 0.7rem;
+  color: var(--ar-accent);
+  text-decoration: none;
+  border: 1px solid rgba(232, 185, 35, 0.45);
+  border-radius: 999px;
+  padding: 0.2rem 0.5rem;
+  line-height: 1.2;
 }
-#album-ranker .album-card .year {
-  color: var(--ar-muted);
-  font-size: 0.8rem;
+#album-ranker .ext-link:hover,
+#album-ranker .ext-link:focus-visible {
+  background: rgba(232, 185, 35, 0.15);
+  border-color: var(--ar-accent);
+  outline: none;
 }
 
 #album-ranker .vs { font-weight: bold; color: var(--ar-accent); font-size: 1.25rem; }
@@ -189,6 +199,11 @@ layout: page
   margin: initial;
 }
 #album-ranker .tier-group li:last-child { border-bottom: none; }
+#album-ranker .tier-group h3 {
+  color: var(--ar-accent);
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
 
 #album-ranker textarea {
   width: 100%;
@@ -250,7 +265,7 @@ layout: page
   <div class="ar-main">
     <section id="setup-section">
       <h2>Setup</h2>
-      <p><span id="album-count">0</span> albums loaded</p>
+      <p><span id="item-count">0</span> <span id="item-noun">albums</span> loaded</p>
       <div class="setting-row">
         <label for="round-slider">Rounds</label>
         <input type="range" id="round-slider" min="2" max="8" value="5" />
@@ -266,12 +281,12 @@ layout: page
     </section>
 
     <section id="matchup-section" class="hidden">
-      <h2>Which do you prefer?</h2>
+      <h2 id="matchup-prompt">Which do you prefer?</h2>
       <p id="round-info" class="hint"></p>
       <div id="matchup">
-        <button class="album-card" id="card-a"></button>
+        <div class="card" id="card-a" role="button" tabindex="0" aria-label="Choose album A"></div>
         <div class="vs">vs</div>
-        <button class="album-card" id="card-b"></button>
+        <div class="card" id="card-b" role="button" tabindex="0" aria-label="Choose album B"></div>
       </div>
     </section>
 
@@ -291,6 +306,27 @@ layout: page
   </div>
 </div>
 
+<script>
+  // Config for this ranker. The engine (script.js) reads window.BRACKET.
+  window.BRACKET = {
+    noun: "album",
+    nounPlural: "albums",
+    prompt: "Which do you prefer?",
+    defaultRounds: 5,
+    maxRounds: 8,
+    cardLines: function (item) {
+      return [
+        { text: item.artist, className: "sub" },
+        { text: item.year, className: "meta" },
+      ];
+    },
+    link: function () { return null; },
+    listLine: function (item) {
+      return " \u2014 " + item.artist + (item.year ? " (" + item.year + ")" : "");
+    },
+    jsonFields: ["artist", "year"],
+  };
+</script>
 <script src="{{ '/album-ranker/albums.js' | relative_url }}"></script>
-<script src="{{ '/album-ranker/album-art-cache.js' | relative_url }}" onerror="window.ALBUM_ART={}"></script>
+<script src="{{ '/album-ranker/album-art-cache.js' | relative_url }}" onerror="window.ART={}"></script>
 <script src="{{ '/album-ranker/script.js' | relative_url }}"></script>

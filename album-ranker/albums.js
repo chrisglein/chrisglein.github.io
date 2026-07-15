@@ -1,5 +1,5 @@
 // Full album list from Albums.md (71 albums).
-const ALBUMS = [
+window.ITEMS = [
   { id: "continuum-mayer",        title: "Continuum",                    artist: "John Mayer",               year: 2006 },
   { id: "illinois",               title: "Illinois",                     artist: "Sufjan Stevens",           year: 2005 },
   { id: "the-rip-tide",           title: "The Rip Tide",                 artist: "Beirut",                   year: 2011 },
