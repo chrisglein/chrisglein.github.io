@@ -70,6 +70,7 @@ const resultsSection = document.getElementById("results-section");
 const finalTiersEl = document.getElementById("final-tiers");
 const jsonOutput = document.getElementById("json-output");
 const copyBtn = document.getElementById("copy-json");
+const emailBtn = document.getElementById("email-results");
 const restartBtn = document.getElementById("restart");
 
 // --- State ---
@@ -81,6 +82,7 @@ let totalRounds = 0;
 let roundMatchups = 0;
 let roundMatchupsDone = 0;
 let pendingResolve = null;
+let lastRanking = null;
 
 // --- Utilities ---
 function shuffle(arr) {
@@ -287,7 +289,8 @@ function tierListHtml(items, tag) {
     }
     for (const a of tier) {
       const thumb = artImg(a, "list-art");
-      html += `<li>${thumb}<strong>${esc(a.title)}</strong>${esc(listLineFn(a) || "")}</li>`;
+      const sub = listLineFn(a) || "";
+      html += `<li>${thumb}<strong>${esc(a.title)}</strong>${sub ? `<span class="list-sub">${esc(sub)}</span>` : ""}</li>`;
     }
     html += tag === "ul" ? "</ul></div>" : "</ol></div>";
     rank += tier.length;
@@ -331,6 +334,7 @@ function showFinalResults(ranked) {
     tierNum++;
   }
   jsonOutput.value = JSON.stringify(json, null, 2);
+  lastRanking = json;
 }
 
 // --- Main tournament ---
@@ -407,6 +411,43 @@ copyBtn.addEventListener("click", async () => {
     document.execCommand("copy");
   }
 });
+
+// Build a compact, tier-grouped ranking for the email body, capped to a length
+// that most mail clients accept in a mailto: URL (~2000 chars encoded).
+function buildEmailContent() {
+  const subject = `My ${NOUN} ranking`;
+  const lines = [`My ${NOUN_PLURAL} ranking (${lastRanking.length})`, ""];
+  let lastTier = null;
+  for (const e of lastRanking) {
+    if (e.tier !== lastTier) {
+      lines.push(`Tier ${e.tier} \u2014 ${e.wins} win${e.wins !== 1 ? "s" : ""}`);
+      lastTier = e.tier;
+    }
+    lines.push(`${e.rank}. ${e.title}`);
+  }
+  let body = lines.join("\n");
+  const MAX = 1900;
+  const overhead = subject.length + 30;
+  if (encodeURIComponent(body).length + overhead > MAX) {
+    const note = "\n\u2026 (truncated \u2014 use Copy JSON for the full ranking)";
+    while (body.length && encodeURIComponent(body + note).length + overhead > MAX) {
+      const cut = body.lastIndexOf("\n");
+      if (cut < 0) break;
+      body = body.slice(0, cut);
+    }
+    body += note;
+  }
+  return { subject, body };
+}
+
+if (emailBtn) {
+  emailBtn.addEventListener("click", () => {
+    if (!lastRanking || !lastRanking.length) return;
+    const { subject, body } = buildEmailContent();
+    window.location.href =
+      `mailto:?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+  });
+}
 
 restartBtn.addEventListener("click", () => location.reload());
 

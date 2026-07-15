@@ -19,7 +19,7 @@ layout: bracket-ranker
     },
     link: function () { return null; },
     listLine: function (item) {
-      return " \u2014 " + item.artist + (item.year ? " (" + item.year + ")" : "");
+      return item.artist + (item.year ? " (" + item.year + ")" : "");
     },
     jsonFields: ["artist", "year"],
   };

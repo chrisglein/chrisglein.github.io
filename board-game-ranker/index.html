@@ -25,13 +25,7 @@ layout: bracket-ranker
             : "https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=" + encodeURIComponent(item.title));
       return { href: url, label: "BGG", site: "BoardGameGeek" };
     },
-    listLine: function (item) {
-      var parts = [];
-      if (item.players) parts.push(item.players + " players");
-      if (item.time != null) parts.push(item.time + " min");
-      var m = parts.join(" \u00B7 ");
-      return m ? " \u2014 " + m : "";
-    },
+    listLine: function () { return ""; },
     jsonFields: ["players", "time"],
   };
 </script>
