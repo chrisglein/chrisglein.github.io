@@ -47,6 +47,8 @@ Some learnings as I've iterated on this:
 
 ## The Tool
 
+![Screenshot of the tool with 3 different media types](/media/posts/bracket-game.png)
+
 Under the hood is a single, media-agnostic engine that runs rounds of pairwise comparisons, tallies wins, and buckets the results into tiers. Everything specific to a use case lives in a tiny bit of configuration:
 
 - Some light metadata, like what you call the thing being ranked ("movie", "album", "game") or the prompt shown at each matchup ("Pick the movie you like more").
