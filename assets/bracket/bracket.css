@@ -198,10 +198,6 @@
 
 .bracket .vs { font-weight: bold; color: var(--accent-ink); font-size: 1.25rem; align-self: center; }
 
-.bracket #standings, .bracket #final-tiers {
-  max-height: 400px;
-  overflow-y: auto;
-}
 .bracket .tier-group { margin-bottom: 1rem; }
 .bracket .tier-group:last-child { margin-bottom: 0; }
 .bracket .tier-label {
