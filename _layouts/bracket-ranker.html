@@ -9,7 +9,7 @@ layout: page
   then the engine last.
 {% endcomment %}
 <link rel="stylesheet" href="{{ '/assets/bracket/bracket.css' | relative_url }}">
-<div class="bracket{% if page.posters %} bracket--posters{% endif %}">
+<div class="bracket{% if page.posters %} bracket--posters{% endif %}{% if page.native_art %} bracket--native{% endif %}">
   {% include bracket.html %}
 </div>
 {{ content }}
