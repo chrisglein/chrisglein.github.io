@@ -465,17 +465,20 @@ copyBtn.addEventListener("click", async () => {
 // that most mail clients accept in a mailto: URL (~2000 chars encoded).
 function buildEmailContent() {
   const subject = `My ${NOUN} ranking`;
-  const lines = [`My ${NOUN_PLURAL} ranking (${lastRanking.length})`, ""];
+  const lines = [];
   let lastTier = null;
   for (const e of lastRanking) {
     if (e.tier !== lastTier) {
-      lines.push(`Tier ${e.tier} \u00B7 ${e.wins} win${e.wins !== 1 ? "s" : ""}`);
+      if (lines.length) lines.push("");
+      lines.push(`## ${e.wins} Win${e.wins !== 1 ? "s" : ""}`);
       lastTier = e.tier;
     }
-    lines.push(`${e.rank}. ${e.title}`);
+    lines.push(e.title);
   }
   let body = lines.join("\n");
-  const MAX = 1900;
+  // Cap the whole mailto for broad client support. Modern clients handle far
+  // more; this just keeps a clean truncation instead of a silent mid-item cut.
+  const MAX = 4000;
   const overhead = subject.length + 30;
   if (encodeURIComponent(body).length + overhead > MAX) {
     const note = "\n(truncated, use Copy JSON for the full ranking)";
