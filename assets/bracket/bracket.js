@@ -17,6 +17,7 @@
 //   noun          singular label, e.g. "album"            (default "item")
 //   nounPlural    plural label, e.g. "albums"             (default noun + "s")
 //   prompt        matchup heading, e.g. "Which do you prefer?"
+//   intro         one-line explanation shown in the Setup box
 //   accent        brand color (hex); text/contrast variants are auto-derived
 //   recommendedRounds  suggested rounds before the "recommended" note clears
 //   maxRounds     cap on rounds (defaults to items-1, the round-robin max)
@@ -45,6 +46,7 @@ const ART = window.ART || {};
 
 // --- DOM refs ---
 const setupSection = document.getElementById("setup-section");
+const setupIntroEl = document.getElementById("setup-intro");
 const itemCountEl = document.getElementById("item-count");
 const itemNounEl = document.getElementById("item-noun");
 const comparisonEstimate = document.getElementById("comparison-estimate");
@@ -561,6 +563,7 @@ function applyAccent() {
 function init() {
   if (itemNounEl) itemNounEl.textContent = NOUN_PLURAL;
   if (matchupPrompt) matchupPrompt.textContent = PROMPT;
+  if (setupIntroEl && CFG.intro) setupIntroEl.textContent = CFG.intro;
   applyAccent();
 
   if (ITEMS.length === 0) {
