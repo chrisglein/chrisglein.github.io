@@ -7,11 +7,6 @@
   <section id="setup-section">
     <h2>Setup</h2>
     <p><span id="item-count">0</span> <span id="item-noun">items</span> loaded</p>
-    <div class="setting-row">
-      <label for="round-slider">Rounds</label>
-      <input type="range" id="round-slider" min="2" max="8" value="5" />
-      <span id="round-display">5</span>
-    </div>
     <p id="comparison-estimate" class="hint"></p>
     <button id="start-btn">Start Ranking</button>
   </section>
@@ -31,18 +26,34 @@
     </div>
   </section>
 
+  <section id="results-section" class="hidden">
+    <h2 id="results-heading">Ranking</h2>
+    <div class="results-primary">
+      <button id="another-round" class="primary">
+        <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+        <span class="btn-label">Another Round</span>
+      </button>
+      <p id="rounds-note" class="hint"></p>
+    </div>
+    <div class="results-actions">
+      <button id="copy-json">
+        <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+        <span class="btn-label">Copy JSON</span>
+      </button>
+      <button id="email-results">
+        <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path><polyline points="22,6 12,13 2,6"></polyline></svg>
+        <span class="btn-label">Email</span>
+      </button>
+      <button id="restart">
+        <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+        <span class="btn-label">Start Over</span>
+      </button>
+    </div>
+    <div id="final-tiers"></div>
+  </section>
+
   <section id="standings-section" class="hidden">
     <h2>Comparisons</h2>
     <div id="standings"></div>
-  </section>
-
-  <section id="results-section" class="hidden">
-    <h2>Final Ranking</h2>
-    <div id="final-tiers"></div>
-    <h3>JSON Output</h3>
-    <textarea id="json-output" readonly rows="14"></textarea>
-    <button id="copy-json">Copy JSON</button>
-    <button id="email-results">Email Results</button>
-    <button id="restart">Start Over</button>
   </section>
 </div>

@@ -1,14 +1,12 @@
 // Bracket — a config-driven, pairwise ranking engine (Swiss-system tournament).
 //
 // This file is media-agnostic. It ranks any list of items by repeatedly asking
-// the user to pick a winner between two of them. Instead of a full sort
-// (~n*log2(n) comparisons), it runs a fixed number of Swiss rounds where items
-// with similar records are paired against each other. After all rounds, items
-// bucket into tiers by win count; a Buchholz tiebreaker (sum of opponents'
-// wins) orders items within a tier.
+// the user to pick a winner between two of them. It runs Swiss rounds where
+// items with similar records are paired against each other; after each round
+// items bucket into tiers by win count (Buchholz tiebreaker within a tier), and
+// the user can play another round for more accuracy.
 //
-//   For 64 items: 5 rounds = 160 comparisons (vs ~296 for a full sort).
-//   Fewer rounds = fewer comparisons, coarser tiers.
+//   Each round is floor(n/2) comparisons. More rounds = finer tiers.
 //
 // To make a ranker, provide three globals before loading this script:
 //   window.ITEMS   — array of { id, title, ... } (see config.js / README).
@@ -19,8 +17,8 @@
 //   noun          singular label, e.g. "album"            (default "item")
 //   nounPlural    plural label, e.g. "albums"             (default noun + "s")
 //   prompt        matchup heading, e.g. "Which do you prefer?"
-//   defaultRounds default value of the rounds slider      (default 5)
-//   maxRounds     cap on the rounds slider                (default 10)
+//   recommendedRounds  suggested rounds before the "recommended" note clears
+//   maxRounds     cap on rounds (defaults to items-1, the round-robin max)
 //   cardLines(item)  -> [ { text, className } ]  extra lines under the title
 //   link(item)       -> { href, label, site } | null  external link pill
 //   listLine(item)   -> string  suffix after the title in standings/results
@@ -34,8 +32,8 @@ const CFG = window.BRACKET || {};
 const NOUN = CFG.noun || "item";
 const NOUN_PLURAL = CFG.nounPlural || NOUN + "s";
 const PROMPT = CFG.prompt || "Which do you prefer?";
-const DEFAULT_ROUNDS = CFG.defaultRounds || 5;
-const MAX_ROUNDS_CAP = CFG.maxRounds || 10;
+const RECOMMENDED_ROUNDS_CFG = CFG.recommendedRounds;
+const MAX_ROUNDS_CFG = CFG.maxRounds;
 const cardLinesFn = typeof CFG.cardLines === "function" ? CFG.cardLines : () => [];
 const linkFn = typeof CFG.link === "function" ? CFG.link : () => null;
 const listLineFn = typeof CFG.listLine === "function" ? CFG.listLine : () => "";
@@ -48,18 +46,16 @@ const ART = window.ART || {};
 const setupSection = document.getElementById("setup-section");
 const itemCountEl = document.getElementById("item-count");
 const itemNounEl = document.getElementById("item-noun");
-const roundSlider = document.getElementById("round-slider");
-const roundDisplay = document.getElementById("round-display");
 const comparisonEstimate = document.getElementById("comparison-estimate");
 const startBtn = document.getElementById("start-btn");
 
 const progressSection = document.getElementById("progress-section");
 const progressText = document.getElementById("progress-text");
 const progressBar = document.getElementById("progress-bar");
+const progressSub = document.getElementById("progress-sub");
 
 const matchupSection = document.getElementById("matchup-section");
 const matchupPrompt = document.getElementById("matchup-prompt");
-const progressSub = document.getElementById("progress-sub");
 const cardA = document.getElementById("card-a");
 const cardB = document.getElementById("card-b");
 
@@ -67,8 +63,10 @@ const standingsSection = document.getElementById("standings-section");
 const standingsEl = document.getElementById("standings");
 
 const resultsSection = document.getElementById("results-section");
+const resultsHeading = document.getElementById("results-heading");
 const finalTiersEl = document.getElementById("final-tiers");
-const jsonOutput = document.getElementById("json-output");
+const roundsNote = document.getElementById("rounds-note");
+const anotherRoundBtn = document.getElementById("another-round");
 const copyBtn = document.getElementById("copy-json");
 const emailBtn = document.getElementById("email-results");
 const restartBtn = document.getElementById("restart");
@@ -76,13 +74,16 @@ const restartBtn = document.getElementById("restart");
 // --- State ---
 let stats = new Map(); // itemId -> { wins, opponents[], hadBye, buchholz }
 let comparisonsDone = 0;
-let totalComparisons = 0;
 let currentRound = 0;
-let totalRounds = 0;
 let roundMatchups = 0;
 let roundMatchupsDone = 0;
 let pendingResolve = null;
 let lastRanking = null;
+let lastJsonText = "";
+let maxRounds = 0;
+let recommendedRounds = 0;
+let currentRoundHeader = null;
+let tourneyItems = [];
 
 // --- Utilities ---
 function shuffle(arr) {
@@ -227,21 +228,18 @@ function pickWinner(a, b) {
 }
 
 // --- UI: progress ---
-function buildProgressBar(numRounds) {
-  progressBar.innerHTML = "";
-  for (let i = 1; i <= numRounds; i++) {
-    const seg = document.createElement("div");
-    seg.className = "progress-segment";
-    seg.dataset.round = i;
-    const fill = document.createElement("div");
-    fill.className = "segment-fill";
-    const label = document.createElement("span");
-    label.className = "segment-label";
-    label.textContent = i;
-    seg.appendChild(fill);
-    seg.appendChild(label);
-    progressBar.appendChild(seg);
-  }
+function addRoundPill(roundNum) {
+  const seg = document.createElement("div");
+  seg.className = "progress-segment";
+  seg.dataset.round = roundNum;
+  const fill = document.createElement("div");
+  fill.className = "segment-fill";
+  const label = document.createElement("span");
+  label.className = "segment-label";
+  label.textContent = roundNum;
+  seg.appendChild(fill);
+  seg.appendChild(label);
+  progressBar.appendChild(seg);
 }
 
 function updateProgress() {
@@ -263,10 +261,19 @@ function updateProgress() {
       seg.classList.remove("active", "completed");
     }
   });
-  progressText.textContent = `Round ${currentRound} of ${totalRounds} — ${comparisonsDone} of ${totalComparisons} comparisons`;
+  progressText.textContent = `Round ${currentRound} \u00B7 ${comparisonsDone} comparison${comparisonsDone !== 1 ? "s" : ""}`;
 }
 
-// --- UI: comparison log (grows as each matchup is decided) ---
+// --- UI: comparison log (newest at the top, dividers between rounds) ---
+function logRoundDivider(n) {
+  const div = document.createElement("div");
+  div.className = "log-round";
+  div.textContent = `Round ${n}`;
+  standingsEl.prepend(div);
+  currentRoundHeader = div;
+  standingsEl.scrollTop = 0;
+}
+
 function logComparison(n, winner, loser) {
   const entry = document.createElement("div");
   entry.className = "log-entry";
@@ -275,7 +282,12 @@ function logComparison(n, winner, loser) {
     `<span class="log-win">${esc(winner.title)}</span> ` +
     `<span class="log-vs">vs</span> ` +
     `<span class="log-lose">${esc(loser.title)}</span>`;
-  standingsEl.prepend(entry);
+  if (currentRoundHeader) {
+    currentRoundHeader.after(entry);
+  } else {
+    standingsEl.prepend(entry);
+  }
+  standingsEl.scrollTop = 0;
 }
 
 // --- UI: final tier list ---
@@ -294,7 +306,7 @@ function tierListHtml(items) {
 
   for (const w of sortedKeys) {
     const tier = groups.get(w);
-    html += `<div class="tier-group"><h3>Tier ${tierNum} \u2014 ${w} win${w !== 1 ? "s" : ""}</h3><ol start="${rank}">`;
+    html += `<div class="tier-group"><h3>Tier ${tierNum} \u00B7 ${w} win${w !== 1 ? "s" : ""}</h3><ol start="${rank}">`;
     for (const a of tier) {
       const thumb = artImg(a, "list-art");
       const sub = listLineFn(a) || "";
@@ -307,15 +319,21 @@ function tierListHtml(items) {
   return html;
 }
 
-// --- UI: final results ---
-function showFinalResults(ranked) {
-  matchupSection.classList.add("hidden");
-  standingsSection.classList.add("hidden");
-  resultsSection.classList.remove("hidden");
+// --- Ranking + results ---
+function computeRanking(items) {
+  for (const a of items) {
+    const s = stats.get(a.id);
+    s.buchholz = s.opponents.reduce((sum, oppId) => sum + stats.get(oppId).wins, 0);
+  }
+  return [...items].sort((a, b) => {
+    const sa = stats.get(a.id);
+    const sb = stats.get(b.id);
+    if (sb.wins !== sa.wins) return sb.wins - sa.wins;
+    return sb.buchholz - sa.buchholz;
+  });
+}
 
-  finalTiersEl.innerHTML = tierListHtml(ranked);
-
-  // JSON output
+function buildJson(ranked) {
   const groups = new Map();
   for (const a of ranked) {
     const w = stats.get(a.id).wins;
@@ -323,7 +341,6 @@ function showFinalResults(ranked) {
     groups.get(w).push(a);
   }
   const sortedKeys = [...groups.keys()].sort((a, b) => b - a);
-
   let rank = 1;
   let tierNum = 1;
   const json = [];
@@ -337,86 +354,109 @@ function showFinalResults(ranked) {
     }
     tierNum++;
   }
-  jsonOutput.value = JSON.stringify(json, null, 2);
-  lastRanking = json;
+  return json;
 }
 
-// --- Main tournament ---
-async function runTournament(items, numRounds) {
-  stats = new Map();
-  for (const a of items) {
-    stats.set(a.id, { wins: 0, opponents: [], hadBye: false, buchholz: 0 });
+function showRoundResults() {
+  const ranked = computeRanking(tourneyItems);
+  lastRanking = buildJson(ranked);
+  lastJsonText = JSON.stringify(lastRanking, null, 2);
+
+  finalTiersEl.innerHTML = tierListHtml(ranked);
+  if (resultsHeading) {
+    resultsHeading.textContent = `Ranking after round ${currentRound}`;
   }
 
-  comparisonsDone = 0;
-  totalRounds = numRounds;
-  totalComparisons = Math.floor(items.length / 2) * numRounds;
-  standingsEl.innerHTML = "";
-  if (progressSub) {
-    const perRound = Math.floor(items.length / 2);
-    progressSub.textContent = `${perRound} comparison${perRound !== 1 ? "s" : ""} per round`;
-  }
-  buildProgressBar(numRounds);
-  updateProgress();
-
-  for (let round = 1; round <= numRounds; round++) {
-    currentRound = round;
-    const { pairs } = swissPair(items);
-    roundMatchups = pairs.length;
-    roundMatchupsDone = 0;
-    updateProgress();
-
-    for (let m = 0; m < pairs.length; m++) {
-      const [a, b] = pairs[m];
-
-      const winner = await pickWinner(a, b);
-      const loser = winner === a ? b : a;
-
-      stats.get(winner.id).wins++;
-      stats.get(a.id).opponents.push(b.id);
-      stats.get(b.id).opponents.push(a.id);
-      roundMatchupsDone++;
-      updateProgress();
-      logComparison(comparisonsDone, winner, loser);
+  const maxed = currentRound >= maxRounds;
+  if (anotherRoundBtn) anotherRoundBtn.classList.toggle("hidden", maxed);
+  if (roundsNote) {
+    if (maxed) {
+      roundsNote.textContent = "Maximum rounds reached. This is as accurate as it gets.";
+    } else if (currentRound < recommendedRounds) {
+      const remaining = recommendedRounds - currentRound;
+      roundsNote.textContent = `${remaining} more round${remaining !== 1 ? "s" : ""} recommended for accuracy.`;
+    } else {
+      roundsNote.textContent = "Enough for solid tiers. Add rounds to refine further.";
     }
   }
 
-  // Buchholz tiebreaker: sum of opponents' final win counts.
-  for (const a of items) {
-    const s = stats.get(a.id);
-    s.buchholz = s.opponents.reduce((sum, oppId) => sum + stats.get(oppId).wins, 0);
+  matchupSection.classList.add("hidden");
+  resultsSection.classList.remove("hidden");
+}
+
+// --- Main tournament (one round at a time; user adds rounds for accuracy) ---
+async function runRound() {
+  currentRound++;
+  addRoundPill(currentRound);
+  logRoundDivider(currentRound);
+
+  const { pairs } = swissPair(tourneyItems);
+  roundMatchups = pairs.length;
+  roundMatchupsDone = 0;
+  updateProgress();
+
+  for (let m = 0; m < pairs.length; m++) {
+    const [a, b] = pairs[m];
+
+    const winner = await pickWinner(a, b);
+    const loser = winner === a ? b : a;
+
+    stats.get(winner.id).wins++;
+    stats.get(a.id).opponents.push(b.id);
+    stats.get(b.id).opponents.push(a.id);
+    roundMatchupsDone++;
+    updateProgress();
+    logComparison(comparisonsDone, winner, loser);
   }
 
-  // Sort: wins desc, then Buchholz desc.
-  const ranked = [...items].sort((a, b) => {
-    const sa = stats.get(a.id);
-    const sb = stats.get(b.id);
-    if (sb.wins !== sa.wins) return sb.wins - sa.wins;
-    return sb.buchholz - sa.buchholz;
-  });
-
-  showFinalResults(ranked);
+  showRoundResults();
 }
 
-// --- Setup ---
-function updateEstimate() {
-  const n = ITEMS.length;
-  const r = parseInt(roundSlider.value, 10);
-  const est = Math.floor(n / 2) * r;
-  roundDisplay.textContent = r;
-  comparisonEstimate.textContent = `~${est} comparisons \u2192 up to ${r + 1} tiers`;
+function startTournament() {
+  stats = new Map();
+  for (const a of ITEMS) {
+    stats.set(a.id, { wins: 0, opponents: [], hadBye: false, buchholz: 0 });
+  }
+  comparisonsDone = 0;
+  currentRound = 0;
+  standingsEl.innerHTML = "";
+  currentRoundHeader = null;
+  progressBar.innerHTML = "";
+  const perRound = Math.floor(ITEMS.length / 2);
+  if (progressSub) {
+    progressSub.textContent = `${perRound} comparison${perRound !== 1 ? "s" : ""} per round`;
+  }
+  tourneyItems = shuffle([...ITEMS]);
+
+  setupSection.classList.add("hidden");
+  progressSection.classList.remove("hidden");
+  standingsSection.classList.remove("hidden");
+  matchupSection.classList.remove("hidden");
+  resultsSection.classList.add("hidden");
+
+  runRound();
 }
 
-roundSlider.addEventListener("input", updateEstimate);
-
+// --- Actions ---
 copyBtn.addEventListener("click", async () => {
+  const label = copyBtn.querySelector(".btn-label");
+  const text = lastJsonText;
   try {
-    await navigator.clipboard.writeText(jsonOutput.value);
-    copyBtn.textContent = "Copied!";
-    setTimeout(() => (copyBtn.textContent = "Copy JSON"), 1500);
+    await navigator.clipboard.writeText(text);
   } catch {
-    jsonOutput.select();
-    document.execCommand("copy");
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand("copy"); } catch (e) { /* ignore */ }
+    document.body.removeChild(ta);
+  }
+  if (label) {
+    const prev = label.textContent;
+    label.textContent = "Copied!";
+    setTimeout(() => (label.textContent = prev), 1500);
   }
 });
 
@@ -428,7 +468,7 @@ function buildEmailContent() {
   let lastTier = null;
   for (const e of lastRanking) {
     if (e.tier !== lastTier) {
-      lines.push(`Tier ${e.tier} \u2014 ${e.wins} win${e.wins !== 1 ? "s" : ""}`);
+      lines.push(`Tier ${e.tier} \u00B7 ${e.wins} win${e.wins !== 1 ? "s" : ""}`);
       lastTier = e.tier;
     }
     lines.push(`${e.rank}. ${e.title}`);
@@ -437,7 +477,7 @@ function buildEmailContent() {
   const MAX = 1900;
   const overhead = subject.length + 30;
   if (encodeURIComponent(body).length + overhead > MAX) {
-    const note = "\n\u2026 (truncated \u2014 use Copy JSON for the full ranking)";
+    const note = "\n(truncated, use Copy JSON for the full ranking)";
     while (body.length && encodeURIComponent(body + note).length + overhead > MAX) {
       const cut = body.lastIndexOf("\n");
       if (cut < 0) break;
@@ -457,18 +497,22 @@ if (emailBtn) {
   });
 }
 
-restartBtn.addEventListener("click", () => location.reload());
-
-startBtn.addEventListener("click", () => {
-  setupSection.classList.add("hidden");
-  progressSection.classList.remove("hidden");
-  matchupSection.classList.remove("hidden");
-  standingsSection.classList.remove("hidden");
-
-  const shuffled = shuffle([...ITEMS]);
-  const numRounds = parseInt(roundSlider.value, 10);
-  runTournament(shuffled, numRounds);
+restartBtn.addEventListener("click", () => {
+  if (window.confirm("Start over? The current ranking will be lost.")) {
+    location.reload();
+  }
 });
+
+if (anotherRoundBtn) {
+  anotherRoundBtn.addEventListener("click", () => {
+    if (currentRound >= maxRounds) return;
+    resultsSection.classList.add("hidden");
+    matchupSection.classList.remove("hidden");
+    runRound();
+  });
+}
+
+startBtn.addEventListener("click", startTournament);
 
 // --- Boot ---
 function init() {
@@ -483,17 +527,18 @@ function init() {
   }
   if (ITEMS.length === 1) {
     itemCountEl.textContent = "1";
-    comparisonEstimate.textContent = `Only one ${NOUN} — nothing to compare.`;
+    comparisonEstimate.textContent = `Only one ${NOUN}, nothing to compare.`;
     startBtn.disabled = true;
     return;
   }
 
   itemCountEl.textContent = ITEMS.length;
-  const maxRounds = Math.min(MAX_ROUNDS_CAP, ITEMS.length - 1);
-  roundSlider.min = 2;
-  roundSlider.max = maxRounds;
-  roundSlider.value = Math.min(DEFAULT_ROUNDS, maxRounds);
-  updateEstimate();
+  const hardMax = ITEMS.length - 1;
+  maxRounds = Math.max(1, Math.min(MAX_ROUNDS_CFG || hardMax, hardMax));
+  const recDefault = Math.max(2, Math.ceil(Math.log2(ITEMS.length)));
+  recommendedRounds = Math.min(RECOMMENDED_ROUNDS_CFG || recDefault, maxRounds);
+  const perRound = Math.floor(ITEMS.length / 2);
+  comparisonEstimate.textContent = `${perRound} comparison${perRound !== 1 ? "s" : ""} per round \u00B7 ${recommendedRounds} rounds recommended`;
 }
 
 init();
