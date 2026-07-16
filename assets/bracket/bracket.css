@@ -104,7 +104,6 @@
   justify-content: center;
   position: relative;
 }
-.bracket .card--link { padding-bottom: 2.2rem; }
 .bracket .card-art {
   width: 110px;
   height: 110px;
@@ -142,16 +141,15 @@
 .bracket .card .meta { color: var(--muted); font-size: 0.85rem; }
 
 .bracket .ext-link {
-  position: absolute;
-  right: 0.5rem;
-  bottom: 0.5rem;
-  font-size: 0.7rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   color: var(--accent);
   text-decoration: none;
   border: 1px solid rgba(232, 185, 35, 0.45);
   border-radius: 999px;
-  padding: 0.2rem 0.5rem;
-  line-height: 1.2;
+  padding: 0.25rem 0.45rem;
+  line-height: 0;
 }
 .bracket .ext-link:hover,
 .bracket .ext-link:focus-visible {
@@ -159,6 +157,7 @@
   border-color: var(--accent);
   outline: none;
 }
+.bracket .ext-icon { width: 15px; height: 15px; display: block; }
 
 .bracket .vs { font-weight: bold; color: var(--accent); font-size: 1.25rem; align-self: center; }
 
