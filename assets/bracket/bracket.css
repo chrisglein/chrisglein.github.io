@@ -1,17 +1,49 @@
 /* Bracket ranker — shared styles for all rankers on the site.
-   Scoped under .bracket so it won't clash with site styles. Add the
-   .bracket--posters modifier for portrait poster art (e.g. movies). */
+   Scoped under .bracket so it won't clash with site styles.
+   Modifiers: .bracket--dark (dark theme), .bracket--plate (background plate
+   for embedding on a mismatched-theme host), .bracket--posters (portrait art).
+   Default is the light theme with no plate, so it blends into a light page. */
 .bracket {
-  --bg: #1a1a1d;
+  --panel: #f1f1f4;
+  --card-bg: #ffffff;
+  --card-border: #e2e2e8;
+  --text: #303036;
+  --muted: #6c6c74;
+  --accent: #e8b923;
+  --accent-ink: #7a5c00;
+  --on-accent: #1a1a1d;
+  --accent-tint: rgba(232, 185, 35, 0.15);
+  --hover: #eef0f4;
+  --track: #e4e4ea;
+  --divider: #e8e8ee;
+  --border: #d3d3da;
+  --plate-bg: #1a1a1d;
+
+  color: var(--text);
+  line-height: 1.5;
+}
+
+/* Dark theme */
+.bracket--dark {
   --panel: #25252a;
+  --card-bg: #2f2f36;
+  --card-border: transparent;
   --text: #f1f1f1;
   --muted: #9a9aa0;
   --accent: #e8b923;
+  --accent-ink: #e8b923;
+  --on-accent: #1a1a1d;
+  --accent-tint: rgba(232, 185, 35, 0.15);
   --hover: #2f2f36;
+  --track: #333333;
+  --divider: #333333;
+  --border: #444444;
+  --plate-bg: #1a1a1d;
+}
 
-  background: var(--bg);
-  color: var(--text);
-  line-height: 1.5;
+/* Optional background plate (bridges a theme mismatch on the host page) */
+.bracket--plate {
+  background: var(--plate-bg);
   padding: 1rem;
   border-radius: 12px;
   margin: 1rem 0;
@@ -36,7 +68,7 @@
 }
 
 .bracket h2 { margin: 0 0 1rem; font-size: 1.25rem; color: var(--text); }
-.bracket h3 { margin: 1rem 0 0.5rem; font-size: 1rem; color: var(--accent); }
+.bracket h3 { margin: 1rem 0 0.5rem; font-size: 1rem; color: var(--accent-ink); }
 .bracket .hint { color: var(--muted); font-weight: normal; font-size: 0.85rem; }
 
 .bracket #progress-bar {
@@ -47,7 +79,7 @@
 .bracket .progress-segment {
   flex: 1;
   height: 28px;
-  background: #333;
+  background: var(--track);
   border-radius: 6px;
   overflow: hidden;
   position: relative;
@@ -88,8 +120,8 @@
 }
 
 .bracket .card {
-  background: #2f2f36;
-  border: 2px solid transparent;
+  background: var(--card-bg);
+  border: 2px solid var(--card-border);
   border-radius: 10px;
   padding: 0.75rem;
   color: var(--text);
@@ -147,9 +179,9 @@
   align-items: center;
   justify-content: center;
   margin-top: auto;
-  color: var(--accent);
+  color: var(--accent-ink);
   text-decoration: none;
-  border: 1px solid rgba(232, 185, 35, 0.45);
+  border: 1px solid var(--accent-ink);
   border-radius: 999px;
   padding: 0.25rem 0.45rem;
   line-height: 0;
@@ -158,13 +190,13 @@
 .bracket #card-b .ext-link { align-self: flex-end; }
 .bracket .ext-link:hover,
 .bracket .ext-link:focus-visible {
-  background: rgba(232, 185, 35, 0.15);
-  border-color: var(--accent);
+  background: var(--accent-tint);
+  border-color: var(--accent-ink);
   outline: none;
 }
 .bracket .ext-icon { width: 15px; height: 15px; display: block; }
 
-.bracket .vs { font-weight: bold; color: var(--accent); font-size: 1.25rem; align-self: center; }
+.bracket .vs { font-weight: bold; color: var(--accent-ink); font-size: 1.25rem; align-self: center; }
 
 .bracket #standings, .bracket #final-tiers {
   max-height: 400px;
@@ -174,7 +206,7 @@
 .bracket .tier-group:last-child { margin-bottom: 0; }
 .bracket .tier-label {
   font-weight: 600;
-  color: var(--accent);
+  color: var(--accent-ink);
   margin-bottom: 0.25rem;
 }
 .bracket .tier-group ul, .bracket .tier-group ol {
@@ -184,7 +216,7 @@
 }
 .bracket .tier-group li {
   padding: 0.2rem 0;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid var(--divider);
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -202,7 +234,7 @@
 .bracket .tier-title { color: var(--text); }
 .bracket .log-entry {
   padding: 0.25rem 0;
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid var(--divider);
   font-size: 0.9rem;
 }
 .bracket .log-entry:last-child { border-bottom: none; }
@@ -213,7 +245,7 @@
 .bracket .log-round {
   margin: 0.6rem 0 0.25rem;
   padding-top: 0.5rem;
-  border-top: 1px solid #444;
+  border-top: 1px solid var(--divider);
   color: var(--muted);
   font-size: 0.75rem;
   font-weight: 600;
@@ -222,16 +254,16 @@
 }
 .bracket .log-round:first-child { margin-top: 0; padding-top: 0; border-top: none; }
 .bracket .tier-group h3 {
-  color: var(--accent);
+  color: var(--accent-ink);
   margin: 0 0 0.25rem;
   font-size: 1rem;
 }
 
 .bracket textarea {
   width: 100%;
-  background: #1a1a1d;
+  background: var(--card-bg);
   color: var(--text);
-  border: 1px solid #444;
+  border: 1px solid var(--border);
   border-radius: 6px;
   padding: 0.75rem;
   font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
@@ -253,8 +285,8 @@
   align-items: center;
   gap: 0.4rem;
   padding: 0.5rem 0.85rem;
-  border: 1px solid #444;
-  background: #2f2f36;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
   color: var(--text);
   border-radius: 6px;
   font: inherit;
@@ -265,11 +297,11 @@
 .bracket .results-actions button:hover { border-color: var(--accent); }
 .bracket button.primary {
   background: var(--accent);
-  color: #1a1a1d;
+  color: var(--on-accent);
   border-color: var(--accent);
 }
 .bracket button.primary:hover { filter: brightness(1.1); }
-.bracket .results-actions button:disabled { opacity: 0.4; cursor: default; filter: none; border-color: #444; }
+.bracket .results-actions button:disabled { opacity: 0.4; cursor: default; filter: none; border-color: var(--border); }
 .bracket .btn-icon { width: 16px; height: 16px; display: block; flex-shrink: 0; }
 
 .bracket .hidden { display: none !important; }
@@ -287,7 +319,7 @@
 .bracket #start-btn {
   padding: 0.75rem 2rem;
   background: var(--accent);
-  color: #1a1a1d;
+  color: var(--on-accent);
   border: none;
   border-radius: 8px;
   font-size: 1.1rem;
@@ -305,8 +337,6 @@
   .bracket {
     margin-left: -0.5rem;
     margin-right: -0.5rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
   }
   .bracket section { padding: 0.6rem; }
   .bracket #matchup { gap: 0.4rem; }

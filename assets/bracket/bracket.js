@@ -17,6 +17,7 @@
 //   noun          singular label, e.g. "album"            (default "item")
 //   nounPlural    plural label, e.g. "albums"             (default noun + "s")
 //   prompt        matchup heading, e.g. "Which do you prefer?"
+//   accent        brand color (hex); text/contrast variants are auto-derived
 //   recommendedRounds  suggested rounds before the "recommended" note clears
 //   maxRounds     cap on rounds (defaults to items-1, the round-robin max)
 //   cardLines(item)  -> [ { text, className } ]  extra lines under the title
@@ -514,10 +515,50 @@ if (anotherRoundBtn) {
 
 startBtn.addEventListener("click", startTournament);
 
+// --- Accent color (optional) ---
+function hexToRgb(hex) {
+  const s = String(hex).replace("#", "");
+  const full = s.length === 3 ? s.split("").map((c) => c + c).join("") : s;
+  if (full.length !== 6 || /[^0-9a-fA-F]/.test(full)) return null;
+  return {
+    r: parseInt(full.slice(0, 2), 16),
+    g: parseInt(full.slice(2, 4), 16),
+    b: parseInt(full.slice(4, 6), 16),
+  };
+}
+
+function relLuminance(rgb) {
+  return (0.299 * rgb.r + 0.587 * rgb.g + 0.114 * rgb.b) / 255;
+}
+
+function darkenHex(hex, factor) {
+  const c = hexToRgb(hex);
+  if (!c) return hex;
+  const d = (v) => Math.round(v * (1 - factor)).toString(16).padStart(2, "0");
+  return `#${d(c.r)}${d(c.g)}${d(c.b)}`;
+}
+
+// Applies config.accent by setting CSS variables on the wrapper. The text
+// variant (readable on light) and the on-accent contrast color are derived
+// from the accent's luminance unless the config overrides them.
+function applyAccent() {
+  const accent = CFG.accent;
+  if (!accent) return;
+  const root = document.querySelector(".bracket") || document.getElementById("bracket");
+  if (!root) return;
+  const rgb = hexToRgb(accent);
+  const lum = rgb ? relLuminance(rgb) : 0.5;
+  root.style.setProperty("--accent", accent);
+  root.style.setProperty("--accent-ink", CFG.accentInk || (lum > 0.45 ? darkenHex(accent, 0.55) : accent));
+  root.style.setProperty("--on-accent", CFG.onAccent || (lum > 0.6 ? "#1a1a1d" : "#ffffff"));
+  if (rgb) root.style.setProperty("--accent-tint", `rgba(${rgb.r}, ${rgb.g}, ${rgb.b}, 0.15)`);
+}
+
 // --- Boot ---
 function init() {
   if (itemNounEl) itemNounEl.textContent = NOUN_PLURAL;
   if (matchupPrompt) matchupPrompt.textContent = PROMPT;
+  applyAccent();
 
   if (ITEMS.length === 0) {
     itemCountEl.textContent = "0";
