@@ -101,7 +101,7 @@
   flex-direction: column;
   gap: 0.6rem;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   position: relative;
 }
 .bracket .card-art {
@@ -135,7 +135,8 @@
 .bracket .card .title {
   font-size: 1.05rem;
   font-weight: 600;
-  margin-bottom: 0.1rem;
+  line-height: 1.2;
+  min-height: 3.6em;
 }
 .bracket .card .sub { color: var(--text); font-size: 0.85rem; }
 .bracket .card .meta { color: var(--muted); font-size: 0.85rem; }
@@ -144,6 +145,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  margin-top: auto;
   color: var(--accent);
   text-decoration: none;
   border: 1px solid rgba(232, 185, 35, 0.45);
@@ -151,6 +153,8 @@
   padding: 0.25rem 0.45rem;
   line-height: 0;
 }
+.bracket #card-a .ext-link { align-self: flex-start; }
+.bracket #card-b .ext-link { align-self: flex-end; }
 .bracket .ext-link:hover,
 .bracket .ext-link:focus-visible {
   background: rgba(232, 185, 35, 0.15);
@@ -174,7 +178,8 @@
 }
 .bracket .tier-group ul, .bracket .tier-group ol {
   margin: 0.25rem 0 0;
-  padding-left: 1.5rem;
+  padding-left: 0;
+  list-style: none;
 }
 .bracket .tier-group li {
   padding: 0.2rem 0;
@@ -193,6 +198,17 @@
 }
 .bracket .tier-group li:last-child { border-bottom: none; }
 .bracket .list-sub { color: var(--muted); font-size: 0.8rem; }
+.bracket .tier-title { color: var(--text); }
+.bracket .log-entry {
+  padding: 0.25rem 0;
+  border-bottom: 1px solid #333;
+  font-size: 0.9rem;
+}
+.bracket .log-entry:last-child { border-bottom: none; }
+.bracket .log-index { color: var(--muted); }
+.bracket .log-win { color: var(--text); }
+.bracket .log-vs { color: var(--muted); font-size: 0.8rem; }
+.bracket .log-lose { color: var(--muted); text-decoration: line-through; }
 .bracket .tier-group h3 {
   color: var(--accent);
   margin: 0 0 0.25rem;

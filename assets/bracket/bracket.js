@@ -59,7 +59,7 @@ const progressBar = document.getElementById("progress-bar");
 
 const matchupSection = document.getElementById("matchup-section");
 const matchupPrompt = document.getElementById("matchup-prompt");
-const roundInfo = document.getElementById("round-info");
+const progressSub = document.getElementById("progress-sub");
 const cardA = document.getElementById("card-a");
 const cardB = document.getElementById("card-b");
 
@@ -266,8 +266,20 @@ function updateProgress() {
   progressText.textContent = `Round ${currentRound} of ${totalRounds} — ${comparisonsDone} of ${totalComparisons} comparisons`;
 }
 
-// --- UI: standings (updates after each round) ---
-function tierListHtml(items, tag) {
+// --- UI: comparison log (grows as each matchup is decided) ---
+function logComparison(n, winner, loser) {
+  const entry = document.createElement("div");
+  entry.className = "log-entry";
+  entry.innerHTML =
+    `<span class="log-index">${n}.</span> ` +
+    `<span class="log-win">${esc(winner.title)}</span> ` +
+    `<span class="log-vs">vs</span> ` +
+    `<span class="log-lose">${esc(loser.title)}</span>`;
+  standingsEl.prepend(entry);
+}
+
+// --- UI: final tier list ---
+function tierListHtml(items) {
   const groups = new Map();
   for (const a of items) {
     const w = stats.get(a.id).wins;
@@ -282,26 +294,17 @@ function tierListHtml(items, tag) {
 
   for (const w of sortedKeys) {
     const tier = groups.get(w);
-    if (tag === "ul") {
-      const stars = w > 0 ? "\u2605".repeat(w) : "\u2606";
-      html += `<div class="tier-group"><div class="tier-label">${stars} ${w} win${w !== 1 ? "s" : ""} (${tier.length})</div><ul>`;
-    } else {
-      html += `<div class="tier-group"><h3>Tier ${tierNum} \u2014 ${w} win${w !== 1 ? "s" : ""}</h3><ol start="${rank}">`;
-    }
+    html += `<div class="tier-group"><h3>Tier ${tierNum} \u2014 ${w} win${w !== 1 ? "s" : ""}</h3><ol start="${rank}">`;
     for (const a of tier) {
       const thumb = artImg(a, "list-art");
       const sub = listLineFn(a) || "";
-      html += `<li>${thumb}<strong>${esc(a.title)}</strong>${sub ? `<span class="list-sub">${esc(sub)}</span>` : ""}</li>`;
+      html += `<li>${thumb}<span class="tier-title">${esc(a.title)}</span>${sub ? `<span class="list-sub">${esc(sub)}</span>` : ""}</li>`;
     }
-    html += tag === "ul" ? "</ul></div>" : "</ol></div>";
+    html += "</ol></div>";
     rank += tier.length;
     tierNum++;
   }
   return html;
-}
-
-function renderStandings(items) {
-  standingsEl.innerHTML = tierListHtml(items, "ul");
 }
 
 // --- UI: final results ---
@@ -310,7 +313,7 @@ function showFinalResults(ranked) {
   standingsSection.classList.add("hidden");
   resultsSection.classList.remove("hidden");
 
-  finalTiersEl.innerHTML = tierListHtml(ranked, "ol");
+  finalTiersEl.innerHTML = tierListHtml(ranked);
 
   // JSON output
   const groups = new Map();
@@ -348,6 +351,11 @@ async function runTournament(items, numRounds) {
   comparisonsDone = 0;
   totalRounds = numRounds;
   totalComparisons = Math.floor(items.length / 2) * numRounds;
+  standingsEl.innerHTML = "";
+  if (progressSub) {
+    const perRound = Math.floor(items.length / 2);
+    progressSub.textContent = `${perRound} comparison${perRound !== 1 ? "s" : ""} per round`;
+  }
   buildProgressBar(numRounds);
   updateProgress();
 
@@ -360,18 +368,17 @@ async function runTournament(items, numRounds) {
 
     for (let m = 0; m < pairs.length; m++) {
       const [a, b] = pairs[m];
-      roundInfo.textContent = `Round ${round} of ${numRounds} \u2014 Matchup ${m + 1} of ${pairs.length}`;
 
       const winner = await pickWinner(a, b);
+      const loser = winner === a ? b : a;
 
       stats.get(winner.id).wins++;
       stats.get(a.id).opponents.push(b.id);
       stats.get(b.id).opponents.push(a.id);
       roundMatchupsDone++;
       updateProgress();
+      logComparison(comparisonsDone, winner, loser);
     }
-
-    renderStandings(items);
   }
 
   // Buchholz tiebreaker: sum of opponents' final win counts.
