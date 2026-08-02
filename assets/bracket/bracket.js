@@ -680,7 +680,9 @@ function resumeTournamentFromText(text) {
   matchupSection.classList.add("hidden");
   resultsSection.classList.add("hidden");
 
-  renderResultsView({ eliminationPromptVisible: false });
+  // Picking a ranking back up is the natural moment to trim dead weight, so
+  // offer the elimination prompt here even though no round just finished.
+  renderResultsView({ eliminationPromptVisible: true });
 }
 
 // --- Actions ---
