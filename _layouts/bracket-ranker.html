@@ -6,11 +6,12 @@ layout: page
   ranker page only needs to supply its unique window.BRACKET config and data
   scripts (as the page body). Set `posters: true` in front matter for portrait
   poster art. Load order: shared markup, then the page's config + data scripts,
-  then the engine last.
+  then the DOM-free core, then the UI engine last.
 {% endcomment %}
 <link rel="stylesheet" href="{{ '/assets/bracket/bracket.css' | relative_url }}">
 <div class="bracket{% if page.posters %} bracket--posters{% endif %}{% if page.native_art %} bracket--native{% endif %}">
   {% include bracket.html %}
 </div>
 {{ content }}
+<script src="{{ '/assets/bracket/bracket-core.js' | relative_url }}"></script>
 <script src="{{ '/assets/bracket/bracket.js' | relative_url }}"></script>

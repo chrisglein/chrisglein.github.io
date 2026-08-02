@@ -23,6 +23,7 @@ layout: bracket-ranker
       return item.artist + (item.year ? " (" + item.year + ")" : "");
     },
     jsonFields: ["artist", "year"],
+    storageKey: "albums",
   };
 </script>
 <script src="{{ '/album-ranker/albums.js' | relative_url }}"></script>
