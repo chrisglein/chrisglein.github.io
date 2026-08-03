@@ -11,11 +11,10 @@ native_art: true
     prompt: "Which would you rather play?",
     accent: "#aa759f",
     intro: "Pick the game you'd rather play in each matchup. Games land in tiers by wins.",
-    recommendedRounds: 4,
     maxRounds: 8,
     cardLines: function (item) {
       var parts = [];
-      if (item.players) parts.push(item.players + " players");
+      if (item.players) parts.push(item.players + (item.players === "1" ? " player" : " players"));
       if (item.time != null) parts.push(item.time + " min");
       return parts.length ? [{ text: parts.join(" \u00B7 "), className: "meta" }] : [];
     },
@@ -32,5 +31,28 @@ native_art: true
     storageKey: "board-games",
   };
 </script>
-<script src="{{ '/board-game-ranker/games.js' | relative_url }}"></script>
-<script src="{{ '/board-game-ranker/game-art-cache.js' | relative_url }}" onerror="window.ART={}"></script>
+<script src="{{ '/board-game-ranker/games-boys-night.js' | relative_url }}"></script>
+<script src="{{ '/board-game-ranker/art-boys-night.js' | relative_url }}" onerror="window.ART_BOYS_NIGHT={}"></script>
+<script src="{{ '/board-game-ranker/games-jess.js' | relative_url }}"></script>
+<script src="{{ '/board-game-ranker/art-jess.js' | relative_url }}" onerror="window.ART_JESS={}"></script>
+<script>
+  // Datasets are wired after the data scripts load, since each one needs the
+  // globals those files define. Each set keeps its own saved progress.
+  window.BRACKET.datasets = [
+    {
+      id: "boys-night",
+      label: "Boys Night",
+      blurb: "The games that hit the table on Tuesday night.",
+      items: window.ITEMS_BOYS_NIGHT || [],
+      art: window.ART_BOYS_NIGHT || {},
+      recommendedRounds: 4,
+    },
+    {
+      id: "jess",
+      label: "Jess",
+      blurb: "Finding Jess' top board game picks.",
+      items: window.ITEMS_JESS || [],
+      art: window.ART_JESS || {},
+    },
+  ];
+</script>

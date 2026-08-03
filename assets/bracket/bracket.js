@@ -31,6 +31,10 @@
 //   jsonFields       -> [ "field", ... ]  extra keys included in JSON export
 //   storageKey    suffix for the saved-progress key; set it when several
 //                 rankers share one origin
+//   datasets      [ { id, label, blurb, items, art } ]  two or more item sets
+//                 for the same media type. When present, Setup opens with a
+//                 picker instead of window.ITEMS, and each set gets its own
+//                 saved-progress slot.
 //
 // All item-derived text is escaped by the engine, so config functions return
 // plain strings/data, never HTML.
@@ -47,14 +51,30 @@ const linkFn = typeof CFG.link === "function" ? CFG.link : () => null;
 const listLineFn = typeof CFG.listLine === "function" ? CFG.listLine : () => "";
 const JSON_FIELDS = Array.isArray(CFG.jsonFields) ? CFG.jsonFields : [];
 
-const ITEMS = Array.isArray(window.ITEMS) ? window.ITEMS : [];
-const TITLE_COUNTS = new Map();
-for (const item of ITEMS) {
-  TITLE_COUNTS.set(item.title, (TITLE_COUNTS.get(item.title) || 0) + 1);
-}
-const ART = window.ART || {};
+// Item data is per-dataset: a single-set ranker gets one implicit dataset
+// wrapping window.ITEMS / window.ART, so everything below stays uniform.
+const DATASETS = (() => {
+  const configured = (Array.isArray(CFG.datasets) ? CFG.datasets : [])
+    .filter((d) => d && Array.isArray(d.items) && d.items.length);
+  if (!configured.length) {
+    return [{ id: null, items: Array.isArray(window.ITEMS) ? window.ITEMS : [], art: window.ART || {} }];
+  }
+  return configured.map((d, i) => ({ ...d, id: String(d.id || `set-${i + 1}`), art: d.art || {} }));
+})();
+
+let activeDataset = null;
+let ITEMS = [];
+let ART = {};
+let TITLE_COUNTS = new Map();
+let ITEM_INDEX = new Map();
+let STORAGE_KEY = "";
 
 // --- DOM refs ---
+const datasetSection = document.getElementById("dataset-section");
+const datasetIntroEl = document.getElementById("dataset-intro");
+const datasetListEl = document.getElementById("dataset-list");
+const changeDatasetBtn = document.getElementById("change-dataset");
+const setupHeadingEl = document.getElementById("setup-heading");
 const setupSection = document.getElementById("setup-section");
 const setupIntroEl = document.getElementById("setup-intro");
 const itemCountEl = document.getElementById("item-count");
@@ -113,9 +133,25 @@ let currentPairs = [];
 let currentPairIndex = 0;
 let roundHistory = [];
 
-// Suffixed so several rankers hosted on one origin keep separate saved progress.
-const STORAGE_KEY = "bracket-state-v2" + (CFG.storageKey ? ":" + CFG.storageKey : "");
-const ITEM_INDEX = new Map(ITEMS.map((item) => [String(item.id), item]));
+// Suffixed so several rankers hosted on one origin — and several sets within
+// one ranker — keep separate saved progress.
+function storageKeyFor(dataset) {
+  return "bracket-state-v2" +
+    (CFG.storageKey ? ":" + CFG.storageKey : "") +
+    (dataset && dataset.id ? ":" + dataset.id : "");
+}
+
+function selectDataset(dataset) {
+  activeDataset = dataset;
+  ITEMS = dataset.items;
+  ART = dataset.art || {};
+  TITLE_COUNTS = new Map();
+  for (const item of ITEMS) {
+    TITLE_COUNTS.set(item.title, (TITLE_COUNTS.get(item.title) || 0) + 1);
+  }
+  ITEM_INDEX = new Map(ITEMS.map((item) => [String(item.id), item]));
+  STORAGE_KEY = storageKeyFor(dataset);
+}
 
 // --- Utilities ---
 function esc(str) {
@@ -616,7 +652,7 @@ function resetTournament() {
   matchupSection.classList.add("hidden");
   standingsSection.classList.add("hidden");
   resultsSection.classList.add("hidden");
-  init();
+  initSetup();
 }
 
 function startTournament() {
@@ -829,13 +865,83 @@ function applyAccent() {
   if (rgb) root.style.setProperty("--accent-tint", `rgba(${rgb.r}, ${rgb.g}, ${rgb.b}, 0.15)`);
 }
 
-// --- Boot ---
-function init() {
-  if (itemNounEl) itemNounEl.textContent = NOUN_PLURAL;
-  if (matchupPrompt) matchupPrompt.textContent = PROMPT;
-  if (setupIntroEl && CFG.intro) setupIntroEl.textContent = CFG.intro;
-  applyAccent();
+// --- Dataset picker (only rendered when the config declares several sets) ---
+function savedSummaryFor(dataset) {
+  try {
+    const raw = window.localStorage.getItem(storageKeyFor(dataset));
+    if (!raw) return null;
+    const saved = JSON.parse(raw);
+    const round = saved && saved.core ? Number(saved.core.round) || 0 : 0;
+    return round > 0 ? { round } : null;
+  } catch {
+    return null;
+  }
+}
 
+// A few evenly-spaced covers stand in for the whole set, so the teaser hints at
+// its range instead of just showing the first few entries.
+function teaserHtml(dataset) {
+  const art = dataset.art || {};
+  const withArt = dataset.items.filter((item) => art[item.id]);
+  if (!withArt.length) return "";
+  const max = 8;
+  const step = Math.max(1, Math.floor(withArt.length / max));
+  const picks = [];
+  for (let i = 0; i < withArt.length && picks.length < max; i += step) picks.push(withArt[i]);
+  return `<div class="dataset-teaser">${picks
+    .map((item) => `<img src="${escAttr(art[item.id])}" alt="" loading="lazy" onerror="this.remove()">`)
+    .join("")}</div>`;
+}
+
+function renderDatasetPicker() {
+  if (!datasetSection || !datasetListEl) return;
+  if (datasetIntroEl && CFG.intro) datasetIntroEl.textContent = CFG.intro;
+  datasetListEl.innerHTML = DATASETS.map((dataset) => {
+    const saved = savedSummaryFor(dataset);
+    const badge = saved
+      ? `<span class="dataset-badge">In progress \u00B7 round ${saved.round}</span>`
+      : "";
+    const blurb = dataset.blurb ? `<p class="dataset-blurb">${esc(dataset.blurb)}</p>` : "";
+    return `<button type="button" class="dataset-card" data-id="${escAttr(dataset.id)}">` +
+      `<span class="dataset-head"><span class="dataset-label">${esc(dataset.label || dataset.id)}</span>${badge}</span>` +
+      `<span class="dataset-count">${dataset.items.length} ${esc(NOUN_PLURAL)}</span>` +
+      blurb +
+      teaserHtml(dataset) +
+      `</button>`;
+  }).join("");
+  for (const card of datasetListEl.querySelectorAll(".dataset-card")) {
+    card.addEventListener("click", () => {
+      const dataset = DATASETS.find((d) => d.id === card.dataset.id);
+      if (dataset) chooseDataset(dataset);
+    });
+  }
+  datasetSection.classList.remove("hidden");
+  setupSection.classList.add("hidden");
+}
+
+function chooseDataset(dataset) {
+  selectDataset(dataset);
+  T = null;
+  resetTournamentUi();
+  if (datasetSection) datasetSection.classList.add("hidden");
+  if (changeDatasetBtn) changeDatasetBtn.classList.remove("hidden");
+  if (setupHeadingEl) setupHeadingEl.textContent = dataset.label || "Setup";
+  setupSection.classList.remove("hidden");
+  initSetup();
+}
+
+if (changeDatasetBtn) {
+  changeDatasetBtn.addEventListener("click", () => {
+    setResumeError("");
+    if (resumePanel) resumePanel.classList.add("hidden");
+    renderDatasetPicker();
+  });
+}
+
+// --- Boot ---
+function initSetup() {
+  startBtn.disabled = false;
+  if (resumeBtn) resumeBtn.disabled = false;
   if (ITEMS.length === 0) {
     itemCountEl.textContent = "0";
     comparisonEstimate.textContent = `No ${NOUN_PLURAL} loaded. Edit the data file.`;
@@ -854,13 +960,30 @@ function init() {
   itemCountEl.textContent = ITEMS.length;
   maxRounds = roundCapFor(ITEMS.length);
   const recDefault = Math.max(2, Math.ceil(Math.log2(ITEMS.length)));
-  recommendedRounds = Math.min(RECOMMENDED_ROUNDS_CFG || recDefault, maxRounds);
+  const recCfg = (activeDataset && activeDataset.recommendedRounds) || RECOMMENDED_ROUNDS_CFG;
+  recommendedRounds = Math.min(recCfg || recDefault, maxRounds);
   const perRound = Math.floor(ITEMS.length / 2);
   comparisonEstimate.textContent = `${perRound} comparison${perRound !== 1 ? "s" : ""} per round \u00B7 ${recommendedRounds} rounds recommended`;
 
   if (!restoreTournament(loadSavedState())) {
     clearSavedState();
   }
+}
+
+function init() {
+  if (itemNounEl) itemNounEl.textContent = NOUN_PLURAL;
+  if (matchupPrompt) matchupPrompt.textContent = PROMPT;
+  if (setupIntroEl && CFG.intro) setupIntroEl.textContent = CFG.intro;
+  applyAccent();
+
+  // With several sets the picker comes first, so a set in progress is resumed
+  // deliberately rather than whichever one was touched last.
+  if (DATASETS.length > 1 && datasetSection && datasetListEl) {
+    renderDatasetPicker();
+    return;
+  }
+  selectDataset(DATASETS[0]);
+  initSetup();
 }
 
 init();

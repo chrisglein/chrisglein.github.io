@@ -4,8 +4,15 @@
   page's window.BRACKET config, so this markup is identical for every ranker.
 {% endcomment %}
 <div class="bracket-main">
+  <section id="dataset-section" class="hidden">
+    <h2>Choose a Set</h2>
+    <p id="dataset-intro"></p>
+    <div id="dataset-list" class="dataset-list"></div>
+  </section>
+
   <section id="setup-section">
-    <h2>Setup</h2>
+    <h2 id="setup-heading">Setup</h2>
+    <button id="change-dataset" type="button" class="linkish hidden">← Choose a different set</button>
     <p id="setup-intro"></p>
     <p><span id="item-count">0</span> <span id="item-noun">items</span> loaded</p>
     <p id="comparison-estimate" class="hint"></p>
