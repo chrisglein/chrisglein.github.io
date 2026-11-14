@@ -15,7 +15,9 @@ button,input,select{font:inherit}button,select{cursor:pointer}button{color:inher
 main{max-width:1512px;margin:auto;padding:36px 40px}.page-head{margin-bottom:24px}.page-head h1{font-size:42px;letter-spacing:-1.5px;line-height:1.15;margin:8px 0;overflow-wrap:anywhere}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-bottom:22px}.stat{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:12px 16px}.stat-label{color:var(--muted);font-size:12px}.stat-value{font-size:28px;letter-spacing:-1px;font-weight:650;margin:3px 0;white-space:nowrap}.stat-days{font-size:16px;letter-spacing:0;font-weight:400;color:var(--muted)}.stat small{color:var(--muted);font-size:12px}
 .section-head{display:flex;justify-content:space-between;align-items:baseline;gap:18px;margin:0 0 16px}.section-head h2{font-size:23px;letter-spacing:-.7px;margin:0}.section-head p{margin:0;font-size:12px;color:var(--muted)}
-.controls{background:var(--panel);border:1px solid var(--line);padding:18px;border-radius:var(--radius);display:flex;gap:12px;align-items:end;flex-wrap:wrap;margin-bottom:28px}
+.filters{margin-bottom:28px}.filters>summary{display:flex;align-items:center;gap:10px;cursor:pointer;min-height:44px;list-style:none}.filters>summary::-webkit-details-marker{display:none}.filters>summary:before{content:"";width:8px;height:8px;border-right:2px solid currentColor;border-bottom:2px solid currentColor;transform:rotate(-45deg)}.filters[open]>summary:before{transform:rotate(45deg)}.filters>summary h2{font-size:23px;letter-spacing:-.7px;margin:0}.filters>summary:focus-visible{outline:2px solid var(--green);outline-offset:4px}
+.controls{background:var(--panel);border:1px solid var(--line);padding:18px;border-radius:var(--radius);display:flex;gap:12px;align-items:end;flex-wrap:wrap;margin-top:8px}
+.mobile-sort{display:none}
 label{display:flex;flex-direction:column;gap:6px;font-size:12px;color:var(--muted)}.search{flex:1;min-width:190px}input:not([type=checkbox]),select{border:1px solid #3c5143;background:#0f1712;color:var(--text);border-radius:9px;padding:10px 12px;min-height:44px;max-width:100%}input::placeholder{color:#8a9e90}select{max-width:275px}
 .filter-checks{display:flex;gap:12px 20px;flex-wrap:wrap;flex-basis:100%}.check{flex-direction:row;align-items:center;gap:8px;cursor:pointer;min-height:32px}input[type=checkbox]{width:17px;height:17px;accent-color:var(--green);flex-shrink:0}.button{background:var(--panel2);border:1px solid #465d49;border-radius:9px;min-height:44px;padding:10px 14px;font-size:12px;font-weight:600}.button:hover{border-color:var(--green);color:var(--green)}.button:disabled{opacity:.4;cursor:default}
 .library{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius)}table{border-collapse:collapse;table-layout:fixed;width:100%;text-align:left;font-size:12px}th{position:sticky;top:0;background:#1a271e;z-index:1;color:var(--muted);font-weight:500}th,td{padding:14px 10px;border-bottom:1px solid var(--line);overflow-wrap:anywhere}th button{border:0;background:none;color:inherit;padding:5px 0;font-size:11px;text-align:left;min-height:32px}th button[aria-pressed=true]{color:var(--green)}.sort-arrow{display:inline-block;width:6px;height:6px;margin-left:3px;vertical-align:middle}.sort-arrow[data-direction=ascending],.sort-arrow[data-direction=descending]{border-right:1.5px solid currentColor;border-bottom:1.5px solid currentColor;transform:rotate(45deg)}.sort-arrow[data-direction=ascending]{transform:rotate(225deg)}.score-heading{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
@@ -29,6 +31,16 @@ dialog{width:min(1060px,calc(100vw - 32px));max-height:90vh;overflow:auto;oversc
 @media(max-width:1000px){main{padding:28px 22px}.stat{padding:10px 12px}.stat-value{font-size:24px}.stat-days{font-size:13px}th,td{padding:12px 7px}.title-cell{gap:8px}.tile{width:30px;height:45px}}
 @media(max-width:700px){main{padding:24px 16px}.page-head h1{font-size:34px}.stats{grid-template-columns:repeat(2,1fr);gap:6px}.stat:nth-child(2){grid-column:1/-1;order:1}.stat{padding:10px 12px}.stat-value{font-size:24px}.stat-label,.stat small{font-size:10px}.controls{padding:12px;gap:10px}.controls>label{flex:1;min-width:130px}.controls input:not([type=checkbox]),.controls select{width:100%;max-width:none}.section-head{align-items:start;flex-direction:column;gap:5px}.table-footer{flex-direction:column;align-items:start}.detail-grid{grid-template-columns:repeat(2,1fr)}.dialog-content,.dialog-head{padding:16px}.dialog-head h2{font-size:22px}.catalog-detail{gap:12px;padding:12px}.catalog-detail img{width:65px;height:98px}
 #library,#library caption,#library thead,#library tbody,#library tr,#library th,#library td{display:block;width:auto}#library thead tr{display:flex;gap:4px 14px;flex-wrap:wrap;padding:10px 12px;background:#1a271e}#library th{position:static;border:0;padding:0}#library th.rank,#library td.rank{display:none}#library tbody tr{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border-bottom:1px solid var(--line);padding:12px;gap:12px}#library tbody tr:last-child{border:0}#library td{padding:0;border:0}#library td.title-data,#library td.empty{grid-column:1/-1}#library td[data-label]:before{content:attr(data-label);display:block;color:var(--muted);font:10px/1.5 "Segoe UI",sans-serif;margin-bottom:3px}
+.mobile-sort{display:flex;align-items:center;gap:8px;padding:12px 16px 0}.mobile-sort label{flex:1;min-width:0;flex-direction:row;align-items:center}.mobile-sort select{flex:1;min-width:0}.mobile-sort .sort-arrow{width:9px;height:9px;margin:0}.mobile-sort .button{width:44px;flex-shrink:0;padding:0}
+#library thead,.desktop-sort-help{display:none}
+#library tbody tr[data-id]{grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:6px 16px;align-items:start}
+#library .portrait-left,#library .portrait-right{display:flex;flex-direction:column;gap:8px;min-width:0}
+#library .portrait-left>.tile{width:100%;max-width:180px;height:auto;aspect-ratio:2/3;align-self:center;font-size:32px;border-radius:10px}
+#library .title-button{min-height:44px;font-size:14px}
+#library .portrait-field{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:6px;align-items:baseline}
+#library .portrait-field:before{content:attr(data-label);color:var(--muted);font:10px/1.5 "Segoe UI",sans-serif}
+#library .cell-value{text-align:right;min-width:0}
+#library .progress{grid-column:1/-1;width:100%;max-width:180px}
 .achievement-table thead{display:none}.achievement-table,.achievement-table tbody{display:block}.achievement-table tr{display:grid;grid-template-columns:65px minmax(0,1fr);gap:10px;padding:14px 0;border-bottom:1px solid var(--line)}.achievement-table td{display:block;border:0;padding:0}.achievement-table .achievement-name{grid-column:2;grid-row:1}.achievement-table td[data-label]{grid-column:2}.achievement-table td[data-label]:before{content:attr(data-label) ": ";color:var(--muted)}.achievement-table td.empty{grid-column:1/-1}
 }
 </style>
@@ -37,7 +49,8 @@ dialog{width:min(1060px,calc(100vw - 32px));max-height:90vh;overflow:auto;oversc
 <main>
 <header class="page-head"><h1 id="account"></h1></header>
 <section class="stats" aria-label="Snapshot summary" id="stats"></section>
-<div class="section-head"><h2>Filters</h2></div>
+<details class="filters" id="filters">
+<summary><h2>Filters</h2></summary>
 <section class="controls" aria-label="Library controls">
   <label class="search">Filter by title<input id="search" type="search" placeholder="Title or title ID" autocomplete="off"></label>
   <label>Platform<select id="platform"><option value="">All platforms</option></select></label>
@@ -52,10 +65,17 @@ dialog{width:min(1060px,calc(100vw - 32px));max-height:90vh;overflow:auto;oversc
     <label class="check" title="Require a resolved Store match, cover image, and release date"><input id="has-details" type="checkbox">Has release metadata</label>
   </div>
 </section>
+</details>
 <section aria-labelledby="library-heading">
   <div class="section-head"><h2 id="library-heading">Titles</h2><p id="result-count" role="status" aria-live="polite"></p></div>
   <div class="library">
-    <table id="library"><caption class="muted" style="text-align:left;padding:12px 16px;font-size:11px">Select a title for details. Select a column heading to sort; select it again to reverse.</caption>
+    <div class="mobile-sort">
+      <label for="sort-field">Sort by<select id="sort-field">
+        <option value="name">Title</option><option value="release">Release date</option><option value="minutes" selected>Playtime</option><option value="score">Gamerscore</option><option value="scorePercentage">Gamerscore %</option><option value="percentage">Achievements %</option><option value="firstUnlock">First unlock *</option><option value="lastPlayed">Last played</option><option value="activitySpan">Activity span *</option>
+      </select></label>
+      <button class="button" id="sort-direction" aria-label="Sorted descending; reverse to ascending"><span class="sort-arrow" data-direction="descending" aria-hidden="true"></span></button>
+    </div>
+    <table id="library"><caption class="muted" style="text-align:left;padding:12px 16px;font-size:11px">Select a title for details.<span class="desktop-sort-help"> Select a column heading to sort; select it again to reverse.</span></caption>
       <thead><tr><th scope="col" class="rank">#</th><th scope="col" class="title-column"><button data-sort="name">Title <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="release">Release date <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="minutes">Playtime <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><div class="score-heading"><button data-sort="score">Gamerscore <span class="sort-arrow" aria-hidden="true"></span></button><button data-sort="scorePercentage" aria-label="Sort by Gamerscore percentage">% <span class="sort-arrow" aria-hidden="true"></span></button></div></th><th scope="col"><button data-sort="percentage">Achievements % <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="firstUnlock">First unlock * <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="lastPlayed">Last played <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="activitySpan">Activity span * <span class="sort-arrow" aria-hidden="true"></span></button></th></tr></thead>
       <tbody id="rows"></tbody>
     </table>
@@ -219,6 +239,11 @@ function chooseSort(key) {
   page=0;render();
 }
 function render() {
+  $("sort-field").value=sortKey;
+  const direction=ascending?"ascending":"descending";
+  $("sort-direction").setAttribute("aria-label",`Sorted ${direction}; reverse to ${ascending?"descending":"ascending"}`);
+  $("sort-direction").title=`Sorted ${direction}; select to reverse`;
+  $("sort-direction").querySelector(".sort-arrow").dataset.direction=direction;
   const filters={
     query:$("search").value,platform:$("platform").value,genre:$("genre").value,
     releaseYear:$("release-year").value,playedYear:$("played-year").value,
@@ -241,16 +266,29 @@ function render() {
   });
   $("result-count").textContent=`${integer.format(visible.length)} of ${integer.format(titles.length)} titles`;
   const start=page*pageSize;
-  $("rows").innerHTML=visible.slice(start,start+pageSize).map((title,i)=>`
-    <tr data-id="${esc(title.id)}"><td class="rank">${String(start+i+1).padStart(2,"0")}</td>
-    <td class="title-data"><div class="title-cell">${cover(title)}<div><button class="title-button" data-title="${esc(title.id)}">${esc(title.name)}</button><div class="subtitle">${esc(platformSummary(title))}${title.status!=="Collected"?` <span class="partial">/ ${esc(title.status)}</span>`:""}</div><div class="subtitle">${esc((title.genre||[]).join(" / "))}</div></div></div></td>
-    <td class="date" data-label="Release date">${esc(date(title.release))}</td>
-    <td class="${title.minutes===null?"unavailable":"numeric"}" data-label="Playtime">${esc(playtime(title.minutes))}</td>
-    <td class="${title.score===null?"unavailable":"numeric"}" data-label="Gamerscore">${missing(title.score)?"Unavailable":integer.format(title.score)}${progressBar(title.scorePercentage,title.score,title.maximum)}</td>
-    <td class="completion" data-label="Achievements">${missing(title.earned)?'<span class="unavailable">Unavailable</span>':`<span class="numeric">${integer.format(title.earned)}</span>${progressBar(title.percentage,title.earned,title.total,title.completionDerived)}`}</td>
-    <td class="date" data-label="First unlock *">${esc(date(title.firstUnlock))}</td><td class="date" data-label="Last played">${esc(date(title.lastPlayed))}</td><td class="${title.activitySpan===null?"unavailable":"numeric"}" data-label="Activity span *">${esc(duration(title.activitySpan))}</td></tr>`).join("") || '<tr><td colspan="9" class="empty">No titles match these filters.</td></tr>';
+  const portrait=window.matchMedia("(max-width:700px)").matches;
+  $("rows").innerHTML=visible.slice(start,start+pageSize).map((title,i)=>{
+    const information=`<div><button class="title-button" data-title="${esc(title.id)}">${esc(title.name)}</button><div class="subtitle">${esc(platformSummary(title))}${title.status!=="Collected"?` <span class="partial">/ ${esc(title.status)}</span>`:""}</div><div class="subtitle">${esc((title.genre||[]).join(" / "))}</div></div>`;
+    const fields=[
+      ["Release date",date(title.release),"date"],
+      ["Playtime",playtime(title.minutes),title.minutes===null?"unavailable":"numeric"],
+      ["Gamerscore",missing(title.score)?"Unavailable":integer.format(title.score),title.score===null?"unavailable":"numeric",progressBar(title.scorePercentage,title.score,title.maximum)],
+      ["Achievements",missing(title.earned)?"Unavailable":integer.format(title.earned),missing(title.earned)?"unavailable":"numeric",missing(title.earned)?"":progressBar(title.percentage,title.earned,title.total,title.completionDerived)],
+      ["First unlock *",date(title.firstUnlock),"date"],
+      ["Last played",date(title.lastPlayed),"date"],
+      ["Activity span *",duration(title.activitySpan),title.activitySpan===null?"unavailable":"numeric"]
+    ];
+    const cells=fields.map(([label,value,className,bar=""])=>{
+      const tag=portrait?"div":"td";
+      return `<${tag} class="${portrait?"portrait-field ":""}${className}" data-label="${label}"><span class="cell-value">${esc(value)}</span>${bar}</${tag}>`;
+    });
+    const content=portrait
+      ? `<td class="portrait-left">${cover(title)}${cells[2]}${cells[3]}</td><td class="portrait-right">${information}${cells[0]}${cells.slice(4).join("")}${cells[1]}</td>`
+      : `<td class="rank">${String(start+i+1).padStart(2,"0")}</td><td class="title-data"><div class="title-cell">${cover(title)}${information}</div></td>${cells.join("")}`;
+    return `<tr data-id="${esc(title.id)}">${content}</tr>`;
+  }).join("") || '<tr><td colspan="9" class="empty">No titles match these filters.</td></tr>';
   for(const bar of $("rows").querySelectorAll(".progress")) {
-    bar.closest("td").title=bar.title;
+    bar.closest(".portrait-field,td").title=bar.title;
     bar.removeAttribute("title");
   }
   $("range").textContent=visible.length?`Showing ${start+1}-${Math.min(start+pageSize,visible.length)} / 50 per page`:"No matching titles.";
@@ -288,6 +326,9 @@ function initialize() {
   $("previous").addEventListener("click",()=>{page--;render();});
   $("next").addEventListener("click",()=>{page++;render();});
   document.querySelectorAll("th button[data-sort]").forEach(button=>button.addEventListener("click",()=>chooseSort(button.dataset.sort)));
+  $("sort-field").addEventListener("change",()=>chooseSort($("sort-field").value));
+  $("sort-direction").addEventListener("click",()=>chooseSort(sortKey));
+  window.matchMedia("(max-width:700px)").addEventListener("change",()=>render());
   document.addEventListener("click",event=>{const target=event.target.closest("[data-title]");if(target) selectTitle(target.dataset.title);});
   $("close-detail").addEventListener("click",()=>$("detail").close());
   render();
