@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="dark">
   <meta name="referrer" content="no-referrer">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; img-src https://images-eds-ssl.xboxlive.com https://image-ssl.xboxlive.com https://store-images.microsoft.com https://store-images.s-microsoft.com; base-uri 'none'; form-action 'none'">
   <title>Choose a gamertag / Xbox Playback</title>
   <style>
     :root { color-scheme: dark; --bg: #0b100e; --text: #edf5eb; --muted: #a1b3a5; }
@@ -43,7 +43,8 @@
     .card.mint { --accent: #66dec1; --glow: #193c33; }
     .card:hover { border-color: var(--accent); transform: translateY(-3px); }
     .card:focus-visible { outline: 3px solid var(--accent); outline-offset: 5px; }
-    .identity { margin-bottom: 30px; }
+    .identity { display: flex; align-items: center; gap: 14px; margin-bottom: 30px; }
+    .gamerpic { width: 52px; height: 52px; flex: 0 0 52px; border: 1px solid #ffffff25; border-radius: 50%; object-fit: cover; }
     h2 { min-width: 0; margin: 0; font-size: clamp(20px, 2.4vw, 25px); letter-spacing: -.6px; overflow-wrap: anywhere; }
     dl { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 0; }
     dt { color: var(--muted); font-size: 11px; }
@@ -60,6 +61,8 @@
     @media (max-width: 380px) {
       main { padding-inline: 16px; }
       .card { padding: 20px; }
+      .identity { gap: 12px; }
+      .gamerpic { width: 44px; height: 44px; flex-basis: 44px; }
       dl { gap: 8px; }
       dd { font-size: 20px; }
     }
@@ -79,6 +82,7 @@
     <nav class="profiles" aria-label="Gamertag histories">
       <a class="card" href="./papasnewbag/" aria-labelledby="papasnewbag-name">
         <div class="identity">
+          <img class="gamerpic" src="https://images-eds-ssl.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoggwxO0QcbTFtddxxXZQ6HHyjq5wwXPTTxpjNWv4PDZfWkdaknT9JO85m7eWqLYq0093S0rhRlxzqA7vgGskvahZJflJSSH49pLkRxTfHOEsnSlk_mkh6iXBjGM5Gxvm7TQ-&amp;format=png" width="52" height="52" alt="" decoding="async" onerror="console.warn('Gamer picture could not load; omitted.'); this.remove()">
           <h2 id="papasnewbag-name">papasnewbag</h2>
         </div>
         <dl>
@@ -90,6 +94,7 @@
       </a>
       <a class="card mint" href="./cheetahpuppygrl/" aria-labelledby="cheetahpuppygrl-name">
         <div class="identity">
+          <img class="gamerpic" src="https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcS9jr0n8i7LY1tL3U7Aiaff0yl6R.XqREmqL_j50zzbMnk39SDi1IeGxNlVDW47wx&amp;format=png" width="52" height="52" alt="" decoding="async" onerror="console.warn('Gamer picture could not load; omitted.'); this.remove()">
           <h2 id="cheetahpuppygrl-name">CheetahPuppyGrl</h2>
         </div>
         <dl>
