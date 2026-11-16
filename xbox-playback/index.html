@@ -34,9 +34,12 @@ dialog{width:min(1060px,calc(100vw - 32px));max-height:90vh;overflow:auto;oversc
 .history-section{margin-bottom:28px}.history-controls{display:flex;flex-wrap:wrap;gap:12px;align-items:end;margin-bottom:12px}.history-controls label{min-width:150px}.history-controls select{max-width:100%}.history-scroll{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);overscroll-behavior-x:contain}.history-scroll:focus-visible{outline:2px solid var(--green);outline-offset:4px}.history-chart{position:relative;height:520px}.history-chart svg{display:block;width:100%;height:100%}.history-grid{stroke:var(--line);stroke-dasharray:2 5}.history-axis{fill:var(--muted);font:12px "Segoe UI",sans-serif}.history-line{fill:none;stroke:var(--mint);stroke-width:2.5;stroke-linejoin:round}.history-point{fill:var(--mint);stroke:var(--bg);stroke-width:2}.history-year{cursor:pointer}.history-year:focus-visible{outline:none}.history-year:focus-visible .history-ring,.history-year[aria-pressed=true] .history-ring{stroke:var(--green);stroke-width:3}.history-ring{fill:none;stroke:var(--mint);stroke-width:1.5}.history-stem{stroke:var(--mint);stroke-dasharray:4 5;stroke-width:1.5}.history-cover-button{position:absolute;width:88px;padding:0;background:var(--panel2);border:1px solid var(--line);border-radius:8px;overflow:hidden}.history-cover-button:hover{border-color:var(--green)}.history-cover{display:grid;place-items:center;width:86px;height:120px;object-fit:cover;border:0;border-radius:0;font-size:26px}.history-cover.tile{width:86px;height:120px}
 .titles-filters{margin-bottom:16px}.titles-filters>summary h3{font-size:16px;margin:0}
 .history-cover.artwork-contain{object-fit:contain}
+.history-scroll{overflow-y:hidden}.history-plot{position:absolute;left:0;top:0;width:100%;height:520px}
+.note h3{font-size:13px;color:var(--text);margin:16px 0 4px}.note p{margin:0}
 .sources{margin:24px 0;color:var(--muted);font-size:12px}.sources summary{cursor:pointer;color:var(--text);font-weight:600}.source-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:12px;margin-top:12px}.source-record{padding:14px;border:1px solid var(--line);border-radius:10px;min-width:0}.source-record h4{margin:0 0 10px;color:var(--text)}.source-record dl{margin:0;display:grid;grid-template-columns:90px 1fr;gap:6px}.source-record dd{margin:0;overflow-wrap:anywhere;color:var(--text)}
 @media(max-width:1000px){main{padding:28px 22px}.stat{padding:10px 12px}.stat-value{font-size:24px}.stat-days{font-size:13px}th,td{padding:12px 7px}.title-cell{gap:8px}.tile{width:30px;height:45px}}
 @media(max-width:700px){main{padding:24px 16px}.page-head h1{font-size:34px}.stats{grid-template-columns:repeat(2,1fr);gap:6px}.stat:nth-child(2){grid-column:1/-1;order:1}.stat{padding:10px 12px}.stat-value{font-size:24px}.stat-label,.stat small{font-size:10px}.controls{padding:12px;gap:10px}.controls>label{flex:1;min-width:130px}.controls input:not([type=checkbox]),.controls select{width:100%;max-width:none}.section-head{align-items:start;flex-direction:column;gap:5px}.table-footer{flex-direction:column;align-items:start}.detail-grid{grid-template-columns:repeat(2,1fr)}.dialog-content,.dialog-head{padding:16px}.dialog-head h2{font-size:22px}.catalog-detail{gap:12px;padding:12px}.catalog-detail img{width:65px;height:98px}
+.history-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.history-controls label{min-width:0;font-size:11px}.history-controls select{width:100%;min-width:0;padding:10px 6px;font-size:11px}
 .hero-list{display:flex;overflow-x:auto;gap:10px;padding:8px 2px 16px;scroll-snap-type:x proximity}.hero-list li{flex:0 0 min(44%,180px);scroll-snap-align:start}.hero-name{font-size:12px}.hero-label{font-size:10px}
 #library,#library caption,#library thead,#library tbody,#library tr,#library th,#library td{display:block;width:auto}#library thead tr{display:flex;gap:4px 14px;flex-wrap:wrap;padding:10px 12px;background:#1a271e}#library th{position:static;border:0;padding:0}#library th.rank,#library td.rank{display:none}#library tbody tr{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));border-bottom:1px solid var(--line);padding:12px;gap:12px}#library tbody tr:last-child{border:0}#library td{padding:0;border:0}#library td.title-data,#library td.empty{grid-column:1/-1}#library td[data-label]:before{content:attr(data-label);display:block;color:var(--muted);font:10px/1.5 "Segoe UI",sans-serif;margin-bottom:3px}
 .mobile-sort{display:flex;align-items:center;gap:8px;padding:12px 16px 0}.mobile-sort label{flex:1;min-width:0;flex-direction:row;align-items:center}.mobile-sort select{flex:1;min-width:0}.mobile-sort .sort-arrow{width:9px;height:9px;margin:0}.mobile-sort .button{width:44px;flex-shrink:0;padding:0}
@@ -58,14 +61,14 @@ dialog{width:min(1060px,calc(100vw - 32px));max-height:90vh;overflow:auto;oversc
 <header class="page-head"><h1 id="account"></h1></header>
 <section class="stats" aria-label="Snapshot summary" id="stats"></section>
 <details class="disclosure" id="top-ten" open>
-  <summary><h2>Top 10</h2><span class="hero-label" data-method="rank">Calculated rank *</span></summary>
+  <summary><h2>Top 10</h2><span class="hero-label" data-method="rank">Calculated rank</span></summary>
   <ol class="hero-list" id="hero-titles" aria-label="Top ten ranked games"></ol>
 </details>
 <section class="history-section" id="history-section" aria-labelledby="history-heading">
   <div class="section-head"><h2 id="history-heading">Timeline</h2></div>
   <div class="history-controls">
-    <label>Measure<select id="history-metric"><option value="titles">Titles played *</option><option value="score" selected>Gamerscore earned *</option><option value="achievements">Achievements unlocked *</option></select></label>
-    <label>Highlight game by<select id="history-highlight"><option value="score">Gamerscore that year</option><option value="achievements" selected>Achievements that year</option></select></label>
+    <label>Measure<select id="history-metric"><option value="titles">Titles played</option><option value="score" selected>Gamerscore earned</option><option value="achievements" title="Achievements unlocked">Achievements</option></select></label>
+    <label>Highlight game by<select id="history-highlight"><option value="score">Gamerscore</option><option value="achievements" selected>Achievements</option></select></label>
   </div>
   <div class="history-scroll" id="history-scroll" tabindex="0" role="region" aria-label="Annual history chart; scroll horizontally to explore years">
     <div class="history-chart" id="history-chart"></div>
@@ -93,12 +96,12 @@ dialog{width:min(1060px,calc(100vw - 32px));max-height:90vh;overflow:auto;oversc
   <div class="library">
     <div class="mobile-sort">
       <label for="sort-field">Sort by<select id="sort-field">
-        <option value="rank">Rank *</option><option value="name">Title</option><option value="release">Release date</option><option value="minutes" selected>Playtime</option><option value="score">Gamerscore</option><option value="scorePercentage">Gamerscore %</option><option value="percentage">Achievements %</option><option value="firstUnlock">First unlock *</option><option value="lastPlayed">Last played</option><option value="activitySpan">Activity span *</option><option value="unlockDays">Unlock days *</option>
+        <option value="rank">Rank</option><option value="name">Title</option><option value="release">Release date</option><option value="minutes" selected>Playtime</option><option value="score">Gamerscore</option><option value="scorePercentage">Gamerscore %</option><option value="percentage">Achievements %</option><option value="firstUnlock">First unlock</option><option value="lastPlayed">Last played</option><option value="activitySpan">Activity span</option><option value="unlockDays">Unlock days</option>
       </select></label>
       <button class="button" id="sort-direction" aria-label="Sorted descending; reverse to ascending"><span class="sort-arrow" data-direction="descending" aria-hidden="true"></span></button>
     </div>
     <table id="library" aria-labelledby="library-heading">
-      <thead><tr><th scope="col" class="rank"><button data-sort="rank">Rank * <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col" class="title-column"><button data-sort="name">Title <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="release">Release date <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="minutes">Playtime <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><div class="score-heading"><button data-sort="score">Gamerscore <span class="sort-arrow" aria-hidden="true"></span></button><button data-sort="scorePercentage" aria-label="Sort by Gamerscore percentage">% <span class="sort-arrow" aria-hidden="true"></span></button></div></th><th scope="col"><button data-sort="percentage">Achievements % <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="firstUnlock">First unlock * <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="lastPlayed">Last played <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="activitySpan">Activity span * <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="unlockDays">Unlock days * <span class="sort-arrow" aria-hidden="true"></span></button></th></tr></thead>
+      <thead><tr><th scope="col" class="rank"><button data-sort="rank">Rank <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col" class="title-column"><button data-sort="name">Title <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="release">Release date <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="minutes">Playtime <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><div class="score-heading"><button data-sort="score">Gamerscore <span class="sort-arrow" aria-hidden="true"></span></button><button data-sort="scorePercentage" aria-label="Sort by Gamerscore percentage">% <span class="sort-arrow" aria-hidden="true"></span></button></div></th><th scope="col"><button data-sort="percentage">Achievements % <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="firstUnlock">First unlock <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="lastPlayed">Last played <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="activitySpan">Activity span <span class="sort-arrow" aria-hidden="true"></span></button></th><th scope="col"><button data-sort="unlockDays">Unlock days <span class="sort-arrow" aria-hidden="true"></span></button></th></tr></thead>
       <tbody id="rows"></tbody>
     </table>
     <div class="table-footer"><span id="range"></span><div class="paging"><button class="button" id="previous">Previous</button><span id="page-number"></span><button class="button" id="next">Next</button></div></div>
@@ -127,17 +130,17 @@ const dateKey = key => ["release","lastPlayed","firstUnlock"].includes(key);
 let sortKey = "minutes", ascending = false, page = 0, visible = [];
 const pageSize = 50;
 const methods = {
-  rank: "Custom rank, not Microsoft's Playback formula: 30% recorded playtime (hours), 40% achievements unlocked, 30% unique achievement unlock days. Each available input uses log(1 + value) / log(1 + library maximum). Score = 100 × weighted average of available inputs × (0.5 + 0.5 × available weight). Missing inputs are omitted and coverage discounts the result. With achievements and unlock days but no playtime, the coverage multiplier is 0.85. Best score is Rank 1. Apps are excluded; ranks stay fixed across filters. Achievement difficulty is not available.",
-  firstUnlock: "Earliest valid dated earned achievement, not first play. Sentinel dates are excluded.",
-  activitySpan: "UTC calendar days from first unlock to last played, not engaged playtime. Same-day activity is 0 d; missing or inverted dates are unavailable.",
-  unlockDays: "Number of unique UTC dates with at least one valid retrieved earned achievement. This is observed engagement, not total active days. Undated/partial records can undercount; no valid dates is unavailable unless zero earned achievements is known.",
-  timeline: "Annual observed history, in UTC, excluding apps. Titles played counts distinct title IDs with a dated earned achievement or saved last-play date that year, not all sessions or intervening years. Achievements counts retrieved dated earned records; Gamerscore sums their known rewards, not lifetime summary totals. Undated unlocks and missing rewards cannot be assigned; partial retrieval can undercount. Zero means no recorded evidence, not no play. The snapshot year may be incomplete. Highlights use that year's earned rewards or unlock counts, defaulting to achievements regardless of measure. Ties use title name, then ID, not lifetime rank. Points and covers open the highlighted game when available. Chart controls do not filter the library."
+  rank: "Custom rank, not Microsoft's formula: 30% recorded playtime (hours), 40% achievements unlocked, 30% unlock days. Inputs use log(1 + value) / log(1 + library maximum). Score = 100 × weighted average of available inputs × (0.5 + 0.5 × available weight). Missing data is omitted, then discounted (0.85 when only playtime is missing). Apps are excluded; difficulty is not measured.",
+  firstUnlock: "Earliest dated earned achievement, not first play. Placeholder dates are excluded.",
+  activitySpan: "UTC days from first unlock to last played, not time spent playing. Same-day activity is 0 d; missing or reversed dates are unavailable.",
+  unlockDays: "Number of unique UTC dates with an earned achievement, not all active days. Missing dates or partial records can undercount. No dates means unavailable unless zero unlocks is known.",
+  timeline: "Annual totals use dated earned achievements in UTC; Gamerscore sums their known rewards. Titles played counts games with an unlock or last-play date that year, not complete play history or every intervening year. Apps are excluded. Missing dates, rewards and partial records can undercount; zero means no recorded evidence. The final year may be incomplete. Covers highlight the year's most unlocks (default) or known Gamerscore; ties use name then ID. Timeline controls do not filter Titles."
 };
-const methodKeys = {"Rank *":"rank","First unlock *":"firstUnlock","Activity span *":"activitySpan","Unlock days *":"unlockDays","Timeline measures *":"timeline"};
+const methodKeys = {"Rank":"rank","First unlock":"firstUnlock","Activity span":"activitySpan","Unlock days":"unlockDays","Timeline":"timeline"};
 const historyMeasures = {
-  titles:{label:"Titles played *"},
-  score:{label:"Gamerscore earned *"},
-  achievements:{label:"Achievements unlocked *"}
+  titles:{label:"Titles played"},
+  score:{label:"Gamerscore earned"},
+  achievements:{label:"Achievements unlocked"}
 };
 let historyMetric="score", historyHighlight="achievements", historyYear=null;
 function annualHighlight(row,key) {
@@ -158,6 +161,35 @@ function historyGeometry(rows) {
   const ceiling=Math.ceil(maximum/magnitude)*magnitude;
   return {width,ceiling,x:index=>112+index*(width-176)/Math.max(1,rows.length-1),
           y:value=>460-value/ceiling*220};
+}
+function historyTopInset(rows,left,viewportWidth) {
+  const {x,y}=historyGeometry(rows),right=left+viewportWidth;
+  let top=520;
+  for(let index=0;index<rows.length;index++) {
+    const cx=x(index),cy=y(rows[index][historyMetric]);
+    if(cx+22>=left && cx-22<=right) top=Math.min(top,cy-22);
+    if(cx+44>=left && cx-44<=right && annualHighlight(rows[index],historyHighlight)) {
+      top=Math.min(top,cy-170);
+    }
+    if(index) {
+      const previousX=x(index-1),previousY=y(rows[index-1][historyMetric]);
+      const start=Math.max(left,previousX),end=Math.min(right,cx);
+      if(start<=end) {
+        const lineY=position=>previousY+(cy-previousY)*(position-previousX)/(cx-previousX);
+        top=Math.min(top,lineY(start)-2,lineY(end)-2);
+      }
+    }
+  }
+  return Math.max(0,Math.floor(top-16));
+}
+function fitHistoryChart() {
+  const chart=$("history-chart"),plot=chart.querySelector(".history-plot");
+  if(!plot) return;
+  const scroll=$("history-scroll");
+  const inset=window.matchMedia("(max-width:700px)").matches
+    ? historyTopInset(archive.timeline.years,scroll.scrollLeft,scroll.clientWidth) : 0;
+  chart.style.height=`${520-inset}px`;
+  plot.style.top=`-${inset}px`;
 }
 function historyMarkup(rows) {
   const geometry=historyGeometry(rows),{width,ceiling,x,y}=geometry;
@@ -181,10 +213,10 @@ function historyMarkup(rows) {
     const label=`${row.year}: ${title.name}; ${criterion}`;
     return `<button class="history-cover-button" style="left:${x(index)-44}px;top:${y(row[historyMetric])-170}px" data-title="${esc(title.id)}" title="${esc(label)}" aria-label="${esc(label)}">${cover(title,"history-cover")}</button>`;
   }).join("");
-  return `<svg viewBox="0 0 ${width} 520" aria-label="${esc(historyMeasures[historyMetric].label)} by year">
+  return `<div class="history-plot"><svg viewBox="0 0 ${width} 520" aria-label="${esc(historyMeasures[historyMetric].label)} by year">
     <defs><linearGradient id="history-fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#66dec1" stop-opacity=".22"/><stop offset="1" stop-color="#66dec1" stop-opacity=".02"/></linearGradient></defs>
     ${grid}<path d="M ${x(0)},460 L ${points.join(" L ")} L ${x(rows.length-1)},460 Z" fill="url(#history-fill)"/>
-    <polyline class="history-line" points="${points.join(" ")}"/>${years}</svg>${covers}`;
+    <polyline class="history-line" points="${points.join(" ")}"/>${years}</svg>${covers}</div>`;
 }
 function renderHistory() {
   const rows=archive.timeline.years;
@@ -197,6 +229,7 @@ function renderHistory() {
   const geometry=historyGeometry(rows);
   $("history-chart").style.width=`${geometry.width}px`;
   $("history-chart").innerHTML=historyMarkup(rows);
+  fitHistoryChart();
 }
 function missing(value) { return value === null || value === undefined; }
 function compareTitles(a,b,key=sortKey,asc=ascending) {
@@ -343,14 +376,14 @@ function selectTitle(identifier) {
   $("detail-title").textContent=title.name;
   $("detail-subtitle").textContent=platformSummary(title);
   const metrics=[
-    ["Rank *",valueLabel(title,"rank")],
+    ["Rank",valueLabel(title,"rank")],
     ["Playtime",playtime(title.minutes)],
     ["Gamerscore",`${title.score===null?"Unavailable":integer.format(title.score)} / ${title.maximum===null?"?":integer.format(title.maximum)} G`],
     ["Achievement completion",valueLabel(title,"percentage")],
-    ["First unlock *",date(title.firstUnlock)],
+    ["First unlock",date(title.firstUnlock)],
     ["Last played",date(title.lastPlayed)],
-    ["Activity span *",duration(title.activitySpan)],
-    ["Unlock days *",valueLabel(title,"unlockDays")]
+    ["Activity span",duration(title.activitySpan)],
+    ["Unlock days",valueLabel(title,"unlockDays")]
   ];
   $("detail-content").innerHTML=`
     ${catalogAvailability(title)}${catalogDetails(title)}${artworkDetails(title)}
@@ -405,11 +438,11 @@ function render() {
       ["Playtime",playtime(title.minutes),title.minutes===null?"unavailable":"numeric"],
       ["Gamerscore",missing(title.score)?"Unavailable":integer.format(title.score),title.score===null?"unavailable":"numeric",progressBar(title.scorePercentage,title.score,title.maximum)],
       ["Achievements",missing(title.earned)?"Unavailable":integer.format(title.earned),missing(title.earned)?"unavailable":"numeric",missing(title.earned)?"":progressBar(title.percentage,title.earned,title.total,title.completionDerived)],
-      ["First unlock *",date(title.firstUnlock),"date"],
+      ["First unlock",date(title.firstUnlock),"date"],
       ["Last played",date(title.lastPlayed),"date"],
-      ["Activity span *",duration(title.activitySpan),title.activitySpan===null?"unavailable":"numeric"],
-      ["Rank *",valueLabel(title,"rank"),missing(title.rank)?"unavailable":"numeric"],
-      ["Unlock days *",valueLabel(title,"unlockDays"),missing(title.unlockDays)?"unavailable":"numeric"]
+      ["Activity span",duration(title.activitySpan),title.activitySpan===null?"unavailable":"numeric"],
+      ["Rank",valueLabel(title,"rank"),missing(title.rank)?"unavailable":"numeric"],
+      ["Unlock days",valueLabel(title,"unlockDays"),missing(title.unlockDays)?"unavailable":"numeric"]
     ];
     const cells=fields.map(([label,value,className,bar=""])=>{
       const tag=portrait?"div":"td";
@@ -448,14 +481,21 @@ function initialize() {
     $(id).add(new Option("Unavailable","unavailable"));
   }
   $("snapshot-date").textContent=`Snapshot: ${date(archive.updated)}`;
-  $("method-notes").innerHTML=Object.entries(methodKeys).map(([label,key])=>`<p><strong>${esc(label)}:</strong> ${esc(methods[key])}</p>`).join("")
-    + "<p>Played year uses first unlock, or last played if no unlock date is available. Games with missing dates or Store details are included unless you filter them out. ~ indicates a percentage calculated from retrieved achievement records.</p>";
+  $("method-notes").innerHTML=Object.entries(methodKeys).map(([label,key])=>`<h3>${esc(label)}</h3><p>${esc(methods[key])}</p>`).join("")
+    + "<h3>Played year</h3><p>The Titles filter uses first unlock, falling back to last played. It is not every year a game was played.</p><h3>Completion</h3><p>~ marks a percentage calculated from retrieved achievement records.</p>";
   document.querySelectorAll("[data-method]").forEach(element=>{element.title=methods[element.dataset.method];});
   for(const option of $("sort-field").options) option.title=methods[option.value]||"";
   renderHero();
   $("history-metric").title=methods.timeline;
   $("history-highlight").title=methods.timeline;
   renderHistory();
+  let historyFitFrame=null;
+  const scheduleHistoryFit=()=>{
+    if(historyFitFrame!==null) return;
+    historyFitFrame=requestAnimationFrame(()=>{historyFitFrame=null;fitHistoryChart();});
+  };
+  $("history-scroll").addEventListener("scroll",scheduleHistoryFit,{passive:true});
+  window.addEventListener("resize",scheduleHistoryFit);
   $("history-metric").addEventListener("change",()=>{
     historyMetric=$("history-metric").value;
     renderHistory();
