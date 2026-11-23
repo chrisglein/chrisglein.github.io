@@ -43,6 +43,10 @@ dialog{--detail-inset-top:max(16px,env(safe-area-inset-top,0px));--detail-inset-
 .achievement-table tr.achievement-ending.achievement-unlocked{background:#302715;box-shadow:inset 3px 0 #dfbd69}.achievement-ending.achievement-unlocked .achievement-name strong{color:#f2d27d}
 .visually-hidden{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
 .achievement-filters{display:flex;gap:4px;margin:0 0 12px}.achievement-filters button{min-height:36px;padding:6px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);font-size:12px}.achievement-filters button[aria-pressed=true]{background:#263b29;border-color:#536b4c;color:var(--green)}
+.achievement-activity{margin:16px 0 20px;padding:16px;border:1px solid var(--line);border-radius:12px;background:var(--panel);scroll-margin-top:110px}.achievement-activity h4{margin:0 0 12px;font-size:15px}.activity-ending-legend{display:inline-block;margin-left:12px;font-size:12px;font-weight:400;color:var(--amber)}
+.activity-chart{overflow-x:auto;overscroll-behavior-x:contain;border:1px solid var(--line);border-radius:10px;background:#0b1c16}.activity-chart svg{display:block;width:100%;height:280px}.activity-chart text{font-family:inherit;fill:var(--muted);font-size:11px}.activity-chart .activity-count{fill:#d4fbe2;font-size:13px;font-weight:700}.activity-chart .activity-year{fill:#d5e8d9;font-size:12px;font-weight:650}.activity-chart .activity-marker{cursor:pointer;outline:none}.activity-marker:hover,.activity-marker:focus-visible{filter:drop-shadow(0 0 4px #b6ffda)}.activity-marker:focus-visible .activity-hit{stroke:#eef7ef;stroke-width:2}.activity-chart .activity-gap{fill:#c3bb93;font-size:10px}
+.activity-actions{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;margin-top:12px}.activity-actions .button,.activity-actions select{min-height:44px;white-space:normal;text-align:left;max-width:100%}.activity-actions label{display:flex;flex-direction:row;align-items:center;gap:8px;font-size:12px;color:var(--muted);min-width:0}.activity-preview{min-height:3em;font-size:12px;line-height:1.5;color:var(--muted);margin:10px 0;overflow-wrap:anywhere}.activity-selection{font-size:12px;color:var(--green);scroll-margin-top:120px}.activity-selection:empty{display:none}
+@media(max-width:700px){.achievement-activity{padding:10px}.activity-actions .button,.activity-actions select{font-size:11px}.activity-actions label:has(select){width:100%}.activity-actions select{min-width:0;flex:1}}
 .completion-check{display:inline-block;color:var(--muted);font-size:12px;font-weight:400;margin-left:6px;text-decoration:none}
 #source-scope{min-width:130px}#source-scope[hidden],#history-source-scope[hidden]{display:none}
 .catalog-detail{display:flex;gap:20px;align-items:start;padding:18px;background:var(--panel);border-radius:12px;margin-bottom:20px}.catalog-detail img{width:100px;height:150px;object-fit:cover;border-radius:7px}.catalog-detail h3{margin:0 0 8px;font-size:16px}.catalog-detail p{font-size:12px;margin:6px 0;color:var(--muted)}.catalog-detail .catalog-facts{color:var(--mint)}.catalog-detail>div{min-width:0;overflow-wrap:anywhere}
@@ -173,6 +177,8 @@ const $ = id => document.getElementById(id);
 const fmt = new Intl.NumberFormat("en-US", {maximumFractionDigits: 1});
 const integer = new Intl.NumberFormat("en-US", {maximumFractionDigits: 0});
 const dateFormat = new Intl.DateTimeFormat("en-US", {year:"numeric", month:"short", day:"numeric", timeZone:"UTC"});
+const achievementDateTimeFormat = new Intl.DateTimeFormat(dateFormat.resolvedOptions().locale, {dateStyle:"medium", timeStyle:"short"});
+const gapYearsFormat = new Intl.NumberFormat(dateFormat.resolvedOptions().locale, {minimumFractionDigits:1, maximumFractionDigits:1});
 const esc = value => String(value ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const date = value => value ? dateFormat.format(new Date(value)) : "Unavailable";
 const dateKey = key => ["release","lastPlayed","firstUnlock"].includes(key);
@@ -390,6 +396,16 @@ function duration(days) {
   if(missing(days)) return "Unavailable";
   return days>=365.25?`${fmt.format(days/365.25)} yr`:`${fmt.format(days)} d`;
 }
+function activityGapDuration(days) {
+  if(!Number.isFinite(days) || days<0) return "Unavailable";
+  if(days>=365.25) return `${gapYearsFormat.format(days/365.25)} year`;
+  if(days>=365.25/12) {
+    const months=Number((days/(365.25/12)).toFixed(1));
+    return `${fmt.format(months)} month`;
+  }
+  const rounded=Math.round(days);
+  return `${integer.format(rounded)} day`;
+}
 function playtime(minutes) {
   if(missing(minutes)) return "Unavailable";
   return `${fmt.format(minutes/60)} h`;
@@ -527,6 +543,121 @@ function achievementEarned(row) {
 function achievementLocked(row) {
   return ["Locked","NotStarted","InProgress"].includes(row.state);
 }
+function achievementTimestamp(row,now=Date.now()) {
+  if(!achievementEarned(row) || row.revoked==="True" || typeof row.date!=="string") return null;
+  const match=/^(\d{4})-(\d{2})-(\d{2})(?:$|T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$)/.exec(row.date);
+  if(!match || /^(0000|0001|1601|1753)-/.test(row.date) || row.date.startsWith("2002-11-15")) return null;
+  const calendar=new Date(Date.UTC(Number(match[1]),Number(match[2])-1,Number(match[3])));
+  if(calendar.toISOString().slice(0,10)!==row.date.slice(0,10)) return null;
+  if(row.date.includes("T") && row.date.slice(11,19).split(":").some((v,i)=>Number(v)>(i===0?23:59))) return null;
+  const timestamp=Date.parse(row.date);
+  return Number.isFinite(timestamp) && timestamp<=now?timestamp:null;
+}
+function achievementDateTime(row) {
+  const timestamp=achievementTimestamp(row);
+  return timestamp===null?"Unavailable":achievementDateTimeFormat.format(new Date(timestamp));
+}
+function achievementActivity(title) {
+  const days=new Map();
+  const awards=[];
+  let undated=0;
+  if(title.nintendo || sourceOf(title)==="nintendo" || !personallyPlayed(title)
+    || title.participation?.achievementOwnership==="UnknownPersonalOwnership") return {groups:[],undated,awards};
+  for(const [index,row] of (title.achievements||[]).entries()) {
+    if(!achievementEarned(row) || row.revoked==="True") continue;
+    const timestamp=achievementTimestamp(row);
+    if(timestamp===null) {undated++;continue;}
+    const day=new Date(timestamp).toISOString().slice(0,10);
+    awards.push({row,number:index+1,timestamp,day});
+    if(!days.has(day)) days.set(day,{day,count:0,score:0,knownRewards:0,missingRewards:0});
+    const entry=days.get(day);
+    entry.count++;
+    const score=achievementSortValue({row},"score");
+    if(score!==null && score>=0) {entry.score+=score;entry.knownRewards++;}
+    else entry.missingRewards++;
+  }
+  const groups=[];
+  awards.sort((a,b)=>a.timestamp-b.timestamp||a.number-b.number);
+  for(const award of awards) {
+    const previous=groups.at(-1)?.awards.at(-1);
+    const gap=previous?(award.timestamp-previous.timestamp)/86400000:0;
+    // Break only the display axis, never the running personal award count.
+    if(!previous || gap>120) groups.push({days:[],awards:[],gap,before:groups.reduce((sum,g)=>sum+g.awards.length,0)});
+    const group=groups.at(-1);
+    group.awards.push(award);
+    if(group.days.at(-1)?.day!==award.day) group.days.push(days.get(award.day));
+  }
+  return {groups,undated,awards};
+}
+function activityReward(entry) {
+  if(!entry.knownRewards) return "Gamerscore unavailable";
+  return `${integer.format(entry.score)} ${entry.missingRewards?"known G":"G"}${entry.missingRewards?` / ${integer.format(entry.missingRewards)} ${entry.missingRewards===1?"reward":"rewards"} unavailable`:""}`;
+}
+function achievementActivityDetails(title) {
+  const {groups,undated,awards}=achievementActivity(title);
+  const days=groups.flatMap(group=>group.days);
+  return `<section class="achievement-activity" aria-labelledby="achievement-activity-heading">
+    <h4 id="achievement-activity-heading">Timeline (${integer.format(awards.length)} ${awards.length===1?"award":"awards"})${awards.some(a=>activityEnding(title,a.row))?'<span class="activity-ending-legend">&diams; Reviewed ending award.</span>':""}</h4>
+    ${awards.length?`
+    <div class="activity-chart" tabindex="0" role="region" aria-label="Cumulative earned achievements; scroll horizontally to explore">${achievementStaircase(title,{groups,awards})}</div>
+    <p class="activity-preview" id="activity-preview" aria-live="polite">Hover or focus for award details; click, tap or Enter to browse its date. Arrow keys move between awards.</p>`:'<p class="muted">No valid dated earned records. This is not a record of no play.</p>'}
+    ${awards.length||undated?`<div class="activity-actions"><label>Browse date <select data-activity-dates aria-label="Browse earned awards by date"><option value="all" selected>All dates</option>${days.map(day=>`<option value="${day.day}">${esc(date(day.day))} · ${day.count} ${day.count===1?"award":"awards"}</option>`).join("")}${undated?'<option value="undated">Date unavailable</option>':""}</select></label>${undated?`<button type="button" class="button" data-activity-day="undated" aria-controls="achievement-rows" aria-pressed="false">${integer.format(undated)} earned / date unavailable</button>`:""}</div>`:""}
+  </section>`;
+}
+function activityEnding(title,row) {
+  return achievementTimestamp(row)!==null && completionAchievement(title,row)
+    && title.story.evidence.some(e=>e.id===row.id && e.scid===row.scid && e.definitionMatches && e.earned===true && e.revoked!=="True");
+}
+function achievementStaircase(title,{groups,awards}) {
+  const dayMs=86400000,left=46,gap=66,base=228,top=54;
+  const width=Math.max(820,left+24+groups.length*190+(groups.length-1)*gap);
+  const spans=groups.map(g=>(Date.parse(g.days.at(-1).day)-Date.parse(g.days[0].day))/dayMs+1);
+  const free=width-left-24-(groups.length-1)*gap-groups.length*190;
+  const spanTotal=spans.reduce((a,b)=>a+b,0);
+  const y=count=>base-count/awards.length*(base-top);
+  const text=(x,y,label,extra="")=>`<text x="${x}" y="${y}" ${extra}>${esc(label)}</text>`;
+  const line=(x1,y1,x2,y2,extra="")=>`<line x1="${x1}" y1="${y1}" x2="${x2}" y2="${y2}" stroke="#29483b" ${extra}/>`;
+  const short=t=>new Date(t).toLocaleDateString("en-GB",{day:"numeric",month:"short",timeZone:"UTC"});
+  let x=left;
+  const ticks=[...new Set([0,Math.round(awards.length/2),awards.length])];
+  let content=ticks.map(n=>text(left-10,y(n)+4,n,'text-anchor="end"')).join("");
+  for(const [index,group] of groups.entries()) {
+    const w=190+free*spans[index]/spanTotal,start=Date.parse(group.days[0].day),end=start+spans[index]*dayMs;
+    const pos=t=>x+(t-start)/(end-start)*w;
+    content+=ticks.map(n=>line(x,y(n),x+w,y(n),n?'stroke-dasharray="3 5"':"")).join("");
+    const firstYear=new Date(start).getUTCFullYear(),lastYear=new Date(end-dayMs).getUTCFullYear();
+    content+=text(x,26,firstYear===lastYear?firstYear:`${firstYear}–${lastYear}`,'class="activity-year"');
+    content+=text(x+w,26,`+${group.awards.length}`,'text-anchor="end" fill="#9aefc5"');
+    content+=line(x,base,x+w,base,'style="stroke:#557c62"');
+    content+=text(x,base+22,short(start));
+    content+=text(x+w,base+22,spans[index]===1?"24:00":short(end),'text-anchor="end"');
+    if(w>390 && spans[index]>3) content+=text(x+w/2,base+22,short(start+(end-start)/2),'text-anchor="middle"');
+    let path=`M ${x} ${y(group.before)}`,count=group.before,markers="",guides="";
+    for(const award of group.awards) {
+      count++;
+      const xx=pos(award.timestamp),yy=y(count),ending=activityEnding(title,award.row);
+      path+=` H ${xx} V ${yy}`;
+      const reward=sourceOf(title)==="steam"?"Native reward unavailable / not applicable":activityReward({score:achievementSortValue(award,"score"),knownRewards:achievementSortValue(award,"score")!==null && Number(award.row.score)>=0?1:0,missingRewards:0});
+      const label=`${count} earned · ${award.row.name} · ${achievementDateTime(award.row)} · ${reward}${ending?" · reviewed ending":""}`;
+      if(ending) guides+=`<line class="activity-ending-guide" x1="${xx}" y1="${yy}" x2="${xx}" y2="${base}" stroke="#edc76c" stroke-width="2" clip-path="url(#activity-ending-bounds)" aria-hidden="true" pointer-events="none"/>`;
+      markers+=`<g class="activity-marker" role="button" tabindex="${count===1?0:-1}" data-activity-award="${award.number}" data-activity-day="${award.day}" data-activity-label="${esc(label)}" aria-label="${esc(label)}; browse this date" aria-controls="achievement-rows"><title>${esc(label)}</title>${ending?`<path d="M${xx} ${yy-6}l6 6l-6 6l-6 -6Z" fill="#edc76c" stroke="#fff0be"/>`:`<circle cx="${xx}" cy="${yy}" r="3.3" fill="#a8edc3" stroke="#0b1c16"/>`}<circle class="activity-hit" cx="${xx}" cy="${yy}" r="9" fill="transparent"/></g>`;
+    }
+    path+=` H ${x+w}`;
+    content+=`<path d="${path} L ${x+w} ${base} L ${x} ${base} Z" fill="#75dca3" fill-opacity=".11"/><path d="${path}" fill="none" stroke="#9aefc5" stroke-width="2.5" stroke-linejoin="round"/>`;
+    content+=text(x+w-4,Math.max(46,y(count)-10),count,'class="activity-count" text-anchor="end"');
+    if(group.before) content+=`<circle cx="${x}" cy="${y(group.before)}" r="3" fill="#0b1c16" stroke="#9aefc5"/>`;
+    content+=guides+markers;
+    x+=w;
+    if(index<groups.length-1) {
+      content+=`<rect x="${x+5}" y="40" width="${gap-10}" height="${base-34}" rx="5" fill="#14271e"/>`;
+      content+=text(x+gap/2,68,activityGapDuration(groups[index+1].gap),'class="activity-gap" text-anchor="middle"');
+      content+=text(x+gap/2,83,"gap",'class="activity-gap" text-anchor="middle"');
+      content+=`<path d="M${x+gap/2-9} ${base-2}l6 -10m3 10l6 -10" stroke="#91a792" fill="none"/>`;
+      x+=gap;
+    }
+  }
+  return `<svg viewBox="0 0 ${width} 280" preserveAspectRatio="none" style="min-width:${width}px" data-chart-width="${width}" role="group" aria-label="${esc(title.name)} cumulative dated earned award count"><title>Cumulative achievement staircase</title><defs><clipPath id="activity-ending-bounds"><rect x="${left}" y="${top-6}" width="${width-left-24}" height="${base-top+6}"/></clipPath></defs>${content}</svg>`;
+}
 function matchesAchievementFilter(row,filter) {
   if(filter==="all") return true;
   if(filter==="achieved") return achievementEarned(row);
@@ -552,36 +683,49 @@ function achievementSortValue(item,key) {
     const score=item.row.score;
     return !missing(score) && String(score).trim()!=="" && Number.isFinite(Number(score))?Number(score):null;
   }
-  if(key==="date") return achievementEarned(item.row) && item.row.date?Date.parse(item.row.date):null;
+  if(key==="date") return achievementTimestamp(item.row);
   throw new Error("Unknown achievement sort");
 }
-function achievementRows(achievements,filter="all",showScore=!achievements.some(row=>row.source==="steam"),title=null,order={key:"number",ascending:true}) {
+function achievementRows(achievements,filter="all",showScore=!achievements.some(row=>row.source==="steam"),title=null,order={key:"number",ascending:true},activityDay="") {
   const items=achievements.map((row,index)=>({row,number:index+1}))
-    .filter(item=>matchesAchievementFilter(item.row,filter));
+    .filter(item=>matchesAchievementFilter(item.row,filter))
+    .filter(({row})=>{
+      if(!activityDay) return true;
+      if(!achievementEarned(row)) return false;
+      const timestamp=achievementTimestamp(row);
+      return activityDay==="undated"?timestamp===null:timestamp!==null && new Date(timestamp).toISOString().slice(0,10)===activityDay;
+    });
   items.sort((a,b)=>{
     const av=achievementSortValue(a,order.key),bv=achievementSortValue(b,order.key);
     if(missing(av)!==missing(bv)) return missing(av)?1:-1;
     return (!missing(av) && av!==bv?(order.ascending?av-bv:bv-av):0)||a.number-b.number;
   });
   return items.map(({row,number})=>{
-    const unlockDate=achievementEarned(row)?row.date:null;
+    const unlockDate=achievementTimestamp(row)!==null?row.date:null;
     const ending=completionAchievement(title,row);
     const state=achievementEarned(row)?"unlocked":achievementLocked(row)?"locked":"state unknown";
     const endingLabel=`Completion achievement: ${state}${row.revoked==="True"?"; revoked":""}`;
     const classes=[achievementEarned(row)?"achievement-unlocked":"",ending?"achievement-ending":""].filter(Boolean).join(" ");
-    return `<tr data-achievement-number="${number}"${classes?` class="${classes}"`:""}${ending?` title="${esc(endingLabel)}"`:""}><td class="numeric achievement-number" aria-label="Number ${number}">${number}</td><td class="achievement-earned">${achievementState(row)}</td><td class="achievement-name">${ending?`<span class="visually-hidden">${esc(endingLabel)}. </span>`:""}<strong>${esc(row.name)}</strong><p>${esc(row.description)}</p></td>${showScore?`<td class="numeric achievement-score" data-label="Gamerscore" aria-label="Gamerscore: ${esc(row.score)}">${esc(row.score)}</td>`:""}<td class="date${unlockDate?"":" achievement-undated"}" data-label="Unlocked" title="${esc(unlockDate||"Unavailable")}">${esc(date(unlockDate))}</td></tr>`;
+    return `<tr data-achievement-number="${number}"${classes?` class="${classes}"`:""}${ending?` title="${esc(endingLabel)}"`:""}><td class="numeric achievement-number" aria-label="Number ${number}">${number}</td><td class="achievement-earned">${achievementState(row)}</td><td class="achievement-name">${ending?`<span class="visually-hidden">${esc(endingLabel)}. </span>`:""}<strong>${esc(row.name)}</strong><p>${esc(row.description)}</p></td>${showScore?`<td class="numeric achievement-score" data-label="Gamerscore" aria-label="Gamerscore: ${esc(row.score)}">${esc(row.score)}</td>`:""}<td class="date${unlockDate?"":" achievement-undated"}" data-label="Unlocked" title="${esc(achievementDateTime(row))}">${esc(date(unlockDate))}</td></tr>`;
   }).join("") || `<tr><td colspan="${showScore?5:4}" class="empty">${filter==="all"?"No achievement records available.":"No achievements match this filter."}</td></tr>`;
 }
-function filterAchievementView(filter) {
-  const table=$("detail-content").querySelector(".achievement-table");
+function filterAchievementView(filter,activityDay="") {
+  const table=$("detail-content").querySelector("[data-achievement-title]");
   const title=titles.find(item=>item.id===table.dataset.achievementTitle);
   if(!title) throw new Error("Unknown title");
   table.dataset.filter=filter;
+  table.dataset.activityDay=activityDay;
   const order={key:table.dataset.sort,ascending:table.dataset.ascending==="true"};
-  $("achievement-rows").innerHTML=achievementRows(title.achievements,filter,sourceOf(title)!=="steam",title,order);
+  $("achievement-rows").innerHTML=achievementRows(title.achievements,filter,sourceOf(title)!=="steam",title,order,activityDay);
+  $("activity-selection").textContent=activityDay?`${activityDay==="undated"?"Earned / date unavailable":date(activityDay)} / showing matching earned achievements. Select All dates to clear the date filter.`:"";
+  for(const button of $("detail-content").querySelectorAll("[data-activity-day][aria-pressed]")) {
+    button.setAttribute("aria-pressed",String(Boolean(activityDay) && button.dataset.activityDay===activityDay));
+  }
   for(const button of $("detail-content").querySelectorAll("[data-achievement-filter]")) {
     button.setAttribute("aria-pressed",String(button.dataset.achievementFilter===filter));
   }
+  const dates=$("detail-content").querySelector("[data-activity-dates]");
+  if(dates) dates.value=activityDay||"all";
   for(const button of table.querySelectorAll("[data-achievement-sort]")) {
     const selected=button.dataset.achievementSort===order.key;
     const direction=order.ascending?"ascending":"descending";
@@ -592,11 +736,23 @@ function filterAchievementView(filter) {
 }
 function chooseAchievementSort(key) {
   if(!["number","score","date"].includes(key)) throw new Error("Unknown achievement sort");
-  const table=$("detail-content").querySelector(".achievement-table");
+  const table=$("detail-content").querySelector("[data-achievement-title]");
   const ascending=table.dataset.sort===key?table.dataset.ascending!=="true":key==="number";
   table.dataset.sort=key;
   table.dataset.ascending=String(ascending);
-  filterAchievementView(table.dataset.filter);
+  filterAchievementView(table.dataset.filter,table.dataset.activityDay||"");
+}
+function browseAchievementDay(day) {
+  const table=$("detail-content").querySelector("[data-achievement-title]");
+  if(!day) {
+    filterAchievementView(table.dataset.filter);
+    return;
+  }
+  table.dataset.sort="date";
+  table.dataset.ascending="true";
+  filterAchievementView("achieved",day);
+  $("activity-selection").scrollIntoView({block:"start"});
+  $("activity-selection").focus({preventScroll:true});
 }
 function achievementSortHeading(key,label,className) {
   const active=key==="number";
@@ -642,6 +798,8 @@ function selectTitle(identifier) {
     ${storyDetails(title)}
     ${title.accountContext?`<details class="sources"><summary>Source account context / not personal earned credit</summary><p>${esc(title.accountContext.label)}. Last account activity: ${esc(date(title.accountContext.lastPlayed))}.</p>${title.accountContext.achievements?`<table class="achievement-table"><thead><tr><th>#</th><th>Account unlocked</th><th>Achievement</th><th>Account Gamerscore</th><th>Account date</th></tr></thead><tbody>${achievementRows(title.accountContext.achievements)}</tbody></table>`:""}</details>`:""}
     ${title.nintendo || !personallyPlayed(title)?"":!title.achievements.length?`<section class="detail-section"><h3>Achievements</h3><p class="muted">${title.participation?"Personal achievement ownership unavailable.":"Achievement data unavailable."}</p></section>`:`<section class="detail-section"><h3>Achievements <span class="muted">/ ${integer.format(title.achievements.length)}</span></h3>
+      ${achievementActivityDetails(title)}
+      <p id="activity-selection" class="activity-selection" role="status" aria-live="polite" tabindex="-1"></p>
       <div class="achievement-filters" role="group" aria-label="Filter achievements">${[["all","All"],["achieved","Achieved"],["locked","Locked"]].map(([key,label])=>`<button type="button" data-achievement-filter="${key}" aria-controls="achievement-rows" aria-pressed="${key==="all"}">${label}</button>`).join("")}</div>
       <table class="achievement-table" data-source="${sourceOf(title)}" data-achievement-title="${esc(title.id)}" data-filter="all" data-sort="number" data-ascending="true"><thead><tr>${achievementSortHeading("number","#","number-column")}<th scope="col" class="earned-column">Unlocked</th><th scope="col">Achievement</th>${sourceOf(title)==="steam"?"":achievementSortHeading("score","Gamerscore","score-column")}${achievementSortHeading("date","Unlock date","unlock-column")}</tr></thead><tbody id="achievement-rows">${achievementRows(title.achievements,"all",sourceOf(title)!=="steam",title)}</tbody></table></section>`}`;
   syncDetailViewport();
@@ -792,10 +950,37 @@ function initialize() {
     }
   });
   $("detail-content").addEventListener("click",event=>{
+    const activity=event.target.closest("[data-activity-day]");
+    if(activity) browseAchievementDay(activity.dataset.activityDay);
     const target=event.target.closest("[data-achievement-filter]");
     if(target) filterAchievementView(target.dataset.achievementFilter);
     const sorting=event.target.closest("[data-achievement-sort]");
     if(sorting) chooseAchievementSort(sorting.dataset.achievementSort);
+  });
+  const previewActivity=event=>{
+    const marker=event.target.closest("[data-activity-award]");
+    if(marker) $("activity-preview").textContent=marker.dataset.activityLabel;
+  };
+  $("detail-content").addEventListener("pointerover",previewActivity);
+  $("detail-content").addEventListener("focusin",previewActivity);
+  $("detail-content").addEventListener("keydown",event=>{
+    const marker=event.target.closest("[data-activity-award]");
+    if(!marker) return;
+    if(["Enter"," "].includes(event.key)) {
+      event.preventDefault();
+      browseAchievementDay(marker.dataset.activityDay);
+    } else if(["ArrowLeft","ArrowRight","Home","End"].includes(event.key)) {
+      event.preventDefault();
+      const markers=[...$("detail-content").querySelectorAll("[data-activity-award]")];
+      const index=markers.indexOf(marker);
+      const next=event.key==="Home"?0:event.key==="End"?markers.length-1:Math.max(0,Math.min(markers.length-1,index+(event.key==="ArrowRight"?1:-1)));
+      markers.forEach((node,i)=>node.setAttribute("tabindex",i===next?"0":"-1"));
+      markers[next].focus({preventScroll:true});
+      markers[next].scrollIntoView({block:"nearest",inline:"nearest"});
+    }
+  });
+  $("detail-content").addEventListener("change",event=>{
+    if(event.target.matches("[data-activity-dates]")) browseAchievementDay(event.target.value==="all"?"":event.target.value);
   });
   $("search").addEventListener("input",()=>{page=0;render();});
   if(archive.xboxProjection) {
