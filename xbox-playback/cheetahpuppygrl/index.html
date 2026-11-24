@@ -28,6 +28,8 @@ label{display:flex;flex-direction:column;gap:6px;font-size:12px;color:var(--mute
 th.rank button{display:inline-flex;align-items:center;white-space:nowrap;overflow-wrap:normal}.rank .sort-arrow{flex-shrink:0}
 #library tbody tr:hover{background:#1b2a1e}tbody tr:last-child td{border-bottom:0}.rank{color:#91a393;font:11px Consolas,monospace;width:48px}.title-column{width:26%}.title-cell{display:flex;align-items:center;gap:12px}.title-cell>div{min-width:0}.tile{flex-shrink:0;width:38px;height:52px;object-fit:cover;display:grid;place-items:center;border:1px solid #ffffff20;border-radius:6px;font-weight:800;font-size:14px;color:#f2ffe6;background:linear-gradient(135deg,hsl(var(--hue) 28% 30%),hsl(var(--hue) 35% 13%))}
 #library tbody tr[data-title]{cursor:pointer}
+#library tbody tr[data-toggle-group]{cursor:pointer}
+#library .group-parent *,#library .group-child *{cursor:inherit}
 .hero-cover.tile{width:100%;height:auto;font-size:36px;border:0;border-radius:0}
 .artwork-contain{object-fit:contain;background:var(--panel2)}
 .cover-wrap{position:relative;overflow:hidden}.cover-wrap>img.cover-image,.catalog-detail .cover-wrap>img.cover-image{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;border:0;border-radius:inherit}.cover-wrap.artwork-contain>img.cover-image{object-fit:contain}.cover-wrap>img.cover-loaded,.catalog-detail .cover-wrap>img.cover-loaded{opacity:1}.cover-wrap:has(>img.cover-loaded)>.cover-initials{visibility:hidden}
@@ -59,6 +61,15 @@ dialog{--detail-inset-top:max(16px,env(safe-area-inset-top,0px));--detail-inset-
 .history-value{display:none;pointer-events:none}.history-year[aria-pressed=true] .history-value{display:block}.history-value rect{fill:var(--bg);stroke:var(--line)}.history-value text{fill:var(--text);font:12px Consolas,monospace}
 .note h3{font-size:13px;color:var(--text);margin:16px 0 4px}.note p{margin:0}
 .sources{margin:24px 0;color:var(--muted);font-size:12px}.sources summary{cursor:pointer;color:var(--text);font-weight:600}.source-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:12px;margin-top:12px}.source-record{padding:14px;border:1px solid var(--line);border-radius:10px;min-width:0}.source-record h4{margin:0 0 10px;color:var(--text)}.source-record dl{margin:0;display:grid;grid-template-columns:90px 1fr;gap:6px}.source-record dd{margin:0;overflow-wrap:anywhere;color:var(--text)}
+.group-heading{display:flex;align-items:start;gap:8px;min-width:0;flex:1}.group-heading>div{min-width:0;flex:1}.group-details-button{flex-shrink:0;min-width:44px;min-height:44px;border:1px solid var(--line);border-radius:8px;background:var(--panel2);color:var(--green)}.group-parent:focus-visible,.group-details-button:focus-visible{outline:2px solid var(--green);outline-offset:-2px}.group-name{font-weight:600}.group-chevron{color:var(--green)}.group-rank-label{display:block;color:var(--muted);font:10px/1.4 "Segoe UI",sans-serif;margin-top:4px}.group-breakdown{color:var(--muted);font-size:12px}.group-children-container[hidden]{display:none!important}.group-children-container>td{padding:0}.group-children-container table{border-left:3px solid #465d49;background:#0f1712}.group-children-container .title-data{width:26%}.group-details{display:grid;gap:12px}.group-member-heading{display:flex;align-items:center;gap:12px}.group-member-heading h3{margin:0;color:var(--text);font-size:16px}.group-member-heading p{margin:4px 0}.group-details dl{display:grid;grid-template-columns:90px minmax(0,1fr);gap:6px}.group-details dd{margin:0;color:var(--text)}.group-details .button{white-space:normal;text-align:left;width:100%}.group-back{margin-bottom:16px}
+#library .group-children-container table{background:#1c1f1e;border-left:3px solid #46504b;border-bottom:2px solid #46504b}
+#library .group-child{background:#1c1f1e}
+#library .group-child:hover{background:#272c29}
+#library .group-child td{border-bottom-color:#46504b}
+.version-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(210px,100%),1fr));gap:14px;list-style:none;padding:0;margin:16px 0 0}.version-grid li{min-width:0}.version-card{min-width:0;color:var(--text)}.version-card .hero-name{display:block;padding-bottom:4px}.version-meta,.version-metrics{display:block;padding:0 10px 10px;font-size:12px;line-height:1.5;overflow-wrap:anywhere}.version-meta{color:var(--muted)}.version-metrics{margin-top:auto}.version-metrics>span{display:block}.version-card:focus-visible{outline-offset:-3px}.group-overview{margin:0 0 16px;font-size:12px;color:var(--muted)}.group-overview p{margin:0 0 8px}.group-rollups .details-source{margin:4px 0 0;font-size:11px}.group-rollups .detail-metric{padding:10px}.group-rollups .detail-metric strong{font-size:16px}
+@media(max-width:700px){.version-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.version-card .hero-name{font-size:13px}.version-meta,.version-metrics{font-size:11px}.group-rollups .detail-metric{min-width:0;padding:10px}.group-rollups .detail-metric strong{font-size:16px;overflow-wrap:anywhere}}
+@media(max-width:350px){.version-grid{grid-template-columns:minmax(0,1fr)}}
+@media(max-width:700px){#library tbody tr.group-parent{grid-template-columns:minmax(0,2fr) minmax(0,3fr);gap:6px 16px}#library tbody tr.group-children-container{display:block;padding:0;border:0}#library .group-children-container>td{display:block;padding:0}.group-heading{gap:6px}.group-rank-label{font-size:11px}.group-parent .tile{width:100%;height:auto;aspect-ratio:2/3}.group-parent .portrait-field{margin-top:8px}#library .group-child .portrait-field{grid-template-columns:max-content minmax(0,1fr)}.group-parent .portrait-field{grid-template-columns:max-content minmax(0,1fr)}.group-child .cell-value,.group-parent .cell-value{min-width:0;text-align:right;overflow-wrap:anywhere}}
 @media(max-width:1000px){main{padding:28px 22px}.stat{padding:10px 12px}.stat-value{font-size:24px}th,td{padding:12px 7px}.title-cell{gap:8px}.tile{width:30px;height:45px}}
 @media(max-width:700px){main{padding:24px 16px}.page-head h1{font-size:34px}.stats{grid-template-columns:repeat(2,minmax(0,1fr));gap:6px}.stat{padding:10px 12px}.stat-value{font-size:24px}.stat-label,.stat small{font-size:10px}.controls{padding:12px;gap:10px}.controls>label{flex:1;min-width:130px}.controls input:not([type=checkbox]),.controls select{width:100%;max-width:none}.section-head{align-items:start;flex-direction:column;gap:5px}.table-footer{flex-direction:column;align-items:start}.detail-grid{grid-template-columns:repeat(2,1fr)}.dialog-content,.dialog-head{padding:16px}.dialog-head h2{font-size:22px}.catalog-detail{flex-direction:column;gap:12px;padding:12px}.catalog-detail img{width:140px;max-width:100%;height:210px;align-self:center}.catalog-detail>div{width:100%}.catalog-detail h3{display:none}
 .history-controls{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.history-controls label{min-width:0;font-size:11px}.history-controls select{width:100%;min-width:0;padding:10px 6px;font-size:11px}
@@ -75,11 +86,15 @@ dialog{--detail-inset-top:max(16px,env(safe-area-inset-top,0px));--detail-inset-
 #library .title-button{min-height:44px;font-size:14px}
 #library .portrait-field{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:6px;align-items:baseline}
 #library .portrait-field:before{content:attr(data-label);color:var(--muted);font:10px/1.5 "Segoe UI",sans-serif}
+#library .group-parent .portrait-left .group-breakdown,#library .group-parent .portrait-left .unavailable{grid-template-columns:minmax(0,1fr);row-gap:2px}
+#library .group-parent .portrait-left .group-breakdown .cell-value,#library .group-parent .portrait-left .unavailable .cell-value{text-align:left;overflow-wrap:normal}
 #library .cell-value{text-align:right;min-width:0}
 #library .progress{grid-column:1/-1;width:100%;max-width:180px}
 .achievement-table,.achievement-table tbody,.achievement-table thead{display:block}.achievement-table tr{display:grid;grid-template-columns:minmax(18px,max-content) 21px minmax(44px,max-content) minmax(0,1fr);gap:10px 6px;padding:14px 8px;border-bottom:1px solid var(--line)}.achievement-table thead tr{display:flex;flex-wrap:wrap;gap:4px 14px;padding:6px 8px}.achievement-table th{display:block;width:auto;border:0;padding:0;background:transparent}.achievement-table th:not(:has(button)){display:none}.achievement-table td{display:block;border:0;padding:0}.achievement-table .achievement-name{grid-column:4;grid-row:1}.achievement-table td[data-label]{grid-column:4}.achievement-table td[data-label]:before{content:attr(data-label) ": ";color:var(--muted)}.achievement-table td.empty{grid-column:1/-1}.achievement-table .achievement-number{grid-column:1;grid-row:1;font-size:10px;text-align:center;align-self:start;line-height:31px}
 .achievement-table .achievement-earned{grid-column:2;grid-row:1}.achievement-table .earned-state{height:31px;justify-content:center}.achievement-table .earned-state input{margin:0}.achievement-table td.achievement-score{grid-column:3;grid-row:1;align-self:start;font-size:24px;font-weight:650;line-height:1.3}.achievement-table td.achievement-score:before{display:none}.achievement-table td.achievement-undated{display:none}
 .achievement-table[data-source=steam] tr{grid-template-columns:minmax(18px,max-content) 21px minmax(0,1fr)}.achievement-table[data-source=steam] .achievement-name,.achievement-table[data-source=steam] td[data-label]{grid-column:3}
+#library .group-children-container table{margin-left:8px;width:calc(100% - 8px)}
+#library tbody tr.group-child{border-bottom-color:#46504b}
 }
 </style>
 </head>
@@ -153,6 +168,7 @@ dialog{--detail-inset-top:max(16px,env(safe-area-inset-top,0px));--detail-inset-
 "use strict";
 const archive = JSON.parse(document.getElementById("xbox-data").textContent);
 const titles = archive.titles;
+const presentationCatalog = [{"key":"a-short-hike","name":"A Short Hike","members":[["xbox","2122751230","A Short Hike"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:51","A Short Hike"]]},{"key":"balatro","name":"Balatro","members":[["xbox","1792830437","Balatro"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:44","Balatro"]]},{"key":"darkest-dungeon","name":"Darkest Dungeon","members":[["xbox","217802058","Darkest Dungeon\u00ae"],["steam","steam:262060","Darkest Dungeon\u00ae"]]},{"key":"dead-cells","name":"Dead Cells","members":[["xbox","810101074","Dead Cells"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:4","Dead Cells"]]},{"key":"dont-starve","name":"Don't Starve","members":[["xbox","1617407136","Don't Starve"],["steam","steam:219740","Don't Starve"]]},{"key":"ghost-song","name":"Ghost Song","members":[["xbox","1881258316","Ghost Song"],["steam","steam:347800","Ghost Song"]]},{"key":"grim-fandango-remastered","name":"Grim Fandango Remastered","members":[["xbox","1755179727","Grim Fandango Remastered"],["steam","steam:316790","Grim Fandango Remastered"]]},{"key":"hades","name":"Hades","members":[["xbox","1790216132","Hades"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:75","Hades"]]},{"key":"hollow-knight","name":"Hollow Knight","members":[["xbox","2059211995","Hollow Knight: Voidheart Edition"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:5","Hollow Knight"]]},{"key":"kingdom-two-crowns","name":"Kingdom Two Crowns","members":[["xbox","25952469","Kingdom Two Crowns"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:52","Kingdom Two Crowns"]]},{"key":"left-4-dead","name":"Left 4 Dead","members":[["xbox","1161889840","Left 4 Dead"],["steam","steam:500","Left 4 Dead"]]},{"key":"left-4-dead-2","name":"Left 4 Dead 2","members":[["xbox","1161890004","Left 4 Dead 2"],["steam","steam:550","Left 4 Dead 2"]]},{"key":"magic-duels","name":"Magic Duels","members":[["xbox","1091024470","Magic Duels"],["steam","steam:316010","Magic Duels"]]},{"key":"massive-chalice","name":"MASSIVE CHALICE","members":[["xbox","433988710","MASSIVE CHALICE"],["steam","steam:246110","MASSIVE CHALICE"]]},{"key":"minecraft-dungeons","name":"Minecraft Dungeons","members":[["xbox","1739375565","Minecraft Dungeons"],["xbox","1720633196","Minecraft Dungeons for Windows"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:35","Minecraft Dungeons"]]},{"key":"minecraft","name":"Minecraft","members":[["xbox","2047319603","Minecraft for Nintendo Switch"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:73","Minecraft for Nintendo Switch"],["xbox","1828326430","Minecraft"],["xbox","896928775","Minecraft for Windows"],["xbox","1810924247","Minecraft for iOS"],["xbox","1480659447","Minecraft: Xbox 360 Edition"],["xbox","345903534","Minecraft: Xbox One Edition"]]},{"key":"slay-the-spire","name":"Slay the Spire","members":[["xbox","1811169840","Slay The Spire"],["xbox","2093000869","Slay The Spire"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:76","Slay the Spire"]]},{"key":"steamworld-dig-2","name":"SteamWorld Dig 2","members":[["xbox","1833403666","SteamWorld Dig 2"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:7","SteamWorld Dig 2"]]},{"key":"vampire-survivors","name":"Vampire Survivors","members":[["xbox","1695638358","Vampire Survivors"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:74","Vampire Survivors"]]},{"key":"crypt-of-the-necrodancer","name":"Crypt of the NecroDancer","members":[["steam","steam:247080","Crypt of the NecroDancer"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:20","Crypt of the NecroDancer"]]},{"key":"untitled-goose-game","name":"Untitled Goose Game","members":[["xbox","1840411466","Untitled Goose Game"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:66","Untitled Goose Game"]]},{"key":"katamari-damacy-reroll","name":"Katamari Damacy REROLL","members":[["xbox","1995913309","Katamari Damacy REROLL"],["nintendo","nintendo:nintendo-play-activity-2026-11-21:row:46","Katamari Damacy REROLL"]]}];
 const interwoven=Boolean(archive.sources);
 const hasNintendo=Boolean(archive.sources?.nintendo);
 let sourceScope="all";
@@ -160,6 +176,125 @@ let historySourceScope="all";
 const sourceOf=title=>title.source||"xbox";
 const sourceLabel=title=>({xbox:"Xbox",steam:"Steam",nintendo:"Nintendo"})[sourceOf(title)];
 const sourceTitles=()=>titles.filter(title=>sourceScope==="all"||sourceOf(title)===sourceScope);
+const groupNameGuard=value=>String(value).replace(/[®™]/g,"").normalize("NFKC").trim().replace(/\s+/g," ").toLocaleLowerCase();
+function presentationDefinition(title) {
+  if(["App","Application","LiveApp","5"].includes(String(title.type))) return null;
+  return presentationCatalog.find(group=>group.members.some(([source,id,name])=>
+    source===sourceOf(title) && id===title.id && groupNameGuard(name)===groupNameGuard(title.name)))||null;
+}
+const expandedGroups=new Set();
+let detailGroup=null;
+function groupEntries(entries,library=titles) {
+  const groups=new Map(),result=[];
+  for(const title of entries) {
+    const definition=presentationDefinition(title);
+    const members=definition?library.filter(member=>presentationDefinition(member)?.key===definition.key):[];
+    if(members.length<2) {result.push(title);continue;}
+    if(!groups.has(definition.key)) {
+      const group={id:`group:${definition.key}`,name:definition.name,groupKey:definition.key,members,matching:[]};
+      groups.set(definition.key,group);result.push(group);
+    }
+    groups.get(definition.key).matching.push(title);
+  }
+  return result;
+}
+function bestChildRank(group) {
+  const ranks=group.matching.map(title=>metricValue(title,"rank")).filter(value=>!missing(value));
+  return ranks.length?Math.min(...ranks):null;
+}
+function representative(group) {
+  return [...group.matching].sort((a,b)=>compareTitles(a,b,"rank",true)).find(title=>title.cover)||group.matching[0];
+}
+const groupFields=[["release","Release date"],["minutes","Playtime"],["firstUnlock","First unlock"],["lastPlayed","Last played"],["activitySpan","Activity span"],["unlockDays","Unlock days"]];
+function groupMeasurement(title,key) {
+  if(key!=="release" && !personallyPlayed(title)) return null;
+  if(key==="minutes" && (title.participation?.policy==="UnknownAllocation" || title.nintendo?.review==="Pending review")) return null;
+  if(["firstUnlock","activitySpan","unlockDays"].includes(key) && title.participation?.achievementOwnership==="UnknownPersonalOwnership") return null;
+  const value=metricValue(title,key);
+  if(missing(value)) return null;
+  if(dateKey(key)) return Number.isFinite(Date.parse(value))?value:null;
+  return typeof value==="number" && Number.isFinite(value) && value>=0?value:null;
+}
+function groupRollup(group,key) {
+  if(key==="activitySpan") return {value:null,available:0,total:group.matching.length};
+  const measured=group.matching.map(title=>({title,value:groupMeasurement(title,key)})).filter(item=>!missing(item.value));
+  const values=measured.map(item=>item.value);
+  const value=!values.length?null:dateKey(key)
+    ? values.reduce((a,b)=>(key==="lastPlayed"?Date.parse(a)>Date.parse(b):Date.parse(a)<Date.parse(b))?a:b)
+    : values.reduce((sum,item)=>sum+item,0);
+  return {value,available:values.length,total:group.matching.length,
+    estimated:key==="minutes" && measured.some(({title})=>title.nintendo?.durationKind==="shared-estimate" || title.participation?.policy==="ReviewedAllocation"),
+    lowerBound:key==="minutes" && measured.some(({title})=>title.nintendo?.durationKind==="exclusive-lower-bound")};
+}
+function groupValueLabel(group,key) {
+  const result=groupRollup(group,key),value=result.value;
+  if(missing(value)) return "Unavailable";
+  if(dateKey(key)) return date(value);
+  if(key==="minutes") return `${fmt.format(value/60)}${result.lowerBound && !result.estimated?"+":""} h`;
+  if(key==="activitySpan") return duration(value);
+  return integer.format(value);
+}
+function groupRollupDetails(group) {
+  return `<div class="detail-grid group-rollups">${groupFields.filter(([key])=>key!=="activitySpan").map(([key,label])=>{
+    const result=groupRollup(group,key);
+    const notes=[result.available<result.total?`${result.available}/${result.total} usable versions`:"",result.estimated?"includes estimated allocations":"",result.lowerBound?"includes reported lower bounds":""].filter(Boolean).join("; ");
+    return `<div class="detail-metric"><small>${label}</small><strong>${esc(groupValueLabel(group,key))}</strong>${notes?`<p class="details-source">${esc(notes)}.</p>`:""}</div>`;
+  }).join("")}${groupAchievementDetails(group)}</div>`;
+}
+function groupSortValue(group,key,asc) {
+  if(key==="name") return group.name;
+  if(key==="rank") return bestChildRank(group);
+  if(groupFields.some(([field])=>field===key)) return groupRollup(group,key).value;
+  if(["earned","percentage"].includes(key)) return groupAchievementRollup(group)[key];
+  const providers=["earned","percentage","score","scorePercentage"].includes(key)?groupAwardProviders(group,key):group.matching;
+  const values=providers.map(title=>metricValue(title,key)).filter(value=>!missing(value));
+  if(!values.length) return null;
+  return values.sort((a,b)=>dateKey(key)?String(a).localeCompare(String(b)):a-b)[asc?0:values.length-1];
+}
+function personalAwardProvider(title) {
+  return !title.nintendo && ["xbox","steam"].includes(sourceOf(title)) && personallyPlayed(title)
+    && title.participation?.achievementOwnership!=="UnknownPersonalOwnership"
+    && title.participation?.policy!=="UnknownAllocation";
+}
+function groupAwardProviders(group,key) {
+  const score=["score","scorePercentage"].includes(key);
+  const known=value=>typeof value==="number" && Number.isFinite(value) && value>=0;
+  return group.matching.filter(title=>{
+    if(!personalAwardProvider(title)) return false;
+    const value=score?scoreValue(title):title.earned;
+    const total=score?scoreMaximum(title):title.total;
+    return known(value) && (value>0 || (known(total) && (!score || total>0)) || title.achievements?.length>0);
+  });
+}
+function groupAchievementRollup(group) {
+  const providers=groupAwardProviders(group,"earned");
+  const known=value=>typeof value==="number" && Number.isFinite(value) && value>=0;
+  const paired=providers.filter(title=>known(title.total));
+  // An incomplete sole provider retains its known count, but cannot supply a percentage.
+  const earned=paired.length?paired.reduce((sum,title)=>sum+title.earned,0):providers.length===1?providers[0].earned:null;
+  const total=paired.length?paired.reduce((sum,title)=>sum+title.total,0):null;
+  return {earned,total,percentage:total>0?100*earned/total:null,
+    available:paired.length,eligible:group.matching.filter(personalAwardProvider).length,
+    partial:paired.some(title=>title.status==="Partial"),completionDerived:paired.some(title=>title.completionDerived)};
+}
+function groupAchievementDetails(group) {
+  const result=groupAchievementRollup(group);
+  return `<div class="detail-metric"><small>Achievements</small><strong>${missing(result.earned)?"Unavailable":`${integer.format(result.earned)} / ${missing(result.total)?"?":integer.format(result.total)}${missing(result.percentage)?"":` (${fmt.format(result.percentage)}%)`}`}</strong><p class="details-source">${result.available}/${result.eligible} personal sets${result.available<result.eligible?"; partial coverage, unknown entries omitted, not zero-filled":""}${result.partial?"; includes partial metadata":""}${result.completionDerived?"; includes derived denominators":""}.</p></div>`;
+}
+function groupTitleCount(group) {
+  return `${group.matching.length} ${group.matching.length===1?"version":"versions"}`;
+}
+function compareEntries(a,b,key=sortKey,asc=ascending) {
+  const value=entry=>entry.groupKey?groupSortValue(entry,key,asc):metricValue(entry,key);
+  const av=value(a),bv=value(b);
+  if(missing(av)!==missing(bv)) return missing(av)?1:-1;
+  const comparison=missing(av)?0:dateKey(key)?Date.parse(av)-Date.parse(bv):typeof av==="string"?av.localeCompare(bv):av-bv;
+  return (asc?comparison:-comparison)||a.name.localeCompare(b.name)||a.id.localeCompare(b.id);
+}
+function completionProvenance(group) {
+  return [...new Set(group.matching.filter(title=>title.story?.status==="beaten").map(title=>
+    `Ending observed on ${platformSummary(title)} (${sourceLabel(title)})`))].join("; ");
+}
 const personallyPlayed=title=>title.participation?.played!==false;
 function participationMatches(title,scope) {
   return scope==="all" || (scope==="watched"?Boolean(title.participation?.watched):personallyPlayed(title));
@@ -492,16 +627,35 @@ function artworkFailed(image) {
     console.warn("Artwork could not load; showing title initials.");
   }
 }
+function libraryFilters() {
+  return {
+    participation:$("participation").value,
+    source:sourceScope,
+    query:$("search").value,platform:$("platform").value,genre:$("genre").value,
+    releaseYear:$("release-year").value,playedYear:$("played-year").value,
+    story:$("story-status").value,
+    hideApps:$("hide-apps").checked,playtime:$("playtime-filter").value,
+    achievements:$("achievements-filter").value,hasDetails:$("has-details").checked
+  };
+}
+function heroEntries() {
+  const filters=libraryFilters();
+  return groupEntries(titles.filter(title=>personallyPlayed(title) && matchesFilters(title,filters)))
+    .filter(entry=>!missing(entry.groupKey?bestChildRank(entry):metricValue(entry,"rank")));
+}
 function renderHero() {
-  const top=sourceTitles().filter(title=>personallyPlayed(title) && !missing(metricValue(title,"rank"))).sort((a,b)=>compareTitles(a,b,"rank",true)).slice(0,10);
-  $("hero-titles").innerHTML=top.map(title=>`<li><button class="hero-card" data-title="${esc(title.id)}" aria-label="Rank ${metricValue(title,"rank")}: ${esc(title.name)}">${cover(title,"hero-cover")}<span class="hero-rank" aria-hidden="true">${metricValue(title,"rank")}</span><span class="hero-name">${esc(title.name)}</span></button></li>`).join("")
+  const top=heroEntries().sort((a,b)=>compareEntries(a,b,"rank",true)).slice(0,10);
+  $("hero-titles").innerHTML=top.map(title=>{
+    const rank=title.groupKey?bestChildRank(title):metricValue(title,"rank");
+    return `<li><button class="hero-card" ${title.groupKey?'data-group':'data-title'}="${esc(title.id)}" aria-label="${title.groupKey?"Best child rank":"Rank"} ${rank}: ${esc(title.name)}${title.groupKey?`, ${groupTitleCount(title)}`:""}">${cover(title.groupKey?{...representative(title),name:title.name}:title,"hero-cover")}<span class="hero-rank" aria-hidden="true">${rank}</span><span class="hero-name">${esc(title.name)}${title.groupKey?'<span class="group-rank-label">Best child rank</span>':""}</span></button></li>`;
+  }).join("")
     || `<li class="muted">No ranked games available.</li>`;
 }
 function matchesFilters(title,filters) {
   if(!participationMatches(title,filters.participation||"all")) return false;
   if(filters.source && filters.source!=="all" && sourceOf(title)!==filters.source) return false;
   const query=(filters.query||"").trim().toLocaleLowerCase();
-  if(!`${title.name} ${title.id}`.toLocaleLowerCase().includes(query)) return false;
+  if(!`${title.name} ${title.id} ${presentationDefinition(title)?.name||""}`.toLocaleLowerCase().includes(query)) return false;
   if(filters.platform && !title.platforms.map(platformKey).includes(platformKey(filters.platform))) return false;
   if(filters.genre && !(title.genre||[]).includes(filters.genre)) return false;
   if(filters.releaseYear && dateYear(title.release)!==filters.releaseYear) return false;
@@ -763,7 +917,50 @@ function syncDetailViewport() {
   $("detail").style.setProperty("--detail-viewport-top",`${viewport?viewport.offsetTop:0}px`);
   $("detail").style.setProperty("--detail-viewport-height",`${viewport?viewport.height:window.innerHeight}px`);
 }
-function selectTitle(identifier) {
+function versionCard(title) {
+  const identity=`${title.name} · ${platformSummary(title)} · ${sourceLabel(title)}`;
+  const measurement=title.nintendo
+    ? `${title.nintendo.durationKind==="shared-estimate"?"Shared-time estimate":title.nintendo.durationKind==="exclusive-lower-bound"?"Reported lower bound":"Captured activity"} · ${title.nintendo.review}`
+    : title.participation?.policy==="UnknownAllocation"?"Time allocation pending"
+    : title.participation?.policy==="ReviewedAllocation"?"Reviewed time estimate; personal awards unknown"
+    : title.participation?.incoming?"Native history; incoming estimate not added":"";
+  return `<li><button type="button" class="hero-card version-card" data-title="${esc(title.id)}" data-group-child aria-label="Open ${esc(identity)} details">
+    ${cover(title,"hero-cover")}<span class="hero-name">${esc(title.name)}</span>
+    <span class="version-meta">${esc(platformSummary(title))} · ${esc(sourceLabel(title))}${title.participation?.watched?" · Watching":""}</span>
+    <span class="version-metrics"><span>Playtime: ${esc(titlePlaytime(title))}</span>${measurement?`<span class="${title.nintendo?.review==="Pending review" || title.participation?.policy==="UnknownAllocation"?"partial":"muted"}">${esc(measurement)}</span>`:""}
+    <span class="muted">Child rank: ${esc(valueLabel(title,"rank"))}</span><span class="muted">Completed: ${esc(storyLabel(title))}</span></span>
+  </button></li>`;
+}
+function selectGroup(identifier,context="list") {
+  const entries=context==="hero"?heroEntries():visible;
+  const group=entries.find(entry=>entry.groupKey && entry.id===identifier);
+  if(!group) return;
+  detailGroup=group;
+  $("detail-title").textContent=group.name;
+  $("detail-subtitle").textContent=groupTitleCount(group);
+  $("detail-content").innerHTML=`
+    <section class="group-overview">
+      <p>Best child rank: ${missing(bestChildRank(group))?"Unranked":bestChildRank(group)}. Original child ranks unchanged.</p>
+      <p>Summed playtime, recorded unlock days and achievement sets may overlap: not unique sessions or unique date unions. Pending allocations and watch-only time are excluded; missing values are not zero-filled. Group activity span not defined.</p>
+      <p>Gamerscore: ${groupAwardProviders(group,"score").length>1?`Separate sets (${groupAwardProviders(group,"score").length})`:groupAwardProviders(group,"score").length?esc(valueLabel(groupAwardProviders(group,"score")[0],"score")):"Unavailable"}. Open a version for measurement notes and exact achievement evidence.</p>
+      ${completionProvenance(group)?`<p>${esc(completionProvenance(group))}. Not universal completion.</p>`:""}
+    </section>
+    ${groupRollupDetails(group)}
+    <ul class="version-grid" aria-label="${esc(group.name)}, ${groupTitleCount(group)}">${group.matching.map(versionCard).join("")}</ul>`;
+  syncDetailViewport();
+  if(!$("detail").open) $("detail").showModal();
+  $("detail").scrollTop=0;
+  $("close-detail").focus({preventScroll:true});
+}
+function returnToGroup() {
+  if(!detailGroup) return;
+  // Retain the exact matching population used to open this dialog.
+  const previous=visible;
+  visible=[detailGroup];
+  selectGroup(detailGroup.id);
+  visible=previous;
+}
+function selectTitle(identifier,fromGroup=false) {
   const title=titles.find(item=>item.id===identifier);
   if(!title) throw new Error("Unknown title");
   $("detail-title").textContent=title.name;
@@ -790,6 +987,7 @@ function selectTitle(identifier) {
     ["Unlock days",valueLabel(title,"unlockDays")]
   ];
   $("detail-content").innerHTML=`
+    ${fromGroup && detailGroup?`<button type="button" class="button group-back" data-return-group>Back to ${esc(detailGroup.name)} entries</button>`:""}
     ${catalogDetails(title)}
     ${title.participation?`<p class="details-source" title="Account timestamps do not establish individual attendance or award ownership.">${title.participation.watched?"Watching annotation / watching dates unknown. ":""}${title.participation.policy==="ReviewedAllocation"?"Reviewed account-time estimate; personal award ownership unknown.":title.participation.policy==="UnknownAllocation"?"Participation recorded; time allocation pending.":""}${title.participation.incoming?" Native history retained; incoming account-time estimate not added (session overlap unresolved).":""}</p>`:""}
     <div class="detail-grid">${metrics.map(([label,value])=>`<div class="detail-metric"${metricHelp(title,label)?` title="${esc(metricHelp(title,label))}"`:""}><small>${esc(label)}</small><strong>${esc(value)}</strong></div>`).join("")}</div>
@@ -812,6 +1010,60 @@ function chooseSort(key) {
   else {sortKey=key;ascending=["name","rank"].includes(key);}
   page=0;render();
 }
+function titleRow(title,portrait,child=false) {
+    const information=`<div><button class="title-button" data-title="${esc(title.id)}">${esc(title.name)}${completionCheck(title)}</button><div class="subtitle">${esc(platformSummary(title))}${child?` · ${esc(sourceLabel(title))}`:""}${title.participation?.watched?" / Watching":""}${title.status==="Partial"?` <span class="partial">/ Incomplete</span>`:""}</div><div class="subtitle">${esc((title.genre||[]).join(" / "))}</div></div>`;
+    const fields=[
+      ["Release date",date(title.release),"date"],
+      ["Playtime",titlePlaytime(title),missing(metricValue(title,"minutes"))?"unavailable":"numeric"],
+      awardField(title,"score"),
+      awardField(title,"earned"),
+      ["First unlock",date(title.firstUnlock),"date"],
+      ["Last played",date(title.lastPlayed),"date"],
+      ["Activity span",duration(title.activitySpan),title.activitySpan===null?"unavailable":"numeric"],
+      ["Rank",valueLabel(title,"rank"),missing(title.rank)?"unavailable":"numeric"],
+      ["Unlock days",valueLabel(title,"unlockDays"),missing(title.unlockDays)?"unavailable":"numeric"]
+    ];
+    const cells=fields.map(field=>titleCell(title,field,portrait));
+    const content=portrait
+      ? `<td class="portrait-left">${cover(title)}${cells[2]}${cells[3]}</td><td class="portrait-right">${information}${cells[7]}${cells[0]}${cells.slice(4,7).join("")}${cells[8]}${cells[1]}</td>`
+      : `<td class="rank" title="${esc(methods.rank)}">${esc(valueLabel(title,"rank"))}</td><td class="title-data"><div class="title-cell">${cover(title)}${information}</div></td>${cells.slice(0,7).join("")}${cells[8]}`;
+    return `<tr data-id="${esc(title.id)}" data-title="${esc(title.id)}"${child?' class="group-child" data-group-child':""}>${content}</tr>`;
+}
+function awardField(title,key) {
+  return key==="score"
+    ? ["Gamerscore",title.nintendo?"Not applicable":missing(scoreValue(title))?"Unavailable":sourceOf(title)==="steam"?fmt.format(scoreValue(title)):integer.format(scoreValue(title)),missing(scoreValue(title))?"unavailable":"numeric",progressBar(scorePercent(title),scoreValue(title),scoreMaximum(title),false,sourceOf(title)==="steam"?"Achievement completion scaled to 1,000.":"")]
+    : ["Achievements",missing(title.earned)?"Unavailable":integer.format(title.earned),missing(title.earned)?"unavailable":"numeric",missing(title.earned)?"":progressBar(title.percentage,title.earned,title.total,title.completionDerived)];
+}
+function titleCell(title,[label,value,className,bar=""],portrait) {
+  const tag=portrait?"div":"td";
+  return `<${tag} class="${portrait?"portrait-field ":""}${className}" data-label="${label}"${metricHelp(title,label)?` title="${esc(metricHelp(title,label))}"`:""}><span class="cell-value">${esc(value)}</span>${bar}</${tag}>`;
+}
+function groupAwardCell(group,key,portrait) {
+  if(key==="earned") {
+    const result=groupAchievementRollup(group);
+    return titleCell(result,awardField(result,key),portrait);
+  }
+  const providers=groupAwardProviders(group,key);
+  if(providers.length===1) return titleCell(providers[0],awardField(providers[0],key),portrait);
+  const label=key==="score"?"Gamerscore":"Achievements";
+  return titleCell({},[label,providers.length?`Separate sets (${providers.length})`:"Unavailable",providers.length?"group-breakdown":"unavailable"],portrait);
+}
+function groupRow(group,portrait) {
+  const expanded=expandedGroups.has(group.id),rank=bestChildRank(group);
+  const information=`<div class="group-heading"><div><span class="group-name"><span class="group-chevron" aria-hidden="true">${expanded?"&#9662;":"&#9656;"}</span> ${esc(group.name)}</span><div class="subtitle">${portrait?"":`Best child rank ${missing(rank)?"unavailable":rank} · `}${esc([...new Set(group.matching.map(sourceLabel))].join(" / "))}</div><div class="subtitle">${esc(completionProvenance(group))}</div></div>
+    <button type="button" class="group-details-button" data-group="${esc(group.id)}" aria-label="Show unified details for ${esc(group.name)}, ${groupTitleCount(group)}" title="Show unified details">${groupTitleCount(group)}</button></div>`;
+  const rankLabel=`${missing(rank)?"Unranked":rank}<span class="group-rank-label">Best child rank</span>`;
+  const cell=(key,label)=>`<${portrait?"div":"td"} class="${portrait?"portrait-field ":""}${dateKey(key)?"date":missing(groupRollup(group,key).value)?"unavailable":"numeric"}" data-label="${label}"${key==="activitySpan"?' title="Group activity span not defined" aria-label="Activity span: Group activity span not defined"':""}><span class="cell-value">${esc(groupValueLabel(group,key))}</span></${portrait?"div":"td"}>`;
+  const content=portrait
+    ? `<td class="portrait-left">${cover({...representative(group),name:group.name})}${groupAwardCell(group,"score",portrait)}${groupAwardCell(group,"earned",portrait)}</td><td class="portrait-right">${information}<div class="portrait-field" data-label="Rank">${rankLabel}</div>${["release","firstUnlock","lastPlayed","activitySpan","unlockDays","minutes"].map(key=>cell(key,groupFields.find(([field])=>field===key)[1])).join("")}</td>`
+    : `<td class="rank" title="Best existing matching child rank">${missing(rank)?"Unavailable":rank}</td><td class="title-data"><div class="title-cell">${cover({...representative(group),name:group.name})}${information}</div></td>${cell("release","Release date")}${cell("minutes","Playtime")}${groupAwardCell(group,"score",portrait)}${groupAwardCell(group,"earned",portrait)}${groupFields.slice(2).map(([key,label])=>cell(key,label)).join("")}`;
+  return `<tr class="group-parent" data-toggle-group="${esc(group.id)}" data-group-id="${esc(group.id)}" role="button" tabindex="0" aria-expanded="${expanded}" aria-controls="children-${esc(group.groupKey)}" aria-label="${expanded?"Collapse":"Expand"} ${esc(group.name)}, ${groupTitleCount(group)}">${content}</tr><tr class="group-children-container"${expanded?"":" hidden"}><td colspan="10"><table id="children-${esc(group.groupKey)}" aria-label="${esc(group.name)}, ${groupTitleCount(group)}"><tbody>${expanded?group.matching.map(title=>titleRow(title,portrait,true)).join(""):""}</tbody></table></td></tr>`;
+}
+function toggleGroup(id) {
+  expandedGroups.has(id)?expandedGroups.delete(id):expandedGroups.add(id);
+  render();
+  $("rows").querySelector(`[data-toggle-group="${id}"]`)?.focus({preventScroll:true});
+}
 function render() {
   $("sort-field").value=sortKey;
   $("sort-field").title=methods[sortKey]||"";
@@ -819,16 +1071,9 @@ function render() {
   $("sort-direction").setAttribute("aria-label",`Sorted ${direction}; reverse to ${ascending?"descending":"ascending"}`);
   $("sort-direction").title=`Sorted ${direction}; select to reverse`;
   $("sort-direction").querySelector(".sort-arrow").dataset.direction=direction;
-  const filters={
-    participation:$("participation").value,
-    source:sourceScope,
-    query:$("search").value,platform:$("platform").value,genre:$("genre").value,
-    releaseYear:$("release-year").value,playedYear:$("played-year").value,
-    story:$("story-status").value,
-    hideApps:$("hide-apps").checked,playtime:$("playtime-filter").value,
-    achievements:$("achievements-filter").value,hasDetails:$("has-details").checked
-  };
-  visible=titles.filter(title=>matchesFilters(title,filters)).sort((a,b)=>compareTitles(a,b));
+  const filters=libraryFilters();
+  const matching=titles.filter(title=>matchesFilters(title,filters)).sort((a,b)=>compareTitles(a,b));
+  visible=groupEntries(matching).sort((a,b)=>compareEntries(a,b));
   const pages=Math.max(1,Math.ceil(visible.length/pageSize));page=Math.max(0,Math.min(page,pages-1));
   document.querySelectorAll("#library th").forEach(th=>{
     const buttons=[...th.querySelectorAll("button[data-sort]")];
@@ -842,37 +1087,17 @@ function render() {
       button.title=[methods[button.dataset.sort],selected?`Sorted ${ascending?"ascending":"descending"}; select to reverse`:"Select to sort"].filter(Boolean).join(" ");
     }
   });
-  $("result-count").textContent=`${integer.format(visible.length)} of ${integer.format(sourceTitles().length)} titles`;
+  $("result-count").textContent=`${integer.format(visible.length)} displayed games · ${integer.format(matching.length)} matching of ${integer.format(sourceTitles().length)} source entries`;
   const start=page*pageSize;
   const portrait=window.matchMedia("(max-width:700px)").matches;
-  $("rows").innerHTML=visible.slice(start,start+pageSize).map(title=>{
-    const information=`<div><button class="title-button" data-title="${esc(title.id)}">${esc(title.name)}${completionCheck(title)}</button><div class="subtitle">${esc(platformSummary(title))}${title.participation?.watched?" / Watching":""}${title.status==="Partial"?` <span class="partial">/ Incomplete</span>`:""}</div><div class="subtitle">${esc((title.genre||[]).join(" / "))}</div></div>`;
-    const fields=[
-      ["Release date",date(title.release),"date"],
-      ["Playtime",titlePlaytime(title),missing(metricValue(title,"minutes"))?"unavailable":"numeric"],
-      ["Gamerscore",title.nintendo?"Not applicable":missing(scoreValue(title))?"Unavailable":sourceOf(title)==="steam"?fmt.format(scoreValue(title)):integer.format(scoreValue(title)),missing(scoreValue(title))?"unavailable":"numeric",progressBar(scorePercent(title),scoreValue(title),scoreMaximum(title),false,sourceOf(title)==="steam"?"Achievement completion scaled to 1,000.":"")],
-      ["Achievements",missing(title.earned)?"Unavailable":integer.format(title.earned),missing(title.earned)?"unavailable":"numeric",missing(title.earned)?"":progressBar(title.percentage,title.earned,title.total,title.completionDerived)],
-      ["First unlock",date(title.firstUnlock),"date"],
-      ["Last played",date(title.lastPlayed),"date"],
-      ["Activity span",duration(title.activitySpan),title.activitySpan===null?"unavailable":"numeric"],
-      ["Rank",valueLabel(title,"rank"),missing(title.rank)?"unavailable":"numeric"],
-      ["Unlock days",valueLabel(title,"unlockDays"),missing(title.unlockDays)?"unavailable":"numeric"]
-    ];
-    const cells=fields.map(([label,value,className,bar=""])=>{
-      const tag=portrait?"div":"td";
-      return `<${tag} class="${portrait?"portrait-field ":""}${className}" data-label="${label}"${metricHelp(title,label)?` title="${esc(metricHelp(title,label))}"`:""}><span class="cell-value">${esc(value)}</span>${bar}</${tag}>`;
-    });
-    const content=portrait
-      ? `<td class="portrait-left">${cover(title)}${cells[2]}${cells[3]}</td><td class="portrait-right">${information}${cells[7]}${cells[0]}${cells.slice(4,7).join("")}${cells[8]}${cells[1]}</td>`
-      : `<td class="rank" title="${esc(methods.rank)}">${esc(valueLabel(title,"rank"))}</td><td class="title-data"><div class="title-cell">${cover(title)}${information}</div></td>${cells.slice(0,7).join("")}${cells[8]}`;
-    return `<tr data-id="${esc(title.id)}" data-title="${esc(title.id)}">${content}</tr>`;
-  }).join("") || '<tr><td colspan="10" class="empty">No titles match these filters.</td></tr>';
+  $("rows").innerHTML=visible.slice(start,start+pageSize).map(title=>title.groupKey?groupRow(title,portrait):titleRow(title,portrait)).join("") || '<tr><td colspan="10" class="empty">No titles match these filters.</td></tr>';
   for(const bar of $("rows").querySelectorAll(".progress")) {
     bar.closest(".portrait-field,td").title=bar.title;
     bar.removeAttribute("title");
   }
-  $("range").textContent=visible.length?`Showing ${start+1}-${Math.min(start+pageSize,visible.length)} / 50 per page`:"No matching titles.";
+  $("range").textContent=visible.length?`Showing games ${start+1}-${Math.min(start+pageSize,visible.length)} / 50 per page`:"No matching titles.";
   $("page-number").textContent=`${page+1} / ${pages}`;$("previous").disabled=page===0;$("next").disabled=page>=pages-1;
+  renderHero();
 }
 function initialize() {
   document.addEventListener("load",event=>artworkLoaded(event.target),true);
@@ -902,7 +1127,7 @@ function initialize() {
     $("source").addEventListener("change",()=>{
       sourceScope=$("source").value;
       if(sourceScope!=="all" && !archive.sources[sourceScope]) throw new Error("Unknown source");
-      page=0;renderStats();renderHero();render();
+      page=0;renderStats();render();
     });
     $("history-source").addEventListener("change",()=>{
       historySourceScope=$("history-source").value;
@@ -921,10 +1146,9 @@ function initialize() {
     $(id).add(new Option("Unavailable","unavailable"));
   }
   $("snapshot-date").textContent=`Updated ${date(interwoven?Object.values(archive.sources).sort().at(-1):archive.updated)}`;
-  $("method-notes").innerHTML=`<h3>Rank</h3><p>${esc(methods.rank)}</p><h3>Played year</h3><p>First unlock, falling back to last played; not every year played.</p>`;
+  $("method-notes").innerHTML=`<h3>Rank</h3><p>${esc(methods.rank)}</p><h3>Presentation groups</h3><p>Only explicitly approved source identities group. Parent rank is the best existing matching child rank, never a new score. Top 10 uses matching played entries with a rank, one tile per group, and shares the list filters. Grouped details and expansions include only matching children. Playtime and recorded unlock days are summed; first unlock and release use earliest known dates, last played the latest. Group activity span not defined. Achievements sum available personal earned/possible counts, including repeated edition awards; percentage is total earned divided by total possible. Gamerscore retains a sole provider or separate sets. Sorting uses displayed aggregates, not new ranking inputs. Missing values stay last; pending allocations and watch-only time are excluded from sums. Group details disclose partial coverage without zero-filling unknown entries. Summary totals remain source-entry totals, not deduplicated measurements. Annual Timeline remains per source entry.</p><h3>Played year</h3><p>First unlock, falling back to last played; not every year played.</p>`;
   document.querySelectorAll("[data-method]").forEach(element=>{element.title=methods[element.dataset.method];});
   for(const option of $("sort-field").options) option.title=methods[option.value]||"";
-  renderHero();
   $("history-metric").title=methods.timeline;
   $("history-highlight").title=methods.timeline;
   $("story-status").title=methods.story;
@@ -998,7 +1222,7 @@ function initialize() {
     $("hide-apps").checked=true;
     $("participation").value="played";
     sourceScope="all";$("source").value="all";
-    if(interwoven) {renderStats();renderHero();}
+    if(interwoven) renderStats();
     sortKey="rank";ascending=true;page=0;render();
   });
   $("previous").addEventListener("click",()=>{page--;render();});
@@ -1007,7 +1231,28 @@ function initialize() {
   $("sort-field").addEventListener("change",()=>chooseSort($("sort-field").value));
   $("sort-direction").addEventListener("click",()=>chooseSort(sortKey));
   window.matchMedia("(max-width:700px)").addEventListener("change",()=>render());
-  document.addEventListener("click",event=>{const target=event.target.closest("[data-title]");if(target) selectTitle(target.dataset.title);});
+  document.addEventListener("keydown",event=>{
+    if(event.target.matches("[data-toggle-group]") && ["Enter"," "].includes(event.key)) {
+      event.preventDefault();
+      toggleGroup(event.target.dataset.toggleGroup);
+    }
+  });
+  document.addEventListener("click",event=>{
+    const group=event.target.closest("[data-group]");
+    if(group) {event.stopPropagation();selectGroup(group.dataset.group,group.closest("#hero-titles")?"hero":"list");return;}
+    const toggle=event.target.closest("[data-toggle-group]");
+    if(toggle) {
+      toggleGroup(toggle.dataset.toggleGroup);
+      return;
+    }
+    if(event.target.closest("[data-return-group]")) {returnToGroup();return;}
+    const target=event.target.closest("[data-title]");
+    if(target) {
+      const child=Boolean(target.closest("[data-group-child]"));
+      if(child && target.closest("#library")) detailGroup=visible.find(entry=>entry.groupKey && entry.matching.some(title=>title.id===target.dataset.title))||null;
+      selectTitle(target.dataset.title,child);
+    }
+  });
   $("close-detail").addEventListener("click",()=>$("detail").close());
   window.addEventListener("resize",syncDetailViewport);
   if(window.visualViewport) {
@@ -1024,7 +1269,7 @@ function renderStats() {
   const scaled=scoped.some(title=>sourceOf(title)==="steam" && !missing(scoreValue(title)));
   const unlocks=scoped.map(title=>!missing(title.earned)?title.earned:title.achievements.some(achievementEarned)?title.achievements.filter(achievementEarned).length:null).filter(value=>!missing(value));
   const cards=[
-    ["Titles",integer.format(scoped.length),""],
+    ["Titles",integer.format(scoped.length),"Source entries"],
     ["Playtime",timed.length?playtime(minutes):"Unavailable",timeNote],
     ["Gamerscore",scores.length?(scaled?fmt:integer).format(scores.reduce((sum,value)=>sum+value,0)):"Unavailable","",scaled?"Steam achievement completion scaled to 1,000.":""],
     ["Unlocks",unlocks.length?integer.format(unlocks.reduce((sum,value)=>sum+value,0)):"Unavailable",""]
