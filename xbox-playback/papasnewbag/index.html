@@ -63,10 +63,17 @@ dialog{--detail-inset-top:max(16px,env(safe-area-inset-top,0px));--detail-inset-
 .note h3{font-size:13px;color:var(--text);margin:16px 0 4px}.note p{margin:0}
 .sources{margin:24px 0;color:var(--muted);font-size:12px}.sources summary{cursor:pointer;color:var(--text);font-weight:600}.source-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(240px,100%),1fr));gap:12px;margin-top:12px}.source-record{padding:14px;border:1px solid var(--line);border-radius:10px;min-width:0}.source-record h4{margin:0 0 10px;color:var(--text)}.source-record dl{margin:0;display:grid;grid-template-columns:90px 1fr;gap:6px}.source-record dd{margin:0;overflow-wrap:anywhere;color:var(--text)}
 .group-heading{display:flex;align-items:start;gap:8px;min-width:0;flex:1}.group-heading>div{min-width:0;flex:1}.group-details-button{flex-shrink:0;min-width:44px;min-height:44px;border:1px solid var(--line);border-radius:8px;background:var(--panel2);color:var(--green)}.group-parent:focus-visible,.group-details-button:focus-visible{outline:2px solid var(--green);outline-offset:-2px}.group-name{font-weight:600}.group-chevron{color:var(--green)}.group-rank-label{display:block;color:var(--muted);font:10px/1.4 "Segoe UI",sans-serif;margin-top:4px}.group-breakdown{color:var(--muted);font-size:12px}.group-children-container[hidden]{display:none!important}.group-children-container>td{padding:0}.group-children-container table{border-left:3px solid #465d49;background:#0f1712}.group-children-container .title-data{width:26%}.group-details{display:grid;gap:12px}.group-member-heading{display:flex;align-items:center;gap:12px}.group-member-heading h3{margin:0;color:var(--text);font-size:16px}.group-member-heading p{margin:4px 0}.group-details dl{display:grid;grid-template-columns:90px minmax(0,1fr);gap:6px}.group-details dd{margin:0;color:var(--text)}.group-details .button{white-space:normal;text-align:left;width:100%}.group-back{margin-bottom:16px}
-#library .group-children-container table{background:#1c1f1e;border-left:3px solid #46504b;border-bottom:2px solid #46504b}
-#library .group-child{background:#1c1f1e}
-#library .group-child:hover{background:#272c29}
+#library .group-parent{background:#192d21}
+#library .group-parent:hover{background:#223c2c}
+#library .group-children-container table{background:#292c2b;border-left:3px solid #46504b;border-bottom:2px solid #46504b}
+#library .group-child{background:#292c2b}
+#library .group-child:hover{background:#343936}
 #library .group-child td{border-bottom-color:#46504b}
+.group-children-viewport{overflow-anchor:none}
+.group-children-viewport.is-animating{overflow:hidden}
+.group-chevron{display:inline-block;transition:transform 240ms cubic-bezier(.2,0,0,1)}
+.group-parent[aria-expanded="true"] .group-chevron{transform:rotate(90deg)}
+@media(prefers-reduced-motion:reduce){.group-chevron{transition:none}}
 .version-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(210px,100%),1fr));gap:14px;list-style:none;padding:0;margin:16px 0 0}.version-grid li{min-width:0}.version-card{min-width:0;color:var(--text)}.version-card .hero-name{display:block;padding-bottom:4px}.version-meta,.version-metrics{display:block;padding:0 10px 10px;font-size:12px;line-height:1.5;overflow-wrap:anywhere}.version-meta{color:var(--muted)}.version-metrics{margin-top:auto}.version-metrics>span{display:block}.version-card:focus-visible{outline-offset:-3px}.group-overview{margin:0 0 16px;font-size:12px;color:var(--muted)}.group-overview p{margin:0 0 8px}.group-rollups .details-source{margin:4px 0 0;font-size:11px}.group-rollups .detail-metric{padding:10px}.group-rollups .detail-metric strong{font-size:16px}
 @media(max-width:700px){.version-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.version-card .hero-name{font-size:13px}.version-meta,.version-metrics{font-size:11px}.group-rollups .detail-metric{min-width:0;padding:10px}.group-rollups .detail-metric strong{font-size:16px;overflow-wrap:anywhere}}
 @media(max-width:350px){.version-grid{grid-template-columns:minmax(0,1fr)}}
@@ -231,6 +238,7 @@ function presentationDefinition(title) {
     source===sourceOf(title) && id===title.id && groupNameGuard(name)===groupNameGuard(title.name)))||null;
 }
 const expandedGroups=new Set();
+const groupAnimations=new Map();
 let detailGroup=null;
 function groupEntries(entries,library=titles) {
   const groups=new Map(),result=[];
@@ -1137,7 +1145,7 @@ function groupAwardCell(group,key,portrait) {
 }
 function groupRow(group,portrait) {
   const expanded=expandedGroups.has(group.id),rank=bestChildRank(group);
-  const information=`<div class="group-heading"><div><span class="group-name"><span class="group-chevron" aria-hidden="true">${expanded?"&#9662;":"&#9656;"}</span> ${esc(group.name)}</span><div class="subtitle">${esc([...new Set(group.matching.map(sourceLabel))].join(" / "))}</div><div class="subtitle">${esc(completionProvenance(group))}</div></div>
+  const information=`<div class="group-heading"><div><span class="group-name"><span class="group-chevron" aria-hidden="true">&#9656;</span> ${esc(group.name)}</span><div class="subtitle">${esc([...new Set(group.matching.map(sourceLabel))].join(" / "))}</div><div class="subtitle">${esc(completionProvenance(group))}</div></div>
     <button type="button" class="group-details-button" data-group="${esc(group.id)}" aria-label="Show unified details for ${esc(group.name)}, ${groupTitleCount(group)}" title="Show unified details">${groupTitleCount(group)}</button></div>`;
   const rankLabel=missing(rank)?"Unranked":rank;
   const rating=groupCriticValue(group);
@@ -1146,12 +1154,58 @@ function groupRow(group,portrait) {
   const content=portrait
     ? `<td class="portrait-left">${cover({...representative(group),name:group.name})}${groupAwardCell(group,"score",portrait)}${groupAwardCell(group,"earned",portrait)}</td><td class="portrait-right">${information}${criticCell}<div class="portrait-field" data-label="Rank">${rankLabel}</div>${["release","firstUnlock","lastPlayed","activitySpan","unlockDays","minutes"].map(key=>cell(key,groupFields.find(([field])=>field===key)[1])).join("")}</td>`
     : `<td class="rank">${missing(rank)?"Unavailable":rank}</td><td class="title-data"><div class="title-cell">${cover({...representative(group),name:group.name})}${information}</div></td>${criticCell}${cell("release","Release date")}${cell("minutes","Playtime")}${groupAwardCell(group,"score",portrait)}${groupAwardCell(group,"earned",portrait)}${groupFields.slice(2).map(([key,label])=>cell(key,label)).join("")}`;
-  return `<tr class="group-parent" data-toggle-group="${esc(group.id)}" data-group-id="${esc(group.id)}" role="button" tabindex="0" aria-expanded="${expanded}" aria-controls="children-${esc(group.groupKey)}" aria-label="${expanded?"Collapse":"Expand"} ${esc(group.name)}, ${groupTitleCount(group)}">${content}</tr><tr class="group-children-container"${expanded?"":" hidden"}><td colspan="${hasCritics?11:10}"><table id="children-${esc(group.groupKey)}" aria-label="${esc(group.name)}, ${groupTitleCount(group)}"><tbody>${expanded?group.matching.map(title=>titleRow(title,portrait,true)).join(""):""}</tbody></table></td></tr>`;
+  return `<tr class="group-parent" data-toggle-group="${esc(group.id)}" data-group-id="${esc(group.id)}" role="button" tabindex="0" aria-expanded="${expanded}" aria-controls="children-${esc(group.groupKey)}" aria-label="${expanded?"Collapse":"Expand"} ${esc(group.name)}, ${groupTitleCount(group)}">${content}</tr><tr class="group-children-container"${expanded?"":" hidden"}><td colspan="${hasCritics?11:10}"><div class="group-children-viewport"${expanded?"":" inert"}><table id="children-${esc(group.groupKey)}" aria-label="${esc(group.name)}, ${groupTitleCount(group)}"><tbody>${expanded?group.matching.map(title=>titleRow(title,portrait,true)).join(""):""}</tbody></table></div></td></tr>`;
+}
+function settleGroup(id) {
+  const state=groupAnimations.get(id);
+  if(!state) return;
+  groupAnimations.delete(id);
+  state.animation?.cancel();
+  state.viewport.classList.remove("is-animating");
+  const expanded=expandedGroups.has(id);
+  state.container.hidden=!expanded;
+  state.viewport.inert=!expanded;
+  if(!expanded) state.viewport.querySelector("tbody").innerHTML="";
+}
+function cancelGroupAnimations() {
+  for(const id of [...groupAnimations.keys()]) settleGroup(id);
 }
 function toggleGroup(id) {
-  expandedGroups.has(id)?expandedGroups.delete(id):expandedGroups.add(id);
-  render();
-  $("rows").querySelector(`[data-toggle-group="${id}"]`)?.focus({preventScroll:true});
+  const group=visible.find(entry=>entry.id===id && entry.groupKey);
+  const parent=$("rows").querySelector(`[data-toggle-group="${id}"]`);
+  if(!group || !parent) return;
+  const container=parent.nextElementSibling,viewport=container.querySelector(".group-children-viewport");
+  const from=container.hidden?0:viewport.getBoundingClientRect().height;
+  const previous=groupAnimations.get(id);
+  groupAnimations.delete(id);
+  previous?.animation?.cancel();
+  const expanded=!expandedGroups.has(id);
+  expanded?expandedGroups.add(id):expandedGroups.delete(id);
+  parent.setAttribute("aria-expanded",String(expanded));
+  parent.setAttribute("aria-label",`${expanded?"Collapse":"Expand"} ${group.name}, ${groupTitleCount(group)}`);
+  parent.focus({preventScroll:true});
+  // Clipped children must not receive focus or open details during either transition.
+  viewport.inert=true;
+  if(expanded && !previous) {
+    viewport.querySelector("tbody").innerHTML=group.matching.map(title=>titleRow(title,window.matchMedia("(max-width:700px)").matches,true)).join("");
+    for(const bar of viewport.querySelectorAll(".progress")) {
+      bar.closest(".portrait-field,td").title=bar.title;
+      bar.removeAttribute("title");
+    }
+  }
+  container.hidden=false;
+  const state={container,viewport,animation:null};
+  groupAnimations.set(id,state);
+  if(window.matchMedia("(prefers-reduced-motion:reduce)").matches || !viewport.animate) {
+    settleGroup(id);
+    return;
+  }
+  viewport.classList.add("is-animating");
+  state.animation=viewport.animate([{height:`${from}px`},{height:`${expanded?viewport.scrollHeight:0}px`}],
+    {duration:240,easing:"cubic-bezier(.2,0,0,1)",fill:"both"});
+  state.animation.onfinish=()=>{
+    if(groupAnimations.get(id)===state) settleGroup(id);
+  };
 }
 function nextTablePage() {
   const previousPage=page;
@@ -1163,6 +1217,12 @@ function nextTablePage() {
   heading.scrollIntoView({block:"start",behavior:"instant"});
 }
 function render() {
+  const active=document.activeElement;
+  const focusedParent=active?.closest("[data-toggle-group]") ||
+    active?.closest(".group-children-container")?.previousElementSibling;
+  const focusedGroup=focusedParent?.dataset.toggleGroup;
+  const focusedDetails=active?.matches(".group-details-button");
+  cancelGroupAnimations();
   $("sort-field").value=sortKey;
   $("sort-field").title=methods[sortKey]||"";
   const direction=ascending?"ascending":"descending";
@@ -1196,6 +1256,10 @@ function render() {
   $("range").textContent=visible.length?`Showing games ${start+1}-${Math.min(start+pageSize,visible.length)} / 50 per page`:"No matching titles.";
   $("page-number").textContent=`${page+1} / ${pages}`;$("previous").disabled=page===0;$("next").disabled=page>=pages-1;
   renderHero();
+  if(focusedGroup) {
+    const parent=$("rows").querySelector(`[data-toggle-group="${focusedGroup}"]`);
+    (focusedDetails?parent?.querySelector(".group-details-button"):parent)?.focus({preventScroll:true});
+  }
 }
 function initialize() {
   document.addEventListener("load",event=>artworkLoaded(event.target),true);
@@ -1352,6 +1416,9 @@ function initialize() {
   $("sort-field").addEventListener("change",()=>chooseSort($("sort-field").value));
   $("sort-direction").addEventListener("click",()=>chooseSort(sortKey));
   window.matchMedia("(max-width:700px)").addEventListener("change",()=>render());
+  window.matchMedia("(prefers-reduced-motion:reduce)").addEventListener("change",event=>{
+    if(event.matches) cancelGroupAnimations();
+  });
   document.addEventListener("keydown",event=>{
     if(event.target.matches("[data-toggle-group]") && ["Enter"," "].includes(event.key)) {
       event.preventDefault();
