@@ -14,7 +14,7 @@ Practical, hard-won notes for AI agents (and humans) working on this repository.
 
 ## How it deploys (production)
 
-- Pushing to the **`deploy` branch** triggers `.github/workflows/jekyll-gh-pages.yml`, which builds with **plain Jekyll** (`actions/jekyll-build-pages`, source `./`) and publishes to GitHub Pages.
+- Pushing to the **`deploy` branch** triggers `.github/workflows/jekyll-gh-pages.yml`, which builds with **the action's preinstalled GitHub Pages dependencies** (`actions/jekyll-build-pages`, source `./`) and publishes to GitHub Pages. The action does not install this repository's `Gemfile.lock`; dependency updates here apply to local Bundler builds, not the action's build environment.
 - Production builds use **`_config.yml` only** — it does **not** apply `_config.dev.yml`. So anything you do in the dev config is local-only and never ships.
 
 ## Repository layout (the parts that matter)
