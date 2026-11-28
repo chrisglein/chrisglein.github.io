@@ -4,19 +4,19 @@
    for embedding on a mismatched-theme host), .bracket--posters (portrait art).
    Default is the light theme with no plate, so it blends into a light page. */
 .bracket {
-  --panel: #f1f1f4;
-  --card-bg: #ffffff;
-  --card-border: #e2e2e8;
-  --text: #303036;
-  --muted: #6c6c74;
+  --panel: var(--bracket-panel, #f1f1f4);
+  --card-bg: var(--bracket-card, #ffffff);
+  --card-border: var(--bracket-border, #e2e2e8);
+  --text: var(--bracket-text, #303036);
+  --muted: var(--bracket-muted, #6c6c74);
   --accent: #e8b923;
-  --accent-ink: #7a5c00;
+  --accent-ink: var(--bracket-accent-ink, #7a5c00);
   --on-accent: #1a1a1d;
   --accent-tint: rgba(232, 185, 35, 0.15);
-  --hover: #eef0f4;
-  --track: #e4e4ea;
-  --divider: #e8e8ee;
-  --border: #d3d3da;
+  --hover: var(--surface-hover, #eef0f4);
+  --track: var(--bracket-border, #e4e4ea);
+  --divider: var(--bracket-border, #e8e8ee);
+  --border: var(--bracket-border, #d3d3da);
   --plate-bg: #1a1a1d;
 
   color: var(--text);
@@ -397,7 +397,7 @@
 }
 .bracket .resume-error {
   margin: 0.75rem 0 0;
-  color: #b42318;
+  color: var(--code, #b42318);
   font-weight: 600;
 }
 
