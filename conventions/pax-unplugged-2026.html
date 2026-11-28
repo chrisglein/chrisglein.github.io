@@ -129,6 +129,10 @@
     .cover-tile img { width:100%; height:145px; object-fit:contain; }
     .cover-tile small { display:block; color:var(--muted); }
     .cover-tile h4 { margin:4px 0 0; font-size:17px; }
+    #schedule .cover-shelf { grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr)); }
+    #schedule .cover-tile { text-align:left; padding:14px; }
+    #schedule .cover-tile small { color:var(--mint); }
+    #schedule .cover-tile p { margin:0; }
     .cover-tile p { text-align:left; margin:4px 5px; font-size:14px; }
     .room-art { display:flex; gap:8px; justify-content:center; margin:12px 0; }
     .room-art a { flex:1; min-width:0; }
@@ -301,7 +305,7 @@
   <header class="topbar">
     <div class="wrap">
       <a class="brand" href="#top">PAX Unplugged 2026</a>
-      <nav aria-label="Page navigation"><a href="#floor-map">Map</a><a href="#shortlist">First Look</a><a href="#booths">Booths</a><a href="#library">Library</a></nav>
+      <nav aria-label="Page navigation"><a href="#floor-map">Map</a><a href="#shortlist">First Look</a><a href="#booths">Booths</a><a href="#library">Library</a><a href="#schedule">Schedule</a></nav>
     </div>
   </header>
   <main id="top" class="wrap">
@@ -949,6 +953,32 @@
       </tbody></table></div>
     </section>
 
+    <section id="schedule" aria-labelledby="schedule-title">
+      <h2 id="schedule-title">Schedule</h2>
+      <p>Panels and stage shows worth leaving a table for. Times are local to Philadelphia. <a href="https://unplugged.paxsite.com/philly/en-us/schedule.html">Full PAX schedule</a>.</p>
+      <h3>Friday, December 4</h3>
+      <div class="cover-shelf">
+        <article class="cover-tile"><small>11 AM&ndash;noon &middot; Main, Grand Ballroom B</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=960034">Storytime with Matt Leacock</a></h4><p>The opening talk is by the designer of <b>Pandemic Legacy</b> and <b>Fate of the Fellowship</b>. Go for the person behind two very different ways to make a whole table care about one bad turn.</p></article>
+        <article class="cover-tile"><small>12:30&ndash;2 PM &middot; Kelpie, Michael A. Nutter Theatre</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=960037">Omegathon: Cockroach Poker</a></h4><p><b>Best spectator pick.</b> Contestants play; the audience gets to read the bluff without risking a card. If <b>Cockroach Poker Royal</b> or <b>Skull</b> is usually on the table, this is the round to watch.</p></article>
+        <article class="cover-tile"><small>3&ndash;4 PM &middot; Main, Grand Ballroom B</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=959920">Fantasy Flight Games&rsquo; 2026 In-Flight Report</a></h4><p><b>Best publisher reveal.</b> FFG is presenting its 2027 lineup with onstage design interviews. A good bet for an <b>Arkham Horror: The Card Game</b> fan hunting new releases; no specific <b>Arkham</b> announcement is promised.</p></article>
+        <article class="cover-tile"><small>6:30&ndash;7:30 PM &middot; Crab God, 113C</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=956878">Scare Tactics: The Psychology of Horror in Game Design</a></h4><p>How do rules make players paranoid before anyone narrates a scare? A promising design question for fans of <b>Final Girl</b>. Overlaps <a href="#scheduled"><b>Brass</b></a> at 7; ends half an hour before the <a href="#return-of-the-king"><b>Return of the King</b> teach</a>.</p></article>
+        <article class="cover-tile"><small>10&ndash;11:45 PM &middot; Learn and Play, 204A</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955093">Unpub Presents: Feedback Frenzy</a></h4><p><b>Best for a designer.</b> Each pitch gets six minutes; then industry pros critique both the pitch and the game. Listen for the moment a good idea becomes clear to someone who hasn&rsquo;t played it. Audience queues before the start; no registration.</p></article>
+      </div>
+      <h3>Saturday, December 5</h3>
+      <p><a href="#scheduled"><b>Twilight Imperium</b> and <b>Thunder Road: Vendetta</b></a> are alternatives to the afternoon panels. <b>Twilight Imperium</b> runs until 6; the <b>Thunder Road</b> tournament runs until 2:30 for finalists, overlapping Pirinen and the first half of the trick-taking talk.</p>
+      <div class="cover-shelf">
+        <article class="cover-tile"><small>12:30&ndash;1:30 PM &middot; Mothman, Grand Ballroom A</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=957074">Fireside Chat with Tuomas Pirinen</a></h4><p>The <b>Mordheim</b> designer discusses <b>En Garde</b>, a miniature dueling game built around John Blanche&rsquo;s low-fantasy city. The draw is the move from illustration to play: what does a duel in that city look like once two players control the figures?</p></article>
+        <article class="cover-tile"><small>2&ndash;3 PM &middot; Mothman, Grand Ballroom A</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=951316">Trick Taking Mechanics</a></h4><p>GeekNights traces the design space from <b>Euchre</b> to <b>Cat in the Box</b>. This earns the genre exception: go for the distinctions that explain why <b>Fishing</b> and the <b>Lord of the Rings</b> games feel different, not for another new deck.</p></article>
+        <article class="cover-tile"><small>4&ndash;5 PM &middot; Mothman, Grand Ballroom A</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=952432">These Games Are Not For Sale</a></h4><p><b>Best discovery.</b> Designers including Matt Leacock discuss games made for expression rather than retail. Then try work by participating designers on Level 4 beside <a href="#shortlist">First Look</a> and Unpub. This is the rare panel where you can test the premise at a table.</p></article>
+        <article class="cover-tile"><small>8&ndash;10:30 PM &middot; Main, Grand Ballroom B</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=960064">Acquisitions Incorporated LIVE!</a></h4><p><b>Saturday night: watch.</b> The live campaign closes its season with a trip to the Back Offices. Pick this over the game jam for a full evening of comic roleplaying with a crowd; the jam starts an hour into the show.</p></article>
+        <article class="cover-tile"><small>9&ndash;10:30 PM &middot; Crab God, 113C</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=951207">Unpub&rsquo;s Pro-Am Game Jam</a></h4><p><b>Saturday night: make.</b> Each team gets the same random design constraints and an industry pro as captain. Build a game, then see how far the other teams took the same starting idea.</p></article>
+      </div>
+      <h3>Sunday, December 6</h3>
+      <div class="cover-shelf">
+        <article class="cover-tile"><small>11 AM&ndash;noon &middot; Mothman, Grand Ballroom A</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=952419">So You&rsquo;ve Met a Thousand Year Old Vampire Designer Chat</a></h4><p>Tim Hutchings discusses two successors to <b>Thousand Year Old Vampire</b>. A compact choice for someone interested in how a solo game can produce a story without a GM doing the storytelling.</p></article>
+        <article class="cover-tile"><small>3:30&ndash;4:30 PM &middot; Crab God, 113C</small><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=952922">Better than GenAI: Commissioning Art 101</a></h4><p>The practical publishing pick: how to brief an artist, agree on compensation, and settle commercial rights. More useful for taking a prototype toward production than a general panel about getting into games.</p></article>
+      </div>
+    </section>
     <footer class="foot" id="evidence"><a href="https://boardgamegeek.com/geeklist/386835/pax-unplugged-2026-first-look-showcase">Official First Look list</a></footer>
   </main>
   <dialog id="photo-viewer" aria-labelledby="photo-title" aria-describedby="photo-credit">
