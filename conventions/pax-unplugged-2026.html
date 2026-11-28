@@ -1,0 +1,1020 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <meta name="description" content="Chris's PAX Unplugged 2026 field guide: which table to try, where to find it, and what would earn a second play.">
+  <title>PAX Unplugged 2026 | Game field guide</title>
+  <style>
+    :root { color-scheme: dark; --bg:#0b1019; --panel:#121c2a; --panel2:#172336; --ink:#edf2fa; --muted:#b0bfd3; --line:#314057; --mint:#95e7d3; --gold:#ffd394; --rose:#ffb7cb; --violet:#c9b8ff; --radius:22px; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; scroll-padding-top:85px; }
+    body { margin:0; background:radial-gradient(ellipse at 80% 0%,#23304780,transparent 38%),var(--bg); color:var(--ink); font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    a { color:var(--mint); text-underline-offset:4px; }
+    a:hover { color:white; }
+    button,select { font:inherit; }
+    button { cursor:pointer; }
+    :focus-visible { outline:3px solid var(--gold); outline-offset:4px; }
+    .skip { position:absolute; top:-80px; left:12px; z-index:10; background:var(--mint); color:var(--bg); padding:12px; }
+    .skip:focus { top:12px; }
+    .wrap { max-width:1220px; margin:auto; padding:0 28px; }
+    .topbar { border-bottom:1px solid var(--line); background:#0b1019f0; position:sticky; top:0; z-index:5; backdrop-filter:blur(16px); }
+    .topbar .wrap { display:flex; align-items:center; justify-content:space-between; gap:16px; min-height:66px; }
+    .brand { font-size:12px; font-weight:800; letter-spacing:2px; text-transform:uppercase; color:var(--ink); text-decoration:none; }
+    nav { display:flex; gap:22px; font-size:13px; }
+    nav a { color:var(--muted); text-decoration:none; }
+    .eyebrow { font:700 11px/1.5 ui-monospace,Consolas,monospace; letter-spacing:2px; text-transform:uppercase; color:var(--mint); }
+
+    h1 { font-size:clamp(42px,6.8vw,84px); line-height:1.02; letter-spacing:-4px; margin:20px 0 24px; font-weight:800; }
+    h1 span { color:var(--mint); }
+
+
+
+
+
+
+
+
+
+
+
+
+    section { margin-top:62px; }
+    .section-title { display:flex; justify-content:space-between; gap:24px; align-items:end; margin-bottom:24px; }
+    h2 { font-size:clamp(26px,3vw,38px); line-height:1.15; letter-spacing:-1px; margin:10px 0; }
+    h3 { margin:0; font-size:29px; line-height:1.12; letter-spacing:-.7px; }
+    h4 { font-size:12px; letter-spacing:1.4px; text-transform:uppercase; color:var(--mint); margin:0 0 9px; }
+    .muted { color:var(--muted); }
+    .small { font-size:13px; }
+    .notice { border-left:3px solid var(--gold); background:#ffd3940a; padding:18px 22px; color:var(--muted); font-size:14px; margin:24px 0; }
+    .notice strong { color:var(--gold); }
+    .action { border:1px solid var(--line); border-radius:100px; padding:9px 16px; background:var(--panel); color:var(--ink); font-size:13px; text-decoration:none; }
+    .action.primary { background:var(--mint); color:#0b1019; border-color:var(--mint); }
+    .game { border:1px solid var(--line); border-radius:var(--radius); overflow:hidden; margin-bottom:14px; background:var(--panel); }
+    .game-head { display:grid; grid-template-columns:155px minmax(0,1fr); grid-template-areas:"cover copy"; }
+    .game-head .cover { grid-area:cover; }
+    .game-copy { grid-area:copy; }
+    .table-gallery { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr)); gap:16px; padding:16px; border-top:1px solid var(--line); background:var(--bg); }
+    .table-photo { min-width:0; margin:0; text-align:center; }
+    .table-photo img { display:block; width:100%; height:clamp(275px,37vw,400px); object-fit:contain; border-radius:8px; }
+    .table-photo figcaption { margin-top:5px; }
+    .game .table-gallery { gap:3px; padding:0; grid-auto-columns:minmax(0,1fr); grid-auto-flow:column; grid-template-columns:none; }
+    .game .table-photo img { height:clamp(130px,24vw,260px); object-fit:cover; border-radius:0; }
+    .game .photo-zoom { border-radius:0; }
+    .game .photo-zoom:focus-visible { outline-offset:-4px; }
+    .game .table-photo figcaption { display:none; }
+    .game .cover { min-height:0; padding:8px; }
+    .game .cover img { height:auto; max-height:150px; }
+    .game .meta { gap:4px 6px; margin-top:7px; }
+    .game .meta a { color:var(--mint); text-underline-offset:2px; }
+    .game .pitch { margin:7px 0 3px; line-height:1.45; }
+    .game .like { margin:5px 0 0; line-height:1.45; }
+    .game .prep { margin:5px 0 0; color:var(--muted); font-size:14px; line-height:1.45; }
+    .game summary { padding:8px 15px; }
+    .photo-zoom { display:block; width:100%; padding:0; border:0; border-radius:8px; background:transparent; color:var(--mint); cursor:zoom-in; font:inherit; }
+    #photo-viewer { box-sizing:border-box; width:fit-content; max-width:96vw; max-height:96vh; padding:12px; border:1px solid var(--line); border-radius:12px; background:var(--panel); color:var(--ink); }
+    #photo-viewer::backdrop { background:rgb(0 0 0 / 85%); }
+    #photo-viewer img { display:block; width:auto; height:auto; max-width:min(90vw,1024px); max-height:75vh; margin:auto; }
+    .viewer-bar { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:8px; }
+    #photo-credit { margin:8px 0 0; font-size:13px; }
+    .like { margin:12px 0; padding-left:12px; border-left:2px solid var(--mint); font-size:14px; }
+    .like strong { color:var(--mint); }
+    .cover { padding:25px 20px; display:flex; justify-content:center; align-items:center; background:linear-gradient(160deg,#31415a70,#0b1019); border-right:1px solid var(--line); min-height:250px; position:relative; }
+    .cover img { width:100%; max-height:232px; object-fit:contain; filter:drop-shadow(0 14px 14px #0009); }
+    .image-failure { font-size:12px; display:block; color:var(--gold); text-align:center; }
+    .game-copy { padding:12px 16px; }
+    .game-title { display:flex; justify-content:space-between; gap:18px; align-items:flex-start; }
+    #shortlist { margin-top:18px; }
+    #shortlist .section-title { margin-bottom:4px; }
+    #shortlist h1 { font-size:clamp(28px,4vw,44px); letter-spacing:-1px; margin:4px 0; }
+    .scan td,.scan th { padding:5px 10px; vertical-align:middle; }
+    .scan img { display:block; object-fit:contain; }
+    #recommendations .scan td:nth-child(3) { white-space:nowrap; }
+    #booths caption { text-align:left; padding:10px; }
+    #booths .scan td { vertical-align:top; padding:10px; }
+    .booth-picks { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,290px),1fr)); gap:14px; }
+    .booth-picks article { padding:18px; border:1px solid var(--line); border-radius:14px; background:var(--panel); }
+    .booth-picks h3 { font-size:21px; }
+    .booth-picks p { font-size:14px; margin:9px 0 0; }
+    .booth-picks .location { color:var(--mint); font-weight:650; }
+    .booth-gallery { margin-top:12px; }
+    .map-scroll { overflow-x:auto; background:#101b2a; border:1px solid var(--line); border-radius:12px; }
+    .map-scroll img { display:block; width:100%; min-width:690px; height:auto; }
+    main > section { border-top:1px solid var(--line); padding-top:18px; }
+    main > section:first-child { border:0; margin-top:12px; padding-top:0; }
+    main > #shortlist { margin-top:36px; }
+    .map-layout { display:grid; grid-template-columns:minmax(0,0.82fr) minmax(0,1.14fr) minmax(0,1.68fr); gap:14px; align-items:start; }
+    .map-layout h3 { font-size:18px; margin:0 0 8px; }
+    .map-layout .map-scroll img { min-width:0; }
+    .map-layout .gaming-plan { display:block; width:100%; height:auto; border:1px solid var(--line); border-radius:12px; }
+    .map-key { display:flex; flex-wrap:wrap; gap:4px 14px; margin:8px 0; padding:0; list-style:none; }
+    .map-key li::before { content:""; display:inline-block; width:.65em; height:.65em; border-radius:50%; margin-right:.35em; background:currentColor; }
+    .map-key .mint { color:#81f0c5; } .map-key .blue { color:#9ed0ff; } .map-key .gold { color:#f8ce81; }
+    .venue-plan { display:block; width:100%; max-width:440px; height:auto; background:#101b2a; border-radius:12px; }
+    .venue-plan text { font-family:system-ui,sans-serif; fill:#e1edf6; font-size:13px; }
+    .venue-plan .floor-label { fill:#81f0c5; font-weight:700; font-size:14px; }
+    .venue-plan a text { text-decoration:underline; }
+    .local-links { display:flex; flex-wrap:wrap; gap:5px 16px; font-size:14px; margin:8px 0 15px; }
+    .substop { margin-top:24px; }
+    #floor-map h1 { font-size:clamp(28px,4vw,40px); letter-spacing:-1px; margin:6px 0 16px; }
+    @media (min-width:701px) and (max-width:1080px) { .map-layout { grid-template-columns:minmax(0,1fr) minmax(0,1.4fr); } .map-layout > :last-child { grid-column:1 / -1; } }
+    @media (max-width:700px) { .map-layout { grid-template-columns:minmax(0,1fr); } .map-layout .map-scroll img { min-width:620px; } }
+    .booth-story { min-width:0; background:var(--panel); border:1px solid var(--line); border-radius:14px; overflow:hidden; }
+    .booth-story h3,.booth-story p { margin:12px 16px; }
+    .booth-story h3 { font-size:21px; }
+    .booth-story p { font-size:14px; }
+    .cover-shelf { display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,235px),1fr)); gap:12px; margin:12px 0; }
+    .cover-tile { display:grid; align-content:start; text-align:center; gap:7px; padding:10px; background:var(--panel); border:1px solid var(--line); border-radius:12px; }
+    .cover-tile img { width:100%; height:145px; object-fit:contain; }
+    .cover-tile small { display:block; color:var(--muted); }
+    .cover-tile h4 { margin:4px 0 0; font-size:17px; }
+    .cover-tile p { text-align:left; margin:4px 5px; font-size:14px; }
+    .room-art { display:flex; gap:8px; justify-content:center; margin:12px 0; }
+    .room-art a { flex:1; min-width:0; }
+    .room-art img { display:block; width:100%; height:170px; object-fit:contain; }
+    #library td img { width:64px; height:76px; object-fit:contain; }
+    .booth-gallery .table-photo img { height:clamp(225px,25vw,310px); }
+    #booths .booth-gallery { align-items:start; padding:0; border-top:0; gap:12px; }
+    #booths .table-photo img { height:auto; border-radius:0; }
+    #booths .table-photo figcaption { display:none; }
+    #booths .booth-story h3 { margin:10px 14px 0; }
+    #booths .booth-story p { margin:5px 14px 10px; }
+    #booths .booth-story .location { color:var(--mint); font-weight:650; }
+    #booths .booth-story h3 a { color:inherit; text-decoration-thickness:1px; }
+    #booths .location small { color:var(--muted); font-weight:400; }
+    #booths #booth-route { margin:22px 0 10px; }
+    td.number { padding:7px 8px; vertical-align:middle; white-space:nowrap; font-variant-numeric:tabular-nums; }
+    #shortlist th.metric,#shortlist td.number { text-align:left; padding-inline:8px; }
+    .score { flex:none; text-align:right; }
+    .score b { font:700 27px/1 ui-monospace,Consolas,monospace; color:var(--gold); }
+    .score span { display:block; color:var(--muted); font-size:11px; margin-top:6px; }
+    .meta { display:flex; flex-wrap:wrap; gap:8px; margin-top:16px; }
+    .pill { border:1px solid #47556d; border-radius:100px; padding:3px 10px; font-size:11px; color:var(--muted); }
+    .pill.good { color:var(--mint); border-color:#95e7d35c; }
+    .pill.caution { color:var(--gold); border-color:#ffd3945c; }
+    .pitch { font-size:17px; margin:15px 0 10px; }
+    .verdict { color:var(--muted); font-size:14px; margin:0; }
+    .verdict strong { color:var(--ink); }
+    .dossier { border-top:1px solid var(--line); }
+    summary { cursor:pointer; padding:15px 25px; font-size:13px; color:var(--mint); font-weight:650; }
+    summary:hover { background:#95e7d308; }
+    details[open]>summary { border-bottom:1px solid var(--line); }
+    .research { padding:25px 30px 30px; }
+    .research-grid { display:grid; grid-template-columns:1fr 1fr; gap:28px; }
+    .research p { font-size:14px; color:var(--muted); margin:0 0 18px; }
+    .research p strong { color:var(--ink); }
+    .teach { counter-reset:turn; list-style:none; padding:0; margin:0 0 20px; }
+    .teach li { counter-increment:turn; position:relative; padding-left:34px; font-size:14px; color:var(--muted); margin-bottom:11px; }
+    .teach li:before { content:counter(turn,decimal-leading-zero); position:absolute; left:0; top:2px; color:var(--mint); font:12px ui-monospace,monospace; }
+    .visual { background:#0b1019; border:1px solid var(--line); border-radius:14px; padding:18px; margin:0 0 20px; }
+    .visual svg { width:100%; height:auto; display:block; }
+    .visual svg text { font-family:system-ui,sans-serif; fill:#edf2fa; font-size:12px; }
+    figcaption { color:var(--muted); font-size:11px; margin-top:12px; line-height:1.5; }
+    .flow { display:grid; grid-template-columns:repeat(3,1fr); gap:9px; }
+    .flow div { background:var(--panel2); padding:13px 9px; border-radius:9px; text-align:center; font-size:12px; }
+    .flow b { display:block; color:var(--gold); margin-bottom:4px; font-size:11px; }
+    .question { background:#95e7d30a; border-left:2px solid var(--mint); padding:13px 16px; margin-bottom:18px; }
+    .question p { margin:0; }
+    .sources { border-top:1px solid var(--line); padding-top:15px; display:flex; gap:14px; flex-wrap:wrap; font-size:12px; }
+    .table-wrap { overflow-x:auto; border:1px solid var(--line); border-radius:16px; }
+    table { border-collapse:collapse; width:100%; font-size:13px; background:var(--panel); }
+    th { text-align:left; color:var(--mint); font-size:11px; letter-spacing:1px; text-transform:uppercase; padding:15px 18px; }
+    td { border-top:1px solid var(--line); padding:15px 18px; color:var(--muted); vertical-align:top; }
+    td:first-child { color:var(--ink); font-weight:650; }
+    .plan-grid { display:grid; grid-template-columns:1.05fr 1fr; gap:24px; }
+    .plan-card { border:1px solid var(--line); border-radius:var(--radius); padding:27px; background:var(--panel); }
+    .plan-card h3 { font-size:22px; margin-bottom:17px; }
+    .route { padding:0; margin:0; list-style:none; counter-reset:route; }
+    .route li { position:relative; padding:0 0 22px 40px; border-left:1px solid #95e7d340; margin-left:13px; color:var(--muted); font-size:14px; }
+    .route li:last-child { border:0; padding-bottom:0; }
+    .route li:before { counter-increment:route; content:counter(route); position:absolute; left:-13px; top:0; width:25px; height:25px; border-radius:50%; background:var(--mint); color:#0b1019; text-align:center; font-size:12px; font-weight:800; line-height:25px; }
+    .route strong { display:block; color:var(--ink); }
+    .plan-card p { color:var(--muted); font-size:14px; }
+    .decision { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin-top:18px; }
+    .decision div { background:var(--panel2); padding:15px; border-radius:12px; }
+    .decision b { color:var(--gold); font-size:12px; }
+    .decision p { margin:6px 0 0; font-size:12px; }
+    .extras { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+    .extra { border:1px solid var(--line); padding:23px; border-radius:16px; background:var(--panel); }
+    .extra h3 { font-size:21px; }
+    .extra p { color:var(--muted); font-size:14px; margin-bottom:0; }
+    .foot { border-top:1px solid var(--line); padding:27px 0 40px; margin-top:60px; color:var(--muted); font-size:12px; }
+    .foot p { max-width:970px; }
+    .foot-links { display:flex; gap:18px; flex-wrap:wrap; }
+    @media (max-width:850px) {
+
+
+
+
+
+      .research-grid,.plan-grid { grid-template-columns:1fr; }
+      .research { padding:23px; }
+      .cover { min-height:220px; padding:17px; }
+      .game-title h3 { font-size:25px; }
+    }
+    @media (max-width:560px) {
+      .wrap { padding:0 18px; }
+      nav { gap:4px 12px; font-size:11px; flex-wrap:wrap; }
+      .brand { font-size:10px; letter-spacing:1px; }
+      h1 { letter-spacing:-2px; }
+
+      .game-head { grid-template-columns:minmax(0,1fr); grid-template-areas:"copy"; position:relative; }
+      .game-head .cover { position:absolute; top:12px; right:12px; width:44px; height:54px; min-height:0; padding:0; border:0; background:none; }
+      .cover img { height:54px; }
+      .game-title { padding-right:52px; }
+      .game-head .cover:has(.image-failure) { display:none; }
+      .game-head:has(.cover .image-failure) .game-title { padding-right:0; }
+      .table-gallery { padding:10px; }
+      .game-title h3 { font-size:26px; }
+      .score b { font-size:24px; }
+      .section-title { display:block; }
+      .game .cover { padding:0; }
+      .extras,.decision { grid-template-columns:1fr; }
+      section { margin-top:42px; }
+
+
+
+      .flow { gap:5px; }
+    }
+    @media screen and (max-width:700px) {
+      .table-wrap table, .table-wrap tbody, .table-wrap caption { display:block; }
+      .table-wrap caption { padding:10px 12px; text-align:left; }
+      .table-wrap thead { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); }
+      .table-wrap tbody tr { display:grid; grid-template-columns:44px auto minmax(0,1fr); grid-template-areas:"art title title" "art rating time" "why why why"; gap:4px 10px; align-items:start; padding:12px; }
+      .table-wrap tbody tr + tr { border-top:1px solid var(--line); }
+      .table-wrap tbody td { border:0; line-height:1.45; }
+      /* The A–Z roster has inline desktop column widths and padding. */
+      .table-wrap tbody td:nth-child(n) { width:auto !important; padding:0 !important; }
+      .table-wrap td:nth-child(1) { grid-area:art; }
+      .table-wrap td:nth-child(2) { grid-area:title; }
+      .table-wrap td:nth-child(3) { grid-area:rating; }
+      .table-wrap td:nth-child(4) { grid-area:time; }
+      .table-wrap td:nth-child(5) { grid-area:why; }
+      .table-wrap td br { display:none; }
+      .table-wrap td small { margin-inline-start:.35em; }
+      .table-wrap td:nth-child(3)::before { content:"Rating "; color:var(--mint); }
+      #library td:nth-child(3)::before { content:"Players "; }
+      #library td img { width:42px; height:54px; }
+      #booths .table-wrap tbody tr { grid-template-columns:minmax(0,1fr) auto; grid-template-areas:"game location" "publisher location" "action action"; }
+      #booths .table-wrap td:nth-child(1) { grid-area:publisher; color:var(--muted); font-weight:normal; }
+      #booths .table-wrap td:nth-child(2) { grid-area:location; font-weight:700; color:var(--mint); }
+      #booths .table-wrap td:nth-child(2)::before { content:"Booth "; }
+      #booths .table-wrap td:nth-child(3) { grid-area:game; font-weight:700; }
+      #booths .table-wrap td:nth-child(3)::before { content:none; }
+      #booths .table-wrap td:nth-child(4) { grid-area:action; }
+    }
+    @media screen and (max-width:350px) {
+      #shortlist .table-wrap tbody tr, #library .table-wrap tbody tr { grid-template-columns:44px minmax(0,1fr) auto; grid-template-areas:"art title title" "rating rating time" "why why why"; }
+      .research-grid { grid-template-columns:minmax(0,1fr); }
+      .flow { grid-template-columns:1fr; }
+      .flow div { padding:8px; }
+    }
+    @media screen and (min-width:950px) {
+      .game:has(.table-photo:only-child) { display:grid; grid-template-columns:3fr 2fr; }
+      .game:has(.table-photo:only-child) .game-head { grid-template-columns:100px minmax(0,1fr); }
+      .game:has(.table-photo:only-child) .table-gallery { border-top:0; border-left:1px solid var(--line); }
+      .game:has(.table-photo:only-child) .table-photo { position:relative; min-height:180px; }
+      .game:has(.table-photo:only-child) .table-photo :is(a,button) { position:absolute; inset:0; }
+      .game:has(.table-photo:only-child) .table-photo img { height:100%; }
+      .game .dossier { grid-column:1 / -1; }
+    }
+    @media (prefers-reduced-motion:reduce) { html { scroll-behavior:auto; } }
+    @media print {
+      :root { color-scheme:light; --bg:white; --panel:white; --panel2:#eee; --ink:#111; --muted:#333; --line:#bbb; --mint:#12594f; --gold:#704600; }
+      body { background:white; font-size:11px; }
+      .topbar,.skip { display:none!important; }
+
+      h1 { font-size:42px; }
+      .game { break-inside:avoid; }
+      .cover { background:#eee; }
+      .visual { background:#0b1019; print-color-adjust:exact; }
+      .visual figcaption { color:#b0bfd3; }
+
+      section { margin-top:25px; }
+      a { color:#12594f; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#floor-map">Skip to the map</a>
+  <header class="topbar">
+    <div class="wrap">
+      <a class="brand" href="#top">PAX Unplugged 2026</a>
+      <nav aria-label="Page navigation"><a href="#floor-map">Map</a><a href="#shortlist">First Look</a><a href="#booths">Booths</a><a href="#library">Library</a></nav>
+    </div>
+  </header>
+  <main id="top" class="wrap">
+    <section id="floor-map" aria-labelledby="floor-map-title">
+      <div class="eyebrow">Philadelphia &middot; December 4&ndash;6</div><h1 id="floor-map-title">Map</h1>
+      <div class="map-layout"><div><h3>Convention center</h3>
+        <svg class="venue-plan" viewBox="0 0 340 330" aria-labelledby="venue-title venue-desc" xmlns="http://www.w3.org/2000/svg">
+          <title id="venue-title">Convention center by floor</title><desc id="venue-desc">Schematic, not a walking path. First Look is upstairs from North Broad Street. Level 2 runs from Hall E and the library through Halls D and C to the expo. Room 115 is downstairs.</desc>
+          <path d="M17 30V291" stroke="#718aa2" stroke-width="2"/><g fill="#81f0c5"><circle cx="17" cy="30" r="5"/><circle cx="17" cy="112" r="5"/><circle cx="17" cy="291" r="5"/></g>
+          <text x="32" y="34" class="floor-label">Level 4 · Terrace Ballroom</text><a href="#shortlist"><text x="32" y="57">First Look</text></a><text x="32" y="78">Escalators at North Broad Street</text>
+          <text x="32" y="117" class="floor-label">Level 2 · Gaming Hall to Expo Hall</text>
+          <path d="M44 145H307" stroke="#7899b7"/><g fill="#294461"><rect x="31" y="132" width="57" height="25" rx="4"/><rect x="105" y="132" width="57" height="25" rx="4"/><rect x="178" y="132" width="57" height="25" rx="4"/><rect x="251" y="132" width="70" height="25" rx="4"/></g>
+          <g text-anchor="middle"><text x="59" y="149">Hall E</text><text x="133" y="149">Hall D</text><text x="206" y="149">Hall C</text><text x="286" y="149">Expo</text><a href="#library"><text x="59" y="175">Library</text></a><text x="133" y="175">Trains</text><text x="206" y="175">Restoration</text><a href="#booths"><text x="286" y="175">Booths</text></a></g>
+          <text x="32" y="206">201A · Learn &amp; Play Lounge</text><a href="#book-a-table"><text x="32" y="227">203AB · CGE demos</text></a><a href="#return-of-the-king"><text x="32" y="248">204A · Return of the King (Fri 8 PM)</text></a>
+          <text x="32" y="295" class="floor-label">Level 1 · Room 115</text><a href="#book-a-table"><text x="32" y="315">Clank! event &amp; tabletop tournaments</text></a>
+        </svg>
+        <p class="small"><a href="https://unplugged.paxsite.com/content/dam/sitebuilder/rna/pax/unplugged/2026/docs/Stacked-Map_PAX-Unplugged-2026.pdf.coredownload.951710791.pdf">Official floor-by-floor map</a></p></div>
+        <div><h3>Gaming Hall · Level 2</h3>
+          <img class="gaming-plan" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjY4IDExOSA1MzcgNDI1IiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0idGl0bGUgZGVzYyI+DQogIDx0aXRsZSBpZD0idGl0bGUiPkdhbWluZyBIYWxsIMK3IExldmVsIDI8L3RpdGxlPg0KICA8ZGVzYyBpZD0iZGVzYyI+VGhlIEdhbWUgTGlicmFyeSBpcyBpbiBibG9jayAxNCBpbiBIYWxsIEUsIGJldHdlZW4gZnJlZXBsYXkgYmxvY2tzLiBUaGUgVHJhaW4gR2FtZXJzIEFzc29jaWF0aW9uIGlzIGVhc3Qgb2YgdGhlIGxpYnJhcnksIHRoZW4gdGhlIGRlbW8gdGFibGVzIGFuZCBSZXN0b3JhdGlvbiBHYW1lcywgd2l0aCBFeHBvIGltbWVkaWF0ZWx5IHRvIHRoZWlyIHJpZ2h0LjwvZGVzYz4NCiAgPG1ldGFkYXRhPlpvbmUgY29vcmRpbmF0ZXMgcm91bmRlZCBmcm9tIGh0dHBzOi8vdW5wbHVnZ2VkLnBheHNpdGUuY29tL2NvbnRlbnQvZGFtL3NpdGVidWlsZGVyL3JuYS9wYXgvdW5wbHVnZ2VkLzIwMjYvZG9jcy9HYW1pbmctSGFsbC1NYXBfUEFYLVVucGx1Z2dlZC0yMDI2LnBkZi5jb3JlZG93bmxvYWQuOTUxNzEwODExLnBkZjwvbWV0YWRhdGE+DQogIDxyZWN0IHg9IjY4IiB5PSIxMTkiIHdpZHRoPSI1MzciIGhlaWdodD0iNDI1IiBmaWxsPSIjMTAxYjJhIi8+DQogIDxnIGZpbGw9IiMzNDQ2NWEiPg0KICAgIDxwYXRoIGQ9Ik04MSAxNTFoNjR2NTRIODF6IE0xNTQgMTUxaDU5djU0aC01OXogTTgxIDIxMWg2NHY1NEg4MXogTTE1NCAyMTFoNTl2NTRoLTU5eiIvPg0KICAgIDxwYXRoIGQ9Ik04MSAyNzVoNjR2MjZIODF6IE0xNTQgMjc1aDQwdjI2aC00MHogTTIwMyAyNzVoNDh2MjZoLTQ4eiBNMjU5IDI3NWg1NXYyNmgtNTV6IE0zMjQgMjc1aDQ1djI2aC00NXogTTM3OCAyNzVoNDl2MjZoLTQ5eiBNNDM2IDI3NWg0OXYyNmgtNDl6IE00OTcgMjc1aDQ1djI2aC00NXogTTU1NyAyNzVoNDh2MjZoLTQ4eiIvPg0KICAgIDxwYXRoIGQ9Ik0xNTQgMzA2aDQwdjUzaC00MHogTTIwMyAzMDZoNDZ2MjZoLTQ2eiBNMjAzIDMzM2g0NnYyNmgtNDZ6IE0yNTkgMzA2aDU1djI2aC01NXogTTMyNCAzMDZoNDV2NTNoLTQ1eiBNMzc4IDMwNmg0OXY1M2gtNDl6IE00MzYgMzA2aDQ5djUzaC00OXogTTQ5NyAzMDZoNDV2NTNoLTQ1eiIvPg0KICAgIDxwYXRoIGQ9Ik04MSAzNzFoNjR2MzhIODF6IE0xNTQgMzcxaDQwdjM4aC00MHogTTIwMyAzNzFoNDh2MzhoLTQ4eiBNMjY4IDM3MWg0NnYzOGgtNDZ6IE0zMjQgMzcxaDQ1djM4aC00NXogTTM3OCAzNzFoNDl2MzhoLTQ5eiIvPg0KICAgIDxwYXRoIGQ9Ik04MSA0MTZoNjR2MzFIODF6IE0xNTQgNDE2aDQwdjMxaC00MHogTTIwMyA0MTZoNDh2MzFoLTQ4eiBNMjY4IDQxNmg0NnYzMWgtNDZ6IE0zMjQgNDE2aDQ1djMxaC00NXogTTM3OCA0MTZoNDl2MzFoLTQ5eiBNNDM2IDQxNmg0OXYzMWgtNDl6IE00OTcgNDE2aDQ1djMxaC00NXoiLz4NCiAgICA8cGF0aCBkPSJNODEgNDUzaDY0djMySDgxeiBNMTU0IDQ1M2g0MHYzMmgtNDB6IE0yMDMgNDUzaDQ4djMyaC00OHogTTI2NyA0NTNoNDd2MzJoLTQ3eiBNMzI0IDQ1M2g0NXYzMmgtNDV6IE0zNzggNDUzaDQ5djMyaC00OXogTTQzNiA0NTNoNDl2MzJoLTQ5eiBNNDk3IDQ1M2g0NXYyMmgtNDV6Ii8+DQogICAgPHBhdGggZD0iTTgxIDQ5Mmg2NHYzOEg4MXogTTE1NCA0OTJoNDB2MzhoLTQweiBNMjAyIDQ5Mmg0OXYzOGgtNDl6IE0yNjcgNDkyaDQ3djM4aC00N3ogTTMyNCA0OTJoNDV2MzhoLTQ1eiBNMzc4IDQ5Mmg0OXYzOGgtNDl6IE00MzYgNDkyaDQ5djM4aC00OXogTTQ5NyA0ODJoMTA4djQ4SDQ5N3oiLz4NCiAgPC9nPg0KICA8cGF0aCBmaWxsPSIjNDA3Mjc3IiBkPSJNODEgMzA2aDY0djU0SDgxeiBNMjU5IDMzMmg1NXYyN2gtNTV6IE00MzYgMzcxaDQ4djM4aC00OHogTTQ5NyAzNzFoMzR2MzhoLTM0eiBNNTMxIDM3MWgxMXYzOGgtMTF6Ii8+DQogIDxwYXRoIGZpbGw9IiMyNzNjNTMiIGQ9Ik01NTYgMzA2aDQ5djE3MGgtNDl6Ii8+DQogIDxnIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksc2Fucy1zZXJpZiIgZmlsbD0iI2UxZWRmNiIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9IjY1MCI+DQogICAgPGcgZmlsbD0iIzlkYjBjMyI+PHRleHQgeD0iODEiIHk9IjE0NCI+SGFsbCBFPC90ZXh0Pjx0ZXh0IHg9IjMzNiIgeT0iMjY3Ij5IYWxsIEQ8L3RleHQ+PHRleHQgeD0iNTI1IiB5PSIyNjciPkhhbGwgQzwvdGV4dD48L2c+DQogICAgPHRleHQgeD0iMTQ4IiB5PSIxODciIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBwYWludC1vcmRlcj0ic3Ryb2tlIj5GcmVlcGxheTwvdGV4dD4NCiAgICA8ZyBzdHJva2U9IiMxMDFiMmEiIHN0cm9rZS13aWR0aD0iNCIgcGFpbnQtb3JkZXI9InN0cm9rZSIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+DQogICAgICA8dGV4dCB4PSI4OCIgeT0iMzI5Ij5HYW1lIExpYnJhcnk8L3RleHQ+PHRleHQgeD0iODgiIHk9IjM1MCI+MTQ8L3RleHQ+DQogICAgICA8dGV4dCB4PSIyNjgiIHk9IjM1MSI+VHJhaW4gR2FtZXJzPC90ZXh0Pg0KICAgICAgPHRleHQgeD0iNDM1IiB5PSIzOTMiPkRlbW9zPC90ZXh0Pg0KICAgICAgPHRleHQgeD0iNTgyIiB5PSIzNzciIHRleHQtYW5jaG9yPSJtaWRkbGUiPkV4cG88L3RleHQ+PHRleHQgeD0iNTgyIiB5PSIzOTciIHRleHQtYW5jaG9yPSJtaWRkbGUiPuKGkjwvdGV4dD4NCiAgICAgIDx0ZXh0IHg9IjQ5MyIgeT0iNTE0Ij5FeHBvIHF1ZXVlPC90ZXh0Pg0KICAgIDwvZz4NCiAgICA8cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNkM2RlZTYiIHN0cm9rZS13aWR0aD0iMS41IiBkPSJNNTM3IDM4OXYyMGwtMjMgMjMiLz4NCiAgICA8Y2lyY2xlIGN4PSI1MzciIGN5PSIzODkiIHI9IjMiIGZpbGw9IiNlMWVkZjYiLz48dGV4dCB4PSI1MTEiIHk9IjQ0NSIgdGV4dC1hbmNob3I9ImVuZCIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjQiIHBhaW50LW9yZGVyPSJzdHJva2UiPlJlc3RvcmF0aW9uIEdhbWVzPC90ZXh0Pg0KICA8L2c+DQo8L3N2Zz4NCg==" width="537" height="425" alt="Block 14, the Game Library, is among the freeplay tables in Hall E. East of it are the Train Gamers in Hall D and Restoration Games beside the demo tables in Hall C. Expo is on the right.">
+          <p class="small"><a href="https://unplugged.paxsite.com/content/dam/sitebuilder/rna/pax/unplugged/2026/docs/Gaming-Hall-Map_PAX-Unplugged-2026.pdf.coredownload.951710811.pdf">Official Gaming Hall plan</a></p></div>
+        <div><h3>Expo Hall · Level 2</h3>
+          <div class="map-scroll" tabindex="0" role="region" aria-label="Expo booth pins; scroll horizontally when needed"><img id="expo-map-image" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjY1IDE4IDY5MCA0MDIiIHJvbGU9ImltZyIgYXJpYS1sYWJlbGxlZGJ5PSJ0aXRsZSBkZXNjIj48dGl0bGUgaWQ9InRpdGxlIj5FeHBvIEhhbGwgwrcgTGV2ZWwgMjwvdGl0bGU+PGRlc2MgaWQ9ImRlc2MiPkxlZGVyIDI2MTEgYW5kIEJpdGV3aW5nIDMxMDIgYXJlIHRoZSBwcmlvcml0eSBzdG9wcy4gTG93ZXIgYm9vdGggbnVtYmVycyBhcmUgb24gdGhlIGxlZnQsIG5lYXJlc3QgdGhlIEdhbWluZyBIYWxsLjwvZGVzYz48cmVjdCB3aWR0aD0iODIwIiBoZWlnaHQ9IjQ0MCIgZmlsbD0iIzEwMWIyYSIvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAgLTk4KSI+DQo8cGF0aCBmaWxsPSIjMzQ0NjVhIiBzdHJva2U9IiMxNzI2MzgiIHN0cm9rZS13aWR0aD0iMC43IiBkPSJNODIuNyAxNzIuNEgxMDAuMVYxODQuOEg4Mi43WiBNODIuNyAxODQuNkgxMDAuMVYxOTYuOUg4Mi43WiBNODIuOCAzNzMuN0gxMDMuN1YzOTcuMkg4Mi44WiBNODMuMiAyMDYuMEg5OS41VjIzMC40SDgzLjJaIE04My4yIDIzOS41SDk5LjVWMjc2LjhIODMuMlogTTgzLjQgMjkzLjlIMTE3LjJWMzMxLjFIODMuNFogTTgzLjQgMzQwLjFIMTE3LjJWMzY0LjdIODMuNFogTTEwMC41IDIwNi4wSDExNi44VjIzMC40SDEwMC41WiBNMTAwLjggMTcyLjVIMTE2LjlWMTk2LjlIMTAwLjhaIE0xMjYuNSAzNDAuMUgxNjguOFYzNjQuN0gxMjYuNVogTTEyNi41IDM3My43SDE2OC44VjQxMS4xSDEyNi41WiBNMTI2LjYgMjkzLjlIMTUyLjJWMzMxLjFIMTI2LjZaIE0xMjYuNyAxNzIuNUgxNDIuN1YxOTYuOUgxMjYuN1ogTTEyNi44IDIwNi4wSDE0My4xVjIzMC40SDEyNi44WiBNMTI2LjggMjM5LjVIMTQzLjFWMjc2LjhIMTI2LjhaIE0xMzUuMiAxNDAuNEgxNjkuMFYxNjMuNEgxMzUuMlogTTE1MS43IDIwMy44SDE2OS4xVjIyMS4ySDE1MS43WiBNMTUxLjcgMjIxLjJIMTY5LjFWMjMwLjRIMTUxLjdaIE0xNTIuMSAyOTMuOUgxNjkuMVYzMzEuMUgxNTIuMVogTTE1Mi4xIDQyOC4ySDIwMy44VjUwOC41SDE1Mi4xWiBNMTUyLjYgMjM5LjVIMTY5LjFWMjc2LjhIMTUyLjZaIE0xNTMuMCAxNzIuNUgxNjkuMFYxOTYuOUgxNTMuMFogTTE3OC41IDM0MC4xSDIwMC4xVjM2NC43SDE3OC41WiBNMTc4LjUgMzczLjdIMjAzLjRWNDExLjFIMTc4LjVaIE0xNzguNyAxNDAuNEgxOTUuNFYxNjMuNEgxNzguN1ogTTE3OC43IDE3Mi41SDE5NC42VjE5Ni45SDE3OC43WiBNMTc4LjcgMjA2LjBIMTk2LjBWMjMwLjRIMTc4LjdaIE0xNzguNyAyMzkuNUgyMTIuM1YyNzYuOEgxNzguN1ogTTE3OC43IDI5My45SDIwMy43VjMzMS4xSDE3OC43WiBNMTk0LjUgMTcyLjRIMjEyLjNWMTg0LjdIMTk0LjVaIE0xOTQuNSAxODQuN0gyMTIuM1YxOTYuOUgxOTQuNVogTTE5NC45IDIwNi4wSDIxMi4zVjIxOC4ySDE5NC45WiBNMTk0LjkgMjE4LjJIMjEyLjRWMjMwLjRIMTk0LjlaIE0xOTUuNiAxNDAuNEgyMTIuM1YxNjMuNEgxOTUuNlogTTIxMy4xIDI5My45SDIyMS40VjMzMS4xSDIxMy4xWiBNMjEzLjEgMzk3LjVIMjI5LjdWNDExLjFIMjEzLjFaIE0yMTMuMSA0NjYuNEgyMjEuNlY0NzYuNUgyMTMuMVogTTIxMy4xIDQ3Ni41SDIyMS42VjUwOC45SDIxMy4xWiBNMjEzLjQgMzQwLjFIMjI5LjdWMzY0LjdIMjEzLjRaIE0yMTMuNSA0MjguMkgyMjkuN1Y0NTUuNUgyMTMuNVogTTIyMS4zIDQ4Ny42SDIyOS45VjUwOC45SDIyMS4zWiBNMjIxLjQgMjkzLjlIMjI5LjdWMzMxLjFIMjIxLjRaIE0yMjEuNiA0NjYuNEgyMjkuOVY0ODcuNkgyMjEuNlogTTIyMi4wIDEyOS4wSDM0Mi4zVjE2My40SDIyMi4wWiBNMjIyLjAgMTcyLjVIMjU1LjRWMTk2LjlIMjIyLjBaIE0yMjIuMCAyMDYuMEgyMzkuNFYyMzAuNEgyMjIuMFogTTIzMC43IDIzOS41SDI1NS40VjI3Ni44SDIzMC43WiBNMjM4LjkgNDY2LjVIMjQ3LjVWNDg3LjZIMjM4LjlaIE0yMzguOSA0ODcuN0gyNDcuNVY1MDguOUgyMzguOVogTTIzOS4zIDI5My45SDMyMC4wVjQxMS4xSDIzOS4zWiBNMjM5LjQgNDI4LjJIMjU1LjZWNDU1LjVIMjM5LjRaIE0yMzkuNiAyMDYuMEgyNTUuN1YyMzAuNEgyMzkuNlogTTI0Ny40IDQ2Ni40SDI1NS42VjQ3Ny4wSDI0Ny40WiBNMjQ3LjQgNDc3LjBIMjU1LjZWNDg3LjdIMjQ3LjRaIE0yNDcuNCA0ODcuN0gyNTUuNlY1MDguOUgyNDcuNFogTTI2NS4zIDIwNi4wSDI4MS40VjIzMC40SDI2NS4zWiBNMjY1LjMgMjM5LjVIMjgxLjVWMjc2LjhIMjY1LjNaIE0yNjUuMyA0MjguMkgzMDcuN1Y0NTUuNUgyNjUuM1ogTTI2NS4zIDQ2Ni40SDI4MS4yVjQ4Ny40SDI2NS4zWiBNMjY1LjMgNDg3LjVIMjczLjJWNTA4LjlIMjY1LjNaIE0yNjUuNCAxNzIuNUgyNzMuMlYxOTYuOUgyNjUuNFogTTI3My4yIDE3Mi41SDI4MS40VjE5Ni45SDI3My4yWiBNMjczLjIgNDg3LjVIMjgxLjVWNDk4LjJIMjczLjJaIE0yNzMuMiA0OTguMkgyODEuNVY1MDguOUgyNzMuMlogTTI5MS4yIDIwNi4wSDMwNi45VjIxOC4ySDI5MS4yWiBNMjkxLjIgMjE4LjJIMzA2LjhWMjMwLjRIMjkxLjJaIE0yOTEuMyA0NjYuNEgzMDcuN1Y1MDguNUgyOTEuM1ogTTI5MS40IDE3Mi41SDMwNi44VjE5Ni44SDI5MS40WiBNMjkxLjUgMjM5LjVIMzE2LjJWMjUyLjZIMjkxLjVaIE0yOTEuNSAyNTIuNUgzMTYuMlYyNzYuOEgyOTEuNVogTTMwNi43IDIxOC4ySDMyMi44VjIzMC40SDMwNi43WiBNMzA2LjkgMjA2LjBIMzIyLjlWMjE4LjJIMzA2LjlaIE0zMDcuMiAxNzIuNUgzMjIuOVYxOTYuOEgzMDcuMlogTTMxNy4zIDQ2Ni40SDMzMy42VjQ4Ny4xSDMxNy4zWiBNMzE3LjMgNDg3LjFIMzI1LjRWNTA4LjlIMzE3LjNaIE0zMTcuNCA0MjguMkgzNzIuNlY0NTUuNUgzMTcuNFogTTMyNS41IDQ4Ny4xSDMzMy42VjUwOC45SDMyNS41WiBNMzMyLjUgMTcyLjVIMzUyLjNWMTk2LjhIMzMyLjVaIE0zMzIuNSAyMDYuMEgzNzIuNlYyMzAuNEgzMzIuNVogTTMzMi41IDIzOS41SDM3Mi42VjI3Ni43SDMzMi41WiBNMzMyLjUgMjkzLjlIMzcyLjZWMzMxLjFIMzMyLjVaIE0zMzIuNSAzNDAuMUgzNzIuNlY0MTEuMUgzMzIuNVogTTM0My4xIDQ2Ni40SDM1My4wVjQ4Ni44SDM0My4xWiBNMzQzLjEgNDg3LjBIMzUzLjBWNTA4LjVIMzQzLjFaIE0zNTEuNyAxNDAuM0gzNzIuNlYxNjMuNEgzNTEuN1ogTTM1Mi41IDE3Mi41SDM3Mi42VjE5Ni44SDM1Mi41WiBNMzUzLjAgNDY2LjRIMzcyLjZWNDk3LjdIMzUzLjBaIE0zNTMuMCA0OTcuN0gzNzIuNlY1MDguNUgzNTMuMFogTTM5MC43IDE3Mi41SDQwNy41VjE5Ni44SDM5MC43WiBNMzkwLjcgMjM5LjVINDE1LjdWMjUxLjlIMzkwLjdaIE0zOTAuNyAyNTEuOEg0MTUuN1YyNzYuOEgzOTAuN1ogTTM5MC43IDI5My45SDQwOS42VjMzMS4xSDM5MC43WiBNMzkwLjcgMzQwLjFINDA5LjZWMzY0LjdIMzkwLjdaIE0zOTAuNyAzNzMuN0g0MjAuMlYzODYuMkgzOTAuN1ogTTM5MC43IDM4Ni4wSDQyMC4yVjQxMS4xSDM5MC43WiBNMzkwLjcgNDI4LjJINDI4LjhWNTA4LjlIMzkwLjdaIE0zOTAuOSAxNTEuNkg0MDkuOFYxNjMuNEgzOTAuOVogTTM5MC45IDIwNi4wSDQyOC45VjIzMC40SDM5MC45WiBNNDA3LjcgMTg0LjZINDI0LjRWMTk2LjlINDA3LjdaIE00MDcuOCAxNzIuNUg0MjQuNVYxODQuN0g0MDcuOFogTTQwOS45IDE1MS42SDQyOC45VjE2My40SDQwOS45WiBNNDE5LjEgMjkzLjlINDM3LjVWMzMxLjFINDE5LjFaIE00MTkuMSAzNDAuMUg0MzcuNlYzNjQuN0g0MTkuMVogTTQzOC40IDQyOC4ySDQ2My42VjQ2NS40SDQzOC40WiBNNDM4LjUgMTUxLjZINDU0LjBWMTYzLjRINDM4LjVaIE00MzguNSAxNzIuNEg0NTUuM1YxODQuN0g0MzguNVogTTQzOC41IDE4NC43SDQ1NS4yVjE5Ni45SDQzOC41WiBNNDM4LjUgMjA2LjBINDU1LjRWMjE4LjJINDM4LjVaIE00MzguNSAyMTguMkg0NTUuM1YyMzAuNEg0MzguNVogTTQzOC41IDIzOS41SDQ1NS4yVjI1MS45SDQzOC41WiBNNDM4LjUgMjUxLjhINDU1LjJWMjc2LjhINDM4LjVaIE00MzguNSAzNzMuN0g0NjMuNlY0MTEuMUg0MzguNVogTTQzOC41IDQ3NC40SDQ0OS45VjUwOC43SDQzOC41WiBNNDQ3LjAgMjkzLjlINDYzLjdWMzE4LjlINDQ3LjBaIE00NDcuMCAzNDAuMUg0NjMuNlYzNjQuN0g0NDcuMFogTTQ0Ny4yIDMxOC45SDQ2My42VjMzMS4xSDQ0Ny4yWiBNNDQ5LjkgNDc0LjRINDYzLjZWNDg2LjhINDQ5LjlaIE00NDkuOSA0ODUuOUg0NjMuNlY1MDguN0g0NDkuOVogTTQ1NC4wIDE1MS42SDQ2My42VjE2My40SDQ1NC4wWiBNNDU1LjQgMTcyLjVINDYzLjZWMTk2LjlINDU1LjRaIE00NTUuNCAyMzkuNUg0NjMuNlYyNzYuN0g0NTUuNFogTTQ1NS41IDIwNi4wSDQ2My43VjIzMC40SDQ1NS41WiBNNDczLjEgMTUxLjZINDg5LjVWMTYzLjRINDczLjFaIE00NzMuMSAxNzIuNUg0ODEuMlYxODQuN0g0NzMuMVogTTQ3My4xIDE4NC42SDQ4MS4yVjE5Ni44SDQ3My4xWiBNNDczLjIgMjA2LjBINDgxLjRWMjE4LjJINDczLjJaIE00NzMuMiAyMTguMkg0ODEuNFYyMzAuNEg0NzMuMlogTTQ3My4yIDIzOS41SDQ4MS4zVjI3Ni44SDQ3My4yWiBNNDczLjIgMjkzLjlINDg5LjZWMzMxLjFINDczLjJaIE00NzMuMiAzNDAuMUg0ODkuMVYzNjQuN0g0NzMuMlogTTQ3My4yIDM3My43SDQ4OS42VjQxMS4xSDQ3My4yWiBNNDczLjIgNDI4LjJINDgxLjZWNDUzLjBINDczLjJaIE00NzMuMiA0NTIuOUg0ODEuNlY0NjUuNEg0NzMuMlogTTQ3My4yIDQ2OS45SDQ4OS42VjQ4NS44SDQ3My4yWiBNNDczLjIgNDg1LjlINDg5LjZWNTA4LjdINDczLjJaIE00ODEuMiAyMDYuMEg0ODkuNlYyMzAuNEg0ODEuMlogTTQ4MS4yIDQyOC4ySDQ4OS42VjQ1My4wSDQ4MS4yWiBNNDgxLjIgNDUyLjlINDg5LjZWNDY1LjRINDgxLjJaIE00ODEuNSAxNzIuNEg0ODkuNVYxOTYuN0g0ODEuNVogTTQ4MS41IDIzOS41SDQ4OS42VjI3Ni44SDQ4MS41WiBNNDk4LjkgNDc0LjRINTA3LjNWNTA4LjdINDk4LjlaIE00OTkuMSAxNTEuNkg1MTUuNVYxNjMuNEg0OTkuMVogTTQ5OS4xIDE3Mi40SDUwNy4yVjE4NC43SDQ5OS4xWiBNNDk5LjEgMTg0LjZINTA3LjJWMTk2LjlINDk5LjFaIE00OTkuMSAyMDYuMEg1MDcuNFYyMTguMkg0OTkuMVogTTQ5OS4xIDIxOC4ySDUwNy40VjIzMC40SDQ5OS4xWiBNNDk5LjEgMjM5LjVINTE1LjVWMjUyLjBINDk5LjFaIE00OTkuMSAyNTEuOEg1MTUuNVYyNzYuOEg0OTkuMVogTTQ5OS4xIDI5My45SDUxNS43VjMxOC45SDQ5OS4xWiBNNDk5LjEgMzE4LjlINTE1LjdWMzMxLjFINDk5LjFaIE00OTkuMSAzNDAuMUg1MTUuNFYzNjQuN0g0OTkuMVogTTQ5OS4yIDM3My43SDUxNS40VjQxMS4xSDQ5OS4yWiBNNDk5LjIgNDI4LjJINTE1LjVWNDY1LjRINDk5LjJaIE01MDcuMSAyMDYuMEg1MTUuNVYyMzAuNEg1MDcuMVogTTUwNy4yIDQ3NC40SDUxNS41VjQ4NS44SDUwNy4yWiBNNTA3LjIgNDg1LjlINTE1LjVWNTA4LjdINTA3LjJaIE01MDcuNSAxNzIuNUg1MTUuNVYxOTYuOEg1MDcuNVogTTUyNS4wIDM5Ny45SDU0MS42VjQxMS4xSDUyNS4wWiBNNTI1LjEgMTUxLjZINTQxLjVWMTYzLjRINTI1LjFaIE01MjUuMSAxNzIuNUg1MzMuMlYxOTYuOUg1MjUuMVogTTUyNS4xIDM0MC4xSDU0MS42VjM2NC43SDUyNS4xWiBNNTI1LjIgMjA2LjBINTMzLjZWMjMwLjRINTI1LjJaIE01MjUuMiAyNjMuNkg1NDEuN1YyNzYuOEg1MjUuMlogTTUyNS4yIDI5My45SDUzMy40VjMxOS4wSDUyNS4yWiBNNTI1LjIgMzE5LjBINTQxLjVWMzMxLjFINTI1LjJaIE01MjUuMiA0MjguMkg1MzMuNVY0NjUuNEg1MjUuMlogTTUyNS4yIDQ3NC40SDUzMy4zVjQ4NS44SDUyNS4yWiBNNTI1LjIgNDg1LjhINTMzLjNWNTA4LjdINTI1LjJaIE01MzMuMSA0MjguMkg1NDEuNVY0NjUuNEg1MzMuMVogTTUzMy4zIDIwNi4wSDU0MS41VjIxOC4ySDUzMy4zWiBNNTMzLjMgMjE4LjJINTQxLjVWMjMwLjRINTMzLjNaIE01MzMuMyAyOTMuOUg1NDEuNVYzMTkuMEg1MzMuM1ogTTUzMy4zIDQ3NC40SDU0MS41VjQ4NS44SDUzMy4zWiBNNTMzLjMgNDg1LjdINTQxLjVWNTA4LjdINTMzLjNaIE01MzMuNSAxNzIuNEg1NDEuNlYxODQuOEg1MzMuNVogTTUzMy41IDE4NC42SDU0MS42VjE5Ni45SDUzMy41WiBNNTUxLjIgMTUxLjZINTU5LjJWMTYzLjRINTUxLjJaIE01NTEuMiAxNzIuNEg1NTkuMlYxODQuN0g1NTEuMlogTTU1MS4yIDE4NC43SDU1OS4yVjE5Ni45SDU1MS4yWiBNNTUxLjIgMjA2LjBINTU5LjFWMjE4LjJINTUxLjJaIE01NTEuMiAyMTguMkg1NTkuMVYyMzAuNEg1NTEuMlogTTU1MS4yIDIzOS41SDU2Ny41VjI1Mi4wSDU1MS4yWiBNNTUxLjIgMjUxLjhINTY3LjVWMjc2LjhINTUxLjJaIE01NTEuMiAyOTMuOUg1NjcuNlYzMTguOUg1NTEuMlogTTU1MS4yIDMxOC45SDU2Ny42VjMzMS4xSDU1MS4yWiBNNTUxLjIgMzczLjdINTY3LjVWNDExLjFINTUxLjJaIE01NTEuMiA0MjguMkg1NjcuNVY0NTMuMUg1NTEuMlogTTU1MS4yIDQ1My4xSDU2Ny41VjQ2NS40SDU1MS4yWiBNNTUxLjIgNDc0LjVINTU5LjJWNTA4LjdINTUxLjJaIE01NTEuMyAzNDAuMUg1NjcuNlYzNjQuN0g1NTEuM1ogTTU1OS4zIDIwNi4wSDU2Ny41VjIzMC40SDU1OS4zWiBNNTU5LjQgNDc0LjVINTY3LjVWNTA4LjdINTU5LjRaIE01NTkuNSAxNTEuNkg1NjcuNVYxNjMuNEg1NTkuNVogTTU1OS41IDE3Mi40SDU2Ny41VjE4NC43SDU1OS41WiBNNTU5LjUgMTg0LjdINTY3LjVWMTk2LjlINTU5LjVaIE01NzYuOSA0NzQuNUg1ODUuOVY0ODUuOUg1NzYuOVogTTU3Ni45IDQ4NS45SDU4Ni4yVjUwOC43SDU3Ni45WiBNNTc3LjAgMzQwLjFINTg2LjBWMzY0LjdINTc3LjBaIE01NzcuMCAzNzMuN0g2MDQuM1YzODUuOEg1NzcuMFogTTU3Ny4wIDM4NS42SDYwNC4zVjQxMS4xSDU3Ny4wWiBNNTc3LjAgNDI4LjJINTg2LjBWNDY1LjRINTc3LjBaIE01NzcuMSAxNTEuNkg1ODYuNFYxNjMuNEg1NzcuMVogTTU3Ny4xIDE3Mi40SDU4NS45VjE4NC43SDU3Ny4xWiBNNTc3LjEgMTg0LjdINTg1LjlWMTk2LjlINTc3LjFaIE01NzcuMSAyMDYuMEg1ODYuMVYyMzAuNEg1NzcuMVogTTU3Ny4xIDIzOS41SDU4Ni4xVjI1Mi41SDU3Ny4xWiBNNTc3LjEgMjUyLjRINTg2LjFWMjc2LjhINTc3LjFaIE01NzcuMiAyOTMuOUg2MDQuM1YzMTguOUg1NzcuMlogTTU3Ny4yIDMxOC44SDU4Ni4wVjMzMS4xSDU3Ny4yWiBNNTg2LjAgNDI4LjJINjA0LjNWNDQwLjFINTg2LjBaIE01ODYuMCA0NTQuMEg1OTQuN1Y0NjUuNEg1ODYuMFogTTU4Ni4wIDQ3NC41SDYwNC4zVjUwOC43SDU4Ni4wWiBNNTg2LjEgMTcyLjRINjA0LjNWMTg0LjdINTg2LjFaIE01ODYuMSAxODQuN0g2MDQuM1YxOTYuOUg1ODYuMVogTTU4Ni4xIDIzOS41SDYwNC4zVjI1Mi43SDU4Ni4xWiBNNTg2LjEgMzE4LjlINjA0LjNWMzMxLjFINTg2LjFaIE01ODYuMSAzNDAuMUg2MDQuM1YzNjQuN0g1ODYuMVogTTU4Ni4yIDIwNi4wSDYwNC4zVjIxOC4ySDU4Ni4yWiBNNTg2LjIgMjE4LjJINjA0LjNWMjMwLjRINTg2LjJaIE01ODYuMiAyNTIuNUg2MDQuM1YyNzYuOEg1ODYuMlogTTU4Ni40IDE1MS42SDYwNC4zVjE2My40SDU4Ni40WiBNNTk0LjcgNDQwLjJINjA0LjNWNDY1LjRINTk0LjdaIE02MjIuNCAxNTEuNkg2NDEuMlYxNjMuNEg2MjIuNFogTTYyMi40IDE3Mi40SDYzMS43VjE4NC43SDYyMi40WiBNNjIyLjQgMTg0LjdINjMxLjdWMTk2LjlINjIyLjRaIE02MjIuNCAyMTguMkg2MzEuN1YyMzAuNEg2MjIuNFogTTYyMi40IDIzOS41SDYzMS43VjI2My41SDYyMi40WiBNNjIyLjQgMjYzLjRINjQxLjJWMjc2LjhINjIyLjRaIE02MjIuNCAyOTMuOUg2MzEuN1YzMzEuMUg2MjIuNFogTTYyMi40IDM0MC4xSDY0MS4yVjM1Mi40SDYyMi40WiBNNjIyLjQgMzUyLjRINjQxLjJWMzY0LjdINjIyLjRaIE02MjIuNCAzNzMuN0g2MzEuN1Y0MTEuMUg2MjIuNFogTTYyMi40IDQyOC4ySDY0MS4xVjQ1My4wSDYyMi40WiBNNjIyLjQgNDc0LjRINjQxLjFWNDg2LjJINjIyLjRaIE02MjIuNSA0NTMuMEg2NDEuMVY0NjUuNEg2MjIuNVogTTYyMi41IDQ4NS40SDYzMS43VjUwOC43SDYyMi41WiBNNjIyLjYgMjA2LjBINjMxLjhWMjE4LjJINjIyLjZaIE02MzEuNiAzOTMuMkg2NDEuMlY0MTEuMUg2MzEuNlogTTYzMS45IDE3Mi40SDY0MS4yVjE4NC43SDYzMS45WiBNNjMxLjkgMTg0LjdINjQxLjJWMTk2LjlINjMxLjlaIE02MzEuOSAyMDYuMEg2NDEuMlYyMTguMkg2MzEuOVogTTYzMS45IDIxOC4ySDY0MS4yVjIzMC40SDYzMS45WiBNNjMxLjkgMjkzLjlINjQxLjFWMzE4LjlINjMxLjlaIE02MzEuOSAzMTguOUg2NDEuMVYzMzEuMUg2MzEuOVogTTYzMS45IDQ4NS40SDY0MS4xVjUwOC43SDYzMS45WiBNNjUwLjMgMzczLjdINjU4LjhWMzk4LjRINjUwLjNaIE02NTAuMyAzOTguNUg2NTguOFY0MTEuMUg2NTAuM1ogTTY1MC41IDE1MS42SDY2Ni45VjE2My40SDY1MC41WiBNNjUwLjYgMzQwLjJINjY3LjFWMzUyLjVINjUwLjZaIE02NTAuNiAzNTIuNEg2NjcuMVYzNjQuN0g2NTAuNlogTTY1MC43IDIxOC4ySDY1OC44VjIzMC40SDY1MC43WiBNNjUwLjcgMjM5LjVINjU4LjhWMjUyLjBINjUwLjdaIE02NTAuNyAyNTEuOEg2NTguOFYyNzYuOEg2NTAuN1ogTTY1MC43IDQyOC4ySDY1OC44VjQ1My4wSDY1MC43WiBNNjUwLjcgNDUyLjhINjY3LjFWNDY1LjRINjUwLjdaIE02NTAuOCAxNzIuNUg2NTguOVYxODQuNkg2NTAuOFogTTY1MC44IDE4NC42SDY1OC45VjE5Ni44SDY1MC44WiBNNjUwLjggMjA2LjBINjU4LjlWMjE4LjJINjUwLjhaIE02NTAuOCAyOTMuOUg2NTguOFYzMTguOUg2NTAuOFogTTY1MC44IDMxOC44SDY2Ny4xVjMzMS4xSDY1MC44WiBNNjUwLjggNDc0LjRINjU4LjlWNDg2LjJINjUwLjhaIE02NTAuOCA0ODYuMkg2NTguOVY1MDguNkg2NTAuOFogTTY1OC45IDM3My43SDY2Ny4xVjM4NS44SDY1OC45WiBNNjU4LjkgMzg2LjVINjY3LjFWNDExLjFINjU4LjlaIE02NTkuMCAyMzkuNUg2NjcuMlYyNTIuMEg2NTkuMFogTTY1OS4wIDI1MS44SDY2Ny4yVjI3Ni44SDY1OS4wWiBNNjU5LjAgNDI4LjJINjY3LjFWNDUyLjlINjU5LjBaIE02NTkuMSAyMDYuMEg2NjcuMlYyMTguMkg2NTkuMVogTTY1OS4xIDIxOC4ySDY2Ny4yVjIzMC40SDY1OS4xWiBNNjU5LjEgMjkzLjlINjY3LjFWMzE4LjlINjU5LjFaIE02NTkuMSA0ODYuMkg2NjcuMlY1MDguNkg2NTkuMVogTTY1OS4yIDE3Mi41SDY2Ny4yVjE4NC42SDY1OS4yWiBNNjU5LjIgMTg0LjZINjY3LjJWMTk2LjhINjU5LjJaIE02NTkuMiA0NzQuNEg2NjcuMlY0ODYuMkg2NTkuMlogTTY3Ni43IDE1MS42SDY4NC43VjE2My40SDY3Ni43WiBNNjc2LjcgMjE4LjJINjg0LjhWMjMwLjRINjc2LjdaIE02NzYuNyAyNTEuOEg2OTMuMlYyNzYuOEg2NzYuN1ogTTY3Ni43IDI5My45SDY4NC44VjMxOC43SDY3Ni43WiBNNjc2LjcgMzE4LjZINjg0LjdWMzMxLjFINjc2LjdaIE02NzYuNyAzNDAuMUg2ODQuOFYzNTIuNEg2NzYuN1ogTTY3Ni43IDM1Mi40SDY4NC44VjM2NC43SDY3Ni43WiBNNjc2LjcgMzczLjdINjg1LjFWMzg2LjBINjc2LjdaIE02NzYuNyAzODUuOEg2ODUuMVY0MTEuMEg2NzYuN1ogTTY3Ni43IDQyOC4ySDY4NC43VjQ1My4wSDY3Ni43WiBNNjc2LjcgNDUzLjBINjg0LjdWNDY1LjRINjc2LjdaIE02NzYuNyA0NzQuNEg2ODQuOFY0ODYuMkg2NzYuN1ogTTY3Ni43IDQ4Ni4xSDY4NC44VjUwOC41SDY3Ni43WiBNNjc2LjggMTcyLjdINjg0LjlWMTg0LjhINjc2LjhaIE02NzYuOCAxODQuN0g2ODQuOVYxOTYuOEg2NzYuOFogTTY3Ni44IDIwNi4wSDY4NC45VjIxOC4ySDY3Ni44WiBNNjc2LjggMjM5LjVINjkzLjJWMjUyLjBINjc2LjhaIE02ODQuNyAxNTEuNkg2OTMuMlYxNjMuNEg2ODQuN1ogTTY4NC43IDM0MC4ySDY5My4xVjM1Mi40SDY4NC43WiBNNjg0LjcgMzUyLjVINjkzLjFWMzY0LjdINjg0LjdaIE02ODUuMCAzMTguNkg2OTMuMVYzMzEuMUg2ODUuMFogTTY4NS4wIDM3My44SDY5My4xVjM4Ni4wSDY4NS4wWiBNNjg1LjAgMzg1LjlINjkzLjFWNDExLjFINjg1LjBaIE02ODUuMCA0MjguMkg2OTMuMFY0NTMuMEg2ODUuMFogTTY4NS4wIDQ1My4wSDY5My4wVjQ2NS40SDY4NS4wWiBNNjg1LjEgMjA2LjBINjkzLjJWMjE4LjJINjg1LjFaIE02ODUuMSAyMTguMkg2OTMuMlYyMzAuNEg2ODUuMVogTTY4NS4xIDI5My45SDY5My4xVjMxOC43SDY4NS4xWiBNNjg1LjEgNDc0LjRINjkzLjJWNDg2LjJINjg1LjFaIE02ODUuMSA0ODYuMUg2OTMuMlY1MDguNUg2ODUuMVogTTY4NS4yIDE3Mi43SDY5My4yVjE4NC44SDY4NS4yWiBNNjg1LjIgMTg0LjdINjkzLjJWMTk2LjhINjg1LjJaIE03MDIuNyAxNTEuNUg3MTEuNVYxNjMuNEg3MDIuN1ogTTcwMi43IDE3Mi43SDcxMS40VjE4NC44SDcwMi43WiBNNzAyLjcgMTg0LjdINzExLjRWMTk2LjhINzAyLjdaIE03MDIuNyAyMDYuMEg3MTEuNFYyMTguMkg3MDIuN1ogTTcwMi43IDIxOC4ySDcxMS40VjIzMC40SDcwMi43WiBNNzAyLjcgMjM5LjVINzExLjRWMjUyLjBINzAyLjdaIE03MDIuNyAyNTEuOUg3MTEuNFYyNzYuOEg3MDIuN1ogTTcwMi43IDM0MC4xSDcxMS40VjM1Mi41SDcwMi43WiBNNzAyLjcgMzUyLjRINzExLjRWMzY0LjdINzAyLjdaIE03MDIuNyAzNzMuN0g3MTEuNVYzODYuMEg3MDIuN1ogTTcwMi43IDM4NS44SDcxMS41VjQxMS4wSDcwMi43WiBNNzAyLjcgNDI4LjJINzExLjRWNDUzLjBINzAyLjdaIE03MDIuNyA0NTMuMEg3MTEuNFY0NjUuNEg3MDIuN1ogTTcwMi45IDI5My45SDcxMS41VjMxOC45SDcwMi45WiBNNzAyLjkgMzE4LjhINzExLjVWMzMxLjFINzAyLjlaIE03MDIuOSA0NzQuNEg3MTEuNVY0ODYuMkg3MDIuOVogTTcwMi45IDQ4NS4zSDcxMS41VjUwOC41SDcwMi45WiBNNzExLjQgMTUxLjZINzIwLjNWMTYzLjRINzExLjRaIE03MTEuNiAzNDAuMUg3MjAuM1YzNTIuNUg3MTEuNlogTTcxMS42IDM1Mi40SDcyMC4zVjM2NC43SDcxMS42WiBNNzExLjYgMzczLjhINzIwLjNWMzg2LjBINzExLjZaIE03MTEuNiAzODUuOUg3MjAuM1Y0MTEuMUg3MTEuNlogTTcxMS42IDQyOC4ySDcyMC40VjQ1My4wSDcxMS42WiBNNzExLjcgMTcyLjdINzIwLjRWMTg0LjhINzExLjdaIE03MTEuNyAxODQuN0g3MjAuNFYxOTYuOEg3MTEuN1ogTTcxMS43IDIwNi4wSDcyMC40VjIxOC4ySDcxMS43WiBNNzExLjcgMjE4LjJINzIwLjRWMjMwLjRINzExLjdaIE03MTEuNyAyMzkuNUg3MjAuNFYyNTIuMEg3MTEuN1ogTTcxMS43IDI1MS45SDcyMC40VjI3Ni44SDcxMS43WiBNNzExLjcgMjkzLjlINzIwLjNWMzE4LjlINzExLjdaIE03MTEuNyAzMTguOEg3MjAuM1YzMzEuMUg3MTEuN1ogTTcxMS43IDQ1My4wSDcyMC40VjQ2NS40SDcxMS43WiBNNzExLjcgNDc0LjRINzIwLjNWNDg2LjJINzExLjdaIE03MTEuNyA0ODUuM0g3MjAuMlY1MDguNUg3MTEuN1ogTTczMC4wIDE2Mi44SDczOS4yVjE3My44SDczMC4wWiBNNzMwLjAgMTczLjdINzM5LjJWMTg0LjhINzMwLjBaIE03MzAuMCAxODQuOEg3MzkuMlYxOTUuOUg3MzAuMFogTTczMC4wIDE5NS45SDczOS4yVjIwNi45SDczMC4wWiBNNzMwLjAgMjA2LjlINzM5LjJWMjE4LjBINzMwLjBaIE03MzAuMCAyMTguMEg3MzkuMlYyMjkuMUg3MzAuMFogTTczMC4wIDIyOS4xSDczOS4yVjI0MC4xSDczMC4wWiBNNzMwLjAgMjYzLjdINzM5LjJWMjg1LjBINzMwLjBaIE03MzAuMCAyODUuMEg3MzkuMlYyOTYuMkg3MzAuMFogTTczMC4wIDI5Ni4ySDczOS4yVjMwNy40SDczMC4wWiBNNzMwLjAgMzA3LjRINzM5LjJWMzE4LjZINzMwLjBaIE03MzAuMCAzMTguNUg3MzkuMlYzMjkuN0g3MzAuMFogTTczMC4wIDMyOS43SDczOS4yVjM0MC45SDczMC4wWiBNNzMwLjAgMzQwLjlINzM5LjJWMzUyLjBINzMwLjBaIE03MzAuMCAzNTIuMEg3MzkuMlYzNjMuMkg3MzAuMFogTTczMC4wIDM2My4ySDczOS4yVjM3NC40SDczMC4wWiBNNzMwLjAgMzk3LjhINzM5LjJWNDE5LjJINzMwLjBaIE03MzAuMCA0MTkuMkg3MzkuMlY0MzAuM0g3MzAuMFogTTczMC4wIDQzMC4zSDczOS4yVjQ0MS41SDczMC4wWiBNNzMwLjAgNDQxLjZINzM5LjJWNDUyLjdINzMwLjBaIE03MzAuMCA0NTIuN0g3MzkuMlY0NjMuOEg3MzAuMFogTTczMC4wIDQ2My44SDczOS4yVjQ3NS4wSDczMC4wWiBNNzMwLjAgNDc1LjBINzM5LjJWNDg2LjJINzMwLjBaIE03MzAuMCA0ODYuMkg3MzkuMlY0OTcuM0g3MzAuMFogTTczMC4wIDQ5Ny4zSDczOS4yVjUwOC41SDczMC4wWiIvPg0KPGcgZm9udC1mYW1pbHk9InN5c3RlbS11aSxzYW5zLXNlcmlmIj48dGl0bGU+TGVkZXIsIGJvb3RoIDI2MTE8L3RpdGxlPjxwYXRoIGQ9Ik0yNDcuNSA0NDguMSBMMjYxLjUgNDMxLjEiIHN0cm9rZT0iIzgxZjBjNSIgc3Ryb2tlLXdpZHRoPSIxLjciLz48Y2lyY2xlIGN4PSIyNDcuNSIgY3k9IjQ0OC4xIiByPSI0IiBzdHJva2U9IiMxMDFiMmEiIHN0cm9rZS13aWR0aD0iMS4zIiBmaWxsPSIjODFmMGM1Ii8+PHRleHQgeD0iMjYxLjUiIHk9IjQzMS4xIiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTIiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBwYWludC1vcmRlcj0ic3Ryb2tlIiBmaWxsPSIjODFmMGM1Ij4yNjExIExlZGVyPC90ZXh0PjwvZz4NCjxnIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksc2Fucy1zZXJpZiI+PHRpdGxlPkJpdGV3aW5nLCBib290aCAzMTAyPC90aXRsZT48cGF0aCBkPSJNMzYyLjggNDg2LjYgTDM4MC44IDQ5OC42IiBzdHJva2U9IiM4MWYwYzUiIHN0cm9rZS13aWR0aD0iMS43Ii8+PGNpcmNsZSBjeD0iMzYyLjgiIGN5PSI0ODYuNiIgcj0iNCIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjEuMyIgZmlsbD0iIzgxZjBjNSIvPjx0ZXh0IHg9IjM4MC44IiB5PSI0OTguNiIgdGV4dC1hbmNob3I9InN0YXJ0IiBmb250LXdlaWdodD0iNzAwIiBmb250LXNpemU9IjEyIiBzdHJva2U9IiMxMDFiMmEiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgcGFpbnQtb3JkZXI9InN0cm9rZSIgZmlsbD0iIzgxZjBjNSI+MzEwMiBCaXRld2luZzwvdGV4dD48L2c+DQo8ZyBmb250LWZhbWlseT0ic3lzdGVtLXVpLHNhbnMtc2VyaWYiPjx0aXRsZT5DZXBoYWxvZmFpciwgYm9vdGggMjA0MzwvdGl0bGU+PHBhdGggZD0iTTEzNC45IDI1OS44IEwxNTIuOSAyNzIuOCIgc3Ryb2tlPSIjOWVkMGZmIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjEzNC45IiBjeT0iMjU5LjgiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiM5ZWQwZmYiLz48dGV4dCB4PSIxNTIuOSIgeT0iMjcyLjgiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxMiIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHBhaW50LW9yZGVyPSJzdHJva2UiIGZpbGw9IiM5ZWQwZmYiPjIwNDMgQ2VwaGFsb2ZhaXI8L3RleHQ+PC9nPg0KPGcgZm9udC1mYW1pbHk9InN5c3RlbS11aSxzYW5zLXNlcmlmIj48dGl0bGU+U3BpZWxjcmFmdCwgYm9vdGggNDIyMjwvdGl0bGU+PHBhdGggZD0iTTY4OS4wIDM4MS4zIEw2NzEuMCA0MDEuMyIgc3Ryb2tlPSIjOWVkMGZmIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjY4OS4wIiBjeT0iMzgxLjMiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiM5ZWQwZmYiLz48dGV4dCB4PSI2NzEuMCIgeT0iNDAxLjMiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTIiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBwYWludC1vcmRlcj0ic3Ryb2tlIiBmaWxsPSIjOWVkMGZmIj40MjIyIFNwaWVsY3JhZnQ8L3RleHQ+PC9nPg0KPGcgZm9udC1mYW1pbHk9InN5c3RlbS11aSxzYW5zLXNlcmlmIj48dGl0bGU+Um9jayBNYW5vciwgYm9vdGggMjM2MzwvdGl0bGU+PHBhdGggZD0iTTIwMy45IDE1Ny45IEwyMjEuOSAxNzMuOSIgc3Ryb2tlPSIjOWVkMGZmIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjIwMy45IiBjeT0iMTU3LjkiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiM5ZWQwZmYiLz48dGV4dCB4PSIyMjEuOSIgeT0iMTczLjkiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxMiIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHBhaW50LW9yZGVyPSJzdHJva2UiIGZpbGw9IiM5ZWQwZmYiPjIzNjMgUm9jayBNYW5vcjwvdGV4dD48L2c+DQo8ZyBmb250LWZhbWlseT0ic3lzdGVtLXVpLHNhbnMtc2VyaWYiPjx0aXRsZT5Bcm91bmQgdGhlIFN0dW1wLCBib290aCA0MzI3PC90aXRsZT48cGF0aCBkPSJNNzM0LjYgMzQ4LjcgTDcxNi42IDMzMC43IiBzdHJva2U9IiM5ZWQwZmYiIHN0cm9rZS13aWR0aD0iMS43Ii8+PGNpcmNsZSBjeD0iNzM0LjYiIGN5PSIzNDguNyIgcj0iNCIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjEuMyIgZmlsbD0iIzllZDBmZiIvPjx0ZXh0IHg9IjcxNi42IiB5PSIzMzAuNyIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxMiIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHBhaW50LW9yZGVyPSJzdHJva2UiIGZpbGw9IiM5ZWQwZmYiPjQzMjcgQXJvdW5kIHRoZSBTdHVtcDwvdGV4dD48L2c+DQo8ZyBmb250LWZhbWlseT0ic3lzdGVtLXVpLHNhbnMtc2VyaWYiPjx0aXRsZT5DYWxsaW9wZSwgYm9vdGggMTk1MTwvdGl0bGU+PHBhdGggZD0iTTEwOC43IDIyMS42IEwxMjMuNyAyMDYuNiIgc3Ryb2tlPSIjOWVkMGZmIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjEwOC43IiBjeT0iMjIxLjYiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiM5ZWQwZmYiLz48dGV4dCB4PSIxMjMuNyIgeT0iMjA2LjYiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxMiIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHBhaW50LW9yZGVyPSJzdHJva2UiIGZpbGw9IiM5ZWQwZmYiPjE5NTEgQ2FsbGlvcGU8L3RleHQ+PC9nPg0KPGcgZm9udC1mYW1pbHk9InN5c3RlbS11aSxzYW5zLXNlcmlmIj48dGl0bGU+UmVzdG9yYXRpb24sIGJvb3RoIDE4MzM8L3RpdGxlPjxwYXRoIGQ9Ik0xMDAuMyAzMTcuNCBMMTE2LjMgMzM1LjQiIHN0cm9rZT0iIzllZDBmZiIgc3Ryb2tlLXdpZHRoPSIxLjciLz48Y2lyY2xlIGN4PSIxMDAuMyIgY3k9IjMxNy40IiByPSI0IiBzdHJva2U9IiMxMDFiMmEiIHN0cm9rZS13aWR0aD0iMS4zIiBmaWxsPSIjOWVkMGZmIi8+PHRleHQgeD0iMTE2LjMiIHk9IjMzNS40IiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTIiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBwYWludC1vcmRlcj0ic3Ryb2tlIiBmaWxsPSIjOWVkMGZmIj4xODMzIFJlc3RvcmF0aW9uPC90ZXh0PjwvZz4NCjxnIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksc2Fucy1zZXJpZiI+PHRpdGxlPlBBWCBSaXNpbmcsIGJvb3RoIDI5MzM8L3RpdGxlPjxwYXRoIGQ9Ik0zNTIuNSAzMjEuMSBMMzY4LjUgMzA3LjEiIHN0cm9rZT0iIzllZDBmZiIgc3Ryb2tlLXdpZHRoPSIxLjciLz48Y2lyY2xlIGN4PSIzNTIuNSIgY3k9IjMyMS4xIiByPSI0IiBzdHJva2U9IiMxMDFiMmEiIHN0cm9rZS13aWR0aD0iMS4zIiBmaWxsPSIjOWVkMGZmIi8+PHRleHQgeD0iMzY4LjUiIHk9IjMwNy4xIiB0ZXh0LWFuY2hvcj0ic3RhcnQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTIiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBwYWludC1vcmRlcj0ic3Ryb2tlIiBmaWxsPSIjOWVkMGZmIj4yOTMzIFBBWCBSaXNpbmc8L3RleHQ+PC9nPg0KPGcgZm9udC1mYW1pbHk9InN5c3RlbS11aSxzYW5zLXNlcmlmIj48dGl0bGU+T2F0aCwgYm9vdGggMjI2MzwvdGl0bGU+PHBhdGggZD0iTTE4Ny4xIDE1OC4zIEwxNzEuMSAxNDIuMyIgc3Ryb2tlPSIjZjhjZTgxIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjE4Ny4xIiBjeT0iMTU4LjMiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiNmOGNlODEiLz48dGV4dCB4PSIxNzEuMSIgeT0iMTQyLjMiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTIiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBwYWludC1vcmRlcj0ic3Ryb2tlIiBmaWxsPSIjZjhjZTgxIj4yMjYzIE9hdGg8L3RleHQ+PC9nPg0KPGcgZm9udC1mYW1pbHk9InN5c3RlbS11aSxzYW5zLXNlcmlmIj48dGl0bGU+Q29tcGlsZSwgYm9vdGggMjY0MzwvdGl0bGU+PHBhdGggZD0iTTI3My40IDI2MS4yIEwyODkuNCAyNDUuMiIgc3Ryb2tlPSIjZjhjZTgxIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjI3My40IiBjeT0iMjYxLjIiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiNmOGNlODEiLz48dGV4dCB4PSIyODkuNCIgeT0iMjQ1LjIiIHRleHQtYW5jaG9yPSJzdGFydCIgZm9udC13ZWlnaHQ9IjcwMCIgZm9udC1zaXplPSIxMiIgc3Ryb2tlPSIjMTAxYjJhIiBzdHJva2Utd2lkdGg9IjQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHBhaW50LW9yZGVyPSJzdHJva2UiIGZpbGw9IiNmOGNlODEiPjI2NDMgQ29tcGlsZTwvdGV4dD48L2c+DQo8ZyBmb250LWZhbWlseT0ic3lzdGVtLXVpLHNhbnMtc2VyaWYiPjx0aXRsZT5Mb3JkcyBvZiBWZWdhcywgYm9vdGggNDMwNzwvdGl0bGU+PHBhdGggZD0iTTczNC42IDQ3MS4wIEw3MTguNiA0ODcuMCIgc3Ryb2tlPSIjZjhjZTgxIiBzdHJva2Utd2lkdGg9IjEuNyIvPjxjaXJjbGUgY3g9IjczNC42IiBjeT0iNDcxLjAiIHI9IjQiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSIxLjMiIGZpbGw9IiNmOGNlODEiLz48dGV4dCB4PSI3MTguNiIgeT0iNDg3LjAiIHRleHQtYW5jaG9yPSJlbmQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTIiIHN0cm9rZT0iIzEwMWIyYSIgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBwYWludC1vcmRlcj0ic3Ryb2tlIiBmaWxsPSIjZjhjZTgxIj40MzA3IExvcmRzIG9mIFZlZ2FzPC90ZXh0PjwvZz4NCjwvZz48L3N2Zz4=" width="690" height="402" alt="West: Restoration 1833, Calliope 1951, Cephalofair 2043, Oath 2263 and Rock Manor 2363. Middle: Leder 2611, Compile 2643, PAX Rising 2933 and Bitewing 3102. East: Spielcraft 4222, Around the Stump 4327 and Lords of Vegas 4307."></div>
+          <ul class="map-key small" aria-label="Expo pin colors"><li class="mint">Priority stop</li><li class="blue">Other stop</li><li class="gold">Ask about a demo</li></ul>
+          <p class="small"><a id="full-size-map" href="#expo-map-image">Full-size marked map</a> &middot; <a href="https://unplugged.paxsite.com/content/dam/sitebuilder/rna/pax/unplugged/2026/docs/EXPO-HALL-PAX-Unplugged-2026.pdf.coredownload.956864686.pdf">Official Expo Hall plan</a></p></div></div>
+    </section>
+
+    <section id="shortlist" aria-labelledby="shortlist-title">
+      <h2 id="shortlist-title">First Look</h2>
+      <p class="muted small"><a href="#floor-map"><b>Terrace Ballroom · Level 4</b></a>, up the North Broad Street escalators. Fri/Sat 9 AM–midnight; Sun 9 AM–6 PM. Enforcers teach by zone, not per table.</p>
+
+      <article class="game" id="bluffit">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/vUEdTQEJSmcH0aTOv2uk2Q__itemrep/img/f6_knGUsMJnvH5eaRQvyFqeN7AI=/fit-in/246x300/filters:strip_icc()/pic8982446.jpg" alt="Bluffit box art" width="180" height="230"></div>
+          <div class="game-copy"><div class="game-title"><h3>Bluffit</h3><div class="score"><b>7.05</b><span>172 ratings</span></div></div>
+          <div class="meta"><span class="pill">2–6 players</span><span class="pill good">Allow 30 min</span><a class="pill" href="https://blog.amigo-spiele.de/wp-content/uploads/2026/09/PT_BLUFFIT.pdf">German MSRP: ≈ $9.85 USD</a><a class="pill" href="https://boardgamegeek.com/boardgame/450039/bluffit">BGG</a></div>
+          <p class="pitch">Everyone secretly plays a numbered card, then claims a prize or challenges another claim. Spent cards become the next prizes, revealing which numbers are out of play.</p>
+          <p class="like"><strong>Feels like:</strong> calling a bluff in <b>Skull</b>, except the spent cards give you evidence.</p></div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9710696"><img loading="lazy" src="https://cf.geekdo-images.com/vm2F2_nYtjUxGK00Wa7JAA__large/img/-ui_0bQp3AOVT-kQHS6RgiFAcgg=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9710696.jpg" alt="Bluffit from a player's seat: cards in hand, with prizes face up across the table"></a><figcaption>At the table · diddle74 / BGG</figcaption></figure>
+        </div>
+        <details class="dossier"><summary>Challenges and the two-player reveal</summary><div class="research"><p>Higher strength wins a challenge; ties favor the challenger. At two, subtract your own card from the new prize pool and you know exactly what your opponent spent.</p></div></details>
+      </article>
+
+      <article class="game" id="snowp">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/iJem4csVHWMoNFggGctxIg__itemrep/img/7eWah_08fvrNWPp5XHZtXJhaTic=/fit-in/246x300/filters:strip_icc()/pic9089996.png" alt="Snowp box art" width="180" height="230"></div>
+          <div class="game-copy"><div class="game-title"><h3>Snowp</h3><div class="score"><b>7.61</b><span>75 ratings</span></div></div>
+          <div class="meta"><span class="pill">Plays at two</span><span class="pill good">Allow 45 min</span><a class="pill" href="https://news.dellows.jp/1359872/">Japan MSRP: ≈ $34.47 USD</a><a class="pill" href="https://boardgamegeek.com/boardgame/452143">BGG</a><a class="pill" href="https://gamers-hq.de/media/pdf/60/61/51/Snowp_rule-book_EN.pdf">📄 Rulebook</a></div>
+          <p class="pitch">Flick rings around colored bells to collect sets. The last color left on the board scores nothing, so sinking an easy shot can wipe out your best set.</p>
+          <p class="like"><strong>Feels like:</strong> aiming a shot in <b>Crokinole</b>, but with a reason to leave certain targets alone.</p></div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9370872"><img loading="lazy" src="https://cf.geekdo-images.com/a_KeRL9jUjNIeKMIVsIRbg__large/img/4FXtx2Lo9aGV3bV9N4-Hx1jdgQA=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9370872.jpg" alt="A player lines up a flick beside the colored bells on Snowp's white board"></a><figcaption>Lining up a flick · SzpiLAB / BGG</figcaption></figure>
+        </div>
+        <details class="dossier"><summary>When the easy shot costs points</summary><div class="research"><p>Your biggest set is blue, and only blue and yellow bells remain. Clear the last yellow bell and your blues score nothing. Score over three rounds, carrying a limited number of bells forward.</p></div></details>
+      </article>
+
+      <article class="game" id="fadenfroh">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/sUpcthFzX2VEiNh96ZdHTQ__itemrep@2x/img/LdPcOVVatyXeUxCu3ja7YI6ixBk=/fit-in/492x600/filters:strip_icc()/pic9721112.png" alt="Fadenfroh box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Fadenfroh</h3><div class="score"><b>7.57</b><span>160 ratings</span></div></div>
+            <div class="meta"><span class="pill">1–4 players</span><span class="pill good">Allow 60 min</span><a class="pill" href="https://www.acdd.com/fadenfroh/">US MSRP: $29.95</a><a class="pill" href="https://boardgamegeek.com/boardgame/475685">BGG</a><a class="pill" href="https://asmodee-resources.azureedge.net/media/germanyprod/Regeln/fadenfroh-4015566606500-regel.pdf" lang="en">📄 Rulebook (German)</a></div>
+            <p class="pitch">Draft supplies and overlap fabric cards to stitch a scoring pattern. Taking thread keeps a player in the draft; claiming fabric ends their shopping. The last shopper gets the leftover materials.</p>
+            <p class="like"><strong>Feels like:</strong> the <b>Azul</b> draft dilemma: what will taking this leave for the next player?</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9883694"><img loading="lazy" src="https://cf.geekdo-images.com/KS30fHvN91QvV8ObtKeYtg__large/img/c94a9NBBdaTuiojGpumx9F2zxRE=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9883694.jpg" alt="Fadenfroh's fabric cards spread across a table during play"></a><figcaption>The fabric draft · Mona21 / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>Shopping, stitching and the needle exception</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>The five-round loop</h4>
+                <ol class="teach">
+                  <li>Each shopping turn, take one material (spool, needle, or thimble) and stay in, or take a fabric offer and finish shopping for that round.</li>
+                  <li>The last shopper gets the remaining materials before taking the remaining offer. Waiting isn't automatically bad.</li>
+                  <li>In stitching, every set of three spools must become a draw-three/keep-one fabric choice. Normally a new fabric card overlaps at least half of an existing card.</li>
+                  <li>A needle allows edge-to-edge placement without covering half a card. Score the round's indicated objectives; there is no scoring in round one.</li>
+                </ol>
+                <h4>The actual puzzle</h4>
+                <p>What you cover matters as much as what you add. A card may improve this round's colors while hiding symbols needed next round. The scoring schedule is visible: <strong>prepare for the next pair, not just the current one</strong>.</p>
+                <h4>A rule worth remembering</h4>
+                <p>Spools convert in groups of three during stitching; this isn't an optional currency to stockpile indefinitely. Unplaced fabric cannot be saved for later rounds. Needles and up to two spools can remain.</p>
+              </div>
+              <div>
+                <figure class="visual">
+                  <div class="flow"><div><b>WAIT</b>Take a material<br>Stay in the market</div><div><b>COMMIT</b>Take a fabric offer<br>Your shopping ends</div><div><b>REWORK</b>Overlap the tableau<br>Score visible icons</div></div>
+                  <svg viewBox="0 0 420 100" role="img" aria-labelledby="fabric-title">
+                    <title id="fabric-title">Fabric cards overlap, replacing part of the existing visible tableau</title>
+                    <rect x="22" y="30" width="140" height="45" rx="5" fill="#b89541"/><path d="M92 30v45" stroke="#0b1019"/>
+                    <text x="39" y="57" style="fill:#0b1019">OLD A</text>
+                    <rect x="93" y="30" width="140" height="45" rx="5" fill="#9582bc"/><path d="M163 30v45" stroke="#0b1019"/>
+                    <text x="106" y="57" style="fill:#0b1019">NEW B</text><text x="177" y="57" style="fill:#0b1019">NEW C</text>
+                    <text x="259" y="46">New card covers</text><text x="259" y="67">half the old card</text>
+                  </svg>
+                  <figcaption>Original schematic. A needle permits extending a row without that usual overlap.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="drops-of-evil">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/FbTTS-grB-4v8ubDlpqRsA__itemrep@2x/img/tCJ5L446wkHxOaqOzJc-WFeAuY8=/fit-in/492x600/filters:strip_icc()/pic9707213.jpg" alt="Drops of Evil box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Drops of Evil</h3><div class="score"><b>7.78</b><span>158 ratings</span></div></div>
+            <div class="meta"><span class="pill">2–4 players</span><span class="pill caution">Allow 90 min</span><a class="pill" href="https://www.nobleknight.com/P/2148504414/Drops-of-Evil">US MSRP: $60</a><a class="pill" href="https://boardgamegeek.com/boardgame/475466">BGG</a><a class="pill" href="https://www.dropbox.com/scl/fi/9dq3dr4v9b1piga3uxmr4/DOE_Rulebook_v18-web.pdf?rlkey=3bym1y3p8evkhn46sd2mnvpv1&amp;dl=0">📄 Rulebook</a></div>
+            <p class="pitch">Worker placement followed by a potion puzzle. Send animal familiars into a shared forest: the crow grabs one ingredient early, while the snake covers more ground but arrives last. Fit what comes home into vials.</p>
+            <p class="like"><strong>Feels like:</strong> a race at the shared board followed by a packing puzzle in your own cauldron.</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9887538"><img loading="lazy" src="https://cf.geekdo-images.com/uRRAWRPbbM5cd-Eas9lwmQ__large/img/i21WE3pkcgh93BSooBlAnTZvhak=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9887538.jpg" alt="Drops of Evil's shared forest and surrounding player areas at SPIEL Essen"></a><figcaption>Forest at Essen · Tabletopping_Games / BGG</figcaption></figure>
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9947018"><img loading="lazy" src="https://cf.geekdo-images.com/bjX_4pjmJByE_F8jTGxWRw__large/img/_DXVvS95ZhnVB2uy8_v1OcPWbEg=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9947018.jpg" alt="A player's cauldron filled with ingredients at the end of Drops of Evil"></a><figcaption>After the forest: ingredients fill vials and unlock column bonuses. · sverbeure / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>Familiar turn order and the vial-versus-column puzzle</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>Three rounds, four phases</h4>
+                <ol class="teach">
+                  <li>Place five action pawns: four different familiars and a coin pouch for an assistant. The familiars collect different footprints of forest spaces.</li>
+                  <li>Gather in a fixed order: Crows, Cats, Toads, then Snakes. Empty spaces give a worm instead of the resources someone already collected.</li>
+                  <li>Simultaneously arrange the haul in your Alchilab. Ingredients fill vials, mushrooms drive the distiller, and rats need handling.</li>
+                  <li>Gain income from revealed icons and lose points for uncaptured rats. After round three, add full-vial, captured-rat, and recipe scoring.</li>
+                </ol>
+                <h4>Two shapes of progress</h4>
+                <p><strong>Vials:</strong> one ingredient type per vial, with spiders as wilds; full vials score that ingredient's toxicity at the end. <strong>Columns:</strong> filling a vertical column across vials unlocks immediate bonuses and potentially income. A placement can help one goal while making the other harder.</p>
+                <p>Incomplete vials score nothing, even when their ingredients have earned a column bonus.</p>
+              </div>
+              <div>
+                <figure class="visual">
+                  <svg viewBox="0 0 420 155" role="img" aria-labelledby="familiar-title">
+                    <title id="familiar-title">Gathering resolves from Crow to Cat to Toad to Snake, with slower collectors at risk of receiving worms</title>
+                    <g fill="#172336" stroke="#95e7d3">
+                      <rect x="6" y="30" width="91" height="65" rx="8"/><rect x="111" y="30" width="91" height="65" rx="8"/>
+                      <rect x="216" y="30" width="91" height="65" rx="8"/><rect x="321" y="30" width="91" height="65" rx="8"/>
+                    </g>
+                    <text x="26" y="54">1. CROW</text><text x="30" y="78">Fastest</text>
+                    <text x="136" y="64">2. CAT</text><text x="236" y="64">3. TOAD</text>
+                    <text x="337" y="54">4. SNAKE</text><text x="342" y="78">Slowest</text>
+                    <text x="20" y="125">A bigger footprint is not a guaranteed bigger haul.</text>
+                    <text x="20" y="145" style="fill:#ffd394">Already-empty gathering space? Receive 1 worm.</text>
+                  </svg>
+                  <figcaption>Original rules-based schematic. Snake position also sets turn order; the two-player board has its own layout.</figcaption>
+                </figure>
+                <a class="action" href="https://horribleguild.com/eu/wp-content/uploads/2026/07/doe_setup_clean_v4.jpg">See the publisher's full table setup</a>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="bologna">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/rAO3dhFD-HQa3lyhtOsD5A__itemrep/img/513_5fQVVpQBgxYTmOmWBpmyQwY=/fit-in/246x300/filters:strip_icc()/pic9665213.jpg" alt="Bologna box art" width="180" height="230"></div>
+          <div class="game-copy"><div class="game-title"><h3>Bologna</h3><div class="score"><b>7.07</b><span>54 ratings</span></div></div>
+          <div class="meta"><span class="pill">Exactly 2</span><span class="pill good">Allow 60 min</span><a class="pill" href="https://boardgamegeek.com/boardgame/473556/bologna">BGG</a></div>
+          <p class="pitch">A two-player area-majority game on a shared city map. Place towers to control districts at game end, or enclose courtyards for influence and a chance to win immediately.</p>
+          <p class="like"><strong>Feels like:</strong> closing a city in <b>Carcassonne</b>, but here the enclosure can win the duel outright.</p></div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9721009"><img loading="lazy" src="https://cf.geekdo-images.com/LkXECyz8VWc2s28HWdKmdg__large/img/0CyWpT9OMqDP74U8fep1D_jPyRo=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9721009.jpg" alt="Red and yellow towers ring the districts on Bologna's finished map"></a><figcaption>End of the duel · mirdata / BGG</figcaption></figure>
+        </div>
+        <details class="dossier"><summary>Who sets a district’s landmark?</summary><div class="research"><p>Build once per turn. The first player to enter an empty district sets its landmark. Towers compete for landmark majorities; houses contest courtyards.</p></div></details>
+      </article>
+
+      <article class="game" id="return-of-the-king">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/a1XKUEgyYfZMS31c7BAToA__previewthumb/img/88Wum1ODNMFA7ptBLc1H0wVQb50=/fit-in/300x320/filters:strip_icc()/pic9912916.png" alt="The Return of the King Trick-Taking Game box art" width="180" height="230"></div>
+          <div class="game-copy"><div class="game-title"><h3>The Return of the King – Trick-Taking Game</h3><div class="score"><b>8.75</b><span>8 ratings</span></div></div>
+          <div class="meta"><span class="pill">1–4 players</span><span class="pill good">Allow 30 min</span><a class="pill" href="https://store.asmodee.com/products/the-return-of-the-king-the-trick-taking-game">Asmodee US: $26.99</a><a class="pill" href="https://boardgamegeek.com/boardgame/482565">BGG</a></div>
+          <p class="pitch">In this standalone finale, you play through 20 chapters together. The question isn’t “Can I win this trick?” but “Who needs to win it for us to finish this chapter?”</p>
+          <p class="like"><strong>Feels like:</strong> the changing chapter goals of <b>The Fellowship of the Ring</b> and <b>The Two Towers</b>, with four new lands.</p>
+          <p class="prep"><strong>Prep:</strong> For the developer-led teach, arrive early: <a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955092">Friday, 8–9:15 PM, room 204A</a>, first come, first served. Weekend alternative: Learn &amp; Play Lounge, 201A.</p></div>
+        </div>
+        <div class="table-gallery"><figure class="table-photo"><a href="https://boardgamegeek.com/image/9891172"><img loading="lazy" src="https://cf.geekdo-images.com/PNKxgf2cQJfzVGh8ke97oQ__large/img/Xfj5Blyt74z20U5H8kR7TRrA7qs=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9891172.jpg" alt="Four new land cards from The Return of the King"></a><figcaption>The four new lands · henk.rolleman / BGG</figcaption></figure></div>
+        <details class="dossier"><summary>What to try at two</summary><div class="research"><p>Ask for a chapter using one of the new lands. In <b>Fellowship</b>, extra public information helped at two; here, look for the tricks where you still have to infer what your partner holds.</p></div></details>
+      </article>
+
+      <article class="game" id="upside-town">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/tvVA2gJInySQ3FI0v3bTpA__itemrep@2x/img/tqyHc6eZE7UQZ3_Go-ewclqEbcQ=/fit-in/492x600/filters:strip_icc()/pic9726536.png" alt="Upside Town box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Upside Town</h3><div class="score"><b>8.30</b><span>46 ratings</span></div></div>
+            <div class="meta"><span class="pill">1–4 players</span><span class="pill good">Allow 60 min</span><a class="pill" href="https://boardgamegeek.com/boardgame/455353">BGG</a><a class="pill" href="https://boardgamegeek.com/filepage/326504/upside-town-official-rulebook-nov2026">📄 Rulebook</a></div>
+            <p class="pitch">Stack magnetic building pieces to match the skylines on contract cards. You keep rebuilding the same city, so a good stack scores now and comes apart neatly for the next contract.</p>
+            <p class="like"><strong>Feels like:</strong> the hands-on, three-dimensional pattern building in <b>Harmonies</b> or <b>Reef</b>.</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9845536"><img loading="lazy" src="https://cf.geekdo-images.com/909BrDtw8QWpbRk86cvg4Q__large/img/SghBVxD7_qSYoRdLekTnX14Pvfg=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9845536.jpg" alt="A close view of the multicolored magnetic skyline in Upside Town"></a><figcaption>Magnetic skyline · Tabletopping_Games / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>Which buildings attract or repel?</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>Know this before sitting down</h4>
+                <ol class="teach">
+                  <li>Each player has five building sites and storage for four units. Units are one, two, or three levels tall.</li>
+                  <li>Take two main actions: obtain a single, upgrade, split, build, demolish, or take a contract. You may repeat an action.</li>
+                  <li>Match a contract's skyline heights to score it for free. Its rewards can help fund the next skyline; free construction tokens save actions.</li>
+                  <li>Magnetic polarity restricts what can stack. Identical doubles repel; identical triples repel. Singles can be flipped to bridge the problem.</li>
+                </ol>
+                <p>Two towers of the same height can take different numbers of actions to rebuild. A single you can flip is more flexible than a double locked into the stack.</p>
+              </div>
+              <div>
+                <figure class="visual">
+                  <svg viewBox="0 0 420 190" role="img" aria-labelledby="magnet-title">
+                    <title id="magnet-title">Schematic magnetic connections: two double units repel; a double and triple attract</title>
+                    <text x="16" y="20">THE RULE YOU CAN FEEL</text>
+                    <rect x="30" y="42" width="88" height="48" rx="7" fill="#7b394d" stroke="#ffb7cb"/>
+                    <rect x="30" y="118" width="88" height="48" rx="7" fill="#7b394d" stroke="#ffb7cb"/>
+                    <text x="49" y="70">Double +/+</text><text x="49" y="146">Double +/+</text>
+                    <path d="M140 109h32m-16-14v28" stroke="#ffb7cb" stroke-width="2"/>
+                    <text x="133" y="178">REPEL</text>
+                    <rect x="225" y="42" width="88" height="48" rx="7" fill="#7b394d" stroke="#ffb7cb"/>
+                    <rect x="225" y="103" width="88" height="63" rx="7" fill="#245e68" stroke="#95e7d3"/>
+                    <text x="244" y="70">Double +/+</text><text x="241" y="138">Triple -/-</text>
+                    <path d="m335 104 10 11 20-25" fill="none" stroke="#95e7d3" stroke-width="3"/>
+                    <text x="328" y="151">CONNECT</text>
+                  </svg>
+                  <figcaption>Original schematic, not a reproduction of game components. Height and polarity are separate constraints; site polarity matters too.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="queen-alice">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/PibSbnnxUse0XwP57AbAfQ__itemrep@2x/img/_Y5m1dUCMXShirKJnZb43x3wt60=/fit-in/492x600/filters:strip_icc()/pic9160910.jpg" alt="Queen Alice box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Queen Alice</h3><div class="score"><b>8.19</b><span>1,244 ratings</span></div></div>
+            <div class="meta"><span class="pill">1–4 players</span><span class="pill caution">Allow 120 min</span><a class="pill" href="https://misutmeeple.com/en/2026/10/review-queen-alice/">Spain MSRP: ≈ $76.70 USD</a><a class="pill" href="https://boardgamegeek.com/boardgame/456236">BGG</a><a class="pill" href="https://www.combogames.es/wp-content/uploads/2026/10/Manual_ENG.pdf">📄 Rulebook</a></div>
+            <p class="pitch">A Wonderland euro where a shared chessboard selects your actions. Discard one card for its reward, then play another to move a piece: its destination determines what you gain and which scoring puzzle you can work on.</p>
+            <p class="like"><strong>Feels like:</strong> a long puzzle night rather than a chess duel. A knight’s move can put a book or a rose within reach.</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9437565"><img loading="lazy" src="https://cf.geekdo-images.com/BscAZ0gnaXlXWM-xXhCTrg__large/img/wdnN7QD2cl8H50a15QUoEaiIsxQ=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9437565.jpg" alt="Queen Alice's central chessboard surrounded by player boards and cards at game end"></a><figcaption>Final position · Mi_juego_mis_reglas / BGG</figcaption></figure>
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9428840"><img loading="lazy" src="https://cf.geekdo-images.com/fm4-J-RlogIgvTmjJ0eYJg__large/img/3mdh5gVjCAW9ia6EY1EJAf4FdDk=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9428840.jpg" alt="Close-up of the small chessboard used to select actions in Queen Alice"></a><figcaption>The action selector: the landing row gives a resource; the column picks the action. · gemerlos / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>The two-card turn and how Wishes score</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>The turn in plain English</h4>
+                <ol class="teach">
+                  <li>Discard one hand card for its immediate reward. Play a second card to use the indicated chess piece.</li>
+                  <li>Move that piece using its chess movement, or rescue it from jail. The landing row gives a resource; the column determines the action. You can use both colors.</li>
+                  <li>Pay the action's cost and resolve its bonuses. You may spend six Time to repeat that action in the same color, paying its costs again.</li>
+                  <li>Refill your hand, refresh the market and used bookmarks, and resolve any Wish scoring triggered this turn.</li>
+                </ol>
+                <h4>The four engines</h4>
+                <p><strong>Hearts:</strong> rosebushes and permanent flower powers. <strong>Spades:</strong> improve your deck or "invite" cards out of it for scoring. <strong>Clubs:</strong> gather books and buy bookmarks. <strong>Diamonds:</strong> build the wall for rewards and progress. The shared board adds tactical opportunities; it isn't checkmate.</p>
+                <h4>Don't fall into this trap</h4>
+                <p>Fulfilling a Wish's condition isn't enough for endgame scoring: <strong>your Cat-track progress controls access</strong>. Coronation upgrades the winning color's Wishes and affects crown points. The last available crown triggers the finish, so a slow start can accelerate sharply.</p>
+              </div>
+              <div>
+                <figure class="visual">
+                  <div class="flow"><div><b>01 / FUEL</b>Discard card A<br>Gain its reward</div><div><b>02 / POSITION</b>Play card B<br>Move a shared piece</div><div><b>03 / ENGINE</b>Row = resource<br>Column = action</div></div>
+                  <svg viewBox="0 0 420 120" role="img" aria-labelledby="alice-title">
+                    <title id="alice-title">Queen Alice's scoring joins personal Cat-track access with the shared red and white coronation race</title>
+                    <rect x="6" y="26" width="172" height="65" rx="8" fill="#172336" stroke="#c9b8ff"/>
+                    <text x="22" y="49">PERSONAL CAT TRACK</text><text x="22" y="72">Unlock which Wishes score</text>
+                    <text x="200" y="63" style="font-size:24px">+</text>
+                    <rect x="239" y="26" width="175" height="65" rx="8" fill="#172336" stroke="#ffb7cb"/>
+                    <text x="252" y="49">SHARED CORONATION</text><text x="252" y="72">Upgrade the winning color</text>
+                  </svg>
+                  <figcaption>Original conceptual diagram. A Wish's final value depends on both access and coronation; this is not a full scoring aid.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="frosted-blooms">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/xENRNYI7PSL_QQu-AKu-5A__itemrep@2x/img/INiii1g8_1CmDh9BIKw7_Ron6OQ=/fit-in/492x600/filters:strip_icc()/pic8979314.jpg" alt="Frosted Blooms box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Frosted Blooms</h3><div class="score"><b>7.44</b><span>1,332 ratings</span></div></div>
+            <div class="meta"><span class="pill">1–4 players</span><span class="pill good">Allow 60 min</span><a class="pill" href="https://www.acdd.com/frosted-blooms/">US MSRP: $34.99</a><a class="pill" href="https://boardgamegeek.com/boardgame/449853">BGG</a><a class="pill" href="https://boardgamegeek.com/filepage/310944/english-rulebook-frosted-blooms">📄 Rulebook</a></div>
+            <p class="pitch">Draft polyomino tiles to grow a tulip garden, then play a card to score what you just planted. Leave little enclosed gaps for structures instead of filling every square.</p>
+            <p class="like"><strong>Feels like:</strong> fitting pieces in <b>Patchwork</b> while drafting toward a pattern, as in <b>Cascadia</b>.</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9406671"><img loading="lazy" src="https://cf.geekdo-images.com/JeyfOcEcBCfaMujGrQntyw__large/img/FFfWOh-TavDLNk62ZXMRE_JHDn0=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9406671.jpg" alt="A Frosted Blooms tulip field taking shape tile by tile beside a row of cards"></a><figcaption>A player's garden · Paddy_Steph_k / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>When a hole scores more than a flower bed</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>The ten-turn arc</h4>
+                <ol class="teach">
+                  <li>Draft from a circular market. The next tile is free; pay a coin onto each tile you skip and collect coins on the one you take.</li>
+                  <li>Place the tile orthogonally adjacent to your garden. Rotate or flip it; matching terrain is desirable, not a placement requirement.</li>
+                  <li>Play one scoring card. It scores matching elements in the newly placed tile and the relevant connected group.</li>
+                  <li>Enclose small gaps for structures and compete for common objectives. Each player has ten scoring cards for ten turns, so the hand's timing matters.</li>
+                </ol>
+                <h4>The windmill tradeoff</h4>
+                <p>The tension is <strong>grow a connected scoring patch versus leave precisely the right empty space</strong>. A closed 2-by-2 hole gets a windmill worth 25 endgame points. Your current scoring card may instead reward extending the patch. The choice is about both geometry and timing.</p>
+              </div>
+              <div>
+                <figure class="visual">
+                  <svg viewBox="0 0 420 195" role="img" aria-labelledby="garden-title">
+                    <title id="garden-title">Schematic garden surrounding a two-by-two empty square, traded off against connected terrain growth</title>
+                    <g fill="#285b54" stroke="#95e7d3" stroke-width="1">
+                      <rect x="20" y="25" width="40" height="40"/><rect x="62" y="25" width="40" height="40"/><rect x="104" y="25" width="40" height="40"/><rect x="146" y="25" width="40" height="40"/>
+                      <rect x="20" y="67" width="40" height="40"/><rect x="146" y="67" width="40" height="40"/>
+                      <rect x="20" y="109" width="40" height="40"/><rect x="146" y="109" width="40" height="40"/>
+                      <rect x="20" y="151" width="40" height="30"/><rect x="62" y="151" width="40" height="30"/><rect x="104" y="151" width="40" height="30"/><rect x="146" y="151" width="40" height="30"/>
+                    </g>
+                    <rect x="62" y="67" width="82" height="82" rx="4" fill="#ffd39415" stroke="#ffd394" stroke-dasharray="4 4"/>
+                    <text x="80" y="107" style="fill:#ffd394">2 x 2</text><text x="76" y="124" style="font-size:10px">EMPTY</text>
+                    <text x="215" y="58">CLOSE THE GAP</text><text x="215" y="80" style="fill:#ffd394">Windmill: 25 points</text>
+                    <text x="215" y="121">OR GROW THE PATCH</text><text x="215" y="143">Bigger card score now</text>
+                  </svg>
+                  <figcaption>Original schematic of the spatial tradeoff, not a legal tile-layout example or a component illustration.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="glasgow">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/JoTXlmcbhPZM1OCZDrS3SA__itemrep@2x/img/CmJT9i5qRcGzaMD7yVeFlhu-a2o=/fit-in/492x600/filters:strip_icc()/pic8999684.jpg" alt="The Glasgow Train Robbery box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>The Glasgow Train Robbery</h3><div class="score"><b>7.82</b><span>184 ratings</span></div></div>
+            <div class="meta"><span class="pill good">Exactly 2 / cooperative</span><span class="pill caution">Allow 120 min</span><a class="pill" href="https://zatu.com/products/the-glasgow-train-robbery">UK RRP: ≈ $45.93 USD</a><a class="pill" href="https://boardgamegeek.com/boardgame/450539">BGG</a><a class="pill" href="https://boardgamegeek.com/filepage/313993/the-glasgow-train-robbery-rules">📄 Rulebook</a><a class="pill" href="https://gamers-hq.de/media/pdf/e5/31/22/Manual-ENG-32p-web.pdf">English PDF</a></div>
+            <p class="pitch">An asymmetric co-op heist for two: one of you prepares the crew, the other runs the job. Play cards to finish five plans before the train arrives; your actions advance the clock, and talking costs you.</p>
+            <p class="like"><strong>Feels like:</strong> the communication squeeze of <b>Codenames: Duet</b>. Here you can spend an action to say a few words, but the train keeps moving.</p>
+            <p class="prep"><strong>Prep:</strong> Have the teacher run through one complete rest before play; it resets more than your hand.</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9444939"><img loading="lazy" src="https://cf.geekdo-images.com/XjZV8gMyOWDfR5edLKIagQ__large/img/tBByXbTkSEp_WDa5hcHOVr-jLN0=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9444939.png" alt="Character standees positioned on the Glasgow Train Robbery prototype board"></a><figcaption>Prototype in play · kovray / BGG</figcaption></figure>
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9444935"><img loading="lazy" src="https://cf.geekdo-images.com/0O0Ywb9zfPhvCzCUxUfZpw__large/img/Z-I2kU0Mc_CdEaPljY3gDA8zll4=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9444935.png" alt="Close-up of the crew cards and tokens in the Glasgow prototype"></a><figcaption>Crew preparation, away from the field board (prototype). · kovray / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>Who handles each plan, and when you can talk</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>The collaboration</h4>
+                <ol class="teach">
+                  <li>The Coordinator manages the cottage and crew preparation; the Operator manages field operatives and contingencies. The Operator starts.</li>
+                  <li>On your turn, play an action card, resolve a qualifying contingency (Operator), complete a qualifying plan, or rest.</li>
+                  <li>Playing an action card advances the train by its clock symbols before you choose one of the card's actions.</li>
+                  <li>Complete five plans: the Coordinator handles plans 1-4; the Operator handles plan 5. Beat the train and avoid defeat from accumulated clues.</li>
+                </ol>
+                <h4>Not "we'll just talk less"</h4>
+                <p>Free strategic discussion about tools, destinations, or plans is forbidden. A communication action permits <strong>two or three keywords according to its value</strong>. Actions, equipment transfers, movement, and rest timing also communicate intention indirectly.</p>
+                <p>Playing a card as an event removes it from the game, along with all its other actions.</p>
+              </div>
+              <div>
+                <figure class="visual">
+                  <svg viewBox="0 0 420 180" role="img" aria-labelledby="heist-title">
+                    <title id="heist-title">The Coordinator prepares equipment and solves plans one through four; the Operator handles field contingencies and plan five, linked by limited keyword communication</title>
+                    <rect x="8" y="25" width="170" height="95" rx="10" fill="#172336" stroke="#c9b8ff"/>
+                    <rect x="242" y="25" width="170" height="95" rx="10" fill="#172336" stroke="#95e7d3"/>
+                    <text x="23" y="51">COORDINATOR</text><text x="23" y="77">Crew + tool preparation</text><text x="23" y="102">Plans 1-4</text>
+                    <text x="257" y="51">OPERATOR</text><text x="257" y="77">Field + contingencies</text><text x="257" y="102">Plan 5</text>
+                    <path d="M185 68h50" stroke="#ffd394" stroke-width="2" stroke-dasharray="4 4"/>
+                    <text x="135" y="153" style="fill:#ffd394">A FEW KEYWORDS. A MOVING TRAIN.</text>
+                  </svg>
+                  <figcaption>Original roles diagram, not a full rules aid. "The Great Train Robbery" is the title used inside the linked English rules.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="greylune">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/VwCU6wEDPmElxkOGpgPPDA__itemrep@2x/img/sH2UyfTfTyUJypnN3t8TLXkFUHw=/fit-in/492x600/filters:strip_icc()/pic9289628.jpg" alt="Greylune box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Greylune</h3><div class="score"><b>7.65</b><span>538 ratings</span></div></div>
+            <div class="meta"><span class="pill">2–4 players</span><span class="pill caution">Allow 120 min</span><a class="pill" href="https://www.acdd.com/greylune/">US MSRP: $39.95</a><a class="pill" href="https://boardgamegeek.com/boardgame/459401">BGG</a><a class="pill" href="https://boardgamegeek.com/filepage/325673/greylune-en-official-swaf-rulebook">📄 Rulebook</a><a class="pill" href="https://medias.sorryweare.fr/wp-content/uploads/2026/07/REGLES-GREYLUNE-236X236_EN.pdf">English PDF</a></div>
+            <p class="pitch">Place villagers between buildings, then pick them back up to earn money or use a building. You decide when to switch from placing to collecting: a crowd pays better but makes the action pricier.</p>
+            <p class="like"><strong>Feels like:</strong> a game of chicken over a crowded shop. Cash out now or wait for the next villager to raise the price?</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9730804"><img loading="lazy" src="https://cf.geekdo-images.com/bF0rz8htLRgxJ6AiTU0XiQ__large/img/rQ15G6Q0VvJENTuOt4RgKJDlJ2A=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9730804.jpg" alt="An overhead view of Greylune's village cards and player boards"></a><figcaption>Village layout · DoomyGG / BGG</figcaption></figure>
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9918583"><img loading="lazy" src="https://cf.geekdo-images.com/9J7KX_w1Vs3OAjlKl9HVJA__large/img/C7xgumOp1GcFgMOKH5eBY47qVe4=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9918583.jpg" alt="A Greylune companion card held up at the Essen table"></a><figcaption>A recruitable companion: another worker now, less income in autumn. · henk.rolleman / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>Leaving Spring early and counting the crowd</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>What's genuinely unusual</h4>
+                <ol class="teach">
+                  <li>Over five years, the village is rebuilt as a three-by-three card grid. Place villagers between adjacent cards in Spring, not directly on them.</li>
+                  <li>Choose when to move to Summer. This is irreversible for the year; others may keep placing while you begin retrieving.</li>
+                  <li>Retrieve a villager either to gain one coin per other worker around a chosen adjacent card, or activate that card at its price plus the same crowd surcharge.</li>
+                  <li>Buy items and companions, adventure through encounters, and tell completed encounters as stories for rewards. Companions grant a worker but reduce Autumn income.</li>
+                </ol>
+              </div>
+              <div>
+                <figure class="visual">
+                  <div class="flow"><div><b>SPRING</b>Place between cards<br>Increase crowding</div><div><b>SUMMER</b>Retrieve for coins<br>Or pay to activate</div><div><b>AUTUMN</b>Return + income<br>Wait for next year</div></div>
+                  <svg viewBox="0 0 420 110" role="img" aria-labelledby="crowd-title">
+                    <title id="crowd-title">The same three other workers can give three coins on retrieval or add three coins to a card's activation price</title>
+                    <text x="18" y="32">EXAMPLE: 3 OTHER WORKERS BY THE CARD</text>
+                    <rect x="15" y="49" width="180" height="42" rx="7" fill="#245e54"/>
+                    <rect x="225" y="49" width="180" height="42" rx="7" fill="#583a2e"/>
+                    <text x="30" y="75">Take money: gain 3 coins</text><text x="236" y="75">Activate: price + 3 coins</text>
+                  </svg>
+                  <figcaption>Original rules-based example. Count the other workers around the chosen card, not simply your adjacent gap.</figcaption>
+                </figure>
+              </div>
+            </div>
+          </div>
+        </details>
+      </article>
+
+      <article class="game" id="grinivil">
+        <div class="game-head">
+          <div class="cover"><img loading="lazy" src="https://cf.geekdo-images.com/1t7NM5xke-xXiYeTPkmqPg__itemrep@2x/img/uoAQY33hOVU6jcIqtWsHsKk2mhg=/fit-in/492x600/filters:strip_icc()/pic9617337.jpg" alt="Grinivil box art" width="180" height="230"></div>
+          <div class="game-copy">
+            <div class="game-title"><h3>Grinivil</h3><div class="score"><b>8.08</b><span>278 ratings</span></div></div>
+            <div class="meta"><span class="pill">2–6 players</span><span class="pill caution">Allow 180 min</span><a class="pill" href="https://boardgamegeek.com/boardgame/369627">BGG</a></div>
+            <p class="pitch">An economic city builder on one shared map. Buy land, lay roads and construct buildings to attract residents. Several players can meet the same resident’s needs and split the rewards.</p>
+            <p class="like"><strong>Feels like:</strong> planning neighborhoods in <b>Suburbia</b>, except your new road can increase the value of a rival’s building.</p>
+            <p class="prep"><strong>Prep:</strong> Before choosing your first plot, have the teacher walk through one Time Action Ring move and a resident payout split between two builders.</p>
+          </div>
+        </div>
+        <div class="table-gallery">
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9576630"><img loading="lazy" src="https://cf.geekdo-images.com/2knU01O2V_pE6JQPb1p_Hg__large/img/6lIOvP26TYNPwdD7FizrxdG8UA0=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9576630.jpg" alt="Grinivil's shared city laid out on the table during a solo learning game"></a><figcaption>Learning-game setup · mab415 / BGG</figcaption></figure>
+          <figure class="table-photo"><a href="https://boardgamegeek.com/image/9887542"><img loading="lazy" src="https://cf.geekdo-images.com/u5sbwHpwbhCkmc5QLa6-xA__large/img/spkOCYGaaziK2tTH4-99LMIQ7H0=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9887542.jpg" alt="Grinivil's shared town on display at SPIEL Essen"></a><figcaption>The convention table: roads and buildings share one town. · gufotriste / BGG</figcaption></figure>
+        </div>
+        <details class="dossier">
+          <summary>The Time Action Ring and shared resident payouts</summary>
+          <div class="research">
+            <div class="research-grid">
+              <div>
+                <h4>The system to understand</h4>
+                <ol class="teach">
+                  <li>The Time Action Ring controls action choice and pace. Actions consume different amounts of time; efficient loops are part of the economic puzzle.</li>
+                  <li>Buy land, connect roads, plant trees, and build residences and civic/commercial facilities in a shared town.</li>
+                  <li>Residents act like contracts with mandatory and optional requirements. Several players may contribute to satisfying them.</li>
+                  <li>Payouts reflect those different contributions; resident conditions also matter at endgame. A useful building for the town may reward another player more than you.</li>
+                </ol>
+              </div>
+              <div>
+                <figure class="visual">
+                  <svg viewBox="0 0 420 170" role="img" aria-labelledby="town-title">
+                    <title id="town-title">Shared town contributions feed a resident's requirements, with separate rewards to each contributing player</title>
+                    <rect x="10" y="20" width="125" height="40" rx="7" fill="#172336" stroke="#c9b8ff"/><text x="27" y="45">YOUR BUILDING</text>
+                    <rect x="285" y="20" width="125" height="40" rx="7" fill="#172336" stroke="#95e7d3"/><text x="299" y="45">THEIR ROAD</text>
+                    <path d="m130 65 65 30m95-30-65 30" stroke="#aebbd0" stroke-width="2"/>
+                    <rect x="128" y="94" width="166" height="40" rx="7" fill="#59472c" stroke="#ffd394"/><text x="143" y="120">RESIDENT REQUIREMENTS</text>
+                    <text x="47" y="157">Different contributions. Different payouts.</text>
+                  </svg>
+                  <figcaption>Original conceptual schematic, not a numerical scoring example. Shared construction does not mean shared victory.</figcaption>
+                </figure>
+              </div>
+            </div>
+            <a href="https://www.meeplemountain.com/reviews/grinivil/">Resident scoring in play · Meeple Mountain</a>
+          </div>
+        </details>
+      </article>
+      <div id="recommendations" class="substop"><h3 id="rec-title">Shortlist at a glance</h3>
+      <div class="table-wrap"><table class="scan"><thead><tr><th colspan="2" scope="colgroup">Game</th><th scope="col" class="metric">Rating</th><th scope="col" class="metric">Playtime</th><th scope="col">Why</th></tr></thead><tbody>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/vUEdTQEJSmcH0aTOv2uk2Q__itemrep/img/f6_knGUsMJnvH5eaRQvyFqeN7AI=/fit-in/246x300/filters:strip_icc()/pic8982446.jpg" width="40" height="46" alt=""></td><td><a href="#bluffit"><b>Bluffit</b></a></td><td class="number">7.05<br><small>172 votes</small></td><td class="number">10&ndash;15 min</td><td>First stop for a quick, evidence-based bluff.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/iJem4csVHWMoNFggGctxIg__itemrep/img/7eWah_08fvrNWPp5XHZtXJhaTic=/fit-in/246x300/filters:strip_icc()/pic9089996.png" width="40" height="46" alt=""></td><td><a href="#snowp"><b>Snowp</b></a></td><td class="number">7.61<br><small>75 votes</small></td><td class="number">20&ndash;30 min</td><td>Flick for sets; stay for the rematch.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/sUpcthFzX2VEiNh96ZdHTQ__itemrep@2x/img/LdPcOVVatyXeUxCu3ja7YI6ixBk=/fit-in/492x600/filters:strip_icc()/pic9721112.png" width="40" height="46" alt=""></td><td><a href="#fadenfroh"><b>Fadenfroh</b></a></td><td class="number">7.57<br><small>160 votes</small></td><td class="number">30 min</td><td>A quick quilt puzzle where the timing of each draft matters.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/FbTTS-grB-4v8ubDlpqRsA__itemrep@2x/img/tCJ5L446wkHxOaqOzJc-WFeAuY8=/fit-in/492x600/filters:strip_icc()/pic9707213.jpg" width="40" height="46" alt=""></td><td><a href="#drops-of-evil"><b>Drops of Evil</b></a></td><td class="number">7.78<br><small>158 votes</small></td><td class="number">60 min</td><td>First long teach: competing workers feed a personal potion puzzle.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/rAO3dhFD-HQa3lyhtOsD5A__itemrep/img/513_5fQVVpQBgxYTmOmWBpmyQwY=/fit-in/246x300/filters:strip_icc()/pic9665213.jpg" width="40" height="46" alt=""></td><td><a href="#bologna"><b>Bologna</b></a></td><td class="number">7.07<br><small>54 votes</small></td><td class="number">30 min</td><td>Try for two: block a courtyard or invest in towers.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/a1XKUEgyYfZMS31c7BAToA__micro/img/aIM5vCTp5g8A4HWzAVqRktNvgJs=/fit-in/64x64/filters:strip_icc()/pic9912916.png" width="40" height="46" alt=""></td><td><a href="#return-of-the-king"><b>The Return of the King</b></a></td><td class="number">8.75<br><small>8 votes</small></td><td class="number">20 min</td><td>Try a new chapter of a favorite co-op series; see what stays hidden at two.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/tvVA2gJInySQ3FI0v3bTpA__itemrep@2x/img/tqyHc6eZE7UQZ3_Go-ewclqEbcQ=/fit-in/492x600/filters:strip_icc()/pic9726536.png" width="40" height="46" alt=""></td><td><a href="#upside-town"><b>Upside Town</b></a></td><td class="number">8.30<br><small>46 votes</small></td><td class="number">25&ndash;40 min</td><td>The tension of placing a magnet is easier to feel than to see in a photo.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/PibSbnnxUse0XwP57AbAfQ__itemrep@2x/img/_Y5m1dUCMXShirKJnZb43x3wt60=/fit-in/492x600/filters:strip_icc()/pic9160910.jpg" width="40" height="46" alt=""></td><td><a href="#queen-alice"><b>Queen Alice</b></a></td><td class="number">8.19<br><small>1,244 votes</small></td><td class="number">30&ndash;120 min</td><td>Strongest established heavy puzzle; save for a fresh table.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/xENRNYI7PSL_QQu-AKu-5A__itemrep@2x/img/INiii1g8_1CmDh9BIKw7_Ron6OQ=/fit-in/492x600/filters:strip_icc()/pic8979314.jpg" width="40" height="46" alt=""></td><td><a href="#frosted-blooms"><b>Frosted Blooms</b></a></td><td class="number">7.44<br><small>1,332 votes</small></td><td class="number">20&ndash;40 min</td><td>Reliable shorter fallback if the top tables are busy.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/JoTXlmcbhPZM1OCZDrS3SA__itemrep@2x/img/CmJT9i5qRcGzaMD7yVeFlhu-a2o=/fit-in/492x600/filters:strip_icc()/pic8999684.jpg" width="40" height="46" alt=""></td><td><a href="#glasgow"><b>The Glasgow Train Robbery</b></a></td><td class="number">7.82<br><small>184 votes</small></td><td class="number">30&ndash;45 min</td><td>Co-op alternative; try both asymmetric roles.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/VwCU6wEDPmElxkOGpgPPDA__itemrep@2x/img/sH2UyfTfTyUJypnN3t8TLXkFUHw=/fit-in/492x600/filters:strip_icc()/pic9289628.jpg" width="40" height="46" alt=""></td><td><a href="#greylune"><b>Greylune</b></a></td><td class="number">7.65<br><small>538 votes</small></td><td class="number">45&ndash;90 min</td><td>Watch a turn before committing; interaction at two is uncertain.</td></tr>
+            <tr><td><img loading="lazy" src="https://cf.geekdo-images.com/1t7NM5xke-xXiYeTPkmqPg__itemrep@2x/img/uoAQY33hOVU6jcIqtWsHsKk2mhg=/fit-in/492x600/filters:strip_icc()/pic9617337.jpg" width="40" height="46" alt=""></td><td><a href="#grinivil"><b>Grinivil</b></a></td><td class="number">8.07<br><small>278 votes</small></td><td class="number">90&ndash;150 min</td><td>Ask for a walkthrough unless the group wants a long economic game.</td></tr>
+          </tbody></table></div>
+    </div>
+      <div id="also-listed"><details><summary style="cursor:pointer;color:var(--mint);padding:10px 0"><strong>Browse all 63 games, A–Z</strong></summary>
+      <div class="table-wrap"><table aria-label="Other showcase games, player counts and reasons to try them later" style="font-size:13px;line-height:1.35"><thead><tr><th colspan="2" scope="colgroup">Game</th><th scope="col" class="metric">Rating</th><th scope="col" class="metric">Playtime</th><th scope="col">Why</th></tr></thead><tbody>
+        <tr data-entry-id="13273606"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/hD_DQYPF4icRuUSDAwvxVg__micro/img/rDKGDEily-V5aZW82AG7GeOITEg=/fit-in/64x64/filters:strip_icc()/pic9642508.jpg" alt="" loading="lazy" decoding="async" width="64" height="40" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/473012/1953-everest"><strong>1953 Everest</strong></a><br><small>1–4 players</small></td><td class="number">8.19<br><small>56 votes</small></td><td class="number">45&ndash;60 min</td><td style="padding:7px 8px;vertical-align:middle">Building camps lets you decide when to push for the summit before the monsoon. A good longer detour if the other expedition changes when you leave camp, not just who finishes first.</td></tr>
+        <tr data-entry-id="13273608"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/AavMG0DaoVkSNMwBga-2gA__micro/img/NWDR2vwkwVpX_1VJHuwglaDoMQU=/fit-in/64x64/filters:strip_icc()/pic9592356.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/173390/abaku"><strong>Abaku</strong></a><br><small>1–4 players</small></td><td class="number">6.25<br><small>24 votes</small></td><td class="number">30&ndash;60 min</td><td style="padding:7px 8px;vertical-align:middle">Crossing two equations with one string of digits is a neat puzzle. Pick it for an arithmetic partner; spotting a legal product is a different pleasure from reading an opponent’s next move.</td></tr>
+        <tr data-entry-id="13273762"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/hoaLlC3KpxxucQMENHq3fw__micro/img/GZCcIhUMmaq0-KnT1H1bgI4lYxs=/fit-in/64x64/filters:strip_icc()/pic9708051.png" alt="" loading="lazy" decoding="async" width="48" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/475467/the-bird"><strong>The Bird</strong></a><br><small>2–8 players</small></td><td class="number">5.64<br><small>36 votes</small></td><td class="number">15&ndash;25 min</td><td style="padding:7px 8px;vertical-align:middle">One handler balances the flock while everyone else delivers birds. At two, try swapping jobs first: Snowp already gives both people the same shot-making challenge.</td></tr>
+        <tr data-entry-id="13300129"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://img.gamemarket.jp/20260921_101559_box.jpg" alt="" loading="lazy" decoding="async" width="1000" height="750" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://gamemarket.jp/game/189279"><strong>Bird Club</strong></a><br><small>3–7 players</small></td><td class="number">No BGG entry</td><td class="number">30&ndash;45 min</td><td style="padding:7px 8px;vertical-align:middle">Switching between hawks and doves can secure a win but dilute your share. Put it on the group list: splitting a faction’s rewards needs at least three people.</td></tr>
+        <tr data-entry-id="13273609"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/i_lrw7yk0XezX2-jnRWY2w__micro/img/HzXRUQ2P9Sg3L41X9Mmx13A_pos=/fit-in/64x64/filters:strip_icc()/pic9351287.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/462649/blancat"><strong>Blancat</strong></a><br><small>2–4 players</small></td><td class="number">6.83<br><small>47 votes</small></td><td class="number">20 min</td><td style="padding:7px 8px;vertical-align:middle">Weaving against the clock is tactile, but the pattern is prescribed. Fadenfroh gets the first seat because deciding which fabric to take changes what the other shopper gets.</td></tr>
+        <tr data-entry-id="13273613"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/4_AD8eUsY2Sl6KBSFyAk_A__micro/img/A1IChN_2WCkDucmbwYRWIoopGw8=/fit-in/64x64/filters:strip_icc()/pic9814499.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/473933/buried-memories"><strong>Buried Memories</strong></a><br><small>1–6 players</small></td><td class="number">6.55<br><small>100 votes</small></td><td class="number">20&ndash;30 min</td><td style="padding:7px 8px;vertical-align:middle">Stop digging or risk uncovering a second matching creature: a real Quacks temptation. Ask how much the exposed dig site tells you before the next flip; the sealed surprises can wait.</td></tr>
+        <tr data-entry-id="13273614"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/m4I5AqaKl2JJG4uPsZPlXA__micro/img/Udu4vY5LJh9Zd7QBab-x2XpKhB0=/fit-in/64x64/filters:strip_icc()/pic9811546.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/478833/buskers"><strong>Buskers</strong></a><br><small>3–4 players</small></td><td class="number">6.65<br><small>21 votes</small></td><td class="number">15&ndash;30 min</td><td style="padding:7px 8px;vertical-align:middle">Predicting whether a robber can afford the bus gives the bluff some evidence. Save it for three or four, when there’s someone to snitch on; <strong>Bluffit</strong> works at two.</td></tr>
+        <tr data-entry-id="13300131"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://ninjastargames.com/wp-content/uploads/2026/10/cover_square.jpg" alt="" loading="lazy" decoding="async" width="1000" height="1000" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://ninjastargames.com/product/the-canopy-of-spirits/"><strong>Canopy of Spirits</strong></a><br><small>2–4 players</small></td><td class="number">No BGG entry</td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Tree survival depends on neighbors and the cards you kept. Two adds attendant trees that disappear between rounds; try a survival check before choosing it over Bologna’s more visible threats.</td></tr>
+        <tr data-entry-id="13273616"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/Fd_I2jjp3A3RQTrWKO3Tow__micro/img/4GGPFJQ5cIdesSbiPSyfl74Ji4Q=/fit-in/64x64/filters:strip_icc()/pic9552704.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/469594/carcassonne-labyrinth"><strong>Carcassonne Labyrinth</strong></a><br><small>1–4 players</small></td><td class="number">7.29<br><small>420 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Pushing a maze tile can get you to treasure and eject a piece for your city. Try it if those goals pull in opposite directions; familiarity with the two originals isn’t itself a reason to queue.</td></tr>
+        <tr data-entry-id="13273618"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/oE7nts4G4SI_yf9kOBouZA__micro/img/U0Q6J6vvhl_jJVuwf3XEzvaYOG8=/fit-in/64x64/filters:strip_icc()/pic9806445.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/475390/caribe"><strong>Caribe</strong></a><br><small>1–4 players</small></td><td class="number">7.65<br><small>94 votes</small></td><td class="number">50&ndash;100 min</td><td style="padding:7px 8px;vertical-align:middle">The expedition promises scientific discoveries, but the description says more about what you’ll find than how another team can beat you to it. Watch a contested discovery before giving it the long slot.</td></tr>
+        <tr data-entry-id="13273619"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/0PwtWhurgylWu8UTI_UeCw__micro/img/TX9IL9cxhULMn7IPdyG1dp1OS8c=/fit-in/64x64/filters:strip_icc()/pic9684967.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/474289/carpet-racers"><strong>Carpet Racers</strong></a><br><small>3–5 players</small></td><td class="number">6.59<br><small>135 votes</small></td><td class="number">25&ndash;45 min</td><td style="padding:7px 8px;vertical-align:middle">Moving a car before you know whether it’s yours makes the clues matter. A three-player minimum keeps this deduction race off the two-person route.</td></tr>
+        <tr data-entry-id="13300133"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/5yJpuYWBYV3BEyQp4tuxBA__micro/img/ozyAS9DSno7NzjhyNBBODugiP3g=/fit-in/64x64/filters:strip_icc()/pic9902408.jpg" alt="" loading="lazy" decoding="async" width="42" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/483021/chopstick-tightrope"><strong>Chopstick Tightrope</strong></a><br><small>2+ players</small></td><td class="number">7.60<br><small>12 votes</small></td><td class="number">20 min</td><td style="padding:7px 8px;vertical-align:middle">Balancing a sumo wrestler on elastic with chopsticks earns a stop to watch. Choose it over Snowp if placing the next piece looks as satisfying as watching the whole thing fall.</td></tr>
+        <tr data-entry-id="13273668"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/vmm2TEZOMEfyqNcHbbXfZQ__micro/img/iIvg-0wjNXOhP7Lvnp5UsCqF2XE=/fit-in/64x64/filters:strip_icc()/pic9741100.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/442093/class-of-89"><strong>Class of &#x27;89</strong></a><br><small>1–4 players</small></td><td class="number">7.35<br><small>159 votes</small></td><td class="number">60&ndash;90 min</td><td style="padding:7px 8px;vertical-align:middle">Worker placement feeds a yearbook layout where classmates score for proximity. Worth a longer teach if competing for one photo changes both spreads; nostalgia alone doesn’t buy 90 minutes.</td></tr>
+        <tr data-entry-id="13273677"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/5rMMZI7eLVc9flFnv1Tsag__micro/img/E6ASRi48K_VSW81-qYgU84xj7k4=/fit-in/64x64/filters:strip_icc()/pic9542749.jpg" alt="" loading="lazy" decoding="async" width="51" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/466023/council-of-serpents"><strong>Council of Serpents</strong></a><br><small>1–4 players</small></td><td class="number">7.04<br><small>50 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Secret loyalties and a house that can collapse on a single track sound promising. At two, see whether a rival’s influence card gives away an ambition you can actually thwart.</td></tr>
+        <tr data-entry-id="13292275"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/IzmOVkU30hPT0w26HsNprA__micro/img/uss5gvrCSGDMramnQKyosBFP9K4=/fit-in/64x64/filters:strip_icc()/pic9697496.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/475105/deae-via"><strong>Deae Via</strong></a><br><small>1–2 players</small></td><td class="number">7.00<br><small>6 votes</small></td><td class="number">30&ndash;45 min</td><td style="padding:7px 8px;vertical-align:middle">The third seal can win before either priest reaches 30 fame. A strong Bologna substitute if one move on the temple ring can threaten both wins; ask to see that position.</td></tr>
+        <tr data-entry-id="13273680"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/22F1rYdp8beUphBIopp7xA__micro/img/FyKeZn_EbmIQrR_JuhelbOX2pK8=/fit-in/64x64/filters:strip_icc()/pic9544452.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/469504/diables"><strong>Diables</strong></a><br><small>1–4 players</small></td><td class="number">7.73<br><small>157 votes</small></td><td class="number">45&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Street performers must time fireworks for a moving crowd. Save the longer parade for a demo that shows a rival taking the audience you had planned around.</td></tr>
+        <tr data-entry-id="13273682"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/N6_JQSyPBMT4U7PYO05ZRg__micro/img/ioOXRrTrGlIBf0hydksdqB3ptys=/fit-in/64x64/filters:strip_icc()/pic9357499.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/462941/entropy"><strong>Entropy</strong></a><br><small>1–4 players</small></td><td class="number">7.63<br><small>1,258 votes</small></td><td class="number">90&ndash;150 min</td><td style="padding:7px 8px;vertical-align:middle">Moving your scientist only one to three spaces constrains which planets and life you can build. Save this long engine game for a night when you want to plan an orbit, not trade threats.</td></tr>
+        <tr data-entry-id="13273778"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/_yBkOgt0r88yM96vY5TwKQ__micro/img/6CT3FJFHCvTC8X2GYuw_iHzZ-gE=/fit-in/64x64/filters:strip_icc()/pic9695130.png" alt="" loading="lazy" decoding="async" width="44" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/472319/eternamente-temporario"><strong>Eternamente Temporário</strong></a><br><small>4–6 players</small></td><td class="number">9.00<br><small>3 votes</small></td><td class="number">40&ndash;75 min</td><td style="padding:7px 8px;vertical-align:middle">Changing teams gives shedding your hand a purpose beyond going out first. The temporary partnerships need four to six abductees, so this is a group invitation, not a date-night pick.</td></tr>
+        <tr data-entry-id="13273684"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/Z9dOAPA0Bae2nlYTOKxBcQ__micro/img/lQ70cls30reTEOugxlc2Vj9mXtI=/fit-in/64x64/filters:strip_icc()/pic9569198.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/470090/fliegen-kriegen"><strong>Fliegen kriegen</strong></a><br><small>2–6 players</small></td><td class="number">5.33<br><small>3 votes</small></td><td class="number">15 min</td><td style="padding:7px 8px;vertical-align:middle">Calling actions and passing the dung token is a quick reflex test. Bring the noisy group; for two, flicking at a particular bell in Snowp gives the speed and silliness a target.</td></tr>
+        <tr data-entry-id="13273685"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/ivFzbPe5TjqGsyZtHNZk3w__micro/img/vkpnTvCf4Bcwi0wjbD5mh0zSsKQ=/fit-in/64x64/filters:strip_icc()/pic9700582.png" alt="" loading="lazy" decoding="async" width="50" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/475228/flixo"><strong>Flixo</strong></a><br><small>2–5 players</small></td><td class="number">6.49<br><small>57 votes</small></td><td class="number">20&ndash;30 min</td><td style="padding:7px 8px;vertical-align:middle">Clearing cursed numbers makes this more than competitive Golf. For a quiet co-op, check whether the players can propose different saves rather than agree on the obvious low card.</td></tr>
+        <tr data-entry-id="13273688"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/fEttmmOfaSbsl3C8Gi9Dwg__micro/img/a7FeiwxhbKBvE4y8lRQvPtiKAUY=/fit-in/64x64/filters:strip_icc()/pic9445344.jpg" alt="" loading="lazy" decoding="async" width="64" height="63" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/465738/fragments-solara"><strong>Fragments: Solara</strong></a><br><small>1–4 players</small></td><td class="number">7.30<br><small>149 votes</small></td><td class="number">90&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Manipulating jigsaw pieces to learn what happened to your companion sounds like a good shared evening. Save the single introductory chapter for home rather than sampling its discoveries in a busy hall.</td></tr>
+        <tr data-entry-id="13292261"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/5hq97xPDBt2ry95RaREsZw__micro/img/dK-LwLBdJayg8FIS-xDQ_zNVEeI=/fit-in/64x64/filters:strip_icc()/pic9882260.jpg" alt="" loading="lazy" decoding="async" width="46" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/481889/the-good-farmer"><strong>The Good Farmer</strong></a><br><small>3–4 players</small></td><td class="number">7.17<br><small>6 votes</small></td><td class="number">30&ndash;45 min</td><td style="padding:7px 8px;vertical-align:middle">Winning a trump can stick you with the family debt. That’s a reason to care about the trick, but it needs three or four; bring the card group rather than reserving a table for two.</td></tr>
+        <tr data-entry-id="13292260"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/-zOPRkoUycZCFjUFj0n-JA__micro/img/99-pXqaX0Z4iGVN583Bx1pMleBM=/fit-in/64x64/filters:strip_icc()/pic9818010.jpg" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/479809/hyakuju-parade"><strong>Hyakuju Parade</strong></a><br><small>2–5 players</small></td><td class="number">7.09<br><small>21 votes</small></td><td class="number">15&ndash;20 min</td><td style="padding:7px 8px;vertical-align:middle">A climbing game, not a trick-taker: as in <b>Scout</b>, you can’t rearrange your hand. Here, shedding a card brings adjacent digits together to form a bigger number. A short pub-table pick.</td></tr>
+        <tr data-entry-id="13273696"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/uGFlOqiv53bqUySIvCaCag__micro/img/1x984yGc4eiKNXIhdl5wvSdH_j4=/fit-in/64x64/filters:strip_icc()/pic9806620.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/478769/kakatua"><strong>Kakatua</strong></a><br><small>3–6 players</small></td><td class="number">7.33<br><small>3 votes</small></td><td class="number">15 min</td><td style="padding:7px 8px;vertical-align:middle">You have to call only when another parrot chose your sound. A fun reason to watch a reveal, but at least three players are needed and the payoff is a reflex race rather than a sustained read.</td></tr>
+        <tr data-entry-id="13273699"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/a_h3LlHdGfG4SErAKQ0IBw__micro/img/8Ov5d-Qel3fQ-S5403N3eu3asCw=/fit-in/64x64/filters:strip_icc()/pic9699895.png" alt="" loading="lazy" decoding="async" width="41" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/473862/kinsokuchi-jin-zu-di"><strong>Kinsokuchi (禁足地)</strong></a><br><small>2–6 players</small></td><td class="number">6.76<br><small>41 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">A doomed investigator has ten seconds to scrawl a clue with their weaker hand. Like <b>Monikers</b>, the restriction makes the clue memorable. Bring a group: at two, only one person gets to interpret it.</td></tr>
+        <tr data-entry-id="13273701"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/Ii7BUdkGoWti3alLYljC6w__micro/img/s8bBnzN4LJMcLVJHRkHjtKm3GY8=/fit-in/64x64/filters:strip_icc()/pic9757681.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/475864/kitchen-rally"><strong>Kitchen Rally</strong></a><br><small>2–6 players</small></td><td class="number">6.15<br><small>20 votes</small></td><td class="number">25&ndash;30 min</td><td style="padding:7px 8px;vertical-align:middle">Everybody draws a route at speed, then checks the damage. Try it with the Cartographers crowd; for the first duel, Snowp lets you respond to where the other person’s shot actually landed.</td></tr>
+        <tr data-entry-id="13292255"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/1SKLZ-Fdaadm0VonUjk55Q__micro/img/x-dbnhdPdBAAPoi_H4EbsQAgXwc=/fit-in/64x64/filters:strip_icc()/pic9901288.jpg" alt="" loading="lazy" decoding="async" width="64" height="62" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/482717/kori-meiro"><strong>Kori Meiro</strong></a><br><small>2 players</small></td><td class="number">7.50<br><small>6 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">The route dice belong to neither player, and the mirror reveals paths underneath. A promising two-only alternative: watch whether a poor roll still leaves a useful route before swapping it in for Bologna.</td></tr>
+        <tr data-entry-id="13292263"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/qQ3cODO6Y0SA7-s6aSTT7Q__micro/img/-8dwj3cGj1CL_puPyjsGeddZEJs=/fit-in/64x64/filters:strip_icc()/pic9842150.jpg" alt="" loading="lazy" decoding="async" width="48" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/480724/korokoro-kitchen-scramble"><strong>Korokoro Kitchen Scramble</strong></a><br><small>2–5 players</small></td><td class="number">7.18<br><small>6 votes</small></td><td class="number">20&ndash;30 min</td><td style="padding:7px 8px;vertical-align:middle">You’re predicting the pocket a falling wooden ball will reach. Watch two drops: if you can explain why the second prediction is better, stop; if not, take the shot yourself in Snowp.</td></tr>
+        <tr data-entry-id="13345081"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/5eRJCFUd3FAwjLUuSS5RLg__micro/img/9obeG2Gpl-Z0O5aA-KrrDAMcfDY=/fit-in/64x64/filters:strip_icc()/pic9641543.jpg" alt="" loading="lazy" decoding="async" width="46" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/472021/medico"><strong>Medico</strong></a><br><small>2–4 players</small></td><td class="number">7.29<br><small>346 votes</small></td><td class="number">60&ndash;90 min</td><td style="padding:7px 8px;vertical-align:middle">Picking destinations in secret could make reading a rival barber worthwhile. Watch whether predicting a rival’s next city changes your own route enough to justify the longer tour.</td></tr>
+        <tr data-entry-id="13292257"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/sMnMOkXLUfYUcnGDWHGbPQ__micro/img/A0WHH2SxZYFKGjGsA7YeYILndT0=/fit-in/64x64/filters:strip_icc()/pic9882265.jpg" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/482067/merge-take"><strong>Merge Take</strong></a><br><small>3–4 players</small></td><td class="number">7.37<br><small>15 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Winning a trick can merge two profitable little slime groups into one costly mass. It’s a clever reason to duck a trick, but it needs three or four and isn’t tonight’s duel.</td></tr>
+        <tr data-entry-id="13273733"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/6mKKuO0GNoQYZ54cAWfYUQ__micro/img/OFwD2NP98dXIZ4vLpZvU-wLpwH4=/fit-in/64x64/filters:strip_icc()/pic9704704.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/475383/mole-racing"><strong>Mole Racing</strong></a><br><small>2–6 players</small></td><td class="number">7.45<br><small>70 votes</small></td><td class="number">20 min</td><td style="padding:7px 8px;vertical-align:middle">Driving blind invites a delicious decision about when to stop. A crash can also cost the next turn unless you spend fuel; see how often a miss leaves someone watching rather than playing.</td></tr>
+        <tr data-entry-id="13273736"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/dY7Iiu_YrCuKOYGh-oFBUA__micro/img/0CpfGpZnFonouZAE_2C6idSgdoo=/fit-in/64x64/filters:strip_icc()/pic9813901.jpg" alt="" loading="lazy" decoding="async" width="17" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/479478/music-nonsense"><strong>Music Nonsense</strong></a><br><small>3–5 players</small></td><td class="number">6.41<br><small>50 votes</small></td><td class="number">15 min</td><td style="padding:7px 8px;vertical-align:middle">A xylophone clue is great for three to five willing performers. Unlike Monikers, the fun hinges on someone being willing to play the tune; recruit that table first.</td></tr>
+        <tr data-entry-id="13274665"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/EZ-cRjxe_H4leYPLbMV-5g__micro/img/jy0PXiebwsY8NDFbCrX7jSJucaA=/fit-in/64x64/filters:strip_icc()/pic9813900.jpg" alt="" loading="lazy" decoding="async" width="17" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/479479/my-extreme-skatepark"><strong>My Extreme Skatepark</strong></a><br><small>2–4 players</small></td><td class="number">5.93<br><small>35 votes</small></td><td class="number">15&ndash;20 min</td><td style="padding:7px 8px;vertical-align:middle">Changing the skatepark changes your next flick. Jump in if you want to practice a particular trick; Snowp gets the first rematch because the shot also changes which bells are worth collecting.</td></tr>
+        <tr data-entry-id="13273738"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/QULMiZU5rZst56MaBaKpSw__micro/img/LUtsKDxIUb6hArbn-vYai6YGZHM=/fit-in/64x64/filters:strip_icc()/pic9600547.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/471165/northgreen"><strong>Northgreen</strong></a><br><small>1–4 players</small></td><td class="number">7.84<br><small>80 votes</small></td><td class="number">60&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Pairing a main action with a secondary one sustains the forest and farm. Reserve the 90–120 minutes for an engine night; first look for a harvest decision where a rival’s plans change yours.</td></tr>
+        <tr data-entry-id="13273740"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/GkzXStoLvVHK1Bq5umjciA__micro/img/7Hx8ieGt6d8JBcaW-6u6YmmW1l0=/fit-in/64x64/filters:strip_icc()/pic9744736.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/453530/not-so-fast"><strong>Not So Fast</strong></a><br><small>2–4 players</small></td><td class="number">6.65<br><small>19 votes</small></td><td class="number">20 min</td><td style="padding:7px 8px;vertical-align:middle">A stacked hare can carry a rival toward a scoring space. Watch whether that reveals a secret team while you still have a movement card that can do something about it; Bluffit makes the challenge explicit.</td></tr>
+        <tr data-entry-id="13273742"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/VhHNmP34OIs2KKXFJoCRRg__micro/img/XWP10lpJW8Pxp5bxTxXcvxXlIWI=/fit-in/64x64/filters:strip_icc()/pic9581054.jpg" alt="" loading="lazy" decoding="async" width="46" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/470814/oil-rock"><strong>Oil Rock</strong></a><br><small>2–4 players</small></td><td class="number">7.76<br><small>241 votes</small></td><td class="number">90 min</td><td style="padding:7px 8px;vertical-align:middle">The action wheel and refinery upgrades promise an efficiency puzzle. Before investing a long slot, watch two companies compete for the same site, not just improve their own turbines.</td></tr>
+        <tr data-entry-id="13300136"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://img.gamemarket.jp/20261010_153729_%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%B5%B5_%E5%84%AA%E7%A7%80%E8%B3%9E%E3%83%9E%E3%83%BC%E3%82%AF%E4%BB%98%E3%81%8D.jpg" alt="" loading="lazy" decoding="async" width="1157" height="1583" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://gamemarket.jp/game/188732"><strong>Only Cats</strong></a><br><small>2–5 players</small></td><td class="number">No BGG entry</td><td class="number">15&ndash;35 min</td><td style="padding:7px 8px;vertical-align:middle">You can’t name the hidden card you saw; your partner has to read why you swapped or turned it. Try one rescue before a full teach to see how much the hint gives away.</td></tr>
+        <tr data-entry-id="13273785"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/x67CwRGk2xjXFmgkPISkkA__micro/img/jcZ_nLAlFLP8Cy_SSNr_TQBYqmA=/fit-in/64x64/filters:strip_icc()/pic9601124.jpg" alt="" loading="lazy" decoding="async" width="51" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/471164/opera-magna"><strong>Opera Magna</strong></a><br><small>2–4 players</small></td><td class="number">7.47<br><small>203 votes</small></td><td class="number">45&ndash;60 min</td><td style="padding:7px 8px;vertical-align:middle">Prices move as merchants supply the cathedral. That market is the reason to try it: if neither player’s trade changes what the other wants, the recipe loop sounds too close to Century: Spice Road.</td></tr>
+        <tr data-entry-id="13273743"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/MKiuvWg7AVliGWDt_sv4pA__micro/img/ahZjkcWTa8r1ODDfahsLunhQqVQ=/fit-in/64x64/filters:strip_icc()/pic9245725.jpg" alt="" loading="lazy" decoding="async" width="48" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/458824/orcs-up"><strong>Orcs up!</strong></a><br><small>2–5 players</small></td><td class="number">6.79<br><small>127 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">The orc tower is a physical race, but opponents bring boulders. Watch one hit: rebuilding should feel like a new choice, not simply undoing somebody’s last turn.</td></tr>
+        <tr data-entry-id="13273744"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/HVLLk8LnIIiIBuvuwBwh_A__micro/img/qnYq3x8CECfwpSO9kfScJ3CBdzg=/fit-in/64x64/filters:strip_icc()/pic9357693.jpg" alt="" loading="lazy" decoding="async" width="32" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/462763/panorama"><strong>Panorama</strong></a><br><small>2–4 players</small></td><td class="number">7.14<br><small>238 votes</small></td><td class="number">15&ndash;20 min</td><td style="padding:7px 8px;vertical-align:middle">Reaching farther for the perfect landscape tile leaves more options behind. A good short borrow; Fadenfroh poses the same question about feeding your opponent and adds the decision about covering earlier stitches.</td></tr>
+        <tr data-entry-id="13273747"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/7-3BXfokdPBBwJgbbdLlAA__micro/img/sKOPGVv3jp4DL25GQ0mI_zgEQJQ=/fit-in/64x64/filters:strip_icc()/pic9626632.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/470721/restore"><strong>Restore</strong></a><br><small>2 players</small></td><td class="number">7.24<br><small>42 votes</small></td><td class="number">20&ndash;40 min</td><td style="padding:7px 8px;vertical-align:middle">Take the tile where the two robots meet and add it to your own map. As in <b>Patchwork</b>, taking the best fit also changes what your opponent can reach. Watch whether moving a robot can deny them a tile they need.</td></tr>
+        <tr data-entry-id="13273748"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/w8yFgf7FG5AfNQo1xqEVVQ__micro/img/CHzw9xqA4pMTZ4N0yYAmUXU82Cs=/fit-in/64x64/filters:strip_icc()/pic9395325.jpg" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/458399/rival-seas"><strong>Rival Seas</strong></a><br><small>2–4 players</small></td><td class="number">7.93<br><small>85 votes</small></td><td class="number">70&ndash;100 min</td><td style="padding:7px 8px;vertical-align:middle">Owning shares and controlling the company aren’t the same thing: a CEO can divert its wealth. Try a takeover with more investors before committing both of you to the long shipping game.</td></tr>
+        <tr data-entry-id="13273749"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/0sso8pgApHyZz-fqO2U_FQ__micro/img/9uqKikvmzI8-ZpHG1ci-ghtIMpI=/fit-in/64x64/filters:strip_icc()/pic9680100.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/473557/rooms-and-roomies"><strong>Rooms &amp; Roomies</strong></a><br><small>1–5 players</small></td><td class="number">7.72<br><small>125 votes</small></td><td class="number">30&ndash;75 min</td><td style="padding:7px 8px;vertical-align:middle">The same furniture must fit your truck and then please your roommates. For a home-puzzle night; at the stand, check whether losing a piece to another player forces an interesting redesign.</td></tr>
+        <tr data-entry-id="13292265"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/tVGjtjrZJRX-cOn5lW4StA__micro/img/DekiojaEb0Hxt8-6V3PuBfSmhWo=/fit-in/64x64/filters:strip_icc()/pic9892744.png" alt="" loading="lazy" decoding="async" width="64" height="50" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/482645/rough-roads"><strong>Rough Roads</strong></a><br><small>2–4 players</small></td><td class="number">7.00<br><small>1 votes</small></td><td class="number">60&ndash;75 min</td><td style="padding:7px 8px;vertical-align:middle">Roads to busy towns earn tolls but wear faster. A promising longer game if another builder can upend your four programmed actions; ask to see how much you can salvage afterward.</td></tr>
+        <tr data-entry-id="13300145"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://img.gamemarket.jp/20261015_131449_SLASH_%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC_1400x685_A.png" alt="" loading="lazy" decoding="async" width="1401" height="686" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://gamemarket.jp/game/189922"><strong>/SLASH</strong></a><br><small>3–5 players</small></td><td class="number">No BGG entry</td><td class="number">Up to 20 min</td><td style="padding:7px 8px;vertical-align:middle">A disguised set lets unlike ranks play as a match. That’s a fresh hand puzzle for a Scout group, but the publisher lists three to five; Hyakuju Parade can be sampled at two.</td></tr>
+        <tr data-entry-id="13273751"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/JOAZiJiHdk3qXsxgEnXfMA__micro/img/i3uclg4MXLKyocGlcjpM0nJ9lyg=/fit-in/64x64/filters:strip_icc()/pic8366851.png" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/394094/snow-planner"><strong>Snow Planner</strong></a><br><small>1–4 players</small></td><td class="number">7.59<br><small>248 votes</small></td><td class="number">60&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Dice can represent employees while returning guests keep the inn earning. Save the long teach for a table where taking a particular die matters to both managers, not just to your own hotel.</td></tr>
+        <tr data-entry-id="13273753"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/dnk_gAgDkoasoFWp4Z9kKg__micro/img/kgHs1l_bJfFB8vxe5Ce_pnytBBM=/fit-in/64x64/filters:strip_icc()/pic9665315.jpg" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/462391/sobakistan-land-of-dogs"><strong>Sobakistan: Land of Dogs</strong></a><br><small>3–6 players</small></td><td class="number">7.08<br><small>32 votes</small></td><td class="number">30&ndash;45 min</td><td style="padding:7px 8px;vertical-align:middle">A liaison has to guide the wolves without tipping off the bloodhound. This is the kind of actionable clue Chris likes, but the chase needs at least three distinct players.</td></tr>
+        <tr data-entry-id="13273754"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/mV7v0IxTfKnsuonP4ToKAQ__micro/img/EW_LgS8pNpxdNRkkuj8HMSkmYZU=/fit-in/64x64/filters:strip_icc()/pic9538619.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/468949/spooky-bar"><strong>Spooky Bar</strong></a><br><small>2–4 players</small></td><td class="number">6.88<br><small>35 votes</small></td><td class="number">15&ndash;20 min</td><td style="padding:7px 8px;vertical-align:middle">The pair of actions you choose resolves against everyone else’s pair. A quick alternative to Bluffit if the guests and haunt level let you predict one choice rather than simply hope for a match.</td></tr>
+        <tr data-entry-id="13273755"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/6WGJ5cZdRxqTsFP_YX_uXA__micro/img/rimXaAMeNUNPzMucsn5g1wiPlFw=/fit-in/64x64/filters:strip_icc()/pic9783296.png" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/478341/spy-team"><strong>Spy Team</strong></a><br><small>4 players</small></td><td class="number">7.83<br><small>32 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Visible card colors and a hand playable only from its ends make partner signals interesting. Missions earn the tricks a purpose, but exactly four spies are required.</td></tr>
+        <tr data-entry-id="13273756"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/nSL3_vwKnU9rwjH8SDz9TQ__micro/img/0e6r2kmkroSM5BsOtUjkQJH56iQ=/fit-in/64x64/filters:strip_icc()/pic9219071.jpg" alt="" loading="lazy" decoding="async" width="43" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/454696/spyworld"><strong>Spyworld</strong></a><br><small>2+ players</small></td><td class="number">6.72<br><small>144 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Building traps costs resources your own infiltrator could use. Try a room crossing before a full game: does its designer still have an interesting job once the opponent enters the lair?</td></tr>
+        <tr data-entry-id="13273758"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/SbFSsFn87t1_qo7jE1br3g__micro/img/PFHQu9gYso7fBT2ukCkUn6SEOmY=/fit-in/64x64/filters:strip_icc()/pic9254942.png" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/447208/stars-of-ilumeia"><strong>Stars of Ilumeïa</strong></a><br><small>1–4 players</small></td><td class="number">7.74<br><small>78 votes</small></td><td class="number">60&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Several small constellations can fund more actions instead of waiting for one big score. Save this longer puzzle for a night when both players want to study a star display rather than each other.</td></tr>
+        <tr data-entry-id="13273759"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/qugt4IsefPkloySA_mH1Kw__micro/img/0tkK87qBDEZCQ1mQHcMlZcZ4LYE=/fit-in/64x64/filters:strip_icc()/pic8170186.jpg" alt="" loading="lazy" decoding="async" width="52" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/359963/stellar-ventures"><strong>Stellar Ventures</strong></a><br><small>3–5 players</small></td><td class="number">7.68<br><small>194 votes</small></td><td class="number">90&ndash;150 min</td><td style="padding:7px 8px;vertical-align:middle">Taking the aliens’ dividend can expose every investor to a later double-cross. That’s shared risk worth discussing, but the corporations need at least three investors and a dedicated long session.</td></tr>
+        <tr data-entry-id="13273761"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/nrdNzThBqtWIZvHkxrVn5w__micro/img/cpvhSKszsbufL0Yj5O5RUMgxy8M=/fit-in/64x64/filters:strip_icc()/pic9543518.png" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/468535/strange-slot-simulator"><strong>Strange Slot Simulator</strong></a><br><small>1–5 players</small></td><td class="number">5.79<br><small>75 votes</small></td><td class="number">10&ndash;20 min</td><td style="padding:7px 8px;vertical-align:middle">Four minutes of draws give you evidence about a slot machine’s hidden settings. A better stop for statistical deduction than a Skull-style read: you’re figuring out a machine, not a rival.</td></tr>
+        <tr data-entry-id="13273765"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/MFFBqfCzqrFFekpe1Fl_3Q__micro/img/27oP-La4FrkthM_pU7nbCmwEvk4=/fit-in/64x64/filters:strip_icc()/pic9854179.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/480912/tideward"><strong>Tideward</strong></a><br><small>2–4 players</small></td><td class="number">7.54<br><small>28 votes</small></td><td class="number">45 min</td><td style="padding:7px 8px;vertical-align:middle">The tide rotates after the round, carrying turtles with it. Watch whether positioning for the current can upset another route; without that, save it for a gentler map-building evening.</td></tr>
+        <tr data-entry-id="13273764"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/YrHXIu4shaLJ5zqQtHDc9w__micro/img/mkW5yTbnTLN7wO-FNiSvJUQD3C4=/fit-in/64x64/filters:strip_icc()/pic9389424.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/462479/timespan"><strong>Timespan</strong></a><br><small>1–5 players</small></td><td class="number">7.63<br><small>452 votes</small></td><td class="number">90 min</td><td style="padding:7px 8px;vertical-align:middle">New civilization cards push old ones off your timeline. The expiry decision could earn a long session, but check whether the shared draft makes you care about the other timelines as well as yours.</td></tr>
+        <tr data-entry-id="13273766"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/lW6lKVR4BvTkUf5IbeFISw__micro/img/43qOR8jfIq3qPBZuygwl1mZv0BA=/fit-in/64x64/filters:strip_icc()/pic9222123.jpg" alt="" loading="lazy" decoding="async" width="51" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/458320/tinctura"><strong>Tinctura</strong></a><br><small>1–4 players</small></td><td class="number">7.63<br><small>145 votes</small></td><td class="number">90&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Planning pharmacy shifts in secret sounds interactive; gathering ingredients and fulfilling prescriptions sounds closer to Century. Ask what a rival can change in your working day before accepting the long teach.</td></tr>
+        <tr data-entry-id="13273767"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/2qy9J09iqf8NcOPyclvMsw__micro/img/G_p3wAEVGMIvxPMSxjxj5vtJa70=/fit-in/64x64/filters:strip_icc()/pic9665418.jpg" alt="" loading="lazy" decoding="async" width="64" height="46" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/473927/trencadis-a-mosaic-of-words"><strong>Trencadís: A Mosaic of Words</strong></a><br><small>2–5 players</small></td><td class="number">7.91<br><small>16 votes</small></td><td class="number">25 min</td><td style="padding:7px 8px;vertical-align:middle">A word scores influence on its letters, so the cleverest answer may be the one that steals a contested tile. Try this at a word-game table before making vocabulary the test of your two-player night.</td></tr>
+        <tr data-entry-id="13292258"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/BQAz7A9npwUUMFQn5nXsHA__micro/img/NY4fgGr6i7gSQbMjHLd3Ys0EVBk=/fit-in/64x64/filters:strip_icc()/pic9817457.png" alt="" loading="lazy" decoding="async" width="64" height="45" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/479749/trick-of-balance"><strong>Trick of Balance</strong></a><br><small>3–5 players</small></td><td class="number">7.26<br><small>8 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">You may want to miss your trick objective if most others will miss theirs. That’s an opponent read, but one built for three to five; no head-to-head table here.</td></tr>
+        <tr data-entry-id="13273769"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/BZXyKygnOo3LqOW4PH446A__micro/img/xgrhFR0z59fptiQzlDOBNE6eGks=/fit-in/64x64/filters:strip_icc()/pic9265646.png" alt="" loading="lazy" decoding="async" width="64" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/420932/trick-stakes"><strong>Trick Stakes</strong></a><br><small>3–4 players</small></td><td class="number">7.03<br><small>85 votes</small></td><td class="number">30 min</td><td style="padding:7px 8px;vertical-align:middle">Your hand carries forward as the tricks move the horses. That gives the tricks a consequence Chris might like, but the race needs three or four and a group that wants to predict the finish.</td></tr>
+        <tr data-entry-id="13273772"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/cLqRD9HwrgvWuj5dqzl8rA__micro/img/HstqmS-rymzl6xWWFlVDCQljuCE=/fit-in/64x64/filters:strip_icc()/pic9667633.jpg" alt="" loading="lazy" decoding="async" width="51" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/473111/valley-of-sky-lanterns"><strong>Valley of Sky Lanterns</strong></a><br><small>1–4 players</small></td><td class="number">7.67<br><small>44 votes</small></td><td class="number">60&ndash;90 min</td><td style="padding:7px 8px;vertical-align:middle">A drafted die and a multi-use card can serve lantern launches, railways or orders. Ask for a turn where passing a die costs both players something; otherwise save the long slot for Drops of Evil.</td></tr>
+        <tr data-entry-id="13273773"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/zMZ6aWnxUjNsAFccyMY9sQ__micro/img/mRKxzUBOIYDVBD8pBvnfPgWitJo=/fit-in/64x64/filters:strip_icc()/pic9728996.jpg" alt="" loading="lazy" decoding="async" width="43" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/474481/wireless"><strong>Wireless</strong></a><br><small>1–4 players</small></td><td class="number">7.34<br><small>69 votes</small></td><td class="number">30&ndash;120 min</td><td style="padding:7px 8px;vertical-align:middle">Using the same action repeatedly makes it harder to repeat, so claiming a patent can interrupt your network plans. Reserve the long teach for a table where two inventors race for the same connection.</td></tr>
+        <tr data-entry-id="13273774"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/UBFn6rfSfnR7xD706MHp3A__micro/img/S9MoAykuQz3TE-YcxMKP8QDP4ts=/fit-in/64x64/filters:strip_icc()/pic9370111.png" alt="" loading="lazy" decoding="async" width="45" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/459462/word-buffet"><strong>Word Buffet</strong></a><br><small>2–4 players</small></td><td class="number">7.56<br><small>17 votes</small></td><td class="number">20&ndash;30 min</td><td style="padding:7px 8px;vertical-align:middle">Both players hunt words at once, extending ant trails toward food. A good short vocabulary race; pick it when finding the word sounds more fun than trying to read the other player.</td></tr>
+        <tr data-entry-id="13328912"><td style="width:50px;padding:7px 4px;vertical-align:middle;text-align:center"><img src="https://cf.geekdo-images.com/EDZOsY7RxkewNDkBnTQKhQ__micro/img/FahcnWPEtcCSIHSbXZdrOv18rnQ=/fit-in/64x64/filters:strip_icc()/pic9644551.png" alt="" loading="lazy" decoding="async" width="49" height="64" style="display:block;margin:auto;width:auto;height:auto;max-width:42px;max-height:46px"></td><td style="padding:7px 5px;width:27%;vertical-align:middle;overflow-wrap:anywhere"><a href="https://boardgamegeek.com/boardgame/472980/yokai-yen"><strong>Yōkai Yen?!!</strong></a><br><small>2–4 players</small></td><td class="number">6.19<br><small>8 votes</small></td><td class="number">20 min</td><td style="padding:7px 8px;vertical-align:middle">Someone else manages the hand you can’t see, and you direct plays by position. Try it if the clues give you a real deduction at two; otherwise Hyakuju Parade offers a hand puzzle you can inspect.</td></tr>
+      </tbody></table></div>
+      
+      </details></div>
+    </section>
+
+    <section id="booths" aria-labelledby="booth-title">
+      <h2 id="booth-title">Booths</h2><div class="table-gallery booth-gallery">
+<article class="booth-story" id="stomp"><figure class="table-photo" data-game="STOMP"><a href="https://www.wericmartin.com/pax-unplugged-2026-joinery-kart-stomp-return-of-the-king-ttg/"><img loading="lazy" src="https://storage.ghost.io/c/5a/16/5a16635c-eb73-44ae-8dab-7c32ee8e4fd4/content/images/2026/11/stomp.png" alt="Mechs face giant monsters in the STOMP preview illustration"></a><figcaption>Illustration by Evan Palmer · W. Eric Martin</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/483046">STOMP</a> &amp; <a href="https://boardgamegeek.com/boardgame/475307">KART</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670401">Leder Games · 2611</a> <small>· both 2–4 players</small></p><p>In <b>STOMP</b>, plan a mech attack together, then flick the shot at a kaiju. In <b>KART</b>, race downhill: the faster you go, the less control you have.</p><p><b>Feels like:</b> A <b>Crokinole</b> shot with teammates counting on the landing. Pick STOMP for the shared scramble after a miss; KART to push your own luck.</p></article>
+<article class="booth-story" id="bitewing"><figure class="table-photo" data-game="Azure"><a href="https://boardgamegeek.com/image/9151643"><img loading="lazy" src="https://cf.geekdo-images.com/kMJ5WJgaHk2iM4pqNxuLLw__large/img/0L8nJ5qEfUW37gvhwmaiPCWkOHA=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9151643.jpg" alt="Black and white stones on the Azure board with its Gifted module"></a><figcaption>scottdarrington / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/447254">Azure</a> &amp; <a href="https://boardgamegeek.com/boardgame/447252">Moytura</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670699">Bitewing Games · 3102</a></p><p>In <b>Azure</b> (20 min), a stone makes spaces in its row and column cheaper for both players. In <b>Moytura</b> (45 min), two rivals fight for majorities while neutral clans can outscore them both.</p><p><b>Feels like:</b> Two kinds of duel. Pick Azure to bait an opponent into taking the wrong space; Moytura if you want a third faction complicating the fight.</p></article>
+<article class="booth-story" id="mercenaries"><figure class="table-photo" data-game="Mercenaries Wanted"><a href="https://www.wargamer.com/mercenaries-wanted/board-game-demo"><img loading="lazy" src="https://www.wargamer.com/wp-content/sites/wargamer/2026/08/mercenaries-wanted-board-game-demo-1.jpg" alt="Mercenary cards from the Gen Con demo of Mercenaries Wanted"></a><figcaption>Gen Con demo / Wargamer</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/475344">Mercenaries Wanted</a></h3><p class="location"><a href="https://cephalofair.com/pages/convention/pax-unplugged-2026">Cephalofair · 2043</a> <small>· 1–6 players · 30–60 min</small></p><p>Draft a crew for a public contract, then decide which mercenary to promote for the next tournament. You’re hiring the adventurers, not fighting the dungeon.</p><p><b>Feels like:</b> The timing puzzle in <b>Faraway</b>: the best pick for this contract might cost you a better payoff later.</p></article>
+<article class="booth-story" id="primacy"><figure class="table-photo" data-game="Primacy"><a href="https://boardgamegeek.com/image/9906110"><img loading="lazy" src="https://cf.geekdo-images.com/pSy2N08BmBRNF3ARcGELig__large/img/xtIoXj8cXvh5xHp9W1UgdVt_3po=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9906110.jpg" alt="Primacy’s main board"></a><figcaption>How I Roll / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/377946">Primacy</a></h3><p class="location"><a href="https://boardgamegeek.com/geekpreview/94/item/25968">Spielcraft · 4222</a> <small>· 2–4 players · 45–120 min</small></p><p>Secretly divide your cards among three objectives. Two wins take the sector, but each objective offers its own reward. Which one can you afford to concede?</p><p><b>Feels like:</b> Reading a facedown commitment in <b>Netrunner</b>. Play one sector to see whether you can call the bluff.</p></article>
+<article class="booth-story" id="joinery"><figure class="table-photo" data-game="Joinery"><a href="https://boardgamegeek.com/image/8698102"><img loading="lazy" src="https://cf.geekdo-images.com/z7koxTiqNGlwKUr2TBb1oQ__large/img/xPT-wngl5aTCkbn_eZb4DMzLlms=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic8698102.jpg" alt="Workshop and contracts laid out for Joinery"></a><figcaption>GiantLeek / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/436986">Joinery</a></h3><p class="location"><a href="https://www.wericmartin.com/pax-unplugged-2026-joinery-kart-stomp-return-of-the-king-ttg/">Rock Manor · 2363</a> <small>· 1–5 players · 90–120 min</small></p><p>Fill a woodworking contract and spend the proceeds on tools for more demanding jobs.</p><p><b>Feels like:</b> Filling orders in <b>Century: Spice Road</b>, but here the payoff changes your workshop. Follow one project through to see what the upgrade lets you build next.</p></article>
+<article class="booth-story" id="last-command"><figure class="table-photo" data-game="The Last Command: Advanced Warfare"><a href="https://boardgamegeek.com/image/9900079"><img loading="lazy" src="https://cf.geekdo-images.com/-rfvDBEe9BXHDv_bmUBwRg__large/img/JtnOpcs923nN5_Wceg-e7oEka7U=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9900079.jpg" alt="Cover of The Last Command: Advanced Warfare expansion"></a><figcaption>Tydaspy / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/482962">The Last Command: Advanced Warfare</a></h3><p class="location"><a href="https://boardgamegeek.com/geekpreview/94/item/26058">Around the Stump · 4327</a> <small>· 1–2 players · 30–60 min</small></p><p>Each captain runs a starship with separate crew and systems decks. Shields you don’t spend become power next turn.</p><p><b>Feels like:</b> A duel where staying on defense can fund your next attack. It’s an expansion demo; ask whether the teach starts from scratch.</p></article>
+<article class="booth-story" id="monster-academy"><figure class="table-photo" data-game="Monster Academy"><a href="https://boardgamegeek.com/image/9932324"><img loading="lazy" src="https://cf.geekdo-images.com/WohqgWaKYydRsPdfnmsoyg__large/img/9Pmf94BSGzC0Tno7Za1viRtFYUA=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9932324.png" alt="Overhead view of the Monster Academy prototype scenario"></a><figcaption>endublu / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/474719">Monster Academy: Hexes &amp; Hijinks</a></h3><p class="location"><a href="https://boardgamegeek.com/geekpreview/94/item/26110">Calliope · 1951</a> <small>· 1–6 players · 40–60 min</small></p><p>Defend a school together. Pick one of three cards: act now, lay a trap, or set up a teammate.</p><p><b>Feels like:</b> A shared tactical puzzle. Choose it over the nearby crew draft if you’d rather plan the next move together.</p></article>
+<article class="booth-story" id="all-true-believers"><figure class="table-photo" data-game="All True Believers"><a href="https://boardgamegeek.com/image/9868184"><img loading="lazy" src="https://cf.geekdo-images.com/6nBbP-FghIoN2TUqpBdWQw__itemrep@2x/img/SSy944kA4_yLK9VKRIUtIn4W8ls=/fit-in/492x600/filters:strip_icc()/pic9868184.jpg" alt="All True Believers artwork"></a><figcaption>All True Believers / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/468852">All True Believers</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670478">Pillbox · 3352</a> <small>· 4–10 players · 45–90 min</small></p><p>One player offers two cards in secret; a second chooses which goes on the mission. When a mission fails, either of them could have sabotaged it.</p><p><b>Feels like:</b> A hidden-role accusation with a specific card choice to argue about. Join a group for this one.</p></article>
+<article class="booth-story" id="rolliverse"><figure class="table-photo" data-game="Rolliverse"><a href="https://boardgamegeek.com/image/9850540"><img loading="lazy" src="https://cf.geekdo-images.com/zHW9xLgdJQJ5rEJZlFBxVg__itemrep@2x/img/cfNivqT5Jg7gFeCkkQwmbc7P1FY=/fit-in/492x600/filters:strip_icc()/pic9850540.jpg" alt="Rolli’s Adventures, one set in the Rolliverse series"></a><figcaption>Rolli’s Adventures / BGG · booth set not specified</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgamefamily/120996">Rolliverse</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=671045">Ravensburger · 3227</a></p><p>Roll five dice up to three times. Keep a combination to claim matching cards from your hand and the shared display, or reroll for a bigger haul.</p><p><b>Feels like:</b> <b>Yahtzee</b> with the prizes face up. A lighter stop between longer teaches.</p></article>
+<article class="booth-story" id="want-to-play"><figure class="table-photo" data-game="Compile: Main 1"><a href="https://boardgamegeek.com/image/8778267"><img loading="lazy" src="https://cf.geekdo-images.com/KMSUmBs9elKj4qBMxGVFgw__previewthumb/img/-hqjFdwgZHCGvlI1rhgLJHxkovA=/fit-in/300x320/filters:strip_icc()/pic8778267.png" alt="Compile: Main 1 cover"></a><figcaption>Compile: Main 1 / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/406652">Compile: Main 1</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670703">Luma · 2643</a> <small>· 2 players · 20–30 min</small></p><p>Two rival AIs stack cards in three lanes. Compile a protocol by building up enough value while keeping the opposing stack smaller.</p><p><b>Feels like:</b> A tug-of-war where covering a card can switch off its power. Ask to try the standard box; the <a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955188">tournament</a> uses an event booster.</p></article>
+<article class="booth-story" id="lords-of-vegas"><figure class="table-photo" data-game="Lords of Vegas"><a href="https://boardgamegeek.com/image/9809564"><img loading="lazy" src="https://cf.geekdo-images.com/nNTS4i82dWCzIaHYg0L-tA__previewthumb/img/MI8BvukGb9X0Gw8k3lVzg1lH73M=/fit-in/300x320/filters:strip_icc()/pic9809564.jpg" alt="Lords of Vegas cover"></a><figcaption>Lords of Vegas / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/20437">Lords of Vegas</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670448">Medium Brow · 4307</a> <small>· 2–4 players · 60–90 min</small></p><p>Build casinos together, but compete to be the boss. A new lot can merge neighboring casinos; a reroll can put somebody else in charge.</p><p><b>Feels like:</b> A property deal that can turn on a die. Ask for the base game, listed separately from Deluxe.</p></article>
+<article class="booth-story" id="booth-oath"><figure class="table-photo" data-game="Oath"><a href="https://boardgamegeek.com/image/5164812"><img loading="lazy" src="https://cf.geekdo-images.com/gTxav_KKQK1rDg-XuCjCSA__previewthumb/img/YFEjpwSyMbkxjxnEokbznzOcUGY=/fit-in/300x320/filters:strip_icc()/pic5164812.jpg" alt="Oath cover"></a><figcaption>Oath / BGG</figcaption></figure>
+<h3><a href="https://boardgamegeek.com/boardgame/291572">Oath</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670627">Buried Giant · 2263</a> <small>· 1–6 players · 45–150 min</small></p><p>The Chancellor tries to hold the realm while exiles challenge the terms of victory. Whoever wins shapes the next game’s starting position.</p><p><b>Feels like:</b> A political negotiation that doesn’t reset when you pack up. Ask if the base game is set up rather than an expansion.</p></article>
+</div>
+      <details id="publisher-gaps"><summary>More Expo Hall details: showcases, sales &amp; unconfirmed demos</summary>
+        <p><b>On display:</b> <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=673844">Snow Drift · PAX Rising 2933</a> is a simultaneous-card sled race. A showcase listing doesn’t guarantee a seat. For miniatures, Bandai has a <a href="https://global.bandai-hobby.net/en-us/site/gundam-assemble/topics/20261106_pax_unplugged/">Gundam Assemble demo</a> and a <a href="https://www.gundam-gcg.com/en/events/PAXU2026.html">card event</a>; check which of its two locations (2243 or GH-31A) hosts yours.</p>
+        <p><b>Ask before making a detour:</b> <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670463">Allplay · 2905/2911/GH-43C</a> lists Mountain Goats Legacy and Container; <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670709">Capstone · 1827</a> lists Greenwood; <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670402">Devir · 3435</a> lists Gaudí. None promises a teach. The same goes for The Game Makers at <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670689">Bézier · 2711</a> and Vantage Point at Null Signal · 4158.</p>
+        <p><b>Shopping:</b> <a href="https://meeplesource.com/proddetail.php?prod=STM575-PAX">Braided Skies pickup · 3151</a>; <a href="https://oinkgames.com/en/news/xXQ8fWt3JPJAheYmuUPexi/">Loop 40 sales · 3233</a>; <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670545">Dragons of Etchinstone bundle · 2943</a>.</p>
+        <p><b>Lineup unknown:</b> <a href="https://tycoongames.com/pages/paxunplugged">Tycoon · 2027</a> hasn’t named its demos. <a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670374">Asmodee</a> spans 2626, 201B and Gaming Hall block 32 without an imprint-by-imprint schedule. For <b>Return of the King</b>, use the <a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955092">scheduled teach</a>.</p>
+      </details>
+      
+    <h3 id="booth-route">Booth route at a glance</h3><div class="table-wrap"><table class="scan"><thead><tr><th>Publisher / host</th><th>Booth</th><th>Game</th><th>What to do</th></tr></thead><tbody>
+<tr><td>Leder Games</td><td>2611</td><td><a href="#stomp">STOMP &amp; KART</a></td><td>Flick at a kaiju or race downhill.</td></tr>
+<tr><td>Bitewing Games</td><td>3102</td><td><a href="#bitewing">Azure &amp; Moytura</a></td><td>Pick Azure for a spatial duel, Moytura for majorities.</td></tr>
+<tr><td>Cephalofair</td><td>2043</td><td><a href="#mercenaries">Mercenaries Wanted</a></td><td>Draft a crew and resolve a contract.</td></tr>
+<tr><td>Spielcraft</td><td>4222</td><td><a href="#primacy">Primacy</a></td><td>Play one contested sector.</td></tr>
+<tr><td>Rock Manor</td><td>2363</td><td><a href="#joinery">Joinery</a></td><td>Follow one project to its workshop upgrade.</td></tr>
+<tr><td>Around the Stump</td><td>4327</td><td><a href="#last-command">Advanced Warfare</a></td><td>Ask for a newcomer-friendly expansion teach.</td></tr>
+<tr><td>Calliope</td><td>1951</td><td><a href="#monster-academy">Monster Academy</a></td><td>Try one co-op scenario.</td></tr>
+<tr><td>Pillbox</td><td>3352</td><td><a href="#all-true-believers">All True Believers</a></td><td>Join a group for the hidden-role demo.</td></tr>
+<tr><td>Ravensburger</td><td>3227</td><td><a href="#rolliverse">Rolliverse</a></td><td>Try a quick dice round.</td></tr>
+<tr><td>Luma</td><td>2643</td><td><a href="#want-to-play">Compile: Main 1</a></td><td>Ask for the standard-box duel.</td></tr>
+<tr><td>Medium Brow</td><td>4307</td><td><a href="#lords-of-vegas">Lords of Vegas</a></td><td>Ask for the base game, not Deluxe.</td></tr>
+<tr><td>Buried Giant</td><td>2263</td><td><a href="#booth-oath">Oath</a></td><td>Ask whether the base game is set up.</td></tr></tbody></table></div>
+      <div id="book-a-table" class="substop"><h3 id="room-title">Publisher demo rooms</h3><div class="table-gallery booth-gallery">
+        <article class="booth-story"><figure class="table-photo" data-game="Unmatched: Hellboy"><a href="https://boardgamegeek.com/image/9443515"><img src="https://cf.geekdo-images.com/wRdcRQLEpIrSPsKJvUb2dA__previewthumb/img/EWHpkcDDq4dAFgteBOQzwdwlJXo=/fit-in/300x320/filters:strip_icc()/pic9443515.jpg" loading="lazy" alt="Unmatched: Hellboy cover"></a><figcaption>Unmatched: Hellboy / BGG</figcaption></figure>
+        <h3><a href="https://boardgamegeek.com/boardgame/451703">Unmatched: Hellboy</a></h3><p class="location">Restoration · Gaming Hall, across from 1833</p><p>Move into range, commit a card facedown and see whether the defender read your attack. Positioning can threaten damage before a card changes hands.</p><p><b>Feels like:</b> A duel of feints with a map to maneuver on. <a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=954868">One-hour teach for two</a>; reserve in PAX Nav at 8 AM each day.</p></article>
+        <article class="booth-story"><figure class="table-photo" data-game="Thunder Road: Ignition"><a href="https://boardgamegeek.com/image/9584906"><img src="https://cf.geekdo-images.com/TBgUZDwT-WPVnfvOrVOrQQ__previewthumb/img/9BJMffDissa3y5iRSMsl4DtYRJY=/fit-in/300x320/filters:strip_icc()/pic9584906.jpg" loading="lazy" alt="Thunder Road: Ignition cover"></a><figcaption>Thunder Road: Ignition / BGG</figcaption></figure>
+        <h3><a href="https://boardgamegeek.com/boardgame/464729">Thunder Road: Ignition</a></h3><p class="location">Restoration · Gaming Hall, across from 1833</p><p>Race down a highway where dice decide how far you move and a collision can send cars spinning.</p><p><b>Feels like:</b> The crash-and-bash appeal of <b>Thunder Road: Vendetta</b> without entering its tournament. <a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=954866">Ignition teach</a>; reserve in PAX Nav at 8 AM each day.</p></article>
+        <article class="booth-story"><figure class="table-photo" data-game="Kingdom Come: Deliverance"><a href="https://boardgamegeek.com/image/9675386"><img loading="lazy" src="https://cf.geekdo-images.com/ZqBMxf-fzvVGTLBOlzebZA__large/img/LMyhJ0r1StuV_4LCsbpUi0q4HEE=/fit-in/1024x1024/filters:no_upscale():strip_icc()/pic9675386.jpg" alt="Kingdom Come prototype set up for play"></a><figcaption>kreten / BGG</figcaption></figure>
+        <h3><a href="https://boardgamegeek.com/boardgame/473897">Kingdom Come: Deliverance</a></h3><p class="location"><a href="https://unplugged.paxsite.com/philly/en-us/expo-hall/showroom.html?gtID=670691">Czech Games Edition · 203AB</a></p><p>Spend experience on skill cards, then use them to talk, fight or steal your way through medieval Bohemia.</p><p><b>Feels like:</b> A sandbox adventure where your deck decides which paths are worth trying. Sample a quest before committing an evening. If there’s a line, <b>SETI</b> and <b>Galaxy Trucker</b> also demo here.</p></article>
+        <article class="booth-story"><figure class="table-photo" data-game="Clank! The Dragon’s Birthday Party"><a href="https://boardgamegeek.com/image/9647243"><img src="https://cf.geekdo-images.com/XVAvnPhD9VmRiRBvy6JbmA__previewthumb/img/hA_-HbV9imXO7JBpLsutF08_LyE=/fit-in/300x320/filters:strip_icc()/pic9647243.png" loading="lazy" alt="Clank! Master Thief Edition cover"></a><figcaption>Clank! Master Thief Edition / BGG</figcaption></figure>
+        <h3>Clank! The Dragon’s Birthday Party</h3><p class="location">Dire Wolf · room 115</p><p>Build a deck to explore the dungeon and steal treasure. The deeper you go, the more chances the dragon has to catch you before you get back out.</p><p><b>Feels like:</b> A race where the richest exit isn’t the safest. <a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955159">Friday 12:45 PM · preregister</a> for this <a href="https://boardgamegeek.com/boardgame/469932">Master Thief Edition</a> scenario.</p></article>
+      </div></div>
+      <div id="scheduled" class="substop"><h3>Scheduled games on your Want to Play list</h3><div class="cover-shelf">
+        <article class="cover-tile"><img src="https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__previewthumb/img/Y9apAdg80y0-RV1Oxze6ZwzZe18=/fit-in/300x320/filters:strip_icc()/pic3490053.jpg" loading="lazy" decoding="async" alt=""><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955064">Brass: Birmingham</a></h4><small>Fri 7 PM &middot; Train Gamers, Hall D</small><p>First come, first served. Allow three hours for <b>Brass</b>, despite the two-hour shared listing. Overlaps the <a href="#return-of-the-king"><b>Return of the King</b> teach</a>.</p></article>
+        <article class="cover-tile"><img src="https://cf.geekdo-images.com/l0bFsrGy_cfKRK6YW_dG-g__previewthumb/img/HWCu8mHF2rp5doFRBoGNO0lMNH4=/fit-in/300x320/filters:strip_icc()/pic8586892.png" loading="lazy" decoding="async" alt=""><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=954888">Thunder Road: Vendetta</a></h4><small>Sat 10:30 AM &middot; Level 2 Gaming Hall</small><p>Round one uses the base game with a <b>Choppe Shoppe</b> draft. <a href="https://linktr.ee/restorationgames">Preregister with Restoration</a> ($6). Overlaps <b>Twilight Imperium</b>.</p></article>
+        <article class="cover-tile"><img src="https://cf.geekdo-images.com/_Ppn5lssO5OaildSE-FgFA__previewthumb/img/RpQb096tYIeIhbYJpqoptIeZC1k=/fit-in/300x320/filters:strip_icc()/pic3727516.jpg" loading="lazy" decoding="async" alt=""><h4><a href="https://unplugged.paxsite.com/philly/en-us/schedule/schedule-item.html?gtID=955190">Twilight Imperium: Fourth Edition</a></h4><small>Sat 11:15 AM&ndash;6 PM &middot; Room 115</small><p>Six-player tables with <b>Prophecy of Kings</b>. Register in PAX Nav at 8 AM Saturday.</p></article>
+      </div>
+      </div>
+    </section>
+
+    <section id="library" aria-labelledby="library-title">
+      <h2 id="library-title">Library</h2><div class="table-wrap"><table class="scan"><caption>11 Want to Play matches in the <a href="https://paxsite.net/playablegames/index.php?forcedepartment=tabletop">PAX-wide catalogue</a> &middot; Ask at <a href="https://unplugged.paxsite.com/philly/en-us/features/tabletop-freeplay.html">Philly Freeplay</a>; local copies aren&rsquo;t guaranteed.</caption><thead><tr><th scope="colgroup" colspan="2">Game</th><th scope="col">Players</th><th scope="col">Playtime</th><th scope="col">Why</th></tr></thead><tbody>
+        <tr><td><img src="https://cf.geekdo-images.com/LA-CPp3BnCHkJa8ut85aIQ__previewthumb/img/8PuK_eXTnRKi71P1nfKNSM7yPU4=/fit-in/300x320/filters:strip_icc()/pic3360633.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/190082"><b>Whitehall Mystery</b></a> (2017)</td><td>2–4</td><td>45–60 min</td><td>First ask for a duel: one player is hidden; the other uses scarce searches to test a theory about the escape route.</td></tr>
+        <tr><td><img src="https://cf.geekdo-images.com/RrYR1xB8H7D1B5GwNV8jgQ__previewthumb/img/eouSSCOPPfH9n6zULq4RJofJfkY=/fit-in/300x320/filters:strip_icc()/pic4212417.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/256226"><b>Azul: Stained Glass of Sintra</b></a> (2018)</td><td>2–4</td><td>30–45 min</td><td>Shorter contested draft. What you leave in the middle matters just as much as the glass you take.</td></tr>
+        <tr><td><img src="https://cf.geekdo-images.com/d50LceHj6LIafa4S_qIsCg__previewthumb/img/GE8wFT-0992jIMWYeiXI2R1fMXY=/fit-in/300x320/filters:strip_icc()/pic3189350.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/191189"><b>Aeon’s End</b></a> (2016)</td><td>1–4</td><td>60 min</td><td>Co-op break: build decks against a shared boss. You never shuffle, so how you discard sets up later hands.</td></tr>
+        <tr><td><img src="https://cf.geekdo-images.com/l0bFsrGy_cfKRK6YW_dG-g__previewthumb/img/HWCu8mHF2rp5doFRBoGNO0lMNH4=/fit-in/300x320/filters:strip_icc()/pic8586892.png" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/342070"><b>Thunder Road: Vendetta</b></a> (2023)</td><td>2–4</td><td>45–75 min</td><td>Ask for the exact box on the list if you want the original crash-and-bash race, not the scheduled <b>Ignition</b> teach.</td></tr>
+        <tr><td><img src="https://cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__previewthumb/img/Y9apAdg80y0-RV1Oxze6ZwzZe18=/fit-in/300x320/filters:strip_icc()/pic3490053.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/224517"><b>Brass: Birmingham</b></a> (2018)</td><td>2–4</td><td>60–120 min</td><td>Save for a long table: building into someone else’s network can help both of you, but not equally.</td></tr>
+      <tr><td><img src="https://cf.geekdo-images.com/OAX7HfOz-9N60StgADzd0g__previewthumb/img/Yp-2A54e5l5tjNYQI6et0H6f9qY=/fit-in/300x320/filters:strip_icc()/pic3781944.png" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/236457"><b>Architects of the West Kingdom</b></a> (2018)</td><td>1&ndash;5</td><td>60&ndash;80 min</td><td>Worker placement with a reason to watch opponents: a crowd of workers is productive, but easy to capture.</td></tr>
+      <tr><td><img src="https://cf.geekdo-images.com/BfEHqHQAvZLbRX7y7e9TWg__previewthumb/img/bdhh2L1fzK1gR061fxizr6niZts=/fit-in/300x320/filters:strip_icc()/pic5617866.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/317985"><b>Beyond the Sun</b></a> (2020)</td><td>2&ndash;4</td><td>60&ndash;120 min</td><td>For a longer engine builder: the tech tree you unlock also creates options for rivals.</td></tr>
+      <tr><td><img src="https://cf.geekdo-images.com/gTxav_KKQK1rDg-XuCjCSA__previewthumb/img/YFEjpwSyMbkxjxnEokbznzOcUGY=/fit-in/300x320/filters:strip_icc()/pic5164812.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/291572"><b>Oath</b></a> (2021)</td><td>1&ndash;6</td><td>45&ndash;150 min</td><td>Best with a group willing to negotiate over who gets to rule.</td></tr>
+      <tr><td><img src="https://cf.geekdo-images.com/nagl1li6kYt9elV9jbfVQw__previewthumb/img/ZqKrB15r_23se1Gv3FFxztnrMME=/fit-in/300x320/filters:strip_icc()/pic6228507.jpg" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/164928"><b>Orléans</b></a> (2014)</td><td>2&ndash;5</td><td>90 min</td><td>Build a bag of followers, then combine the ones you draw to take actions.</td></tr>
+      <tr><td><img src="https://cf.geekdo-images.com/47o_swlkRbfpMH3hnFZgtA__previewthumb/img/z2h3Qe6SteTRVH69w-Cu9xS1uKM=/fit-in/300x320/filters:strip_icc()/pic4383594.png" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/266830"><b>QE</b></a> (2019)</td><td>3&ndash;5</td><td>45 min</td><td>Replay for a group: bid any amount, but the biggest spender is eliminated.</td></tr>
+      <tr><td><img src="https://cf.geekdo-images.com/t-cfSQs4Ic3SAzCSxTigLg__previewthumb/img/HFsEmyxoVfGtY0v7pYs5Rvh2QVc=/fit-in/300x320/filters:strip_icc()/pic9203204.png" loading="lazy" decoding="async" alt=""></td><td><a href="https://boardgamegeek.com/boardgame/42"><b>Tigris &amp; Euphrates</b></a> (1997)</td><td>2&ndash;4</td><td>60&ndash;120 min</td><td>Choose it for contested tile placement: connecting kingdoms can start a war.</td></tr>
+      </tbody></table></div>
+    </section>
+
+    <footer class="foot" id="evidence"><a href="https://boardgamegeek.com/geeklist/386835/pax-unplugged-2026-first-look-showcase">Official First Look list</a></footer>
+  </main>
+  <dialog id="photo-viewer" aria-labelledby="photo-title" aria-describedby="photo-credit">
+    <div class="viewer-bar"><strong id="photo-title">Table photo</strong><form method="dialog"><button autofocus>Close</button></form></div>
+    <img id="photo-full" alt="">
+    <p id="photo-credit"><a id="photo-source">Original on BGG</a></p>
+  </dialog>
+  <script>
+    const mapImage = document.getElementById('expo-map-image');
+    const mapLink = document.getElementById('full-size-map');
+    const mapSvg = atob(mapImage.src.split(',')[1]);
+    mapLink.href = URL.createObjectURL(new Blob([Uint8Array.from(mapSvg, c => c.charCodeAt(0))], {type:'image/svg+xml'}));
+    mapLink.target = '_blank';
+    mapLink.rel = 'noopener';
+    const dossiers = [...document.querySelectorAll('#shortlist .dossier')];
+    const viewer = document.getElementById('photo-viewer');
+    if (typeof viewer.showModal === 'function') {
+      const full = document.getElementById('photo-full');
+      const source = document.getElementById('photo-source');
+      document.querySelectorAll('.table-photo').forEach(figure => {
+        const link = figure.querySelector('a');
+        const image = link.querySelector('img');
+        const game = figure.dataset.game || figure.closest('.game').querySelector('h3').textContent;
+        const zoom = document.createElement('button');
+        zoom.type = 'button';
+        zoom.className = 'photo-zoom';
+        zoom.setAttribute('aria-label', `Enlarge photo: ${image.alt}`);
+        zoom.setAttribute('aria-haspopup', 'dialog');
+        zoom.append(image);
+        link.replaceWith(zoom);
+        zoom.addEventListener('click', () => {
+          full.src = image.currentSrc || image.src;
+          full.alt = image.alt;
+          document.getElementById('photo-title').textContent = game;
+          source.href = link.href;
+          source.textContent = figure.querySelector('figcaption').textContent;
+          viewer.showModal();
+        });
+      });
+      viewer.addEventListener('click', event => {
+        if (event.target !== viewer) return;
+        const r = viewer.getBoundingClientRect();
+        if (event.clientX < r.left || event.clientX > r.right || event.clientY < r.top || event.clientY > r.bottom) viewer.close();
+      });
+    }
+    let beforePrint;
+    window.addEventListener('beforeprint', () => {
+      beforePrint = dossiers.map(dossier => dossier.open);
+      dossiers.forEach(dossier => { dossier.open = true; });
+    });
+    window.addEventListener('afterprint', () => {
+      if (beforePrint) dossiers.forEach((dossier, index) => { dossier.open = beforePrint[index]; });
+      beforePrint = null;
+    });
+    document.querySelectorAll('img[src]').forEach(image => {
+      function showImageFailure() {
+        if (image.hidden) return;
+        image.hidden = true;
+        const note = document.createElement('span');
+        note.className = 'image-failure';
+        note.textContent = `${image.alt} unavailable; the guide remains readable.`;
+        image.after(note);
+      }
+      image.addEventListener('error', showImageFailure, { once: true });
+      if (image.complete && image.naturalWidth === 0) showImageFailure();
+    });
+  </script>
+</body>
+</html>
