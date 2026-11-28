@@ -36,3 +36,6 @@ To see draft posts, instead:
 ```bash
 bundle exec jekyll serve --drafts
 ```
+
+The theme selector defaults to the system preference. Choosing Light or Dark
+saves that preference in the browser; choosing System follows system changes.

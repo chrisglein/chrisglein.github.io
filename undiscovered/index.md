@@ -40,7 +40,7 @@ Read the rules
 </a>
 
 # Pitch Video
-<iframe class="embeddedVideo" src="https://www.youtube.com/watch?v=J_gW5UxZWno&feature=youtu.be" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embeddedVideo" src="https://www.youtube.com/embed/J_gW5UxZWno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Links
 - [Rulebook](rules.html)
