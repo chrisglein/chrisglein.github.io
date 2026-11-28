@@ -45,12 +45,15 @@
     .card:focus-visible { outline: 3px solid var(--accent); outline-offset: 5px; }
     .identity { display: flex; align-items: center; gap: 14px; margin-bottom: 30px; }
     .gamerpic { width: 52px; height: 52px; flex: 0 0 52px; border: 1px solid #ffffff25; border-radius: 50%; object-fit: cover; }
+    .avatar { position: relative; display: grid; place-items: center; overflow: hidden; background: #29332e; }
+    .avatar-placeholder { width: 70%; height: 70%; fill: #a1b3a5; }
+    .avatar img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0; }
+    .avatar img.picture-loaded { opacity: 1; }
+    .avatar:has(.picture-loaded) .avatar-placeholder { visibility: hidden; }
     h2 { min-width: 0; margin: 0; font-size: clamp(20px, 2.4vw, 25px); letter-spacing: -.6px; overflow-wrap: anywhere; }
     dl { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 12px; margin: 0; }
     dt { color: var(--muted); font-size: 11px; }
     dd { margin: 4px 0 0; font-size: 25px; font-weight: 650; letter-spacing: -.6px; font-variant-numeric: tabular-nums; }
-    .open { display: flex; justify-content: space-between; align-items: center; margin: 26px 0 0; padding-top: 18px; border-top: 1px solid #ffffff16; color: var(--accent); font-size: 13px; font-weight: 600; }
-    .arrow { font-size: 22px; font-weight: 400; line-height: 1; }
     @media (max-width: 700px) {
       main { padding: 40px 20px; }
       .profiles { grid-template-columns: 1fr; gap: 16px; }
@@ -80,7 +83,7 @@
       <p class="intro">Choose a gamertag to explore.</p>
     </header>
     <nav class="profiles" aria-label="Gamertag histories">
-      <a class="card" href="./papasnewbag/" aria-labelledby="papasnewbag-name">
+      <a class="card mint" href="./papasnewbag/" aria-labelledby="papasnewbag-name">
         <div class="identity">
           <img class="gamerpic" src="https://images-eds-ssl.xboxlive.com/image?url=7OTVnZUMVj4OV2zUUGecWvn3U00nQQLfK7_kwpANoggwxO0QcbTFtddxxXZQ6HHyjq5wwXPTTxpjNWv4PDZfWkdaknT9JO85m7eWqLYq0093S0rhRlxzqA7vgGskvahZJflJSSH49pLkRxTfHOEsnSlk_mkh6iXBjGM5Gxvm7TQ-&amp;format=png" width="52" height="52" alt="" decoding="async" onerror="console.warn('Gamer picture could not load; omitted.'); this.remove()">
           <h2 id="papasnewbag-name">papasnewbag</h2>
@@ -88,9 +91,8 @@
         <dl>
           <div><dt>Titles</dt><dd>677</dd></div>
           <div><dt>Hours</dt><dd>5,633</dd></div>
-          <div><dt>Xbox Gamerscore</dt><dd>150,852</dd></div>
+          <div><dt>Gamerscore</dt><dd>150,852</dd></div>
         </dl>
-        <p class="open">View Xbox + Steam history <span class="arrow" aria-hidden="true">&rarr;</span></p>
       </a>
       <a class="card mint" href="./cheetahpuppygrl/" aria-labelledby="cheetahpuppygrl-name">
         <div class="identity">
@@ -102,19 +104,20 @@
           <div><dt>Hours</dt><dd>1,263</dd></div>
           <div><dt>Gamerscore</dt><dd>14,770</dd></div>
         </dl>
-        <p class="open">View history <span class="arrow" aria-hidden="true">&rarr;</span></p>
       </a>
       <a class="card mint" href="./hazeleyes335/" aria-labelledby="hazeleyes335-name">
         <div class="identity">
-          <h2 id="hazeleyes335-name">Jess / Hazeleyes335</h2>
+          <span class="gamerpic avatar" aria-hidden="true">
+            <svg class="avatar-placeholder" viewBox="0 0 48 48" focusable="false"><circle cx="24" cy="16" r="9"/><path d="M6 44v-4a18 18 0 0 1 36 0v4z"/></svg>
+            <img src="https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcS9jr0n8i7LY1tL3U7AiafZmopEpeTHHoKHYrgh6xtp5P709eHb8HNGx1aMPYLH1g&amp;format=png" width="52" height="52" alt="" decoding="async" onload="this.classList.add('picture-loaded')" onerror="this.classList.remove('picture-loaded'); this.hidden=true">
+          </span>
+          <h2 id="hazeleyes335-name">Hazeleyes335</h2>
         </div>
         <dl>
           <div><dt>Titles</dt><dd>146</dd></div>
-          <div><dt>Recorded hours</dt><dd>1,547</dd></div>
-          <div><dt>Profile Gamerscore</dt><dd>16,515</dd></div>
+          <div><dt>Hours</dt><dd>1,547</dd></div>
+          <div><dt>Gamerscore</dt><dd>16,515</dd></div>
         </dl>
-        <p class="intro">Saved Xbox snapshot; two titles have achievement-data gaps.</p>
-        <p class="open">View history <span class="arrow" aria-hidden="true">&rarr;</span></p>
       </a>
     </nav>
   </main>
